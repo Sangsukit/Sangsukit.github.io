@@ -2603,6 +2603,118 @@ footer li a,footer p a,.foot-links a{display:inline-block;padding-block:10px}
 @media (min-width:115em) and (hover:hover) and (pointer:fine){:root{--fsb:125%}}
 @media (prefers-reduced-motion:reduce){article.card,.cmte{transition:none}}
 </style>
+<!--COMPACT-->
+<style id="compact-layer">
+.cx-tog{display:none}
+@media (max-width:47.99em){
+  .cx-tog{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;min-height:52px;margin:10px 0 2px;padding:10px 16px;
+    border:1.5px solid var(--line,#e4d9c7);border-radius:16px;background:var(--paper,#fff);color:var(--acc,#6e1a16);
+    font:inherit;font-size:1.02rem;font-weight:700;line-height:1.35;text-align:center;cursor:pointer;-webkit-tap-highlight-color:transparent}
+  .cx-tog .cx-ch{flex:none;width:1.15em;height:1.15em;transition:transform .35s var(--spring,cubic-bezier(.34,1.4,.64,1))}
+  .cx-tog[aria-expanded="true"] .cx-ch{transform:rotate(180deg)}
+  .cx-tog:active{transform:scale(.97)}
+  .cx-tog.cx-small{min-height:48px;font-size:.98rem;margin:6px 0 0}
+  .cx-hide:not(.cx-open){display:none!important}
+  .cx-open.cx-in{animation:cx-in .32s var(--ease-out,cubic-bezier(.16,1,.3,1)) both}
+  .cx-open.cx-out{animation:cx-out .18s var(--ease-in,cubic-bezier(.5,0,.75,0)) both}
+  .card.slim-past .sum{-webkit-line-clamp:3}
+  .upnext li>.cx-tog,.share>.cx-tog{grid-column:1/-1;flex-basis:100%}
+  .card .media .vid{width:62%;max-width:250px;margin:12px auto 0;border-radius:14px;overflow:hidden}
+  footer .cx-tog{background:transparent;color:inherit;border-color:currentColor;opacity:.92}
+}
+@media (prefers-color-scheme:light){
+  :root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li){
+    background-color:rgba(255,255,255,.14);
+    background-image:linear-gradient(155deg,rgba(255,255,255,.46) 0%,rgba(255,255,255,.12) 30%,rgba(255,255,255,0) 55%,rgba(255,255,255,.08) 80%,rgba(255,255,255,.22) 100%);
+    border-color:rgba(255,255,255,.95) rgba(255,255,255,.45) rgba(122,70,40,.24) rgba(255,255,255,.8);
+    box-shadow:inset 0 0 0 3px rgba(255,255,255,.07),inset 0 0 14px rgba(255,255,255,.38),0 1px 2px rgba(60,20,10,.06),0 14px 30px -20px rgba(60,20,10,.3)}
+  :root:not([data-theme="dark"]) .cmte .sbox{background-color:rgba(255,255,255,.16);
+    background-image:linear-gradient(160deg,rgba(255,255,255,.42) 0%,rgba(255,255,255,.08) 42%,rgba(255,255,255,.16) 100%);
+    border-color:rgba(255,255,255,.95) rgba(255,255,255,.4) rgba(122,70,40,.22) rgba(255,255,255,.75);box-shadow:inset 0 0 12px rgba(255,255,255,.32)}
+  :root:not([data-theme="dark"]) .cmte .c-chair{background-color:rgba(255,255,255,.16);background-image:linear-gradient(160deg,rgba(255,255,255,.38),rgba(255,255,255,.05) 60%);
+    box-shadow:inset 0 1.5px 0 rgba(255,255,255,.95),inset 1.5px 0 0 rgba(255,255,255,.6),inset 0 -1.5px 0 rgba(122,70,40,.18)}
+  :root:not([data-theme="dark"]) .cmte .fact{background-color:rgba(232,214,170,.28);background-image:linear-gradient(160deg,rgba(255,255,255,.38),rgba(255,255,255,.04) 60%);
+    box-shadow:inset 0 1.5px 0 rgba(255,255,255,.95),inset 1.5px 0 0 rgba(255,255,255,.6),inset 0 -1.5px 0 rgba(122,70,40,.2)}
+}
+@media (prefers-reduced-transparency:reduce),(prefers-contrast:more){
+  :root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li,.cmte .sbox,.cmte .c-chair){background:var(--paper)}
+  :root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li,.cmte .sbox){border-color:var(--line)}
+  :root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li,.cmte .sbox,.cmte .c-chair,.cmte .fact){box-shadow:none}
+  :root:not([data-theme="dark"]) .cmte .fact{background:var(--gold-soft)}}
+@media (prefers-contrast:more){:root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li,.cmte .sbox){border-color:var(--ink)}}
+.hero-photo figcaption{background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.55) 32%,rgba(0,0,0,.82));text-shadow:0 1px 2px rgba(0,0,0,.55)}
+.play{background:linear-gradient(to top,rgba(0,0,0,.8),rgba(0,0,0,.38) 32%,transparent 58%)}
+.play .pl{text-shadow:0 1px 3px rgba(0,0,0,.65)}
+@keyframes cx-in{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+@keyframes cx-out{from{opacity:1;transform:none}to{opacity:0;transform:translateY(-6px)}}
+@media (prefers-reduced-motion:reduce){.cx-open.cx-in,.cx-open.cx-out{animation:none}.cx-tog .cx-ch{transition:none}}
+@media print{.cx-tog{display:none!important}.cx-hide{display:revert!important}}
+</style>
+<script id="compact-js">
+(function(){
+  var N=0, CH='<svg class="cx-ch" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>';
+  var RM=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function fold(anchor, els, show, hide, small, where){
+    els=els.filter(function(e){return e&&!e.classList.contains("cx-hide")});
+    if(!anchor||!els.length)return;
+    var id=[];els.forEach(function(e){if(!e.id)e.id="cx-"+(++N);id.push(e.id);e.classList.add("cx-hide")});
+    var b=document.createElement("button");b.type="button";b.className="cx-tog"+(small?" cx-small":"");
+    b.setAttribute("aria-expanded","false");b.setAttribute("aria-controls",id.join(" "));
+    b.innerHTML='<span class="cx-t">'+show+'</span>'+CH;
+    b.addEventListener("click",function(){
+      var open=b.getAttribute("aria-expanded")!=="true";
+      b.setAttribute("aria-expanded",open?"true":"false");b.querySelector(".cx-t").textContent=open?hide:show;
+      els.forEach(function(e){
+        e.classList.remove("cx-in","cx-out");
+        if(open){e.classList.add("cx-open");if(!RM)e.classList.add("cx-in")}
+        else if(RM){e.classList.remove("cx-open")}
+        else{e.classList.add("cx-out");setTimeout(function(){if(b.getAttribute("aria-expanded")!=="true")e.classList.remove("cx-open","cx-out")},190)}
+      });
+    });
+    if(where==="before")anchor.parentNode.insertBefore(b,anchor);else anchor.parentNode.insertBefore(b,anchor.nextSibling);
+  }
+  function kids(el){return el?Array.prototype.slice.call(el.children):[]}
+  function apply(){
+    // next-meeting card(s): agenda list, calendar buttons, extra share channels
+    document.querySelectorAll("article.card.st-up:not([data-cx])").forEach(function(c){
+      c.setAttribute("data-cx","1");
+      var b=c.querySelector(".body");if(!b)return;
+      var items=b.querySelector("ul.items");
+      if(items){var ag=[items];var n=items.nextElementSibling;while(n&&(n.matches("span.eyebrow,.tags"))){ag.push(n);n=n.nextElementSibling}
+        fold(items,ag,"ดูวาระการประชุม","ซ่อนวาระการประชุม",false,"before")}
+      var cal=b.querySelector(".ez-cal");if(cal)fold(cal,[cal],"เพิ่มลงปฏิทินของท่าน","ซ่อนปุ่มปฏิทิน",false,"before");
+      var sh=b.querySelector(".share");
+      if(sh){var keep=0,extra=kids(sh).filter(function(x){
+          if(x.classList.contains("share-l")||x.classList.contains("line"))return false;
+          if(x.tagName==="BUTTON"&&!keep){keep=1;return false}return x.matches("a,button")});
+        if(extra.length>1)fold(extra[extra.length-1],extra,"ช่องทางส่งต่ออื่น","ซ่อนช่องทางอื่น",true,"after")}
+    });
+    // "upcoming" panel on the archive pages: address + map of each item
+    document.querySelectorAll("#upnext ol>li:not([data-cx])").forEach(function(li){
+      li.setAttribute("data-cx","1");var w=li.querySelector(".where");if(w)fold(w,[w],"ดูสถานที่และแผนที่","ซ่อนสถานที่",true,"before")});
+    document.querySelectorAll("#upnext>.ez-cal:not([data-cx])").forEach(function(cal){cal.setAttribute("data-cx","1");
+      fold(cal,[cal],"เพิ่มลงปฏิทินของท่าน","ซ่อนปุ่มปฏิทิน",false,"before")});
+    // home page: subcommittee boxes of each committee
+    document.querySelectorAll(".cmte .subsec:not([data-cx])").forEach(function(s){
+      s.setAttribute("data-cx","1");var g=[s.querySelector(".sgrid"),s.querySelector(".sold")].filter(Boolean);
+      if(g.length)fold(g[0],g,"ดูคณะอนุกรรมาธิการ","ซ่อนคณะอนุกรรมาธิการ",false,"before")});
+    // footer: keep the first sentence of each block, fold the rest
+    document.querySelectorAll("footer .wrap>div:not(.footer-credit):not(.f-credit):not([data-cx]),footer .wrap>ul:not([data-cx])").forEach(function(d){
+      d.setAttribute("data-cx","1");
+      var parts=d.tagName==="UL"?kids(d):kids(d).filter(function(x){return x.tagName!=="H4"});
+      if(parts.length===1&&parts[0].tagName==="UL")parts=kids(parts[0]);
+      var rest=parts.slice(1);if(rest.length)fold(d.tagName==="UL"?d:rest[rest.length-1],rest,"อ่านข้อความทั้งหมด","ย่อข้อความ",true,"after")});
+  }
+  // a link or a search that lands inside a folded part opens it
+  function reveal(el){while(el&&el!==document.body){if(el.classList&&el.classList.contains("cx-hide")&&!el.classList.contains("cx-open")){
+      var t=document.querySelector('.cx-tog[aria-controls~="'+el.id+'"]');if(t)t.click()}el=el.parentElement}}
+  window.addEventListener("hashchange",function(){try{reveal(document.querySelector(location.hash))}catch(e){}});
+  document.addEventListener("beforematch",function(e){reveal(e.target)},true);
+  var q=0;function later(){if(q)return;q=requestAnimationFrame(function(){q=0;apply()})}
+  apply();
+  try{new MutationObserver(later).observe(document.body,{childList:true,subtree:true})}catch(e){}
+})();
+</script>
 <!-- I18N LAYER (Thai/English switch). Added by archive/i18n/i18n.py after the page is built. Thai stays the default and
      the authoritative text; English comes from i18n-en.json (translation cache), loaded only when a reader picks English. -->
 <style>
