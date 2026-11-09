@@ -159,6 +159,27 @@ footer a{color:#F1DFB4}
 @media (max-width:520px){.facts{grid-template-columns:1fr}.cmte{padding:16px}.ybtn{width:100%}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
+<!--SKEL-->
+<style id="skel-layer">
+.sk-wrap{display:grid;gap:16px;opacity:0;animation:sk-in .3s ease .35s forwards}
+.sk-card{background:var(--paper,#fff);border:1px solid var(--line,#e4d9c7);border-radius:18px;padding:18px;display:grid;gap:12px;
+  box-shadow:0 1px 2px rgba(60,20,10,.05),0 10px 26px -18px rgba(60,20,10,.18)}
+.sk-b{display:block;height:1.05em;border-radius:10px;background:var(--ink,#22170f);opacity:.08;animation:sk-pulse 1.3s ease-in-out .35s infinite alternate}
+.sk-b.h{height:2.2em;border-radius:12px}
+.sk-b.t{height:1.5em;width:82%}
+.sk-b.s{width:58%}
+.sk-b.bt{height:3.1em;border-radius:16px;width:100%;margin-top:4px}
+.sk-row{display:flex;gap:12px;align-items:center}
+.sk-row .sk-b.av{flex:none;width:3.2em;height:3.2em;border-radius:50%}
+.sk-row .sk-b{flex:1}
+.sk-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+@keyframes sk-in{to{opacity:1}}
+@keyframes sk-pulse{from{opacity:.06}to{opacity:.13}}
+@media (prefers-reduced-motion:reduce){.sk-wrap{animation:none;opacity:1}.sk-b{animation:none}}
+@media print{.sk-wrap{display:none}}
+img[loading="lazy"][src$=".jpg"],img[loading="lazy"][src*=".jpg?"],img.bgp{background-color:rgba(127,112,100,.16)}
+</style>
+<noscript><style>.sk-wrap{display:none}</style></noscript>
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -200,7 +221,7 @@ footer a{color:#F1DFB4}
 
  <section class="sec" aria-labelledby="h-list">
   <h2 id="h-list"><svg class="ico" aria-hidden="true"><use href="#i-cols"/></svg>คณะกรรมาธิการ</h2>
-  <div class="list" id="list"></div>
+  <div class="list" id="list"><div class="sk-wrap" aria-hidden="true"><div class="sk-card"><span class="sk-b h"></span><span class="sk-b t"></span><div class="sk-row"><span class="sk-b av"></span><span class="sk-b s"></span></div><span class="sk-b"></span><span class="sk-b"></span><span class="sk-b s"></span><span class="sk-b bt"></span></div><div class="sk-card"><span class="sk-b h"></span><span class="sk-b t"></span><div class="sk-row"><span class="sk-b av"></span><span class="sk-b s"></span></div><span class="sk-b"></span><span class="sk-b"></span><span class="sk-b s"></span><span class="sk-b bt"></span></div><div class="sk-card"><span class="sk-b h"></span><span class="sk-b t"></span><div class="sk-row"><span class="sk-b av"></span><span class="sk-b s"></span></div><span class="sk-b"></span><span class="sk-b"></span><span class="sk-b s"></span><span class="sk-b bt"></span></div></div><span class="sk-sr">กำลังโหลดรายชื่อคณะกรรมาธิการ</span></div>
  </section>
 
  <div class="keep">
