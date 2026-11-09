@@ -115,7 +115,30 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=PexstTkchGswp4AhhMU"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v28.mp4",
+    "poster": "img/poster28.jpg",
+    "vtt": "media/v28.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:35",
+    "ck": "28",
+    "size": 6586849
+   },
+   "videos": [
+    {
+     "src": "media/v28.mp4",
+     "poster": "img/poster28.jpg",
+     "vtt": "media/v28.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:35",
+     "ck": "28",
+     "size": 6586849
+    }
+   ]
+  },
   "chair": "นายสมบูรณ์ หนูนวล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ติดตามด่านสิงขร จ.ประจวบคีรีขันธ์ ในมิติความมั่นคง และเตรียมพบผู้บัญชาการทหารสูงสุด",
@@ -186,7 +209,30 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qiVg5gX1rChPEV8Jha4"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v27.mp4",
+    "poster": "img/poster27.jpg",
+    "vtt": "media/v27.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:57",
+    "ck": "27",
+    "size": 7294632
+   },
+   "videos": [
+    {
+     "src": "media/v27.mp4",
+     "poster": "img/poster27.jpg",
+     "vtt": "media/v27.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:57",
+     "ck": "27",
+     "size": 7294632
+    }
+   ]
+  },
   "chair": "นายสมบูรณ์ หนูนวล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "รายงานผลการดำเนินงานปี 2569 ข้อเสนอฟื้นฟูชายแดนใต้ และการจัดหาเรือฟริเกตของกองทัพเรือ",
@@ -262,7 +308,30 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Tx8jzx0ookf72_LZwRs"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v26.mp4",
+    "poster": "img/poster26.jpg",
+    "vtt": "media/v26.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:36",
+    "ck": "26",
+    "size": 6555223
+   },
+   "videos": [
+    {
+     "src": "media/v26.mp4",
+     "poster": "img/poster26.jpg",
+     "vtt": "media/v26.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:36",
+     "ck": "26",
+     "size": 6555223
+    }
+   ]
+  },
   "chair": "นายสมบูรณ์ หนูนวล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "เริ่มปีงบประมาณ 2570: ฟื้นฟูเยียวยาผู้ได้รับผลกระทบชายแดนใต้ รายงานของคณะอนุกรรมาธิการ และผลการดูงาน 3 แห่ง",
