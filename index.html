@@ -477,5 +477,64 @@ dialog::backdrop{background:rgba(24,10,8,.5);-webkit-backdrop-filter:blur(8px) s
 @media print{html::before{display:none}
   .qbtn,.hublink,.btn,.chip,.card,.panel{box-shadow:none!important;background-image:none!important}}
 </style>
+<!--SLIM-->
+<style id="slim-css">
+.hero .yearnav{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 4px}
+.hero .yearnav .hublink{margin:0;min-height:48px;padding:8px 14px}
+#quick .qbtn .qt{display:none}
+#quick .qbtn{min-height:56px;padding-top:8px;padding-bottom:8px}
+.slim-help{display:grid;grid-template-columns:1fr;gap:8px;margin:12px 0}
+.slim-help>a>span{min-width:0;overflow-wrap:break-word}
+.slim-help>a{min-width:0;margin:0!important;min-height:52px;box-sizing:border-box;padding-top:8px!important;padding-bottom:8px!important}
+.slim-help>a small{display:none}
+.slim-help>a>svg:last-child{display:none}
+.notice details>summary{cursor:pointer;list-style:none;min-height:44px}
+.notice details>summary::-webkit-details-marker{display:none}
+.notice details>summary .slim-more{display:inline-block;margin-left:6px;text-decoration:underline;font-weight:600;white-space:nowrap}
+.notice details[open]>summary .slim-more{display:none}
+article.card.slim-past ul.items,
+article.card.slim-past .body>span.eyebrow,
+article.card.slim-past .tags,
+article.card.slim-past .actions a.btn:not(.read){display:none}
+article.card.slim-past .share a.btn:not(.line),
+article.card.slim-past .share button.btn:not(.slim-keep){display:none}
+article.card.slim-past .actions a.read{flex:1 1 100%}
+.c-head>*,.cmte :not(svg){min-width:0}
+.c-head h3,.cmte .next{overflow-wrap:break-word}
+.c-chair b{white-space:nowrap}
+.cmte .next .nb{white-space:normal}
+@media (max-width:359px){.c-head span.nb{white-space:normal}}
+.cmte svg{flex-shrink:0}
+</style>
+<script id="slim-js">
+(function(){
+  function hero(){
+    var h=document.querySelector('.hero'); if(!h||h.dataset.slim) return; h.dataset.slim='1';
+    var a=h.querySelector('a.ez-help'), b=h.querySelector('a.dg-help');
+    if(a&&b){var w=document.createElement('div');w.className='slim-help';a.parentNode.insertBefore(w,a);w.appendChild(a);w.appendChild(b);}
+    var n=h.querySelector('.notice > div');
+    if(n&&!n.querySelector('details')){
+      var first=n.querySelector('b'); if(first){
+        var d=document.createElement('details'), s=document.createElement('summary'), rest=document.createElement('div');
+        s.appendChild(first); var m=document.createElement('span'); m.className='slim-more'; m.textContent='อ่านต่อ'; s.appendChild(m);
+        while(n.firstChild) rest.appendChild(n.firstChild);
+        d.appendChild(s); d.appendChild(rest); n.appendChild(d);
+      }
+    }
+  }
+  function cards(root){
+    (root||document).querySelectorAll('article.card').forEach(function(c){
+      if(c.classList.contains('slim-past')) return;
+      if(c.querySelector('.st-rib:not(.past)')) return;
+      c.classList.add('slim-past');
+      c.querySelectorAll('.share button.btn').forEach(function(x){ if(/คัดลอก/.test(x.textContent)) x.classList.add('slim-keep'); });
+    });
+  }
+  function run(){ hero(); cards(); }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',run); else run();
+  window.addEventListener('load',run);
+  var q=0;try{ new MutationObserver(function(){ if(q)return; q=requestAnimationFrame(function(){q=0;cards();}); }).observe(document.body,{childList:true,subtree:true}); }catch(e){}
+})();
+</script>
 </body>
 </html>
