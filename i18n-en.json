@@ -858,6 +858,8 @@
 "ข้อเสนอโครงการ “ชุมชนสร้างชีวิต” (Klong Toey Lively Community) จัดสรรพื้นที่การท่าเรือฯ ร้อยละ {0} รองรับชุมชน (จาก สว.พบประชาชน กลุ่มภาคกลางตอนล่าง)": "Proposal for the \"Klong Toey Lively Community\" project: allocate {0}% of the Port Authority's land for the community (from a Senators-meet-the-people event, lower central region)",
 "ข้อเสนอโครงการ “ชุมชนสร้างชีวิต” (Klong Toey Lively Community) จัดสรรพื้นที่การท่าเรือฯ ร้อยละ {0} รองรับชุมช…": "Proposal for the \"Klong Toey Lively Community\" project: allocate {0}% of the Port Authority's land for the community (from a…",
 "ข้อเสนอให้ยกระดับจุดผ่อนปรนการค้าบ้านแพง จังหวัดนครพนม": "Proposal to upgrade the Ban Phaeng relaxed trade point, Nakhon Phanom",
+"ข้ามไปที่รายการการประชุม": "Skip to the meetings",
+"ข้ามไปที่รายชื่อคณะกรรมาธิการ": "Skip to the committees",
 "คณะกรรมาธิการ": "Committee",
 "คณะกรรมาธิการ วุฒิสภา": "Senate committees",
 "คณะกรรมาธิการกับคณะอนุกรรมาธิการ": "The committee and its subcommittees",
@@ -3787,6 +3789,7 @@
 "ไทม์ไลน์คณะอนุกรรมาธิการการบริหารราชการแผ่นดินด้านการจัดการภัยพิบัติระดับชาติ (คณะเดิม)": "Timeline of the Subcommittee on State Administration in National Disaster Management (former subcommittee)",
 "ไทม์ไลน์คณะอนุกรรมาธิการการพัฒนาระบบบริหารราชการแผ่นดิน และบุคลากรภาครัฐ": "Timeline of the Subcommittee on the Development of the State Administration System and Public Sector Personnel",
 "ไทม์ไลน์คณะอนุกรรมาธิการการพัฒนาระบบบริหารราชการแผ่นดิน และบุคลากรภาครัฐ (คณะเดิม)": "Timeline of the Subcommittee on the Development of the State Administration System and Public Sector Personnel (former subcommittee)",
+"ไปที่ช่องค้นหาการประชุม": "Go to the meeting search box",
 "ไปที่วันนี้": "Go to today",
 "ไปยังรายการการประชุม": "Go to the list of meetings",
 "ไฟฟ้า": "Electricity",
@@ -3803,6 +3806,5 @@
 "“วสท.” ชง แก้กฎหมายสถานบริการ-คุมวัสดุลามไฟ ป้องกันไฟไหม้ซ้ำ": "EIT proposes amending the Service Establishments Act and controlling flammable materials to prevent repeat fires",
 "“วสท.” ชง แก้กฎหมายสถานบริการ-คุมวัสดุลามไฟ ป้องกันไฟไหม้ซ้ำ (Thai PBS, {0} กรกฎาคม {1}) เปิดเว็บไซต์สำนักข่าวในหน้าใหม่": "EIT proposes amending the Service Establishments Act and controlling flammable materials to prevent repeat fires (Thai PBS, {0} July {1|ce}) opens the news website in a new page",
 "“หาดใหญ่” เร่งขุดลอกคูระบายน้ำ เตรียมพร้อมรับมือน้ำท่วม": "Hat Yai speeds up dredging of drainage ditches to prepare for floods",
-"“หาดใหญ่” เร่งขุดลอกคูระบายน้ำ เตรียมพร้อมรับมือน้ำท่วม (Thai PBS, {0} พฤษภาคม {1}) เปิดเว็บไซต์สำนักข่าวในหน้าใหม่": "Hat Yai speeds up dredging of drainage ditches to prepare for floods (Thai PBS, {0} May {1|ce}) opens the news website in a new page",
-"ไปที่ช่องค้นหาการประชุม":"Go to the meeting search box"
+"“หาดใหญ่” เร่งขุดลอกคูระบายน้ำ เตรียมพร้อมรับมือน้ำท่วม (Thai PBS, {0} พฤษภาคม {1}) เปิดเว็บไซต์สำนักข่าวในหน้าใหม่": "Hat Yai speeds up dredging of drainage ditches to prepare for floods (Thai PBS, {0} May {1|ce}) opens the news website in a new page"
 }
