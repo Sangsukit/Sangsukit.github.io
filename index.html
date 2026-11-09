@@ -371,5 +371,111 @@ render();
 })();
 </script>
 
+<!--GLASS-->
+<style id="glass-layer">
+:root{
+  --lg-fill:rgba(255,255,255,.58); --lg-fill-hi:rgba(255,255,255,.86); --lg-bar:rgba(250,246,239,.72);
+  --lg-lens:radial-gradient(130% 110% at 0% 0%,rgba(255,255,255,.75) 0%,rgba(255,255,255,0) 46%),radial-gradient(90% 80% at 100% 100%,rgba(255,255,255,.45) 0%,rgba(255,255,255,0) 40%);
+  --lg-sheen:linear-gradient(180deg,rgba(255,255,255,.75) 0%,rgba(255,255,255,.18) 48%,rgba(255,255,255,0) 100%);
+  --lg-rim:inset 0 1.5px 0 rgba(255,255,255,1),inset 0 -1px 0 rgba(255,255,255,.7),inset 0 0 0 1px rgba(255,255,255,.4),inset 0 -8px 16px -10px rgba(255,255,255,.9);
+  --lg-edge:rgba(110,26,22,.16);
+  --lg-shadow:0 1px 2px rgba(60,20,10,.08),0 8px 22px -6px rgba(60,20,10,.16);
+  --lg-shadow-lift:0 2px 4px rgba(60,20,10,.1),0 14px 30px -8px rgba(60,20,10,.22);
+  --lg-blur:blur(20px) saturate(180%);
+  --lg-prom-sheen:linear-gradient(180deg,rgba(255,255,255,.22) 0%,rgba(255,255,255,.06) 50%,rgba(0,0,0,.06) 100%);
+  --lg-prom-rim:inset 0 1px 0 rgba(255,255,255,.35),inset 0 -1px 0 rgba(0,0,0,.18);
+  --lg-bloom-a:rgba(201,165,90,.26); --lg-bloom-b:rgba(110,26,22,.08); --lg-bloom-c:rgba(45,42,74,.06);
+  --lg-ease:cubic-bezier(.2,.8,.2,1); --lg-hair:rgba(255,255,255,.9);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --lg-fill:rgba(42,31,28,.62); --lg-fill-hi:rgba(48,36,32,.84); --lg-bar:rgba(26,19,17,.76);
+  --lg-lens:radial-gradient(130% 110% at 0% 0%,rgba(255,255,255,.10) 0%,rgba(255,255,255,0) 46%),radial-gradient(90% 80% at 100% 100%,rgba(255,255,255,.05) 0%,rgba(255,255,255,0) 40%);
+  --lg-sheen:linear-gradient(180deg,rgba(255,255,255,.10) 0%,rgba(255,255,255,.03) 50%,rgba(255,255,255,0) 100%);
+  --lg-rim:inset 0 1px 0 rgba(255,255,255,.16),inset 0 -1px 0 rgba(255,255,255,.05),inset 0 0 0 1px rgba(255,255,255,.06);
+  --lg-edge:rgba(233,201,135,.22);
+  --lg-shadow:0 1px 2px rgba(0,0,0,.4),0 8px 22px -6px rgba(0,0,0,.5);
+  --lg-shadow-lift:0 2px 4px rgba(0,0,0,.45),0 14px 30px -8px rgba(0,0,0,.6);
+  --lg-bloom-a:rgba(201,165,90,.10); --lg-bloom-b:rgba(165,25,49,.08); --lg-bloom-c:rgba(90,86,140,.07); --lg-hair:rgba(255,255,255,.07)}}
+:root[data-theme="dark"]{
+  --lg-fill:rgba(42,31,28,.62); --lg-fill-hi:rgba(48,36,32,.84); --lg-bar:rgba(26,19,17,.76);
+  --lg-lens:radial-gradient(130% 110% at 0% 0%,rgba(255,255,255,.10) 0%,rgba(255,255,255,0) 46%),radial-gradient(90% 80% at 100% 100%,rgba(255,255,255,.05) 0%,rgba(255,255,255,0) 40%);
+  --lg-sheen:linear-gradient(180deg,rgba(255,255,255,.10) 0%,rgba(255,255,255,.03) 50%,rgba(255,255,255,0) 100%);
+  --lg-rim:inset 0 1px 0 rgba(255,255,255,.16),inset 0 -1px 0 rgba(255,255,255,.05),inset 0 0 0 1px rgba(255,255,255,.06);
+  --lg-edge:rgba(233,201,135,.22);
+  --lg-shadow:0 1px 2px rgba(0,0,0,.4),0 8px 22px -6px rgba(0,0,0,.5);
+  --lg-shadow-lift:0 2px 4px rgba(0,0,0,.45),0 14px 30px -8px rgba(0,0,0,.6);
+  --lg-bloom-a:rgba(201,165,90,.10); --lg-bloom-b:rgba(165,25,49,.08); --lg-bloom-c:rgba(90,86,140,.07); --lg-hair:rgba(255,255,255,.07)}
+html::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background:radial-gradient(70vmax 46vmax at 100% 0%,var(--lg-bloom-a),transparent 70%),
+    radial-gradient(60vmax 44vmax at 0% 55%,var(--lg-bloom-b),transparent 70%),
+    radial-gradient(64vmax 44vmax at 100% 100%,var(--lg-bloom-c),transparent 70%)}
+.top{background-image:linear-gradient(180deg,rgba(255,255,255,.13) 0%,rgba(255,255,255,0) 55%),linear-gradient(100deg,var(--maroon-deep) 0%,var(--maroon) 58%,#7E2B1F 100%)}
+.top .mark,.top .brand img{box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 0 0 1.5px rgba(233,201,135,.55),0 4px 12px rgba(0,0,0,.28)}
+html .top .fs button,html .top .lang button{background:rgba(255,255,255,.16);background-image:linear-gradient(180deg,rgba(255,255,255,.26),rgba(255,255,255,.04));
+  color:#FFFFFF;border:1.5px solid rgba(255,255,255,.55);box-shadow:inset 0 1px 0 rgba(255,255,255,.4),0 2px 8px rgba(0,0,0,.18);border-radius:14px}
+html .top .fs button[aria-pressed="true"],html .top .lang button[aria-pressed="true"]{background:#F1DFB4;background-image:linear-gradient(180deg,rgba(255,255,255,.6),rgba(255,255,255,0) 60%);
+  color:#2A1608;border-color:#FFF4D6;box-shadow:inset 0 1px 0 #fff,0 0 0 2px rgba(241,223,180,.35),0 3px 10px rgba(0,0,0,.25)}
+.qbtn,.hublink,.steps li,.ybtn:not(.main),.sbtn,.mapbtn,.share,.st-jump a.past,.ctl-hide,.ctl-mini,.search{
+  background-color:var(--lg-fill);background-image:var(--lg-lens),var(--lg-sheen);
+  -webkit-backdrop-filter:var(--lg-blur);backdrop-filter:var(--lg-blur);
+  border-color:var(--lg-edge);box-shadow:var(--lg-rim),var(--lg-shadow)}
+.qbtn{border-radius:24px;padding:14px 16px}
+.qbtn .qi{border-radius:14px;background-image:var(--lg-prom-sheen);box-shadow:var(--lg-prom-rim),0 3px 8px -2px rgba(74,14,11,.35)}
+.qbtn:hover,.hublink:hover,.sbtn:hover,.mapbtn:hover,.ybtn:not(.main):hover,.share:hover{box-shadow:var(--lg-rim),var(--lg-shadow-lift);border-color:var(--teal,var(--acc))}
+.steps li{border-radius:18px}
+.steps .num,.c-badge{background-image:var(--lg-prom-sheen);box-shadow:var(--lg-prom-rim)}
+.ybtn,.sbtn,.mapbtn,.share{border-radius:18px}
+.search{border-radius:999px}
+.st-jump a.past{background-color:var(--st-past-s)}
+.btn:not(.primary),.chip:not([aria-pressed="true"]),.tag,.iconbtn,.dlrow .act.web{
+  background-color:var(--lg-fill-hi);background-image:var(--lg-sheen);border-color:var(--lg-edge);box-shadow:var(--lg-rim),0 1px 3px rgba(60,20,10,.08)}
+.btn{border-radius:14px}
+.iconbtn{border-radius:999px}
+.btn.primary,.chip[aria-pressed="true"],.cm-a,.ybtn.main,.st-jump a.up,.dlrow .act:not(.web),.qbtn .qi,.mo[aria-pressed="true"]{
+  background-image:var(--lg-prom-sheen);box-shadow:var(--lg-prom-rim),0 4px 12px -4px rgba(74,14,11,.4)}
+@media (min-width:601px){
+  .controls{background:var(--lg-bar);-webkit-backdrop-filter:var(--lg-blur);backdrop-filter:var(--lg-blur);
+    border-bottom:1px solid var(--lg-edge);box-shadow:inset 0 -1px 0 var(--lg-hair),0 10px 24px -18px rgba(60,20,10,.35)}}
+.totop{background-color:var(--lg-fill-hi);background-image:var(--lg-lens),var(--lg-sheen);-webkit-backdrop-filter:var(--lg-blur);backdrop-filter:var(--lg-blur);
+  border:1px solid var(--lg-edge);box-shadow:var(--lg-rim),var(--lg-shadow-lift)}
+.whereami{background:rgba(74,14,11,.84);-webkit-backdrop-filter:var(--lg-blur);backdrop-filter:var(--lg-blur);
+  border:1.5px solid rgba(201,165,90,.85);box-shadow:inset 0 1px 0 rgba(255,255,255,.28),0 8px 22px rgba(40,10,5,.3)}
+.toast{background:rgba(34,23,15,.86);color:#FFF8EC;-webkit-backdrop-filter:var(--lg-blur);backdrop-filter:var(--lg-blur);box-shadow:inset 0 1px 0 rgba(255,255,255,.2),0 8px 22px rgba(0,0,0,.25)}
+dialog::backdrop{background:rgba(24,10,8,.5);-webkit-backdrop-filter:blur(8px) saturate(140%);backdrop-filter:blur(8px) saturate(140%)}
+.sheet{border-radius:24px;box-shadow:0 24px 60px rgba(20,6,4,.35)}
+@media (max-width:700px){.sheet{border-radius:0}}
+.sheet-head{background-color:var(--lg-bar);background-image:var(--lg-sheen);box-shadow:inset 0 -1px 0 var(--lg-hair)}
+.ez-pop{-webkit-backdrop-filter:var(--lg-blur);backdrop-filter:var(--lg-blur);background-color:var(--lg-fill-hi);background-image:var(--lg-sheen);border-radius:24px;box-shadow:var(--lg-rim),var(--lg-shadow-lift)}
+.rbtn{-webkit-backdrop-filter:blur(14px) saturate(160%);backdrop-filter:blur(14px) saturate(160%);box-shadow:inset 0 1px 0 rgba(255,255,255,.35),inset 0 0 0 1px rgba(255,255,255,.18)}
+.reels-top .ttl{-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);box-shadow:inset 0 1px 0 rgba(255,255,255,.25)}
+.card{border-radius:20px;box-shadow:inset 0 1px 0 var(--lg-hair),0 1px 2px rgba(60,20,10,.05),0 10px 26px -14px rgba(60,20,10,.2)}
+.panel,.upnext,.cmte{border-radius:20px;box-shadow:inset 0 1px 0 var(--lg-hair),0 1px 2px rgba(60,20,10,.05),0 10px 26px -16px rgba(60,20,10,.18)}
+.sbox{border-radius:18px}
+.dlrow,.newsrow,.doc{border-radius:16px}
+.stats{border-radius:18px}
+.qbtn,.hublink,.btn,.chip,.tag,.iconbtn,.ybtn,.sbtn,.mapbtn,.share,.st-jump a,.ctl-hide,.ctl-mini,.dlrow,.newsrow,.doc,.fs button,.lang button,.totop{
+  transition:transform .18s var(--lg-ease),box-shadow .2s ease,background-color .2s ease,border-color .2s ease}
+.qbtn:active,.hublink:active,.btn:active,.chip:active,.tag:active,.iconbtn:active,.ybtn:active,.sbtn:active,.mapbtn:active,.share:active,
+.st-jump a:active,.ctl-hide:active,.ctl-mini:active,.dlrow:active,.newsrow:active,.doc:active,.fs button:active,.lang button:active{transform:scale(.97)}
+@media (prefers-reduced-motion:reduce){
+  .qbtn,.hublink,.btn,.chip,.tag,.iconbtn,.ybtn,.sbtn,.mapbtn,.share,.st-jump a,.ctl-hide,.ctl-mini,.dlrow,.newsrow,.doc,.fs button,.lang button{transition:none}
+  .qbtn:active,.hublink:active,.btn:active,.chip:active,.tag:active,.iconbtn:active,.ybtn:active,.sbtn:active,.mapbtn:active,.share:active,
+  .st-jump a:active,.ctl-hide:active,.ctl-mini:active,.dlrow:active,.newsrow:active,.doc:active,.fs button:active,.lang button:active{transform:none}}
+@media (prefers-reduced-transparency:reduce){
+  :root{--lg-fill:var(--paper);--lg-fill-hi:var(--paper);--lg-bar:var(--paper)}
+  *,*::backdrop{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+  html::before{display:none}
+  .whereami{background:var(--maroon-deep)} .toast{background:var(--ink);color:var(--paper)}}
+@media (prefers-contrast:more){
+  :root{--lg-fill:var(--paper);--lg-fill-hi:var(--paper);--lg-bar:var(--paper);--lg-edge:var(--ink)}
+  *,*::backdrop{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+  html::before{display:none}
+  .qbtn,.hublink,.steps li,.ybtn,.sbtn,.mapbtn,.share,.btn,.chip,.tag,.iconbtn,.search,.totop{border:2px solid var(--ink)}}
+@supports not ((-webkit-backdrop-filter:blur(1px)) or (backdrop-filter:blur(1px))){
+  :root{--lg-fill:var(--paper);--lg-fill-hi:var(--paper);--lg-bar:var(--paper)}}
+@media (forced-colors:active){html::before{display:none}}
+@media print{html::before{display:none}
+  .qbtn,.hublink,.btn,.chip,.card,.panel{box-shadow:none!important;background-image:none!important}}
+</style>
 </body>
 </html>
