@@ -19,7 +19,7 @@
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="img/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-<title>คลังการประชุม คณะอนุกรรมาธิการร่างพระราชบัญญัติยุทธศาสตร์ลำไย 2569</title>
+<title>คณะอนุกรรมาธิการร่างพระราชบัญญัติยุทธศาสตร์ลำไย วุฒิสภา · คลังการประชุม 2569</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="สรุปการประชุมคณะอนุกรรมาธิการพิจารณาศึกษาร่างพระราชบัญญัติยุทธศาสตร์ลำไย พ.ศ. .... ในคณะกรรมาธิการการเกษตรและสหกรณ์ วุฒิสภา ปี 2569 พร้อมลิงก์เอกสารทางการ (เว็บไซต์ไม่เป็นทางการ)">
 <script>try{var f=localStorage.getItem("arch-fs");if(f)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
@@ -1264,7 +1264,7 @@ function renderOverview(){
  ].map(([v,l])=>`<div class="stat"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
  $("#era").innerHTML=`<div class="era-seg b" style="grid-column:1/-1"><img src="${P.wirat_t.img}" alt="นายวิรัตน์ ธรรมบำรุง" loading="lazy"><div><b>นายวิรัตน์ ธรรมบำรุง</b><span>ประธานคณะอนุกรรมาธิการ · ยุติการพิจารณาแล้ว</span></div></div>`;
  const byN=[...live].sort((a,b)=>a.n-b.n);
- $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
+ $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];if(lastM)$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
  if(UPDATED)$("#updated").textContent=isoTh(UPDATED,null,1);
  $("#ticks").innerHTML=byN.map(m=>{const v=!!(m.chair_role&&m.chair_role.includes("รองประธาน"));return `<button class="tick ${m.upcoming?"u":v?"v":era(m)==="b"?"b":""}" type="button" data-go="${id(m)}" title="ครั้งที่ ${m.n}/2569 · ${thaiDate(m,1)}" aria-label="ครั้งที่ ${m.n} ${thaiDate(m,1)}"><span>${m.n}</span></button>`}).join("");
  const cnt={};live.forEach(m=>(m.tags||[]).forEach(t=>cnt[t]=(cnt[t]||0)+1));
@@ -1317,7 +1317,7 @@ function render(){
  const filtered=!!(S.q||S.tag||S.era||S.mo>=0);
  const endRow=!list.length?"":filtered?`<div class="feed-end"><b>สิ้นสุดผลการค้นหา</b><button class="btn" type="button" data-top>${icon("up")}กลับขึ้นบนสุด</button></div>`
   :`<div class="feed-end full"><span class="fl" aria-hidden="true"></span><b>ถึงการประชุมครั้งแรกของปี 2569 แล้ว</b><span>ท่านดูครบทั้ง ${list.length} รายการ</span><button class="btn" type="button" data-top>${icon("up")}กลับขึ้นบนสุด</button></div>`;
- $("#feed").innerHTML=list.length?list.map(card).join("")+endRow:`<div class="empty">ไม่พบการประชุมที่ตรงกับคำค้น ลองคำอื่น เช่น ชื่อจังหวัด หรือ "ร้องเรียน"</div>`;
+ $("#feed").innerHTML=list.length?list.map(card).join("")+endRow:(DATA.length?`<div class="empty">ไม่พบการประชุมที่ตรงกับคำค้น ลองคำอื่น เช่น ชื่อจังหวัด หรือ "ร้องเรียน"</div>`:`<div class="empty"><p>ยังไม่มีการประชุมของคณะนี้ที่วุฒิสภาเผยแพร่ในปีนี้</p><a class="hublink" href="../2568/sub-longan.html" style="margin-top:12px"><svg class="ico" aria-hidden="true"><use href="#i-right"/></svg>ดูการประชุมปี 2568</a></div>`);
  const parts=[];if(S.q)parts.push(`คำค้น “${S.q}”`);if(S.tag)parts.push(`#${S.tag}`);if(S.era)parts.push(S.era==="a"?"ช่วง นายธวัช สุระบาล":"ช่วง นายสุนทร เชาว์กิจค้า");if(S.mo>=0)parts.push(MON[S.mo]);
  $("#resultline").innerHTML=parts.length?`<span>พบ <b>${list.length}</b> รายการ · ${esc(parts.join(" · "))}</span><button class="clear" type="button" id="clear-f">${icon("close")}ล้างการค้นหา</button>`:`<span>ทั้งหมด ${DATA.length} รายการ เรียงจากครั้งล่าสุด</span>`;
  $("#ctl-sum").textContent=parts.length?`พบ ${list.length} รายการ · ${parts.join(" · ")}`:`ทั้งหมด ${DATA.length} รายการ`;$("#ctl-show").classList.toggle("has-f",!!parts.length);
@@ -2675,8 +2675,8 @@ function doEl(el){for(const a of ATTRS){if(!el.hasAttribute(a))continue;const v=
  if(t!=null){const o=origA.get(el)||{};o[a]=v;origA.set(el,o);el.setAttribute(a,t)}}
  if(el.tagName==="A")doShare(el)}
 function unwrap(root){ // glossary words (button.gl) split sentences; in English the sentence is translated whole
- if(root.matches&&root.matches("button.gl,mark,span.nw")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
- const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw"):[];if(!g.length)return root;const ps=new Set();
+ if(root.matches&&root.matches("button.gl,mark,span.nw,wbr")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
+ const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw,wbr"):[];if(!g.length)return root;const ps=new Set();
  g.forEach(b=>{ps.add(b.parentNode);b.replaceWith(document.createTextNode(b.textContent))});ps.forEach(p=>p&&p.normalize());return root}
 function walk(root){if(root.nodeType===3){if(root.parentNode&&!SKIP[root.parentNode.nodeName])doText(root);return}
  if(root.nodeType!==1)return;root=unwrap(root);if(!root||!root.isConnected&&root!==document.body)return;

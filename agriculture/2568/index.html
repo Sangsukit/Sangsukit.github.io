@@ -923,7 +923,7 @@ img[loading="lazy"][src$=".jpg"],img[loading="lazy"][src*=".jpg?"],img.bgp{backg
  <div class="wrap">
   <a class="brand" href="#feed" aria-label="ไปยังรายการการประชุม">
    <img class="logo" src="img/logo-tile.svg" width="44" height="44" alt="">
-   <span><b>คณะกรรมาธิการ<wbr><span style="white-space:nowrap">การเกษตรและสหกรณ์</span></b><small>วุฒิสภา · คลังการประชุมปี 2568</small></span>
+   <span><b>คณะกรรมาธิการ<wbr><span class="nw" style="white-space:nowrap">การเกษตรและสหกรณ์</span></b><small>วุฒิสภา · คลังการประชุมปี 2568</small></span>
   </a>
   
   <div class="fs" role="group" aria-label="ปรับขนาดตัวอักษร"><span>ขนาดตัวอักษร</span><button type="button" data-fs="1" aria-pressed="true" aria-label="ตัวอักษรขนาดปกติ">ก</button><button type="button" data-fs="2" aria-pressed="false" aria-label="ตัวอักษรใหญ่">ก</button><button type="button" data-fs="3" aria-pressed="false" aria-label="ตัวอักษรใหญ่มาก">ก</button></div>
@@ -1255,7 +1255,7 @@ function renderOverview(){
  ].map(([v,l])=>`<div class="stat"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
  $("#era").innerHTML=`<div class="era-seg a" style="grid-column:1/-1"><img src="${P.thawat.img}" alt="นายธวัช สุระบาล" loading="lazy"><div><b>นายธวัช สุระบาล</b><span>ประธานคณะกรรมาธิการตลอดปี 2568</span></div></div>`;
  const byN=[...live].sort((a,b)=>a.n-b.n);
- $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
+ $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];if(lastM)$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
  if(UPDATED)$("#updated").textContent=isoTh(UPDATED,null,1);
  $("#ticks").innerHTML=byN.map(m=>{const v=!!(m.chair_role&&m.chair_role.includes("รองประธาน"));return `<button class="tick ${m.upcoming?"u":v?"v":era(m)==="b"?"b":""}" type="button" data-go="${id(m)}" title="ครั้งที่ ${m.n}/2568 · ${thaiDate(m,1)}" aria-label="ครั้งที่ ${m.n} ${thaiDate(m,1)}"><span>${m.n}</span></button>`}).join("");
  const cnt={};live.forEach(m=>(m.tags||[]).forEach(t=>cnt[t]=(cnt[t]||0)+1));
@@ -2143,6 +2143,7 @@ html[data-fs="3"] .dg-track li::before{display:none}
 .dg-help>.ico:first-child{flex:none;width:30px;height:30px;color:var(--gold)}
 .dg-help>.ico:last-child{margin-left:auto;color:var(--gold)}
 .dg-help small{display:block;font-weight:400;color:var(--muted);font-size:.95rem}
+.sheet-body>.dg-help{align-self:start}
 .dg-help:hover{border-color:var(--teal)}
 .dg-jump{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr))}
 .dg-jump .btn{justify-content:flex-start;min-height:54px;text-align:left}
@@ -2791,8 +2792,8 @@ function doEl(el){for(const a of ATTRS){if(!el.hasAttribute(a))continue;const v=
  if(t!=null){const o=origA.get(el)||{};o[a]=v;origA.set(el,o);el.setAttribute(a,t)}}
  if(el.tagName==="A")doShare(el)}
 function unwrap(root){ // glossary words (button.gl) split sentences; in English the sentence is translated whole
- if(root.matches&&root.matches("button.gl,mark,span.nw")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
- const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw"):[];if(!g.length)return root;const ps=new Set();
+ if(root.matches&&root.matches("button.gl,mark,span.nw,wbr")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
+ const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw,wbr"):[];if(!g.length)return root;const ps=new Set();
  g.forEach(b=>{ps.add(b.parentNode);b.replaceWith(document.createTextNode(b.textContent))});ps.forEach(p=>p&&p.normalize());return root}
 function walk(root){if(root.nodeType===3){if(root.parentNode&&!SKIP[root.parentNode.nodeName])doText(root);return}
  if(root.nodeType!==1)return;root=unwrap(root);if(!root||!root.isConnected&&root!==document.body)return;

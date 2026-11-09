@@ -130,8 +130,8 @@ function doEl(el){for(const a of ATTRS){if(!el.hasAttribute(a))continue;const v=
  if(t!=null){const o=origA.get(el)||{};o[a]=v;origA.set(el,o);el.setAttribute(a,t)}}
  if(el.tagName==="A")doShare(el)}
 function unwrap(root){ // glossary words (button.gl) split sentences; in English the sentence is translated whole
- if(root.matches&&root.matches("button.gl,mark,span.nw")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
- const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw"):[];if(!g.length)return root;const ps=new Set();
+ if(root.matches&&root.matches("button.gl,mark,span.nw,wbr")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
+ const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw,wbr"):[];if(!g.length)return root;const ps=new Set();
  g.forEach(b=>{ps.add(b.parentNode);b.replaceWith(document.createTextNode(b.textContent))});ps.forEach(p=>p&&p.normalize());return root}
 function walk(root){if(root.nodeType===3){if(root.parentNode&&!SKIP[root.parentNode.nodeName])doText(root);return}
  if(root.nodeType!==1)return;root=unwrap(root);if(!root||!root.isConnected&&root!==document.body)return;
