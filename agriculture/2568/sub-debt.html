@@ -18,7 +18,7 @@
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="img/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-<title>คลังการประชุม คณะอนุกรรมาธิการการบริหารจัดการหนี้สินครัวเรือนเกษตรกรไทย 2568</title>
+<title>คณะอนุกรรมาธิการการบริหารจัดการหนี้สินครัวเรือนเกษตรกรไทย วุฒิสภา · คลังการประชุม 2568</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="สรุปการประชุมคณะอนุกรรมาธิการการบริหารจัดการหนี้สินครัวเรือนเกษตรกรไทย ในคณะกรรมาธิการการเกษตรและสหกรณ์ วุฒิสภา ปี 2568 พร้อมลิงก์เอกสารทางการ (เว็บไซต์ไม่เป็นทางการ)">
 <script>try{var f=localStorage.getItem("arch-fs");if(f)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
@@ -1255,7 +1255,7 @@ function renderOverview(){
  ].map(([v,l])=>`<div class="stat"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
  $("#era").innerHTML=`<div class="era-seg b" style="grid-column:1/-1"><img src="${P.techasit.img}" alt="นายเตชสิทธิ์ ชูแก้ว" loading="lazy"><div><b>นายเตชสิทธิ์ ชูแก้ว</b><span>ประธานคณะอนุกรรมาธิการ ตามทำเนียบปัจจุบันของวุฒิสภา</span></div></div>`;
  const byN=[...live].sort((a,b)=>a.n-b.n);
- $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
+ $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];if(lastM)$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
  if(UPDATED)$("#updated").textContent=isoTh(UPDATED,null,1);
  $("#ticks").innerHTML=byN.map(m=>{const v=!!(m.chair_role&&m.chair_role.includes("รองประธาน"));return `<button class="tick ${m.upcoming?"u":v?"v":era(m)==="b"?"b":""}" type="button" data-go="${id(m)}" title="ครั้งที่ ${m.n}/2568 · ${thaiDate(m,1)}" aria-label="ครั้งที่ ${m.n} ${thaiDate(m,1)}"><span>${m.n}</span></button>`}).join("");
  const cnt={};live.forEach(m=>(m.tags||[]).forEach(t=>cnt[t]=(cnt[t]||0)+1));
@@ -2666,8 +2666,8 @@ function doEl(el){for(const a of ATTRS){if(!el.hasAttribute(a))continue;const v=
  if(t!=null){const o=origA.get(el)||{};o[a]=v;origA.set(el,o);el.setAttribute(a,t)}}
  if(el.tagName==="A")doShare(el)}
 function unwrap(root){ // glossary words (button.gl) split sentences; in English the sentence is translated whole
- if(root.matches&&root.matches("button.gl,mark,span.nw")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
- const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw"):[];if(!g.length)return root;const ps=new Set();
+ if(root.matches&&root.matches("button.gl,mark,span.nw,wbr")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
+ const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw,wbr"):[];if(!g.length)return root;const ps=new Set();
  g.forEach(b=>{ps.add(b.parentNode);b.replaceWith(document.createTextNode(b.textContent))});ps.forEach(p=>p&&p.normalize());return root}
 function walk(root){if(root.nodeType===3){if(root.parentNode&&!SKIP[root.parentNode.nodeName])doText(root);return}
  if(root.nodeType!==1)return;root=unwrap(root);if(!root||!root.isConnected&&root!==document.body)return;
