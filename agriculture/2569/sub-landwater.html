@@ -2749,7 +2749,7 @@ function sync(){document.querySelectorAll(".lang button").forEach(b=>b.setAttrib
 function load(){if(dict)return Promise.resolve(dict);return fetch(DICT_URL,{cache:"no-cache"}).then(r=>r.ok?r.json():{}).catch(()=>({})).then(d=>dict=d)}
 function set(l,save){if(save){try{localStorage.setItem(KEY,l)}catch(e){}}
  if(l==="en"){lang="en";return load().then(()=>{apply();document.documentElement.classList.remove("i18n-wait")})}
- if(lang==="en"){try{const u=new URL(location.href);u.searchParams.delete("lang");location.replace(u.href)}catch(e){location.reload()}return}
+ if(lang==="en"){try{const u=new URL(location.href);u.searchParams.delete("lang");if(u.href===location.href)location.reload();else location.replace(u.href)}catch(e){location.reload()}return}
  lang="th";document.documentElement.classList.remove("i18n-wait");sync()}
 window.__i18n_set=set;
 // the switch: next to every "ขนาดตัวอักษร" control (header, entry screen), or at the top when a page has none
@@ -2762,6 +2762,7 @@ function note(){const d=document.createElement("div");d.className="i18n-note";d.
 function init(){const fs=document.querySelectorAll(".fs");if(fs.length)fs.forEach(f=>f.after(sw()));else document.body.prepend(sw());
  const h=document.querySelector("header");if(h)h.after(note());else document.body.prepend(note());
  const g=document.querySelector(".gate .lang");if(g)g.after(note());
+ try{const u=new URL(location.href),q=u.searchParams.get("lang");if(q==="en"||q==="th"){localStorage.setItem(KEY,q);u.searchParams.delete("lang");history.replaceState(history.state,"",u.href)}}catch(e){}
  let l="th";try{l=new URLSearchParams(location.search).get("lang")||localStorage.getItem(KEY)||"th"}catch(e){}
  if(l==="en")set("en",false);else{document.documentElement.classList.remove("i18n-wait");sync()}}
 // read-aloud and share in English
@@ -2770,6 +2771,9 @@ if(window.speechSynthesis){const sp=speechSynthesis.speak.bind(speechSynthesis);
 if(navigator.share){const ns=navigator.share.bind(navigator);navigator.share=o=>{if(lang==="en"&&o){o=Object.assign({},o);if(o.title)o.title=tr(o.title)??o.title;if(o.text)o.text=tr(o.text)??o.text;if(o.url)o.url=addLang(o.url)}return ns(o)}}
 if(navigator.clipboard&&navigator.clipboard.writeText){const cw=navigator.clipboard.writeText.bind(navigator.clipboard);navigator.clipboard.writeText=s=>{if(lang==="en"&&typeof s==="string"){s=(tr(s)??s).replace(/https?:\/\/\S+/g,u=>addLang(u))}return cw(s)}}
 try{const l=new URLSearchParams(location.search).get("lang")||localStorage.getItem(KEY);if(l==="en"){document.documentElement.classList.add("i18n-wait");setTimeout(()=>document.documentElement.classList.remove("i18n-wait"),3500)}}catch(e){}
+// back/forward: a page kept in memory follows the language chosen last (on another page)
+addEventListener("pageshow",e=>{if(!e.persisted)return;let s="th";try{s=localStorage.getItem(KEY)||"th"}catch(x){}
+ if(s==="en"&&lang!=="en")set("en",false);else if(s!=="en"&&lang==="en")location.reload()});
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
 })();
 </script>
