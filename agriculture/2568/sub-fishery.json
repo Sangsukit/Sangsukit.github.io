@@ -1,0 +1,82 @@
+[
+ {
+  "n": 2,
+  "date": "2025-01-15",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 328 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=HMI5PvpgvAB5frBqK6-lIaIZnkvh4Tp7zduc_XuExtFm5gpyfFfi6cVSa20b6qWlNA2iNMfAl7rYY66eGAqIEAuwHkVf4BbUxJ-P98sDeZZe17tIw6vYOdgfha0NqmuEafUSTr8t-83OIKQwrelHEMqW2aV04sBDkUM=&ref=6866000",
+    "size": 4208110
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=B8-28wl2CvwHF872VIJvCczXgcwn-qDRXRr8wENWN8_w4s3vWEoiRB5E4EAgcjtaVtQ3D2rHO6huw8Gfr39KFUqq2_jxXB-3swaIAN-5ipnX94JNTSV-MEZgH9U_hE0OXZGnsDjXGeQjJydJzQhkJiMv7pyRNnYhUz0=&ref=6866111",
+    "size": 117853
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Y-IG8jrEF3HoHa8KTJA2UaJRo-0xWFJx5-ySHGZKOR2bkhEc2TPjtvLACj2ol5WK0DzqF_qDfQqi93Y9gl5IBxUTB7uowArhgFYLrGKbXW2f7oHnTn7sIMkOEsTmf4Ip9eriZ7R11kUzKPXnM0XaNPOOxlyx6wGQ6tA=&ref=6866369",
+    "size": 117853
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Z62kAYJCpgWNX_QOSyw"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2568",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2025-01-08",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Aw3zCHrWwOWrLKIXOeN2MDM7yUH6UtPIUBqXeAyWH63Q3GEKTscmxhhPRbN55AaEJHv55VEmoSU1SQI7JI_XGFyM1qLdXNyeKr4vPP8XEvXV-ku3zOTqpZkcicN3uH_d-4bwVkImGo76WcB77vuLkd_k2lwhuJ6ltpI=&ref=6865998"
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iwwPjMfif9DuMRsFDoxCcfEoTlmuoYLYGueQEZB3iZxRFJIF5mPimIGoeq32psjHjOkUQicheUXSF6VbUsmU1VdI7TLbUi50_sL_aSr2gVyxoSV-vphqp6Zq6UpmR33K_CVRXDbUCENn5E9xT0uSvHuFRRsvxb8o32M=&ref=7580194",
+    "size": 123228
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6TfrsL8Xx7ZF3XA0quHvpsWCxq8XpNmkglcEP_g8gsRHLqQUV-r6L6hcU4_dBZx-Rz-MIYl3QngoJcENG6HbsPfpQDC_BMh4dANlbfUMx1bbqURcMcoJMI8aT7ogeX3DbqpIx71FmeYjGq8z-jqbopX2-BOkIk_CUHY=&ref=7580199"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=htD19JPD9n-5Hfdgdwg"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2568",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2025-01-07",
+  "cancelled": true,
+  "docs": [],
+  "time": "",
+  "room": ""
+ }
+]
