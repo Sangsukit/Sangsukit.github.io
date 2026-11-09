@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//military-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:military-2569-m30@sangsukit.github.io
+DTSTAMP:20261109T174748Z
+DTSTART:20261112T020000Z
+DTEND:20261112T050000Z
+SUMMARY:ประชุม กมธ.การทหารและคว
+ ามมั่นคงของรัฐ วุฒิสภา คร
+ ั้งที่ 30/2569
+LOCATION:
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://sangsukit.github.io/military/2569/#rea
+ d-30
+URL:https://sangsukit.github.io/military/2569/#read-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุม กมธ.การทหารและ
+ ความมั่นคงของรัฐ วุฒิสภา 
+ ครั้งที่ 30/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

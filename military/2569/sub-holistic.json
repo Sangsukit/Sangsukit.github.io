@@ -1,0 +1,628 @@
+[
+ {
+  "n": 20,
+  "date": "2026-11-11",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9XxRiX2qyFI6UaEArcM29R21CuRh76Uz4X5tdzpTG5VZsX0k5aMoLZnbqwZhY4IUpPwBXVOIQQDZimJ6wmm-BIdBKn71Wkpk6DonMWL0gXSOpdkq64aqu6y0V1MhE0L_IYVZMkqY5VRJ28C_klWVHqznWbdkt_-bJVuvyQ==&ref=11127112",
+    "size": 214991
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JC5heR_iRv65PAZ5X4w"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 20/2569",
+  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้จากหนังสือนัดประชุมในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": false,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
+  "n": 19,
+  "date": "2026-11-04",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Bm8ZFpmjg8yU2tfjN05TFgl1Yh8N-4ArnbmAIOKz-8pW00EFNNfLArNJvxbz8L-PpzUESjwru76vAm5IJoZ_NeXQGme76xEuUYR2RJqxvsp17LyBJvW1dl8eoCl3q9giwkLQfQW63aca-EzaME1HgyU3HMvKqotmB6WnKQ==&ref=11078668",
+    "size": 223675
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0kd64W4JzqHEt0Z9H5U"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 19/2569",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 18,
+  "date": "2026-10-21",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZiXKJqLHBPb8DvcsEajLSKBh8ovBCJEUhg_ngn1JzSrnEZv6x5r8H8BoYfP-oVXhS9iAfuDyuX_XiTjGE1gfNjWpaCkQxuGaGoRPLKBuHKpMHSXUX9GjX-Or0ZPDLtDZOZeIgD1vZ7B3ylMB2b9IMPjJ7FQJI6ZFHCkH_A==&ref=10993908",
+    "size": 196502
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AMFGzxLDjCT7qs4gRGA"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 18/2569",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 17,
+  "date": "2026-10-07",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=r0Dxxq-fpKCIzS78hrJqs71k8L3QzOctImWVI7knK2JB6KLm2QPEbV66ufugD6UgyyhKY_gjtPU2nhTKZrWVvoWdUri9l98uUIi3gQ2JOSb95UpQ-_U9Y3Px0A5j0Zps9eqk6UryeGdzf0iegZKd3bPLqxey6OrpcXO4jg==&ref=10922817",
+    "size": 231990
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8wYaA58QrAHjatRBB0Y"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 17/2569",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 16,
+  "date": "2026-09-23",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tuyQBWfwmk4DiManKq5FzyCagAffKgYuFEFl0UEvJO3Eov662cV_jp1aqhJFzCJbI2pbeuLqixrFRn27nA60ZY-3iGM6BhyvCa26OcuBKhdnWYHwHb0gP1C34YV9tgMF6G6XM7xzvJya5Mz2rAKRlhBIOgd2754BAPtr5g==&ref=10852669",
+    "size": 141428
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mj8tTznBLJa5liNElPXxc4arA9Zw5sVRLLQeYpTYn2kaRM3o1O55aF72Tfc_dhF7cIeO7Ta1DnDde5FnCIJFBooNI4rCeJQ_GOjIxPfTn40ZzvyjvKpvfyjJuVZRW_83TosbCE1fNUW3-h4s1Ox05Q85mNI68IK44qoZPA==&ref=10953762",
+    "size": 6390013
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TIvFOU98R8NZhMuDSOY"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 16/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 15,
+  "date": "2026-09-09",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=V2eTG87PskLVfBhDrSMhgNSBsvfBsAI1gk7LcADOoF-mAu4wqW8b8MhMk2ofYhMguzKpMtbB8XRCCpWmadt8Nq6_yDg_j-r7JrBKiBT_oVQH87hTY0r80tKwQvYIskM1seYalPm5SE33R-JOH7OE8gkwAT2FwvKbCO_tBQ==&ref=10756904",
+    "size": 179245
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=i17p6obFQcUe1GsdzB1zOXwVODfec2zBE3H9lML3aIVXZutLcp53UqTHRlnPBmxFIt2ywBV8aB8LXyR1Fm-wC-jxaII8prkWv4s4V1yytaRaJc7PX6uUJqbHDnjTgFntj0WErPmxp3G-j0BvDnuwgvOId8GdqJ_NvnsEGA==&ref=10953761",
+    "size": 11829791
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=66ow4_wOKlHBwVVvekw"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 15/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 14,
+  "date": "2026-08-19",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6Rlk5HIp9cEetWSqJEso_sRhby7JktCA-9YJhpeX6Dm2mGzcS8uSJYIzEyPrsTk3xKJThumjEO1gAAAw4zOG-peZj2f3VCyu2S970Ng17af5UCw34b_uFhmJzrLhg_Gu7GtTTclPlmoiCm7A3b2v5YMmzhUElApdzq_Aew==&ref=10602282",
+    "size": 217313
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gPvzPtIfZjhOjezR1RTh_gPGwo-oj_GRe95wrrBh-ccFsRbJknCxczKqR8lizt95oAvebPzS42MKGxvfEJ0sFpnRpsPKhJ7YkrKoyxSA6qiSdirKvyKPm87GTnyrszbBuU0Cj496TwuDQgved2rOEHVSXzD_gfToVnHGbg==&ref=10953759",
+    "size": 1124481
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=aNMCYo4mIxnzQEyooC0"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 14/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 13,
+  "date": "2026-08-05",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2nIoFQj137keVO35n8SWGZuIBagqKPCnswQ9fvSV7_PlorAJ2IpTqt8jzQbuGRzgRH1_sL9-sZDUnm7q0STGMfcOwhsysWu3LGzoW7cYh9ZRfFIumau9m-6Aq_aJpBXpYtqPqekHbOw6dIqyCfbtRqYh91rLnBdxlUHT6w==&ref=10533464",
+    "size": 200448
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZS81_jRwQ0lbpSn-8rUN_FVV4DeSHV_-W1wh65WWlkwvQlG_6QrYvZWR_iMZpRTA9EkACq5L3TnHiwZ8GEjm-Frc22V9xHHkOJD-4vqzxeB_-e8Y6fKyAX-YzZPcXkOFO6dI-9Tqomn9oawfzUAyH9QlauLxNMo41c6C7Q==&ref=10638490",
+    "size": 921986
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lAVogA5j8tYmkMNKDeY"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 13/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 12,
+  "date": "2026-07-20",
+  "time": "08.00",
+  "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=V1HeasPYLOu2HXnW1tveghIP2GY5NYenEt7d-fQyXS0uL4bFSAaFjARPDwPOx-PTqeT0aASqvPyhZZv--tn1pad0EjXlYn9qx5KXrCRB8H_Q-GavM5jUdy3QeLB-PrW-2YhNrloOTZzBmtsbWh_oorEL-aJnJZPtMHRfxw==&ref=10430662",
+    "size": 157062
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=e7YKN2Ch94M2Z-Td8mCQ5M4jC-ELBJpRN3THka5MHfPzsQGrhE-O82LFCsQae1SW2-BTiTv5HamUMZwl-wm_n3t5mJxccyqCNuHkRVtg8IGZ8lpKTmjImjVyPrlsWzJadcbLLcSwz4HNioiQcw8a0e6VexTgei3wKCvrXw==&ref=10638440",
+    "size": 2492243
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8UHUdggGGBTRpojBvkM"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 12/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 11,
+  "date": "2026-07-08",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OHg26lfHq5z5a4eMy00uyXRpYL9dln9bEJ_fpiGoRPXcFi6qzu5OqNVQwtCR0r8YhFPbFHesoIiGgApGljs-8DwckwvDLpTUKJK2eyj5nptrxlmxeiPHFmi7pP0tdIHdd8pwNs5O-4uuLH6ac5pyY1hnlPAqPcLuLuU2hg==&ref=10372088",
+    "size": 179040
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CXtVtr913yYfWlePGx263pnqlSNerfqIEFhPqAMMyLgZvk2oy2FhC4RF-8QjeMoNQ3KEJAgFU3pmQFSDZ6nGLrAyuvgJ4QhzOWKWxoXzVG64U0IDBlv2S9u1Zaa-W1YJ9RruBlv-gH6bCPOFrdO-CVzwG9NON_aqAyPROA==&ref=10421411",
+    "size": 2034681
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=pp7ydhSRc15uB4rjMXI"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 11/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 10,
+  "date": "2026-07-01",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WDl-cdLFEnBxUsJ8j3Jf4JRGxbZn_Ib5egyPvH879rqAfdJIjQRWji6iKnf7q7SHAH53DzvU3ibUKtYe6M0tobgbrL1AjLkBRKeDn0cg1kRSOHourbsAbqKaq593mKdc46nm-P363Op9Eups4t7NbTGV581ofB7hlWa3Tg==&ref=10315063",
+    "size": 167568
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8NK6abYDr1hsAuVVTdxyxFDWrPHgy_gcJCjo17EMvwt2Vcdnp4ZC1xLntMp6yS16Og99wW-g3e7pXxn5nHNf7keC1qn_hMxqSCjyaMQtqwN2xJrYsUWmlIZAJwZ6qBHBdIUEvE9ehMuHTls1OpXa6IJC11qhJ5fSB0OggA==&ref=10344068",
+    "size": 3966421
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=_U472CLZJcSESeVr1l4"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 10/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 9,
+  "date": "2026-06-16",
+  "time": "09.30",
+  "room": "ห้องประชุม 201 ชั้น 2 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dsqf6eQMfXTO4eOP2euaq9nqJJdWWxSMwJB2yh2JJ-i9deZm-G-XvTQbWLHvqixbBBGHmyCa5-r7S9vvz8Ql4plOi8Ms9Q7C26GAnvWROBRAVrsvU4v1HC1NYLn7sbCfvv58gzwuxrANETHJS3eqGyCmY96dCaZ8FDpqkA==&ref=10232606",
+    "size": 170632
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4P02CGWJ-8kjlj92Jfwpp0wyAWB-0n6OPXHd8_UjNmbC4s55l3fhc60EdI9cai_rKCK1qKrS88C3hhMuXu8SYb4K0JkmN-HormnpciGntKg3rz8DwR4B2W7dwdXd8lyMPPdoKC_D23DKbZcr9tpIskRU4P29dadN5N38_A==&ref=10344064",
+    "size": 2740260
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=21VU3PMNlTZzKlism8E"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 9/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 8,
+  "date": "2026-06-10",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2XHHxa3Q2tSpiD4O4Mp2Wh1TZK9GTEboC1X-k1SChqUcxm0mktsM4alCQQgWebmzSWKgGtLg9iZ9Io-vi2iopU9SkgGAmiuOP0pfPVfwEkkzpxkm0vBEOZE2jdAxgzszkuMVhKa_EhDFw70_VtXd8iR5xrrwvkgmRggbGA==&ref=10173265",
+    "size": 180926
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hmf4FaExM-n5E1SEuwGfc470GCfC1OD2iBRUchhNuhz-nmU17YBkLrvDznSwhfR49lWBqGD9R2pz_38X3YK4_QlZgY1wZKYnIuJa56bsf3RCHxseP0mLmbCLvTVvWtl2GXAkM9f-oup4rfS71QgdZwugDNiaRb_zBoRCjQ==&ref=10344058",
+    "size": 700565
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3DKtQ8l8SvI1P1uLpBQ"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 8/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 7,
+  "date": "2026-05-27",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=si02qSFEjMKsq3onPZxMw1wOncdIHE04jTBpqB9ieFnPiTIiM_0JrlXJF8ErI4IqIoQGolmREKPsYXlXXO7Z12L8biC0oi4eWPH9Y9oFIq1klz8fXQ1RRsFdoH4IskrVpwODGpwk-eJ4NVz0TppXKvez_MzthQ5Es5JBeQ==&ref=10110096",
+    "size": 180440
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pFTDLRlj2ock-gLP__A0-plg8Hez-18oVJvbrD_zcnn5FA-pBNEvhX9lk3n0lnkb5jMUIE4AnjBb66aj24kuuhij2xJ6DAz2XmwSS8BIhIWfKhsJYdbLKWtzJjGoAVCm2s8Rmnbym7LC0koRhRb3AT1p50V5qcgJj6taIw==&ref=10344043",
+    "size": 1106949
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=iIr6mdCNZbseAJZBz-c"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 7/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 6,
+  "date": "2026-03-11",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EGbaa6JEPD5AbdfmScBt2BjgkNpT1EcMA0ecWHip7Wj1oyrnBK45LObzOMl8Qc27bfic-h8vMuFE28VFB4hbEk0LwOFnoYXJ_gqMBVk__P7iOhuJWFTwKkwjzP8iVAmbNteIYhfLj-NjtGBfxSdFV6iVcRO0cU9JOzg=&ref=9664992",
+    "size": 183386
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=j1cwbXJuO7r-wVy9Giu-HdztUr6372cNVwDiqBMPxWynO4bzgxpC-fyTE3ziQKjWfe6KXlpn4qXaa5wxEowO2mGzCH8SLY4y5NHITnBis41QdkhrJK7pq-JQ6PB7J8PWk0S5bnLmjun9tVCANHlHvHW82d9pd7o--9LKdQ==&ref=10344040",
+    "size": 1615856
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=c14I9zGoyJu0DcnsXRE"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 6/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 5,
+  "date": "2026-03-04",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UAEvcnmy0s8UiPoh-mwNXeqEZRK5Og3_Et-YxU8kDXg7wo8f1qAZBT2jcetI5thsgG-UohlxoYBA5BDFg_zYa86LeRimU1GyAoXOL8D5SomHamMqLzRks5ZoPIP7sWShpX6iXy4HKvKbDFZ2GIowa9Q66EeHsJAJTPw=&ref=9612768",
+    "size": 194831
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Dbdfej6RO72IwrOwvXt9COz3fVWoBnWg6H0PeFQX03tpS6ZK8P-o_giZCOLAC93Hd53irET6rX6nO_Cz_pRH6aoxOnHSRtpuIjC5FcC9RuMMjZ2vbaunsYDhrRC6UPCRT3xGShkSpBnaSsOu1MuJc_3Ep76qVWT3QdU=&ref=9655583",
+    "size": 7597997
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WRxi2J4a7880tZMJl4A"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 5/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 4,
+  "date": "2026-02-18",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nqdROlpI5HLyVT5ba5nMU6FymYpS_RSxRZ6Olkr4IGcLvz0ZVJkT0jgykPVPFbpDFQ-HSNySISoOe62_OUwHyf-s9oYKUZyPdDirRrukhhp4rEv8s--SOF8yp_rwWWyGnP3w2NzlOVU7fAkB8y5D5QfhFElfuSXeL7I=&ref=9516299",
+    "size": 180651
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QMA45bNuw0sdL2c95gKz41TNgVPNBWrOHL3HXZU29uDAAw2X8WSLAsQLgk0VfQVkC-mA4fXkYfVLS80vTZc7N5SFwlxDzScVURfO4mDflXUnLGJEj1Ywb424_4dyj-1-5ry5n8VvdaE9Ft-vuAphKZ0gui2OkXduXF0=&ref=9560502",
+    "size": 7761032
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=I72hpuXBY8z0KZ-M7gQ"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 4/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 3,
+  "date": "2026-01-19",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JLN8gbq-o61bV05ZNCSmzUGLnJGoM9arWzfloxXiYf80DD8FD9N4A7Hv_ZQ52E87Eo3UJ4OISpidNU_xyWZ1KOiRjASMU7ajGxKCwDK5v92457tE0rJSaumTGy3xs2z7bWBYFtp_jcxNxv8SuDDDk6YzjBrneXqq0k4=&ref=9263197",
+    "size": 145394
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=set8IBHZ0PLMjXPpKaXNC1ZtHcCw4YxCXgL8JO3NYIfEK3lpx4HaJpf-OCiGNbvqptmENmVrmjDYeE983q9nlxN7ecRpU2JaffbZuA8bW98ZFrQB_Z83g62A1bgqC3hDH1PYaNtPceMnnBbWpk2DkpbqXlCwh19fX38=&ref=9364825",
+    "size": 959322
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rsqzMgq3tazlDc7uHLI"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 3/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 2,
+  "date": "2026-01-12",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wR8Iz652tm4txHFdqfbsr_auAPXgT1WTxHJEs-lC5yMmNZukVyyzPPkpX_uI4lgoET5u_kMhVqUDHreBtmsFCCl3Dys49hLR1cvgXSBQYCE0OqS3_Zmd-_5I5yOvflRMdJkEh68MSGbIH80frJJm6uTqx-b4oH_-qUw=&ref=9239337",
+    "size": 133769
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nab-fCRF7glkmRiUKwyI2NVWeQALQWJEg0bIAu96ZW-rlL5OlztRluKCwkSevy_uX3l4uAi-7uazosfyRQuU4IrCDh7V8LAShF9tm0ZO1A9Wq5IHTd2NSc4gAqBKRhNnhgaKFHf8LccWKTdbRa02uNmJOSspbzXkaWk=&ref=9364823",
+    "size": 1484149
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7dOjqlr-y8wkfJvTyV4"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2026-01-07",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pU8nQOxwIt-LaHUMjzVzMJuY55LeeB_YMHzH7RtbG5dV-YkcAvkFtMAO-bGLOAznUaqIfWn1KLNYDlkQX3_OfC0JpvfLbeY0avNH73nxfKlbFLKtkemS_eFtgI_16iiIxFI2U12isLojN6lETyGVcmNTBy4QCz2LUWQ=&ref=9192318",
+    "size": 158919
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RIKHTm4khxO1LaU14KBB0_8o0vz0aohZ2GpMouXNZ1uMXqg4OcXtxbwbPGn8-bsfYCAqTLYGODGoHnvUO6nqZc7M30JnusX-sI4-CrLaxGDIlsRFLVY-yvfJXhuIpONm9OP4C5A-YylOP49SyMm-mm_UsQAysnihjpk=&ref=9364821",
+    "size": 1590688
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=YaS-4a5zDB7pb9i_1Y8"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2569",
+  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]
