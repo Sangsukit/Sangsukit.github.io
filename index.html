@@ -2,6 +2,7 @@
 <html lang="th">
 <head>
 <meta charset="utf-8">
+<link rel="preload" href="fonts/anuphan-var.woff2" as="font" type="font/woff2" crossorigin data-mb>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>คลังการประชุม คณะกรรมาธิการวุฒิสภา</title>
 <meta name="description" content="สรุปผลการประชุมของคณะกรรมาธิการวุฒิสภา แยกตามคณะและปี พร้อมลิงก์เอกสารทางการทุกครั้ง (เว็บไซต์ไม่เป็นทางการ)">
@@ -550,6 +551,98 @@ article.card.slim-past .actions a.read{flex:1 1 100%}
   window.addEventListener('load',run);
   var q=0;try{ new MutationObserver(function(){ if(q)return; q=requestAnimationFrame(function(){q=0;cards();}); }).observe(document.body,{childList:true,subtree:true}); }catch(e){}
 })();
+</script>
+<!--MOBILE-->
+<style id="mobile-layer">
+:root{--fsb:106.25%}
+@media (max-width:700px),(pointer:coarse) and (max-width:1366px){:root{--fsb:112.5%}}
+img,video{max-width:100%}
+.people{grid-template-columns:repeat(auto-fill,minmax(min(100%,280px),1fr))}
+.facts{grid-template-columns:repeat(auto-fit,minmax(min(100%,190px),1fr))}
+.subs{grid-template-columns:repeat(auto-fill,minmax(min(100%,220px),1fr))}
+.sub-m .acts{grid-template-columns:repeat(auto-fill,minmax(min(100%,210px),1fr))}
+.c-head>*,.cmte>*,.facts>*,.person>*,.d-hero>*,.share>*,.upnext li>*,.nextbox>*{min-width:0}
+.c-head h3,.d-hero h2,.card h3,.sheet-head .t{overflow-wrap:anywhere}
+.c-chair b,.chairline b,.person b,.mgrid b,.sub-head b,.cm-name{white-space:nowrap!important;overflow-wrap:normal!important}
+.c-chair b[data-mbn],.chairline b[data-mbn],.person b[data-mbn],.mgrid b[data-mbn],.sub-head b[data-mbn],.cm-name[data-mbn]{white-space:normal!important}
+.mb-w{white-space:nowrap}
+@media (max-width:26.25em){
+  .d-hero{grid-template-columns:minmax(0,1fr)}
+  #list .facts{grid-template-columns:repeat(auto-fit,minmax(min(100%,130px),1fr))}}
+@media (max-width:21.25em){
+  body{overflow-wrap:anywhere}
+  .cmte .next .nb,.when .nb,.meta .nb,.c-head span.nb{white-space:normal}
+  .share{grid-template-columns:minmax(0,1fr)}
+  .quick,.quick.q4,.mgrid,.stats{grid-template-columns:minmax(0,1fr)}
+  .sheet-head,.fs{flex-wrap:wrap}
+  .hero h1 em,.st-n,.st-when{white-space:normal!important}
+  .st-head,.st-rib{flex-wrap:wrap}}
+@media (max-width:15em){
+  .card{grid-template-columns:minmax(0,1fr)}
+  .dg-track .nw{white-space:normal}}
+button.gl{position:relative}
+button.gl::after{content:"";position:absolute;left:-2px;right:-2px;top:-7px;bottom:-7px}
+footer li a,footer p a,.foot-links a{display:inline-block;padding-block:10px}
+.search input{min-height:44px}
+.whereami{top:calc(12px + env(safe-area-inset-top,0px))}
+.totop{right:max(16px,calc(env(safe-area-inset-right,0px) + 8px))}
+#feed article.card,#list>.cmte~.cmte{content-visibility:auto;contain-intrinsic-size:auto 1500px}
+@media (min-width:701px){#feed article.card{contain-intrinsic-size:auto 1150px}}
+@media print{#feed article.card,#list>.cmte~.cmte{content-visibility:visible}}
+.mb-find{position:fixed;z-index:25;bottom:calc(16px + env(safe-area-inset-bottom,0px));display:none;align-items:center;gap:6px;
+  min-height:52px;padding:0 18px;border-radius:99px;border:1.5px solid var(--lg-edge,var(--line));background:var(--paper);
+  background-color:var(--lg-fill-hi,var(--paper));background-image:var(--lg-sheen,none);color:var(--ink);font:inherit;font-weight:700;
+  box-shadow:var(--lg-rim,none),var(--lg-shadow-lift,0 6px 18px rgba(0,0,0,.18));cursor:pointer;
+  -webkit-backdrop-filter:var(--lg-blur,none);backdrop-filter:var(--lg-blur,none);transition:opacity .3s ease,transform .3s cubic-bezier(.2,.7,.2,1)}
+.mb-find .ico{width:1.15em;height:1.15em}
+.controls{scroll-margin-top:calc(84px + env(safe-area-inset-top,0px))}
+.mb-find.on{display:inline-flex}
+@media (min-width:701px){.mb-find{display:none!important}}
+@media (prefers-reduced-transparency:reduce),(prefers-contrast:more){.mb-find{background:var(--paper);-webkit-backdrop-filter:none;backdrop-filter:none}}
+@media (prefers-contrast:more){.mb-find{border:2px solid var(--ink)}}
+@media print{.mb-find{display:none!important}}
+</style>
+<script>
+(function(){try{
+  var tt=document.getElementById("totop"),q=document.getElementById("q");
+  if(!tt||!q||!window.MutationObserver)return;
+  var b=document.createElement("button");b.type="button";b.className="mb-find";
+  b.innerHTML='<svg class="ico" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>ค้นหา';
+  b.setAttribute("aria-label","ไปที่ช่องค้นหาการประชุม");
+  document.body.appendChild(b);
+  var place=function(){var on=!near&&tt.classList.contains("on")&&getComputedStyle(tt).visibility!=="hidden";b.classList.toggle("on",on);
+    if(on){var r=tt.getBoundingClientRect();b.style.right=(innerWidth-r.left+10)+"px"}};
+  var near=false,box0=q.closest(".controls")||q;
+  if(window.IntersectionObserver)new IntersectionObserver(function(e){near=e[0].isIntersecting;place()}).observe(box0);
+  new MutationObserver(place).observe(tt,{attributes:true,attributeFilter:["class","style"]});
+  addEventListener("resize",place,{passive:true});
+  b.addEventListener("click",function(){
+    try{q.focus({preventScroll:true})}catch(e){q.focus()}
+    var box=q.closest(".controls")||q;
+    box.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"});
+  });
+}catch(e){}})();
+</script>
+<script>
+(function(){try{
+  var SEL=".c-chair b,.chairline b,.person b,.mgrid b,.sub-head b,.cm-name";
+  var TITLES=/^(ผู้ช่วยศาสตราจารย์|รองศาสตราจารย์|ศาสตราจารย์|พลตำรวจเอก|พลตำรวจโท|พลตำรวจตรี|พันตำรวจเอก|พลเอก|พลโท|พลตรี|พลอากาศเอก|พลอากาศโท|พลอากาศตรี|พลเรือเอก|พลเรือโท|พลเรือตรี|ว่าที่ร้อยตรี|ดร\.)(?=\S)/;
+  function esc(x){return x.replace(/&/g,"&amp;").replace(/</g,"&lt;")}
+  function fix(){var els=document.querySelectorAll(SEL);
+    for(var i=0;i<els.length;i++){var e=els[i];if(e.hasAttribute("data-mbn")||e.children.length)continue;
+      var w=e.textContent.trim().split(/\s+/),h="",n=0;
+      for(var k=0;k<w.length;k++){var m=w[k].match(TITLES),seg=m?[m[1],w[k].slice(m[1].length)]:[w[k]];
+        for(var j=0;j<seg.length;j++){h+=(n?(j?"<wbr>":" "):"")+'<span class="nw mb-w">'+esc(seg[j])+"</span>";n++}}
+      if(n<2)continue;
+      e.innerHTML=h;e.setAttribute("data-mbn","")}
+    fit()}
+  function fit(){var ws=document.querySelectorAll(".mb-w,.s-head .nb");for(var i=0;i<ws.length;i++){var x=ws[i],p=x.parentElement&&x.parentElement.closest("p,div,li,dd,h3,h4");
+    x.style.whiteSpace="";if(p&&p.clientWidth&&x.offsetWidth>p.clientWidth+1)x.style.whiteSpace="normal"}}
+  var t=0;function soon(){if(!t)t=requestAnimationFrame(function(){t=0;fix()})}
+  if(document.readyState!=="loading")soon();else document.addEventListener("DOMContentLoaded",soon);
+  if(window.MutationObserver)new MutationObserver(soon).observe(document.body,{childList:true,subtree:true});
+  addEventListener("resize",function(){requestAnimationFrame(fit)},{passive:true});
+}catch(e){}})();
 </script>
 <!-- I18N LAYER (Thai/English switch). Added by archive/i18n/i18n.py after the page is built. Thai stays the default and
      the authoritative text; English comes from i18n-en.json (translation cache), loaded only when a reader picks English. -->
