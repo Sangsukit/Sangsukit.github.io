@@ -837,6 +837,7 @@ img[loading="lazy"][src$=".jpg"],img[loading="lazy"][src*=".jpg?"],img.bgp{backg
 <noscript><style>.sk-wrap{display:none}</style></noscript>
 <style id="foot-credit">.footer-credit .unofficial,.f-credit .unofficial{display:inline-flex;align-items:center;gap:6px;font-weight:700;padding:4px 12px;border-radius:999px;border:1.5px solid currentColor;line-height:1.4}.footer-credit .unofficial .ico,.f-credit .unofficial .ico{width:1.05em;height:1.05em}</style></head>
 <body>
+<a class="dk-skip" href="#feed">ข้ามไปที่รายการการประชุม</a>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
  <symbol id="i-sub" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3.2 2.7-5.5 6-5.5s6 2.3 6 5.5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14.2c2.6.2 4.5 2.2 4.5 4.8"/></symbol>
  <symbol id="i-complaint" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7.5l9 6 9-6"/></symbol>
@@ -2387,6 +2388,59 @@ footer li a,footer p a,.foot-links a{display:inline-block;padding-block:10px}
   addEventListener("resize",function(){requestAnimationFrame(fit)},{passive:true});
 }catch(e){}})();
 </script>
+<!--DESKTOP-->
+<style id="desktop-layer">
+.dk-skip{position:absolute;left:12px;top:-200px;z-index:200;background:var(--paper,#fff);color:var(--ink,#22170f);
+  border:3px solid var(--gold,#b8860b);border-radius:12px;padding:12px 20px;font-weight:700;text-decoration:none}
+.dk-skip:focus{top:12px}
+@media (min-width:64em) and (hover:hover) and (pointer:fine){
+  .wrap{max-width:65.88rem}
+  .sheet{max-width:min(52rem,94vw)}
+  .credit-line,.ez-note,.in>p,.hero p,.notice p,.mapnote,footer li{max-width:50em}
+  html{scroll-padding-top:calc(var(--toph,60px) + 96px)}
+  article.card,.cmte{transition:border-color .15s ease,box-shadow .15s ease}
+  article.card:hover,.cmte:hover{border-color:var(--gold-pale,var(--line));box-shadow:0 2px 4px rgba(60,20,10,.06),0 14px 30px -18px rgba(60,20,10,.28)}
+  a[href]:not(.btn):not(.qbtn):not(.hublink):not(.dk-skip):hover{text-decoration-thickness:2px}
+}
+@media (min-width:64em) and (hover:hover) and (pointer:fine) and (prefers-color-scheme:light){
+  :root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li){
+    --lg-blur-soft:blur(1.5px) saturate(160%) brightness(1.03);
+    background-color:rgba(255,255,255,.08);
+    background-image:linear-gradient(155deg,rgba(255,255,255,.46) 0%,rgba(255,255,255,.12) 30%,rgba(255,255,255,0) 55%,rgba(255,255,255,.08) 80%,rgba(255,255,255,.22) 100%);
+    border-style:solid;border-width:1.5px;
+    border-color:rgba(255,255,255,.95) rgba(255,255,255,.45) rgba(122,70,40,.24) rgba(255,255,255,.8);
+    box-shadow:inset 0 0 0 4px rgba(255,255,255,.07),inset 0 0 16px rgba(255,255,255,.38),
+      inset 0 14px 22px -18px rgba(255,255,255,.95),inset 0 -14px 22px -18px rgba(110,60,30,.16),
+      0 1px 2px rgba(60,20,10,.06),0 18px 38px -22px rgba(60,20,10,.32)}
+  :root:not([data-theme="dark"]) .cmte:hover{border-color:#fff rgba(255,255,255,.6) rgba(122,70,40,.3) rgba(255,255,255,.95);
+    box-shadow:inset 0 0 0 4px rgba(255,255,255,.1),inset 0 0 18px rgba(255,255,255,.48),
+      inset 0 14px 22px -18px #fff,inset 0 -14px 22px -18px rgba(110,60,30,.18),
+      0 2px 4px rgba(60,20,10,.07),0 22px 44px -22px rgba(60,20,10,.38)}
+  :root:not([data-theme="dark"]) .cmte .sbox{
+    background-color:rgba(255,255,255,.10);
+    background-image:linear-gradient(160deg,rgba(255,255,255,.40) 0%,rgba(255,255,255,.06) 42%,rgba(255,255,255,.14) 100%);
+    border-width:1.5px;border-color:rgba(255,255,255,.95) rgba(255,255,255,.4) rgba(122,70,40,.22) rgba(255,255,255,.75);
+    box-shadow:inset 0 0 12px rgba(255,255,255,.32),0 8px 18px -14px rgba(60,20,10,.28)}
+  :root:not([data-theme="dark"]) .cmte .c-chair{
+    background-color:rgba(255,255,255,.12);
+    background-image:linear-gradient(160deg,rgba(255,255,255,.36),rgba(255,255,255,.04) 60%);
+    box-shadow:inset 0 1.5px 0 rgba(255,255,255,.95),inset 1.5px 0 0 rgba(255,255,255,.6),inset 0 -1.5px 0 rgba(122,70,40,.18)}
+  :root:not([data-theme="dark"]) .cmte .fact{
+    background-color:rgba(232,214,170,.26);
+    background-image:linear-gradient(160deg,rgba(255,255,255,.38),rgba(255,255,255,.04) 60%);
+    box-shadow:inset 0 1.5px 0 rgba(255,255,255,.95),inset 1.5px 0 0 rgba(255,255,255,.6),inset 0 -1.5px 0 rgba(122,70,40,.2)}
+}
+@media (prefers-reduced-transparency:reduce),(prefers-contrast:more){
+  :root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li,.cmte .sbox,.cmte .c-chair){background:var(--paper)}
+  :root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li,.cmte .sbox){border-color:var(--line)}
+  :root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.cmte:hover,.steps li,.cmte .sbox,.cmte .c-chair,.cmte .fact){box-shadow:none}
+  :root:not([data-theme="dark"]) .cmte .fact{background:var(--gold-soft)}}
+@media (prefers-contrast:more){:root:not([data-theme="dark"]) :is(.panel,.upnext,.cmte,.steps li,.cmte .sbox){border-color:var(--ink)}}
+@media (min-width:80em) and (hover:hover) and (pointer:fine){:root{--fsb:112.5%}}
+@media (min-width:100em) and (hover:hover) and (pointer:fine){:root{--fsb:118.75%}}
+@media (min-width:115em) and (hover:hover) and (pointer:fine){:root{--fsb:125%}}
+@media (prefers-reduced-motion:reduce){article.card,.cmte{transition:none}}
+</style>
 <!-- I18N LAYER (Thai/English switch). Added by archive/i18n/i18n.py after the page is built. Thai stays the default and
      the authoritative text; English comes from i18n-en.json (translation cache), loaded only when a reader picks English. -->
 <style>
