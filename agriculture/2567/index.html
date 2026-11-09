@@ -816,10 +816,10 @@ footer .footer-credit b{color:#FFFFFF}
 
 <!--SKEL-->
 <style id="skel-layer">
-.sk-wrap{display:grid;gap:16px;opacity:0;animation:sk-in .3s ease .35s forwards}
+.sk-wrap{display:grid;gap:16px;opacity:0;animation:sk-in .3s var(--ease-out,cubic-bezier(.16,1,.3,1)) .35s forwards}
 .sk-card{background:var(--paper,#fff);border:1px solid var(--line,#e4d9c7);border-radius:18px;padding:18px;display:grid;gap:12px;
   box-shadow:0 1px 2px rgba(60,20,10,.05),0 10px 26px -18px rgba(60,20,10,.18)}
-.sk-b{display:block;height:1.05em;border-radius:10px;background:var(--ink,#22170f);opacity:.08;animation:sk-pulse 1.3s ease-in-out .35s infinite alternate}
+.sk-b{display:block;height:1.05em;border-radius:10px;background:var(--ink,#22170f);opacity:.08;animation:sk-pulse 1.3s var(--ease-breathe,cubic-bezier(.37,0,.63,1)) .35s infinite alternate}
 .sk-b.h{height:2.2em;border-radius:12px}
 .sk-b.t{height:1.5em;width:82%}
 .sk-b.s{width:58%}
@@ -835,7 +835,7 @@ footer .footer-credit b{color:#FFFFFF}
 img[loading="lazy"][src$=".jpg"],img[loading="lazy"][src*=".jpg?"],img.bgp{background-color:rgba(127,112,100,.16)}
 </style>
 <noscript><style>.sk-wrap{display:none}</style></noscript>
-<style id="foot-credit">.footer-credit .unofficial,.f-credit .unofficial{display:inline-flex;align-items:center;gap:6px;font-weight:700;padding:4px 12px;border-radius:999px;border:1.5px solid currentColor;line-height:1.4}.footer-credit .unofficial .ico,.f-credit .unofficial .ico{width:1.05em;height:1.05em}</style><!--MOTION-->
+<!--MOTION-->
 <style id="motion-layer">
 :root:not(#mo){
   --ease-out:cubic-bezier(.16,1,.3,1);
@@ -872,7 +872,7 @@ img[loading="lazy"][src$=".jpg"],img[loading="lazy"][src*=".jpg?"],img.bgp{backg
   .sk-b:not(#mo){animation-timing-function:var(--ease-breathe)}
 }
 </style>
-</head>
+<style id="foot-credit">.footer-credit .unofficial,.f-credit .unofficial{display:inline-flex;align-items:center;gap:6px;font-weight:700;padding:4px 12px;border-radius:999px;border:1.5px solid currentColor;line-height:1.4}.footer-credit .unofficial .ico,.f-credit .unofficial .ico{width:1.05em;height:1.05em}</style></head>
 <body>
 <a class="dk-skip" href="#feed">ข้ามไปที่รายการการประชุม</a>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -1308,7 +1308,7 @@ function render(){
  const filtered=!!(S.q||S.tag||S.era||S.mo>=0);
  const endRow=!list.length?"":filtered?`<div class="feed-end"><b>สิ้นสุดผลการค้นหา</b><button class="btn" type="button" data-top>${icon("up")}กลับขึ้นบนสุด</button></div>`
   :`<div class="feed-end full"><span class="fl" aria-hidden="true"></span><b>ถึงการประชุมครั้งแรกของปี 2567 แล้ว</b><span>ท่านดูครบทั้ง ${list.length} รายการ</span><button class="btn" type="button" data-top>${icon("up")}กลับขึ้นบนสุด</button></div>`;
- $("#feed").innerHTML=list.length?list.map(card).join("")+endRow:`<div class="empty">ไม่พบการประชุมที่ตรงกับคำค้น ลองคำอื่น เช่น ชื่อจังหวัด หรือ "ร้องเรียน"</div>`;
+ $("#feed").innerHTML=list.length?list.map(card).join("")+endRow:(DATA.length?`<div class="empty">ไม่พบการประชุมที่ตรงกับคำค้น ลองคำอื่น เช่น ชื่อจังหวัด หรือ "ร้องเรียน"</div>`:`<div class="empty"><p>ยังไม่มีการประชุมของคณะนี้ที่วุฒิสภาเผยแพร่ในปีนี้</p></div>`);
  const parts=[];if(S.q)parts.push(`คำค้น “${S.q}”`);if(S.tag)parts.push(`#${S.tag}`);if(S.era)parts.push(S.era==="a"?"ช่วง นายธวัช สุระบาล":"ช่วง นายธวัช สุระบาล");if(S.mo>=0)parts.push(MON[S.mo]);
  $("#resultline").innerHTML=parts.length?`<span>พบ <b>${list.length}</b> รายการ · ${esc(parts.join(" · "))}</span><button class="clear" type="button" id="clear-f">${icon("close")}ล้างการค้นหา</button>`:`<span>ทั้งหมด ${DATA.length} รายการ เรียงจากครั้งล่าสุด</span>`;
  $("#ctl-sum").textContent=parts.length?`พบ ${list.length} รายการ · ${parts.join(" · ")}`:`ทั้งหมด ${DATA.length} รายการ`;$("#ctl-show").classList.toggle("has-f",!!parts.length);
@@ -2561,7 +2561,7 @@ footer li a,footer p a,.foot-links a{display:inline-block;padding-block:10px}
   .sheet{max-width:min(52rem,94vw)}
   .credit-line,.ez-note,.in>p,.hero p,.notice p,.mapnote,footer li{max-width:50em}
   html{scroll-padding-top:calc(var(--toph,60px) + 96px)}
-  article.card,.cmte{transition:border-color .15s ease,box-shadow .15s ease}
+  article.card,.cmte{transition:border-color .15s var(--ease-out,cubic-bezier(.16,1,.3,1)),box-shadow .15s var(--ease-out,cubic-bezier(.16,1,.3,1))}
   article.card:hover,.cmte:hover{border-color:var(--gold-pale,var(--line));box-shadow:0 2px 4px rgba(60,20,10,.06),0 14px 30px -18px rgba(60,20,10,.28)}
   a[href]:not(.btn):not(.qbtn):not(.hublink):not(.dk-skip):hover{text-decoration-thickness:2px}
 }
