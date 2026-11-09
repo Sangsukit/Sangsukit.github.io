@@ -315,5 +315,61 @@ document.getElementById("share").addEventListener("click", async () => {
   catch(e) { toast("ลิงก์: " + url); }
 });
 </script>
+<!-- STATUS LAYER for the home page (9 Nov 2569, Sukit: "I have trouble telling which meeting is past and which is upcoming").
+     Added by build_hub.py only when HUB_STATUS=1. Never edits template.html: it replaces stats() with a date-based one
+     (Bangkok time) and adds a labelled chip to the "latest summary" box (green, held) and to every "next meeting" box
+     (navy, coming up, with a day count). Colour always comes with an icon and words. -->
+<style>
+:root{--st-up:#2D2A4A;--st-up-on:#FFFFFF;--st-up-s:#ECEBF6;--st-past:#1B6E45;--st-past-s:#E6F3EB}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--st-up:#C9C6EE;--st-up-on:#1A110E;--st-up-s:#24213A;--st-past:#8ED3AC;--st-past-s:#172D22}}
+:root[data-theme="dark"]{--st-up:#C9C6EE;--st-up-on:#1A110E;--st-up-s:#24213A;--st-past:#8ED3AC;--st-past-s:#172D22}
+.st-chip{display:inline-flex;align-items:center;gap:6px;font-size:1rem;font-weight:700;line-height:1.3;padding:6px 12px;border-radius:99px;margin:0 0 8px;width:fit-content;max-width:100%}
+.st-chip svg{width:1.2em;height:1.2em;flex:none}
+.st-chip.past{background:var(--st-past-s);color:var(--st-past);border:2px solid var(--st-past)}
+.st-chip.up{background:var(--st-up);color:var(--st-up-on)}
+.latest.st-done{border-left-color:var(--st-past)!important}
+.nextbox.st-next,.st-wrap{background:var(--st-up-s)!important;border:3px solid var(--st-up);border-radius:12px}
+.st-wrap{display:grid;padding:10px 12px}
+.st-wrap .next{background:none!important;padding:0!important}
+.nextbox.st-next .next .ico,.st-wrap .next .ico{color:var(--st-up)}
+.st-chip .ico{color:inherit!important;width:1.2em;height:1.2em}
+</style>
+<script>
+(()=>{
+if(typeof stats!=="function"||typeof render!=="function")return;
+const today=()=>new Date(Date.now()+7*3600e3).toISOString().slice(0,10);   // Bangkok date
+const days=(a,b)=>Math.round((Date.parse(b+"T00:00:00Z")-Date.parse(a+"T00:00:00Z"))/864e5);
+const CHECK='<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+const CAL='<svg class="ico" aria-hidden="true"><use href="#i-cal"/></svg>';
+// held = the date has passed (or it is today and not marked as upcoming); next = today or later, not cancelled.
+// A meeting that is past its date but still waiting for its summary is counted as held, but its agenda line is
+// never shown as "สรุปล่าสุด" (it is not a summary yet).
+window.stats=function(s){
+ const t=today();
+ const held=s.filter(x=>!x.cancelled&&(x.date<t||(x.date===t&&!x.upcoming))).sort((a,b)=>a.date<b.date?1:-1);
+ const next=s.filter(x=>!x.cancelled&&x.date>=t&&!held.includes(x)).sort((a,b)=>a.date<b.date?-1:1)[0];
+ return {held:held.length,latest:held.find(x=>x.headline&&!x.upcoming),next,videos:s.reduce((n,x)=>n+x.v,0)};
+};
+const upChip=m=>{const k=days(today(),m.date);return `<span class="st-chip up">${CAL}${k===0?"ประชุมวันนี้":k===1?"กำลังจะมาถึง · พรุ่งนี้":`กำลังจะมาถึง · อีก ${k} วัน`}</span>`};
+const pastChip=`<span class="st-chip past">${CHECK}ประชุมแล้ว</span>`;
+function mark(){
+ const cards=[...document.querySelectorAll("#list .cmte")];
+ cards.forEach((el,i)=>{
+  const c=DATA[i];if(!c||el.dataset.st)return;el.dataset.st="1";
+  const st=stats(c.years[0].snap);
+  const lat=el.querySelector(":scope > .latest");if(lat&&st.latest){lat.classList.add("st-done");lat.insertAdjacentHTML("afterbegin",pastChip)}
+  const nx=el.querySelector(":scope > .nextbox");if(nx&&st.next){nx.classList.add("st-next");nx.insertAdjacentHTML("afterbegin",upChip(st.next))}
+  const cur=(c.sub_list||[]).filter(s=>s.status==="current");
+  el.querySelectorAll(".sbox").forEach((b,j)=>{const s=cur[j];if(!s)return;const ss=stats(s.snap);
+   const l=b.querySelector(".latest");if(l&&ss.latest){l.classList.add("st-done");l.insertAdjacentHTML("afterbegin",pastChip)}
+   const n=b.querySelector(".next");if(n&&ss.next){const w=document.createElement("div");w.className="st-wrap";n.before(w);w.insertAdjacentHTML("afterbegin",upChip(ss.next));w.append(n)}});
+ });
+}
+const list=document.getElementById("list");
+if(list)new MutationObserver(mark).observe(list,{childList:true});
+render();
+})();
+</script>
+
 </body>
 </html>
