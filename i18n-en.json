@@ -1279,6 +1279,7 @@
 "คลังการประชุมปีก่อน": "Archives of earlier years",
 "คลังการประชุมปีล่าสุด ({0})": "Latest year's archive ({0|ce})",
 "คลังการประชุมปีอื่น": "Archives of other years",
+"คลังปี {0}": "{0} archive",
 "คลังสรุปการประชุม · ปี พ.ศ. {0}": "Meeting summaries archive · {0|ce}",
 "คลังสรุปการประชุม คณะอนุกรรมาธิการ · ปี พ.ศ. {0}": "Subcommittee meeting summaries · {0|ce}",
 "คลังสรุปการประชุม คณะอนุกรรมาธิการ · ปี พ.ศ. {0} · กำลังดำเนินงาน": "Subcommittee meeting summaries archive · {0|ce} · active",
