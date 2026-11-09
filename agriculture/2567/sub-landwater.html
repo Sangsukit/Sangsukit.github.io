@@ -872,6 +872,55 @@ img[loading="lazy"][src$=".jpg"],img[loading="lazy"][src*=".jpg?"],img.bgp{backg
   .sk-b:not(#mo){animation-timing-function:var(--ease-breathe)}
 }
 </style>
+<!--GOLD-->
+<style id="gold-layer">
+:root{--gold-band-metal:linear-gradient(90deg,#8A6A2B 0%,#C9A55A 18%,#F6E7C1 50%,#C9A55A 82%,#8A6A2B 100%);--gold-band-rim:linear-gradient(135deg,#C9A55A 0%,#F6E7C1 35%,#C9A55A 65%,#E9C987 100%);--gold-band-head:#E9C987;--gold-line:2px;--gold-rim-w:1.5px;--dur-glint:600ms;--gold-metal:linear-gradient(90deg,#8A6A2B 0%,#C9A55A 24%,#F1DFB4 50%,#C9A55A 76%,#8A6A2B 100%);--gold-rim:linear-gradient(135deg,#C9A55A 0%,#F6E7C1 30%,#E2BE76 52%,#C9A55A 74%,#F1DFB4 100%);--gold-foil:linear-gradient(160deg,#F6E7C1 0%,#E2BE76 46%,#C9A55A 100%);--gold-foil-ink:#22170F;--gold-solid:#8A6A2B;--au-deco:#C9A55A;--au-edge:#F1DFB4}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--gold-metal:linear-gradient(90deg,#B08A45 0%,#E2BE76 24%,#F6E7C1 50%,#E2BE76 76%,#B08A45 100%);--gold-rim:linear-gradient(135deg,#8A6A2B 0%,#C9A55A 30%,#F6E7C1 52%,#C9A55A 74%,#8A6A2B 100%);--gold-foil:linear-gradient(160deg,#F6E7C1 0%,#E2BE76 46%,#C9A55A 100%);--gold-foil-ink:#22170F;--gold-solid:#E2BE76;--au-deco:#C9A55A;--au-edge:#F1DFB4}}
+:root[data-theme="dark"]{--gold-metal:linear-gradient(90deg,#B08A45 0%,#E2BE76 24%,#F6E7C1 50%,#E2BE76 76%,#B08A45 100%);--gold-rim:linear-gradient(135deg,#8A6A2B 0%,#C9A55A 30%,#F6E7C1 52%,#C9A55A 74%,#8A6A2B 100%);--gold-foil:linear-gradient(160deg,#F6E7C1 0%,#E2BE76 46%,#C9A55A 100%);--gold-foil-ink:#22170F;--gold-solid:#E2BE76;--au-deco:#C9A55A;--au-edge:#F1DFB4}
+.top:not(#au){border-bottom:var(--gold-line) solid var(--au-deco);border-image:var(--gold-band-metal) 1}
+.top:not(#au)::after{top:calc(100% + var(--gold-line))}
+footer:not(#au){border-top:var(--gold-line) solid var(--au-deco);border-image:var(--gold-band-metal) 1}
+footer:not(#au)::before{bottom:calc(100% + var(--gold-line))}
+.top .brand img:not(#au){padding:var(--gold-line);background:var(--gold-band-rim);box-sizing:border-box;box-shadow:0 2px 6px rgba(0,0,0,.25)}
+.hero h1:not(#au),.panel>h2:not(#au),.sec>h2:not(#au){background-image:var(--gold-metal);background-repeat:no-repeat;background-size:56px 3px;background-position:0 100%;padding-bottom:12px}
+.panel>h2>.ico:not(#au),.sec>h2>.ico:not(#au){color:var(--gold-solid)}
+.btn.primary:not(#au),.ybtn.main:not(#au),.gate-ok:not(#au),.qbtn .qi:not(#au),.num:not(#au),.hh-door .di:not(#au),.hh-tile .ti:not(#au),.hh-recent a:not(#au){position:relative}
+.btn.primary:not(#au)::after,.ybtn.main:not(#au)::after,.gate-ok:not(#au)::after,.qbtn .qi:not(#au)::after,.num:not(#au)::after,.hh-door .di:not(#au)::after,.hh-tile .ti:not(#au)::after,.hh-recent a:not(#au)::after,.hh-steps .n i:not(#au)::after{
+  content:"";position:absolute;inset:0;border-radius:inherit;padding:var(--gold-rim-w);pointer-events:none;
+  background:var(--gold-rim);background-size:220% 220%;background-position:0 0;
+  -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;
+  mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);mask-composite:exclude}
+.hh-others .hh-tile .ti:not(#au)::after{content:none}
+@media (hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){
+  .btn.primary:not(#au)::after,.ybtn.main:not(#au)::after,.gate-ok:not(#au)::after,.qbtn .qi:not(#au)::after,.hh-door .di:not(#au)::after,.hh-tile .ti:not(#au)::after,.hh-recent a:not(#au)::after{transition:background-position var(--dur-glint) var(--ease-out)}
+  .btn.primary:hover:not(#au)::after,.ybtn.main:hover:not(#au)::after,.gate-ok:hover:not(#au)::after,.qbtn:hover .qi:not(#au)::after,.hh-door:hover .di:not(#au)::after,.hh-tile:hover .ti:not(#au)::after,.hh-recent a:hover:not(#au)::after{background-position:100% 100%}
+}
+.panel:not(#au),.cmte:not(#au),.steps li:not(#au){position:relative}
+.panel:not(#au)::after,.cmte:not(#au)::after,.steps li:not(#au)::after{
+  content:"";position:absolute;inset:0;border-radius:inherit;padding:1px;pointer-events:none;opacity:.75;
+  background:var(--gold-rim);
+  -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;
+  mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);mask-composite:exclude}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]) :is(.btn.primary,.ybtn.main,.gate-ok,.qbtn .qi,.num,.hh-door .di,.hh-tile .ti,.hh-recent a,.hh-steps .n i):not(#au){background-color:var(--au-deco);background-image:var(--lg-prom-sheen,none),var(--gold-foil);color:var(--gold-foil-ink)}
+  :root:not([data-theme="light"]) .hh-others .hh-tile .ti:not(#au){background-image:none}
+}
+:root[data-theme="dark"] :is(.btn.primary,.ybtn.main,.gate-ok,.qbtn .qi,.num,.hh-door .di,.hh-tile .ti,.hh-recent a,.hh-steps .n i):not(#au){background-color:var(--au-deco);background-image:var(--lg-prom-sheen,none),var(--gold-foil);color:var(--gold-foil-ink)}
+:root[data-theme="dark"] .hh-others .hh-tile .ti:not(#au){background-image:none}
+.fs button[aria-pressed="true"]:not(#au),.lang button[aria-pressed="true"]:not(#au){background-color:var(--au-deco);background-image:var(--gold-foil);color:var(--gold-foil-ink);border-color:var(--au-edge)}
+footer h4:not(#au){color:var(--gold-band-head)}
+.footer-credit:not(#au){border-top:1px solid var(--au-deco);border-image:var(--gold-band-metal) 1}
+@media (prefers-contrast:more){
+  .top:not(#au),footer:not(#au),.footer-credit:not(#au){border-image:none}
+  .btn.primary:not(#au)::after,.ybtn.main:not(#au)::after,.gate-ok:not(#au)::after,.qbtn .qi:not(#au)::after,.num:not(#au)::after,.hh-door .di:not(#au)::after,.hh-tile .ti:not(#au)::after,.hh-recent a:not(#au)::after,.hh-steps .n i:not(#au)::after{background:var(--gold-solid)}
+  .hero h1:not(#au),.panel>h2:not(#au),.sec>h2:not(#au){background-image:linear-gradient(var(--gold-solid),var(--gold-solid))}
+}
+@media (forced-colors:active){
+  .top:not(#au),footer:not(#au),.footer-credit:not(#au){border-image:none}
+  .btn.primary:not(#au)::after,.ybtn.main:not(#au)::after,.gate-ok:not(#au)::after,.qbtn .qi:not(#au)::after,.num:not(#au)::after,.hh-door .di:not(#au)::after,.hh-tile .ti:not(#au)::after,.hh-recent a:not(#au)::after,.hh-steps .n i:not(#au)::after,.panel:not(#au)::after,.cmte:not(#au)::after,.steps li:not(#au)::after{content:none}
+  .hero h1:not(#au),.panel>h2:not(#au),.sec>h2:not(#au){background-image:none}
+}
+</style>
 </head>
 <body>
 <a class="dk-skip" href="#feed">ข้ามไปที่รายการการประชุม</a>
