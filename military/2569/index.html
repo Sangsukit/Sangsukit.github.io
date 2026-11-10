@@ -3023,6 +3023,26 @@ html:root[data-theme="dark"]{--lg-pattern:url("data:image/svg+xml,%3Csvg xmlns='
 @media (prefers-reduced-transparency:reduce),(prefers-contrast:more),print{
   html :is(.ov>summary,details.cl-legend,a.dg-help,.cx-tog,.pick-q){-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
   html :is(article.card,.stats)::before,html :is(article.card,.stats)::after{display:none!important}}
+@media (prefers-color-scheme:light){
+  html:root:not([data-theme="dark"]) body .hh-glass{background-color:rgba(255,255,255,.2);
+    background-image:linear-gradient(155deg,rgba(255,255,255,.5) 0%,rgba(255,255,255,.1) 26%,rgba(255,255,255,0) 50%,rgba(255,255,255,.06) 82%,rgba(255,255,255,.26) 100%);
+    box-shadow:inset 0 1.5px 0 rgba(255,255,255,.95),inset 1.5px 0 0 rgba(255,255,255,.55),inset 0 -1.5px 0 rgba(122,70,40,.14),inset 0 0 18px rgba(255,255,255,.42),0 1px 2px rgba(60,20,10,.06),0 14px 30px -20px rgba(60,20,10,.32);
+    -webkit-backdrop-filter:none;backdrop-filter:none}
+  html:root:not([data-theme="dark"]) body .hh-doors .hh-glass{background-color:rgba(255,255,255,.62);
+    -webkit-backdrop-filter:blur(10px) saturate(1.4);backdrop-filter:blur(10px) saturate(1.4)}}
+@media (prefers-color-scheme:dark){
+  html:root:not([data-theme="light"]) body .hh-glass{background-color:rgba(31,23,21,.48);
+    background-image:linear-gradient(155deg,rgba(255,255,255,.08) 0%,rgba(255,255,255,.02) 35%,rgba(255,255,255,0) 60%,rgba(255,255,255,.03) 100%);
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.13),inset 0 -1px 0 rgba(0,0,0,.4),inset 0 0 18px rgba(255,255,255,.03),0 1px 2px rgba(0,0,0,.4),0 14px 30px -18px rgba(0,0,0,.6);
+    -webkit-backdrop-filter:none;backdrop-filter:none}
+  html:root:not([data-theme="light"]) body .hh-doors .hh-glass{background-color:rgba(31,23,21,.66);
+    -webkit-backdrop-filter:blur(10px) saturate(1.3);backdrop-filter:blur(10px) saturate(1.3)}}
+@supports (background:paint(lg)){
+  html:root:not(.lg-lite) body .hh-glass:not(.hh-doors .hh-glass){-webkit-backdrop-filter:url(#lg-warp);backdrop-filter:url(#lg-warp)}
+  html:root:not(.lg-lite) body .hh-doors .hh-glass{-webkit-backdrop-filter:url(#lg-warp) blur(10px) saturate(1.4);backdrop-filter:url(#lg-warp) blur(10px) saturate(1.4)}}
+@media (prefers-reduced-transparency:reduce),(prefers-contrast:more){
+  html:root body .hh-glass{background:var(--paper)!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}}
+@media print{html:root body .hh-glass{background:#fff!important;box-shadow:none;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}}
 .hero-photo figcaption{background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.55) 32%,rgba(0,0,0,.82));text-shadow:0 1px 2px rgba(0,0,0,.55)}
 .play{background:linear-gradient(to top,rgba(0,0,0,.8),rgba(0,0,0,.38) 32%,transparent 58%)}
 .play .pl{text-shadow:0 1px 3px rgba(0,0,0,.65)}
