@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=wi9OHbMR_YaP-2dVzpY"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-water-v19pre.mp4",
+    "poster": "img/poster-sub-water-19pre.jpg",
+    "vtt": "media/sub-water-v19pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:40",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-19p",
+    "size": 4495420
+   },
+   "videos": [
+    {
+     "src": "media/sub-water-v19pre.mp4",
+     "poster": "img/poster-sub-water-19pre.jpg",
+     "vtt": "media/sub-water-v19pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:40",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-19p",
+     "size": 4495420
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 19/2569",
