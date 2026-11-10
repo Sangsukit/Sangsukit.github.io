@@ -26,14 +26,14 @@ ul{padding-left:1.2em;margin:0} li{margin:6px 0} a{color:#6E1A16}
 <h3>1. เว็บไซต์นี้คืออะไร</h3>
 <ul>
  <li>เว็บไซต์ "คลังการประชุม คณะกรรมาธิการการทหารและความมั่นคงของรัฐ วุฒิสภา ปี 2569" จัดทำโดย <b>คณะทำงานของ สว. โชติชัย บัวดิษ</b> เพื่อช่วยให้ประชาชนติดตามการประชุมได้สะดวก</li>
- <li><b>ไม่ใช่เว็บไซต์ทางการ</b>ของวุฒิสภาหรือสำนักงานเลขาธิการวุฒิสภา และไม่ใช่ความเห็นหรือมติของคณะกรรมาธิการ</li>
+ <li>ไม่ได้จัดทำในนามของวุฒิสภาหรือสำนักงานเลขาธิการวุฒิสภา และไม่ใช่ความเห็นหรือมติของคณะกรรมาธิการ</li>
 </ul>
 <h3>2. ข้อมูลใช้เพื่อการอ้างอิงเท่านั้น</h3>
 <ul>
  <li>บทสรุปเรียบเรียงและตัดทอนจากเอกสารที่เผยแพร่ต่อสาธารณะบนระบบของรัฐสภา เช่น สรุปผลการประชุม และหนังสือนัดประชุม ทุกครั้งมีลิงก์ไปยังเอกสารต้นฉบับ</li>
  <li>ใช้เฉพาะเอกสารที่สำนักงานเลขาธิการวุฒิสภาเผยแพร่ต่อประชาชนแล้ว ตามข้อบังคับการประชุมวุฒิสภา พ.ศ. 2562 ข้อ 104 ไม่ใช้ข้อมูลจากการประชุมลับหรือเอกสารที่ยังไม่เปิดเผย และไม่บันทึกภาพหรือเสียงในห้องประชุมเอง</li>
  <li><b>หากข้อความใดต่างจากเอกสารต้นฉบับ ให้ถือตามเอกสารต้นฉบับ</b></li>
- <li><b>ฉบับภาษาอังกฤษ</b> เป็นคำแปลที่ไม่เป็นทางการ จัดทำโดยใช้ AI ช่วยแปล เพื่อความสะดวกเท่านั้น หากความหมายต่างกัน ให้ถือตามฉบับภาษาไทยและเอกสารทางการของสำนักงานเลขาธิการวุฒิสภา</li>
+ <li><b>ฉบับภาษาอังกฤษ</b> เป็นคำแปลโดยใช้ AI ช่วย เพื่อความสะดวกเท่านั้น หากความหมายต่างกัน ให้ถือตามฉบับภาษาไทยและเอกสารทางการของสำนักงานเลขาธิการวุฒิสภา</li>
  <li>ข้อมูลอาจไม่ครบถ้วนหรือยังไม่เป็นปัจจุบัน และไม่ใช่คำแนะนำทางกฎหมาย โปรดตรวจสอบกับเอกสารทางการก่อนนำไปอ้างอิงหรือใช้ตัดสินใจ</li>
  <li>บทสรุปเรียบเรียงโดยคณะทำงานด้วยเครื่องมือ AI ช่วยเขียน และตรวจทานกับเอกสารต้นฉบับ วิดีโอใช้เสียงบรรยายสังเคราะห์ด้วย AI</li>
 </ul>
@@ -171,7 +171,7 @@ function sw(){const d=document.createElement("div");d.className="lang";d.setAttr
  d.innerHTML=GLOBE+'<span>ภาษา · Language</span><button type="button" data-lang="th" lang="th">ไทย</button><button type="button" data-lang="en" lang="en">English</button>';
  d.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>set(b.dataset.lang,true)));return d}
 function note(){const d=document.createElement("div");d.className="i18n-note";d.setAttribute("role","note");d.dataset.i18nSkip="1";d.lang="en";
- d.innerHTML='<b>English version (unofficial translation)</b>This English text is an unofficial translation made with the help of AI, for convenience only. If anything differs, the Thai text and the official documents of the Secretariat of the Senate prevail.<br><button type="button" lang="th">อ่านฉบับภาษาไทย (Read in Thai)</button>';
+ d.innerHTML='<b>English version (AI-assisted translation)</b>This English text is a translation made with the help of AI, for convenience only. If anything differs, the Thai text and the official documents of the Secretariat of the Senate prevail.<br><button type="button" lang="th">อ่านฉบับภาษาไทย (Read in Thai)</button>';
  d.querySelector("button").addEventListener("click",()=>set("th",true));return d}
 function init(){const fs=document.querySelectorAll(".fs");if(fs.length)fs.forEach(f=>f.after(sw()));else document.body.prepend(sw());
  const h=document.querySelector("header");if(h)h.after(note());else document.body.prepend(note());

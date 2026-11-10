@@ -5,14 +5,14 @@
 <link rel="preload" href="fonts/anuphan-var.woff2" as="font" type="font/woff2" crossorigin data-mb>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>คลังการประชุม คณะกรรมาธิการวุฒิสภา</title>
-<meta name="description" content="สรุปผลการประชุมของคณะกรรมาธิการวุฒิสภา แยกตามคณะและปี พร้อมลิงก์เอกสารทางการทุกครั้ง (เว็บไซต์ไม่เป็นทางการ)">
+<meta name="description" content="สรุปผลการประชุมของคณะกรรมาธิการวุฒิสภา แยกตามคณะและปี พร้อมลิงก์เอกสารทางการทุกครั้ง">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://sangsukit.github.io/">
 <meta property="og:title" content="คลังการประชุม คณะกรรมาธิการวุฒิสภา">
-<meta property="og:description" content="สรุปผลการประชุม แยกตามคณะและปี พร้อมลิงก์เอกสารทางการ · เว็บไซต์ไม่เป็นทางการ">
+<meta property="og:description" content="สรุปผลการประชุม แยกตามคณะและปี พร้อมลิงก์เอกสารทางการ">
 <meta property="og:image" content="https://sangsukit.github.io/img/og-hub.jpg">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="คลังการประชุม คณะกรรมาธิการวุฒิสภา · เว็บไซต์ไม่เป็นทางการ">
+<meta property="og:image:alt" content="คลังการประชุม คณะกรรมาธิการวุฒิสภา">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://sangsukit.github.io/img/og-hub.jpg">
 <meta name="theme-color" content="#4A0E0B">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml"><link rel="icon" href="img/favicon-32.png" sizes="32x32">
@@ -576,7 +576,7 @@ footer h4:not(#au){color:var(--gold-band-head)}
   <ul>
    <li>เว็บไซต์นี้ไม่ใช่เว็บไซต์ทางการของวุฒิสภา และไม่ได้จัดทำในนามของวุฒิสภาหรือคณะกรรมาธิการใด</li>
    <li>สรุปจากเอกสารที่เผยแพร่ต่อสาธารณะ เช่น หนังสือนัดประชุม ข่าวประชาสัมพันธ์ และบันทึกการประชุม หากข้อความต่างจากเอกสารทางการ ให้ถือตามเอกสารทางการ</li>
- <li><b>ฉบับภาษาอังกฤษ</b> เป็นคำแปลที่ไม่เป็นทางการ จัดทำโดยใช้ AI ช่วยแปล เพื่อความสะดวกเท่านั้น หากความหมายต่างกัน ให้ถือตามฉบับภาษาไทยและเอกสารทางการของสำนักงานเลขาธิการวุฒิสภา</li>
+ <li><b>ฉบับภาษาอังกฤษ</b> เป็นคำแปลโดยใช้ AI ช่วย เพื่อความสะดวกเท่านั้น หากความหมายต่างกัน ให้ถือตามฉบับภาษาไทยและเอกสารทางการของสำนักงานเลขาธิการวุฒิสภา</li>
    <li>แจ้งแก้ไขข้อมูล: <span id="contact">โปรดแจ้งผู้ที่ส่งลิงก์นี้ให้ท่าน</span></li>
    <li>ข้อตกลงการใช้งานของแต่ละคลังอยู่ในหน้าคลังนั้น · หน้านี้ไม่ใช้คุกกี้และไม่เก็บข้อมูลส่วนบุคคล (จำเพียงขนาดตัวอักษรและภาษาที่เลือกไว้ในเครื่องของท่าน)</li>
   </ul>
@@ -1856,7 +1856,7 @@ function sw(){const d=document.createElement("div");d.className="lang";d.setAttr
  d.innerHTML=GLOBE+'<span>ภาษา · Language</span><button type="button" data-lang="th" lang="th">ไทย</button><button type="button" data-lang="en" lang="en">English</button>';
  d.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>set(b.dataset.lang,true)));return d}
 function note(){const d=document.createElement("div");d.className="i18n-note";d.setAttribute("role","note");d.dataset.i18nSkip="1";d.lang="en";
- d.innerHTML='<b>English version (unofficial translation)</b>This English text is an unofficial translation made with the help of AI, for convenience only. If anything differs, the Thai text and the official documents of the Secretariat of the Senate prevail.<br><button type="button" lang="th">อ่านฉบับภาษาไทย (Read in Thai)</button>';
+ d.innerHTML='<b>English version (AI-assisted translation)</b>This English text is a translation made with the help of AI, for convenience only. If anything differs, the Thai text and the official documents of the Secretariat of the Senate prevail.<br><button type="button" lang="th">อ่านฉบับภาษาไทย (Read in Thai)</button>';
  d.querySelector("button").addEventListener("click",()=>set("th",true));return d}
 function init(){const fs=document.querySelectorAll(".fs");if(fs.length)fs.forEach(f=>f.after(sw()));else document.body.prepend(sw());
  const h=document.querySelector("header");if(h)h.after(note());else document.body.prepend(note());
