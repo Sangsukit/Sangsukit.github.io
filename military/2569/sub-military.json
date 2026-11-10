@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=F0qz80ikEMzAb6U-50I"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-military-v31pre.mp4",
+    "poster": "img/poster-sub-military-31pre.jpg",
+    "vtt": "media/sub-military-v31pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:36",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "military-31p",
+    "size": 6258051
+   },
+   "videos": [
+    {
+     "src": "media/sub-military-v31pre.mp4",
+     "poster": "img/poster-sub-military-31pre.jpg",
+     "vtt": "media/sub-military-v31pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:36",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "military-31p",
+     "size": 6258051
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 31/2569",
