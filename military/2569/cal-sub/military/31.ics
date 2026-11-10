@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//military-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:military-2569-military-m31@sangsukit.github.io
+DTSTAMP:20261109T203312Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รด้านกิจการทหาร (วุฒิสภา) 
+ ครั้งที่ 31/2569
+LOCATION:ห้องประชุมกรรมาธิการ CA 
+ 321 ชั้น 3 อาคารรัฐสภา (สัปปาย
+ ะสภาสถาน 1111 ถนนสามเสน เขตด
+ ุสิต กรุงเทพมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://sangsukit.github.io/military/2569/sub-
+ military.html#read-31
+URL:https://sangsukit.github.io/military/2569/sub-military.html#read-31
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารด้านกิจการทหาร (วุฒิสภา)
+  ครั้งที่ 31/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

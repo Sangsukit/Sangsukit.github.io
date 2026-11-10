@@ -26,14 +26,14 @@ ul{padding-left:1.2em;margin:0} li{margin:6px 0} a{color:#6E1A16}
 <h3>1. เว็บไซต์นี้คืออะไร</h3>
 <ul>
  <li>เว็บไซต์ "คลังการประชุม คณะกรรมาธิการการเกษตรและสหกรณ์ วุฒิสภา ปี 2569" จัดทำโดย <b>คณะทำงานของ สว. โชติชัย บัวดิษ</b> เพื่อช่วยให้ประชาชนติดตามการประชุมได้สะดวก</li>
- <li><b>ไม่ใช่เว็บไซต์ทางการ</b>ของวุฒิสภาหรือสำนักงานเลขาธิการวุฒิสภา และไม่ใช่ความเห็นหรือมติของคณะกรรมาธิการ</li>
+ <li>ไม่ได้จัดทำในนามของวุฒิสภาหรือสำนักงานเลขาธิการวุฒิสภา และไม่ใช่ความเห็นหรือมติของคณะกรรมาธิการ</li>
 </ul>
 <h3>2. ข้อมูลใช้เพื่อการอ้างอิงเท่านั้น</h3>
 <ul>
  <li>บทสรุปเรียบเรียงและตัดทอนจากเอกสารที่เผยแพร่ต่อสาธารณะบนระบบของรัฐสภา เช่น สรุปผลการประชุม และหนังสือนัดประชุม ทุกครั้งมีลิงก์ไปยังเอกสารต้นฉบับ</li>
  <li>ใช้เฉพาะเอกสารที่สำนักงานเลขาธิการวุฒิสภาเผยแพร่ต่อประชาชนแล้ว ตามข้อบังคับการประชุมวุฒิสภา พ.ศ. 2562 ข้อ 104 ไม่ใช้ข้อมูลจากการประชุมลับหรือเอกสารที่ยังไม่เปิดเผย และไม่บันทึกภาพหรือเสียงในห้องประชุมเอง</li>
  <li><b>หากข้อความใดต่างจากเอกสารต้นฉบับ ให้ถือตามเอกสารต้นฉบับ</b></li>
- <li><b>ฉบับภาษาอังกฤษ</b> เป็นคำแปลที่ไม่เป็นทางการ จัดทำโดยใช้ AI ช่วยแปล เพื่อความสะดวกเท่านั้น หากความหมายต่างกัน ให้ถือตามฉบับภาษาไทยและเอกสารทางการของสำนักงานเลขาธิการวุฒิสภา</li>
+ <li><b>ฉบับภาษาอังกฤษ</b> เป็นคำแปลโดยใช้ AI ช่วย เพื่อความสะดวกเท่านั้น หากความหมายต่างกัน ให้ถือตามฉบับภาษาไทยและเอกสารทางการของสำนักงานเลขาธิการวุฒิสภา</li>
  <li>ข้อมูลอาจไม่ครบถ้วนหรือยังไม่เป็นปัจจุบัน และไม่ใช่คำแนะนำทางกฎหมาย โปรดตรวจสอบกับเอกสารทางการก่อนนำไปอ้างอิงหรือใช้ตัดสินใจ</li>
  <li>บทสรุปเรียบเรียงโดยคณะทำงานด้วยเครื่องมือ AI ช่วยเขียน และตรวจทานกับเอกสารต้นฉบับ วิดีโอใช้เสียงบรรยายสังเคราะห์ด้วย AI</li>
 </ul>
@@ -163,7 +163,7 @@ function sync(){document.querySelectorAll(".lang button").forEach(b=>b.setAttrib
 function load(){if(dict)return Promise.resolve(dict);return fetch(DICT_URL,{cache:"no-cache"}).then(r=>r.ok?r.json():{}).catch(()=>({})).then(d=>dict=d)}
 function set(l,save){if(save){try{localStorage.setItem(KEY,l)}catch(e){}}
  if(l==="en"){lang="en";return load().then(()=>{apply();document.documentElement.classList.remove("i18n-wait")})}
- if(lang==="en"){try{const u=new URL(location.href);u.searchParams.delete("lang");location.replace(u.href)}catch(e){location.reload()}return}
+ if(lang==="en"){try{const u=new URL(location.href);u.searchParams.delete("lang");if(u.href===location.href)location.reload();else location.replace(u.href)}catch(e){location.reload()}return}
  lang="th";document.documentElement.classList.remove("i18n-wait");sync()}
 window.__i18n_set=set;
 // the switch: next to every "ขนาดตัวอักษร" control (header, entry screen), or at the top when a page has none
@@ -171,11 +171,12 @@ function sw(){const d=document.createElement("div");d.className="lang";d.setAttr
  d.innerHTML=GLOBE+'<span>ภาษา · Language</span><button type="button" data-lang="th" lang="th">ไทย</button><button type="button" data-lang="en" lang="en">English</button>';
  d.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>set(b.dataset.lang,true)));return d}
 function note(){const d=document.createElement("div");d.className="i18n-note";d.setAttribute("role","note");d.dataset.i18nSkip="1";d.lang="en";
- d.innerHTML='<b>English version (unofficial translation)</b>This English text is an unofficial translation made with the help of AI, for convenience only. If anything differs, the Thai text and the official documents of the Secretariat of the Senate prevail.<br><button type="button" lang="th">อ่านฉบับภาษาไทย (Read in Thai)</button>';
+ d.innerHTML='<b>English version (AI-assisted translation)</b>This English text is a translation made with the help of AI, for convenience only. If anything differs, the Thai text and the official documents of the Secretariat of the Senate prevail.<br><button type="button" lang="th">อ่านฉบับภาษาไทย (Read in Thai)</button>';
  d.querySelector("button").addEventListener("click",()=>set("th",true));return d}
 function init(){const fs=document.querySelectorAll(".fs");if(fs.length)fs.forEach(f=>f.after(sw()));else document.body.prepend(sw());
  const h=document.querySelector("header");if(h)h.after(note());else document.body.prepend(note());
  const g=document.querySelector(".gate .lang");if(g)g.after(note());
+ try{const u=new URL(location.href),q=u.searchParams.get("lang");if(q==="en"||q==="th"){localStorage.setItem(KEY,q);u.searchParams.delete("lang");history.replaceState(history.state,"",u.href)}}catch(e){}
  let l="th";try{l=new URLSearchParams(location.search).get("lang")||localStorage.getItem(KEY)||"th"}catch(e){}
  if(l==="en")set("en",false);else{document.documentElement.classList.remove("i18n-wait");sync()}}
 // read-aloud and share in English
@@ -184,6 +185,9 @@ if(window.speechSynthesis){const sp=speechSynthesis.speak.bind(speechSynthesis);
 if(navigator.share){const ns=navigator.share.bind(navigator);navigator.share=o=>{if(lang==="en"&&o){o=Object.assign({},o);if(o.title)o.title=tr(o.title)??o.title;if(o.text)o.text=tr(o.text)??o.text;if(o.url)o.url=addLang(o.url)}return ns(o)}}
 if(navigator.clipboard&&navigator.clipboard.writeText){const cw=navigator.clipboard.writeText.bind(navigator.clipboard);navigator.clipboard.writeText=s=>{if(lang==="en"&&typeof s==="string"){s=(tr(s)??s).replace(/https?:\/\/\S+/g,u=>addLang(u))}return cw(s)}}
 try{const l=new URLSearchParams(location.search).get("lang")||localStorage.getItem(KEY);if(l==="en"){document.documentElement.classList.add("i18n-wait");setTimeout(()=>document.documentElement.classList.remove("i18n-wait"),3500)}}catch(e){}
+// back/forward: a page kept in memory follows the language chosen last (on another page)
+addEventListener("pageshow",e=>{if(!e.persisted)return;let s="th";try{s=localStorage.getItem(KEY)||"th"}catch(x){}
+ if(s==="en"&&lang!=="en")set("en",false);else if(s!=="en"&&lang==="en")location.reload()});
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
 })();
 </script>
