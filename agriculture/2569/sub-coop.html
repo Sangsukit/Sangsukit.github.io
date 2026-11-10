@@ -29,29 +29,179 @@
 @font-face{font-family:"Anuphan";src:local("Anuphan"),url(fonts/anuphan-var.woff2) format("woff2");font-weight:100 700;font-style:normal;font-display:swap}
 /* Layout: a "docket" archive. Sticky search bar, year overview, then one docket card per meeting, newest first.
    Each card opens a full "read more" sheet; Reels mode is a vertical, snap-scrolling stack of the same meetings. */
+/*BRAND-TOKENS*/
 :root{
-  /* Palette inspired by the Thai Parliament and Senate: deep maroon, gold, warm cream; Thai flag colours as accents.
-     "--teal" is the historical name of the primary colour variable (now maroon). No emblem or official logo is used. */
-  --bg:#F7F3EC; --paper:#FFFFFF; --ink:#22170F; --muted:#5B4C3F; --line:#E4D9C7;
-  --teal:#6E1A16; --teal-soft:#F7E8E4; --gold:#7A5C22; --gold-soft:#F5ECDB; --hl:#F3DE9C;
-  --warn:#8A4B12; --warn-soft:#FCEFD9; --on-teal:#FFFFFF; --shade:rgba(34,14,10,.58);
-  --maroon:#6E1A16; --maroon-deep:#4A0E0B; --gold-deco:#C9A55A; --gold-pale:#F1DFB4;
-  --flag-red:#A51931; --flag-white:#F4F5F8; --navy:#2D2A4A;
-  --f-display:"Sukhumvit Set","Anuphan","Noto Sans Thai","Leelawadee UI",Tahoma,system-ui,sans-serif;
-  --f-body:"Sukhumvit Set","Anuphan","Noto Sans Thai","Leelawadee UI",Tahoma,system-ui,sans-serif;
-  --f-mono:"Sukhumvit Set","Anuphan","Noto Sans Thai","Leelawadee UI",Tahoma,system-ui,sans-serif;
-  --r:10px; --gut:max(16px,env(safe-area-inset-left,0px)); --gutr:max(16px,env(safe-area-inset-right,0px));
-}
+--flag-red:#A51931;
+--flag-white:#F4F5F8;
+--navy:#2D2A4A;
+--flag-ribbon:linear-gradient(180deg,#A51931 0 16.67%,#F4F5F8 16.67% 33.33%,#2D2A4A 33.33% 66.67%,#F4F5F8 66.67% 83.33%,#A51931 83.33% 100%);
+--band:linear-gradient(100deg,#4A0E0B 0%,#6E1A16 58%,#7E2B1F 100%);
+--band-foot:linear-gradient(180deg,#4A0E0B,#2E0907);
+--f-display:"Sukhumvit Set","Anuphan","Noto Sans Thai","Leelawadee UI",Tahoma,system-ui,sans-serif;
+--f-body:"Sukhumvit Set","Anuphan","Noto Sans Thai","Leelawadee UI",Tahoma,system-ui,sans-serif;
+--f-mono:"Sukhumvit Set","Anuphan","Noto Sans Thai","Leelawadee UI",Tahoma,system-ui,sans-serif;
+--r:10px;
+--r-card:14px;
+--r-door:24px;
+--r-pill:999px;
+--tap:48px;
+--ease-out:cubic-bezier(.16,1,.3,1);
+--ease-in:cubic-bezier(.5,0,.75,0);
+--spring:cubic-bezier(.34,1.4,.64,1);
+--ease-breathe:cubic-bezier(.37,0,.63,1);
+--dur-tap:200ms;
+--dur-toggle:250ms;
+--dur-fade:300ms;
+--dur-sheet:450ms;
+--dur-reveal:600ms;
+--dur-photo-zoom:1400ms;
+--lg-blur:blur(1.5px) saturate(170%) brightness(1.03);
+--lg-blur-soft:blur(2px) saturate(150%) brightness(1.02);
+--lg-blur-bar:blur(16px) saturate(180%) brightness(1.04);
+--gold-band-metal:linear-gradient(90deg,#8A6A2B 0%,#C9A55A 18%,#F6E7C1 50%,#C9A55A 82%,#8A6A2B 100%);
+--gold-band-rim:linear-gradient(135deg,#C9A55A 0%,#F6E7C1 35%,#C9A55A 65%,#E9C987 100%);
+--gold-band-head:#E9C987;
+--gold-line:2px;
+--gold-rim-w:1.5px;
+--dur-glint:600ms;
+--bg:#F7F3EC;
+--paper:#FFFFFF;
+--ink:#22170F;
+--muted:#5B4C3F;
+--line:#E4D9C7;
+--teal:#6E1A16;
+--teal-soft:#F7E8E4;
+--on-teal:#FFFFFF;
+--gold:#7A5C22;
+--gold-soft:#F5ECDB;
+--hl:#F3DE9C;
+--warn:#8A4B12;
+--warn-soft:#FCEFD9;
+--shade:rgba(34,14,10,.58);
+--maroon:#6E1A16;
+--maroon-deep:#4A0E0B;
+--gold-deco:#C9A55A;
+--gold-pale:#F1DFB4;
+--c-sub:#5A4FA0;--c-sub-s:#ECEAF8;
+--c-complaint:#1F5FA8;--c-complaint-s:#E4EEF9;
+--c-seminar:#82367A;--c-seminar-s:#F5E7F3;
+--c-visit:#1B6E45;--c-visit-s:#E1F2E8;
+--c-appoint:#4B5563;--c-appoint-s:#ECEEF1;
+--c-disaster:#8F4D00;--c-disaster-s:#FBEEDB;
+--c-law:#6B5A1E;--c-law-s:#F3EFDF;
+--c-bill:#0E6A6C;--c-bill-s:#DDF1F1;
+--c-water:#0A648C;--c-water-s:#DCEFF8;
+--c-other:#6E1A16;--c-other-s:#F7E8E4;
+--c-up:#2D2A4A;--c-up-on:#FFFFFF;--c-on:#FFFFFF;
+--lg-fill:rgba(255,255,255,.10);
+--lg-fill-hi:rgba(255,255,255,.34);
+--lg-bar:rgba(250,246,239,.42);
+--lg-panel:rgba(255,255,255,.20);
+--lg-edge:rgba(110,26,22,.16);
+--lg-shadow:0 1px 2px rgba(60,20,10,.08),0 8px 22px -6px rgba(60,20,10,.16);
+--lg-shadow-lift:0 2px 4px rgba(60,20,10,.1),0 14px 30px -8px rgba(60,20,10,.22);
+--lg-bloom-a:rgba(201,165,90,.26);
+--lg-bloom-b:rgba(110,26,22,.08);
+--lg-bloom-c:rgba(45,42,74,.06);
+--lg-pattern-o:0.22;
+--gold-metal:linear-gradient(90deg,#8A6A2B 0%,#C9A55A 24%,#F1DFB4 50%,#C9A55A 76%,#8A6A2B 100%);
+--gold-rim:linear-gradient(135deg,#C9A55A 0%,#F6E7C1 30%,#E2BE76 52%,#C9A55A 74%,#F1DFB4 100%);
+--gold-foil:linear-gradient(160deg,#F6E7C1 0%,#E2BE76 46%,#C9A55A 100%);
+--gold-foil-ink:#22170F;
+--gold-solid:#8A6A2B}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
-  --bg:#140E0D; --paper:#1F1715; --ink:#F3EBE3; --muted:#CDBFB2; --line:#3B2E2A;
-  --teal:#E2BE76; --teal-soft:#3A2C1C; --gold:#E9C987; --gold-soft:#33281A; --hl:#5B4A14;
-  --warn:#F0B070; --warn-soft:#33220F; --on-teal:#1A110E; --shade:rgba(0,0,0,.62);
-  --maroon:#4A100D; --maroon-deep:#2E0907; --gold-deco:#C9A55A; --gold-pale:#5A4826; color-scheme:dark}}
+--bg:#140E0D;
+--paper:#1F1715;
+--ink:#F3EBE3;
+--muted:#CDBFB2;
+--line:#3B2E2A;
+--teal:#E2BE76;
+--teal-soft:#3A2C1C;
+--on-teal:#1A110E;
+--gold:#E9C987;
+--gold-soft:#33281A;
+--hl:#5B4A14;
+--warn:#F0B070;
+--warn-soft:#33220F;
+--shade:rgba(0,0,0,.62);
+--maroon:#4A100D;
+--maroon-deep:#2E0907;
+--gold-deco:#C9A55A;
+--gold-pale:#5A4826;
+--c-sub:#B9B1F0;--c-sub-s:#25223A;
+--c-complaint:#8FB9EE;--c-complaint-s:#1A2638;
+--c-seminar:#E0A3D6;--c-seminar-s:#33202F;
+--c-visit:#8ED3AC;--c-visit-s:#172D22;
+--c-appoint:#C3CAD5;--c-appoint-s:#262A31;
+--c-disaster:#F2BE78;--c-disaster-s:#36260F;
+--c-law:#D9C88A;--c-law-s:#2E2914;
+--c-bill:#84D2D1;--c-bill-s:#142E2E;
+--c-water:#8DCDEE;--c-water-s:#142A36;
+--c-other:#E2BE76;--c-other-s:#3A2C1C;
+--c-up:#C9C6EE;--c-up-on:#1A110E;--c-on:#1A110E;
+--lg-fill:rgba(42,31,28,.26);
+--lg-fill-hi:rgba(48,36,32,.48);
+--lg-bar:rgba(26,19,17,.52);
+--lg-panel:rgba(31,23,21,.50);
+--lg-edge:rgba(233,201,135,.22);
+--lg-shadow:0 1px 2px rgba(0,0,0,.4),0 8px 22px -6px rgba(0,0,0,.5);
+--lg-shadow-lift:0 2px 4px rgba(0,0,0,.45),0 14px 30px -8px rgba(0,0,0,.6);
+--lg-bloom-a:rgba(201,165,90,.10);
+--lg-bloom-b:rgba(165,25,49,.08);
+--lg-bloom-c:rgba(90,86,140,.07);
+--lg-pattern-o:0.2;
+--gold-metal:linear-gradient(90deg,#B08A45 0%,#E2BE76 24%,#F6E7C1 50%,#E2BE76 76%,#B08A45 100%);
+--gold-rim:linear-gradient(135deg,#8A6A2B 0%,#C9A55A 30%,#F6E7C1 52%,#C9A55A 74%,#8A6A2B 100%);
+--gold-foil:linear-gradient(160deg,#F6E7C1 0%,#E2BE76 46%,#C9A55A 100%);
+--gold-foil-ink:#22170F;
+--gold-solid:#E2BE76;color-scheme:dark}}
 :root[data-theme="dark"]{
-  --bg:#140E0D; --paper:#1F1715; --ink:#F3EBE3; --muted:#CDBFB2; --line:#3B2E2A;
-  --teal:#E2BE76; --teal-soft:#3A2C1C; --gold:#E9C987; --gold-soft:#33281A; --hl:#5B4A14;
-  --warn:#F0B070; --warn-soft:#33220F; --on-teal:#1A110E; --shade:rgba(0,0,0,.62);
-  --maroon:#4A100D; --maroon-deep:#2E0907; --gold-deco:#C9A55A; --gold-pale:#5A4826; color-scheme:dark}
+--bg:#140E0D;
+--paper:#1F1715;
+--ink:#F3EBE3;
+--muted:#CDBFB2;
+--line:#3B2E2A;
+--teal:#E2BE76;
+--teal-soft:#3A2C1C;
+--on-teal:#1A110E;
+--gold:#E9C987;
+--gold-soft:#33281A;
+--hl:#5B4A14;
+--warn:#F0B070;
+--warn-soft:#33220F;
+--shade:rgba(0,0,0,.62);
+--maroon:#4A100D;
+--maroon-deep:#2E0907;
+--gold-deco:#C9A55A;
+--gold-pale:#5A4826;
+--c-sub:#B9B1F0;--c-sub-s:#25223A;
+--c-complaint:#8FB9EE;--c-complaint-s:#1A2638;
+--c-seminar:#E0A3D6;--c-seminar-s:#33202F;
+--c-visit:#8ED3AC;--c-visit-s:#172D22;
+--c-appoint:#C3CAD5;--c-appoint-s:#262A31;
+--c-disaster:#F2BE78;--c-disaster-s:#36260F;
+--c-law:#D9C88A;--c-law-s:#2E2914;
+--c-bill:#84D2D1;--c-bill-s:#142E2E;
+--c-water:#8DCDEE;--c-water-s:#142A36;
+--c-other:#E2BE76;--c-other-s:#3A2C1C;
+--c-up:#C9C6EE;--c-up-on:#1A110E;--c-on:#1A110E;
+--lg-fill:rgba(42,31,28,.26);
+--lg-fill-hi:rgba(48,36,32,.48);
+--lg-bar:rgba(26,19,17,.52);
+--lg-panel:rgba(31,23,21,.50);
+--lg-edge:rgba(233,201,135,.22);
+--lg-shadow:0 1px 2px rgba(0,0,0,.4),0 8px 22px -6px rgba(0,0,0,.5);
+--lg-shadow-lift:0 2px 4px rgba(0,0,0,.45),0 14px 30px -8px rgba(0,0,0,.6);
+--lg-bloom-a:rgba(201,165,90,.10);
+--lg-bloom-b:rgba(165,25,49,.08);
+--lg-bloom-c:rgba(90,86,140,.07);
+--lg-pattern-o:0.2;
+--gold-metal:linear-gradient(90deg,#B08A45 0%,#E2BE76 24%,#F6E7C1 50%,#E2BE76 76%,#B08A45 100%);
+--gold-rim:linear-gradient(135deg,#8A6A2B 0%,#C9A55A 30%,#F6E7C1 52%,#C9A55A 74%,#8A6A2B 100%);
+--gold-foil:linear-gradient(160deg,#F6E7C1 0%,#E2BE76 46%,#C9A55A 100%);
+--gold-foil-ink:#22170F;
+--gold-solid:#E2BE76;color-scheme:dark}
+:root{--gut:max(16px,env(safe-area-inset-left,0px));--gutr:max(16px,env(safe-area-inset-right,0px))}
 
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:1rem;line-height:1.75}
