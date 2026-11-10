@@ -46,7 +46,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=iAB0NaEKC02ps5e94nk"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-livestock-v18.mp4",
+    "poster": "img/poster-sub-livestock-18.jpg",
+    "vtt": "media/sub-livestock-v18.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:14",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "livestock-18",
+    "size": 5787870
+   },
+   "videos": [
+    {
+     "src": "media/sub-livestock-v18.mp4",
+     "poster": "img/poster-sub-livestock-18.jpg",
+     "vtt": "media/sub-livestock-v18.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:14",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "livestock-18",
+     "size": 5787870
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 18/2569",
@@ -82,7 +107,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3RYdNBrzsjxDu1VHxcE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-livestock-v17.mp4",
+    "poster": "img/poster-sub-livestock-17.jpg",
+    "vtt": "media/sub-livestock-v17.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:06",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "livestock-17",
+    "size": 5698018
+   },
+   "videos": [
+    {
+     "src": "media/sub-livestock-v17.mp4",
+     "poster": "img/poster-sub-livestock-17.jpg",
+     "vtt": "media/sub-livestock-v17.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "livestock-17",
+     "size": 5698018
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 17/2569",
