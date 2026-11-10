@@ -1071,7 +1071,38 @@ footer h4:not(#au){color:var(--gold-band-head)}
   .hero h1:not(#au),.panel>h2:not(#au),.sec>h2:not(#au){background-image:none}
 }
 </style>
-<style id="foot-credit">.footer-credit .unofficial,.f-credit .unofficial{display:inline-flex;align-items:center;gap:6px;font-weight:700;padding:4px 12px;border-radius:999px;border:1.5px solid currentColor;line-height:1.4}.footer-credit .unofficial .ico,.f-credit .unofficial .ico{width:1.05em;height:1.05em}</style></head>
+<style id="foot-credit">.footer-credit .unofficial,.f-credit .unofficial{display:inline-flex;align-items:center;gap:6px;font-weight:700;padding:4px 12px;border-radius:999px;border:1.5px solid currentColor;line-height:1.4}.footer-credit .unofficial .ico,.f-credit .unofficial .ico{width:1.05em;height:1.05em}</style><!--SEARCH-->
+<style id="sq-css">
+/* ── SMART SEARCH (search.py, thread "Site: Make search easier and faster", Sukit 10 Nov 2569 "optimize the search", "make it smart") ──
+   Suggestions under the search box, people box, friendly "not found yet" box, voice button. Big tap targets (48 px),
+   site colours only, motion follows the four rules (entrance ease-out, nothing linear), calm when Reduce Motion is on. */
+.sq-sug{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:8px 0 2px}
+.sq-sug[hidden]{display:none}
+.sq-sug .sq-l{font-size:.95rem;color:var(--muted);flex:none}
+.sq-sug .chip,.sq-empty .chip{min-height:48px;max-width:100%;white-space:normal;text-align:left}
+.sq-sug .chip small,.sq-empty .chip small{color:var(--muted);font-size:.85em;margin-left:2px}
+.sq-anim{animation:sq-in .32s var(--ease-out,cubic-bezier(.22,1,.36,1)) both}
+@keyframes sq-in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.sq-mic{flex:none;min-width:48px;min-height:48px;border-radius:99px;border:1px solid var(--line);background:var(--paper);color:var(--ink);display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:0 14px;font:inherit;font-size:.95rem;cursor:pointer}
+.sq-mic svg{width:22px;height:22px}
+.sq-mic.on{border-color:var(--maroon,#7a1f2b);color:var(--maroon,#7a1f2b);animation:sq-breathe 1.4s var(--ease-breathe,cubic-bezier(.45,0,.55,1)) infinite alternate}
+@keyframes sq-breathe{from{box-shadow:0 0 0 0 rgba(122,31,43,.25)}to{box-shadow:0 0 0 8px rgba(122,31,43,0)}}
+.sq-note{display:block;width:100%;font-size:.95rem;color:var(--ink);margin-top:2px}
+.sq-people{margin:4px 0 14px;padding:14px 16px;border:1px solid var(--line);border-radius:var(--r,16px);background:var(--paper)}
+.sq-people h3{margin:0 0 10px;font-size:1.05rem}
+.sq-people ul{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.sq-people li a{display:flex;gap:12px;align-items:center;min-height:56px;color:inherit;text-decoration:none;border-radius:12px;padding:4px}
+.sq-people img{width:52px;height:52px;border-radius:50%;object-fit:cover;object-position:50% 20%;flex:none;background:var(--line)}
+.sq-people b{display:block}
+.sq-people span span{display:block;color:var(--muted);font-size:.95rem}
+.sq-empty{padding:28px 16px;text-align:center;color:var(--ink)}
+.sq-empty p{margin:0 0 10px}
+.sq-empty .sq-q{font-weight:700}
+.sq-empty .sq-row{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin:6px 0 16px}
+.sq-empty .sq-h{color:var(--muted);font-size:.95rem;margin:12px 0 4px}
+@media (prefers-reduced-motion:reduce){.sq-anim,.sq-mic.on{animation:none}}
+</style>
+</head>
 <body>
 <a class="dk-skip" href="#feed">ข้ามไปที่รายการการประชุม</a>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -1495,7 +1526,7 @@ function card(m){
  </article>`;
 }
 function render(){
- const list=DATA.filter(matches);
+ const list=window.SQ?SQ.list():DATA.filter(matches);
  const filtered=!!(S.q||S.tag||S.era||S.mo>=0);
  const endRow=!list.length?"":filtered?`<div class="feed-end"><b>สิ้นสุดผลการค้นหา</b><button class="btn" type="button" data-top>${icon("up")}กลับขึ้นบนสุด</button></div>`
   :`<div class="feed-end full"><span class="fl" aria-hidden="true"></span><b>ถึงการประชุมครั้งแรกของปี 2567 แล้ว</b><span>ท่านดูครบทั้ง ${list.length} รายการ</span><button class="btn" type="button" data-top>${icon("up")}กลับขึ้นบนสุด</button></div>`;
@@ -3042,6 +3073,198 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
  }
  if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",function(){setTimeout(build,0)});else setTimeout(build,0);
  window.addEventListener("load",build);
+})();
+</script>
+<script id="sq-js">
+/* SMART SEARCH: Thai-aware matching on top of the page's own search (same DATA, same S state, same render).
+   - spaces, dots, Thai digits and zero-width marks ignored ("ส.ว." = "สว" = "สว."; "๓๕" = "35")
+   - abbreviations and topic words find each other (กมธ. / กรรมาธิการ, พ.ร.บ. / พระราชบัญญัติ, กทม. / กรุงเทพมหานคร, น้ำท่วม / อุทกภัย ...)
+   - a whole Thai phrase typed without spaces is split into words ("น้ำท่วมน่าน" finds meetings with both words)
+   - small spelling slips and sound-alike letters still find the meeting (ศ/ษ/ส, ณ/น, missing tone marks, one wrong letter)
+   - "ครั้งที่ 35", "35/2569", month names and short forms (พ.ย.), "ครั้งหน้า", "วิดีโอ" are understood
+   - suggestions under the box as you type, a box of matching people (names as published by the Senate), a friendly
+     "not found yet" box with nearby words, Enter closes the phone keyboard and jumps to the results, ?q= links
+   - optional voice button where the browser supports Thai speech input */
+(()=>{
+if(typeof DATA==="undefined"||typeof S==="undefined"||!document.getElementById("q"))return;
+const $q=document.getElementById("q");
+const M0=matches; // the page's own filter (topic, chair period, month); used with the words left out
+const n0=s=>String(s==null?"":s).normalize("NFC").toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​-‍﻿]+/g,"");
+const PUN=/[.\-–—_\/()“”"'‘’,:;!?ฯ]+/g;
+const nd=s=>n0(s).replace(PUN,"");
+const FM={"ศ":"ส","ษ":"ส","ซ":"ส","ณ":"น","ฎ":"ด","ฏ":"ต","ฐ":"ท","ฑ":"ท","ฒ":"ท","ธ":"ท","ถ":"ท","ภ":"พ","ผ":"พ","ฆ":"ค","ข":"ค","ฃ":"ค","ฅ":"ค","ฬ":"ล","ญ":"ย","ฝ":"ฟ","ฉ":"ช","ฌ":"ช"};
+const MARK=/[็-๎]/; // tone marks, karan
+/* fold: sound-alike letters, no tone marks, no dots/spaces. Returns [folded, map to positions in the n0 text] */
+function foldMap(t){let o="",map=[];for(let i=0;i<t.length;i++){const c=t[i];if(MARK.test(c)||PUN.test(c)){PUN.lastIndex=0;continue}PUN.lastIndex=0;o+=FM[c]||c;map.push(i)}return [o,map]}
+const fold=s=>foldMap(n0(s))[0];
+/* words that find each other (abbreviation forms keep their dots so "สว" never matches inside "สวัสดิการ") */
+const GR=[["ส.ว.","สว.","สมาชิกวุฒิสภา"],["ส.ส.","สส.","สมาชิกสภาผู้แทนราษฎร"],["กมธ.","กรรมาธิการ"],["อนุ กมธ.","อนุกมธ.","อนุฯ","อนุกรรมาธิการ"],
+["กทม.","กรุงเทพมหานคร","กรุงเทพฯ"],["โคราช","นครราชสีมา"],["พ.ร.บ.","พรบ.","พระราชบัญญัติ"],["พ.ร.ก.","พระราชกำหนด"],["พ.ร.ฎ.","พระราชกฤษฎีกา"],
+["ครม.","คณะรัฐมนตรี"],["รพ.","รพ.สต.","โรงพยาบาล"],["ร.ร.","รร.","โรงเรียน"],["อปท.","องค์กรปกครองส่วนท้องถิ่น"],["อบต.","องค์การบริหารส่วนตำบล"],
+["อบจ.","องค์การบริหารส่วนจังหวัด"],["ป.ป.ช.","ปปช.","ป้องกันและปราบปรามการทุจริตแห่งชาติ"],["ป.ป.ท.","ปปท."],["สตง.","ตรวจเงินแผ่นดิน"],
+["กกต.","คณะกรรมการการเลือกตั้ง"],["ก.พ.","ข้าราชการพลเรือน"],["ก.พ.ร.","พัฒนาระบบราชการ"],["ปภ.","ป้องกันและบรรเทาสาธารณภัย"],
+["สผ.","นโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม"],["มท.","มหาดไทย"],["สธ.","สาธารณสุข"],["ศธ.","ศึกษาธิการ"],["คค.","คมนาคม"],["กห.","กลาโหม"],
+["ทบ.","กองทัพบก"],["ทร.","กองทัพเรือ"],["ทอ.","กองทัพอากาศ"],["กอ.รมน.","รักษาความมั่นคงภายใน"],["กษ.","เกษตรและสหกรณ์"],["ธ.ก.ส.","ธกส.","ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร"],
+["ส.ป.ก.","สปก.","ปฏิรูปที่ดินเพื่อเกษตรกรรม"],["ตร.","ตำรวจแห่งชาติ"],["ศอ.บต.","ศูนย์อำนวยการบริหารจังหวัดชายแดนภาคใต้"],["สปสช.","หลักประกันสุขภาพแห่งชาติ","บัตรทอง"],
+["สพฐ.","การศึกษาขั้นพื้นฐาน"],["อสม.","อาสาสมัครสาธารณสุข"],["ปปส.","ป.ป.ส.","ยาเสพติด"],
+["น้ำท่วม","อุทกภัย","ท่วม"],["ภัยแล้ง","แล้ง","ขาดแคลนน้ำ"],["ไฟไหม้","เพลิงไหม้","อัคคีภัย"],["ร้องเรียน","ข้อร้องเรียน","ร้องทุกข์"],
+["ดูงาน","ลงพื้นที่","ศึกษาดูงาน"],["โฉนด","ที่ดิน"],["ทุจริต","คอร์รัปชัน","คอรัปชั่น"],["ฝุ่น","pm2.5","หมอกควัน"],["ยาเสพติด","ยาบ้า"],
+["ข้าราชการ","บุคลากรภาครัฐ"],["ร่างกฎหมาย","ร่าง พ.ร.บ.","ร่างพระราชบัญญัติ"],["ภัยพิบัติ","สาธารณภัย"]];
+const GK=new Map();GR.forEach(g=>g.forEach(w=>{const k=nd(w);if(!GK.has(k))GK.set(k,g)}));
+const STOP=new Set(["การประชุม","ประชุม","เรื่อง","เรื่องที่","เกี่ยวกับ","ค้นหา","หา","ขอ","อยากรู้","อยากทราบ","ของ","ที่","ใน","และ","กับ","หรือ","ได้","มี","บ้าง","ไหม","อะไร","ว่า","ให้","เพื่อ","โดย","จาก","ครั้ง","ครั้งที่","คณะ","ท่าน","เดือน","the","of","and","in","about","meeting","meetings"]);
+const NEXT=new Set(["ครั้งหน้า","ครั้งถัดไป","นัดหน้า","ประชุมครั้งหน้า","ประชุมหน้า","ครั้งต่อไป","next","upcoming"]);
+const VID=new Set(["วิดีโอ","วีดีโอ","วิดิโอ","คลิป","video","videos"]);
+const NEW=new Set(["ล่าสุด","latest"]);
+let SEG=null;try{SEG=new Intl.Segmenter("th",{granularity:"word"})}catch(e){}
+const words=t=>SEG?[...SEG.segment(t)].filter(x=>x.isWordLike).map(x=>x.segment):[t];
+const TH=/[฀-๿]/;
+const MS=typeof MOS!=="undefined"?MOS:[],ML=typeof MON!=="undefined"?MON:[];
+/* each meeting: title part, body part, everything (dots kept / dots removed / folded) */
+const IDX=new Map();
+function ix(m){let x=IDX.get(m);if(x)return x;
+ const d=new Date(m.date+"T00:00:00Z"),mo=d.getUTCMonth(),y=d.getUTCFullYear()+543,dd=d.getUTCDate();
+ const head=[m.headline,(m.tags||[]).join(" "),(m.places||[]).join(" "),m.chair,"ครั้งที่"+m.n,m.n+"/"+y].join(" ");
+ const body=[m.summary].join(" ");
+ const rest=[(m.items||[]).map(i=>[].concat(i).join(" ")).join(" "),m.room,dd+" "+(MS[mo]||"")+" "+y,dd+" "+(ML[mo]||""),"เดือน"+(ML[mo]||""),dd+"/"+(mo+1)+"/"+y,m.cancelled?"ยกเลิก งดประชุม":""].join(" ");
+ const all=n0(head+" "+body+" "+rest),fm=foldMap(all);
+ x={h:n0(head),hd:nd(head),b:n0(body),bd:nd(body),a:all,ad:nd(all),f:fm[0],fmap:fm[1]};IDX.set(m,x);return x}
+/* where a form appears: 3 title/topics, 2 summary, 1 anywhere else (also the English text the language switch adds) */
+function where(m,x,form){const dot=form.includes("."),k=dot?n0(form):nd(form);if(!k)return 0;
+ if(dot){if(x.h.includes(k))return 3;if(x.b.includes(k))return 2;return x.a.includes(k)?1:0}
+ if(x.hd.includes(k))return 3;if(x.bd.includes(k))return 2;if(x.ad.includes(k))return 1;
+ return (m.hay&&m.hay.includes(n0(form)))?1:0}
+function forms(t){const g=GK.get(nd(t));return g?g:[t]}
+/* approximate search (Sellers): best end position of p inside s with at most k edits */
+function approx(p,s,k){const n=p.length;if(!n)return null;let col=new Array(n+1),best=null;for(let i=0;i<=n;i++)col[i]=i;
+ for(let j=0;j<s.length;j++){let prev=col[0],c=s[j];col[0]=0;for(let i=1;i<=n;i++){const tmp=col[i];col[i]=Math.min(col[i]+1,col[i-1]+1,prev+(p[i-1]===c?0:1));prev=tmp}
+  if(col[n]<=k){if(!best||col[n]<best.d)best={d:col[n],e:j};else if(col[n]===best.d&&j===best.e+1)best.e=j;else if(best.d===0)break}}
+ return best}
+function lev(a,b){const m=a.length,n=b.length;let r=[];for(let j=0;j<=n;j++)r[j]=j;for(let i=1;i<=m;i++){let p=r[0];r[0]=i;for(let j=1;j<=n;j++){const t=r[j];r[j]=Math.min(r[j]+1,r[j-1]+1,p+(a[i-1]===b[j-1]?0:1));p=t}}return r[n]}
+const kFor=len=>len<4?0:len<7?1:len<11?2:3;
+/* the readable word around an approximate hit (with its tone marks and leading vowels) */
+function snippet(x,q,e){let best=null;for(let s=Math.max(0,e-q.length-3);s<=e;s++){const d=lev(q,x.f.slice(s,e+1));if(!best||d<best.d)best={d,s}}
+ let a=x.fmap[best.s],b=x.fmap[e]+1;const t=x.a;while(a>0&&/[เแโใไ]/.test(t[a-1]))a--;while(b<t.length&&/[ัิ-ฺ็-๎]/.test(t[b]))b++;
+ return t.slice(a,b).replace(/^[ัิ-ฺ็-๎]+/,"")}
+function near(m,t,fz){const q=fold(t);if(q.length<3)return null;const x=ix(m);
+ if(x.f.includes(q)){const e=x.f.indexOf(q)+q.length-1;return {s:.8,hit:snippet(x,q,e)}}
+ const k=fz?kFor(q.length):0;if(!k)return null;const r=approx(q,x.f,k);return r?{s:.5,hit:snippet(x,q,r.e)}:null}
+/* one typed word against one meeting: {s:score, hits:[...], near:bool} or null */
+function one(m,t,fz){const x=ix(m);let best=0,hits=[];
+ for(const f of forms(t)){const w=where(m,x,f);if(w){hits.push(f);if(w>best)best=w}}
+ if(best)return {s:best,hits};
+ if(TH.test(t)){const ws=words(t).filter(w=>!STOP.has(nd(w))&&nd(w).length>1);
+  if(ws.length>1&&ws.every(w=>nd(w).length>2)){let tot=0,hs=[];for(const w of ws){let b=0;for(const f of forms(w)){const v=where(m,x,f);if(v){hs.push(f);if(v>b)b=v}}if(!b)return nearAll(m,t,ws,fz);tot+=b}return {s:tot/ws.length*.9,hits:hs}}}
+ const r=near(m,t,fz);return r?{s:r.s,hits:[r.hit],near:r.s<.8?t:null}:null}
+function nearAll(m,t,ws,fz){let hs=[],nr=false;if(fz&&fold(t).length<=12){const w=near(m,t,fz);if(w)return {s:w.s,hits:[w.hit],near:w.s<.8?t:null}}for(const w of ws){let ok=false;for(const f of forms(w))if(where(m,ix(m),f)){hs.push(f);ok=true;break}if(!ok){const n=near(m,w,fz);if(!n)return null;hs.push(n.hit);if(n.s<.8)nr=true}}return {s:.4,hits:hs,near:nr?t:null}}
+/* read the typed text: meeting numbers, "next meeting", "video", "latest"; the rest are words */
+function plan(raw){const p={num:null,next:false,vid:false,terms:[]};let q=String(raw||"").normalize("NFC").replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c));
+ q=q.replace(/(?:ครั้งที่|ครั้ง|no\.?|#)\s*(\d{1,3})(?:\s*\/\s*\d{2,4})?/gi,(a,n)=>{p.num=+n;return " "});
+ q=q.replace(/\b(\d{1,3})\s*\/\s*(25\d\d)\b/g,(a,n)=>{p.num=+n;return " "});
+ for(let t of q.trim().split(/\s+/).filter(Boolean)){const k=nd(t);if(!k)continue;
+  if(NEXT.has(k)){p.next=true;continue}if(VID.has(k)){p.vid=true;continue}if(NEW.has(k)||STOP.has(k))continue;
+  let hit=false;for(const w of NEXT)if(k.includes(nd(w))&&k.length>nd(w).length){p.next=true;t=t.replace(w,"");hit=true}
+  if(t.trim())p.terms.push(t)}
+ return p}
+const hasVid=m=>!!(m.media&&((m.media.videos&&m.media.videos.length)||m.media.video));
+let last={q:null},HITS=[],NEAR=[];
+function run(q){if(last.q===q&&last.n===DATA.length)return last;const p=plan(q);let res=pass(p,false);if(!res.length&&p.terms.length)res=pass(p,true);
+ last={q,n:DATA.length,p,res,ok:new Set(res.map(r=>r.m)),hits:[...new Set(res.flatMap(r=>r.hs))],near:res.flatMap(r=>r.nr)};
+ return last}
+const isNum=t=>/^\d{1,3}$/.test(t)&&DATA.some(m=>m.n===+t);
+function pass(p,fz){const res=[];
+ DATA.forEach((m,i)=>{let sc=0,tier=0,hs=[],nr=[];
+  if(p.num!=null&&m.n!==p.num)return;if(p.next&&!(m.date>=today&&!m.cancelled))return;if(p.vid&&!hasVid(m))return;
+  for(const t of p.terms){if(isNum(t)&&m.n===+t){sc+=10;tier+=10;continue}const r=one(m,t,fz);if(!r)return;sc+=r.s;if(r.s>=3)tier++;hs.push(...r.hits);if(r.near)nr.push([r.near,r.hits.join(" ")])}
+  res.push({m,i,sc,tier,hs,nr})});
+ return res}
+/* page hooks */
+matches=function(m){const q0=S.q;S.q="";const ok=M0(m);S.q=q0;if(!ok)return false;return !S.q.trim()||run(S.q).ok.has(m)};
+const SQ=window.SQ={run,list(){const r=run(S.q);return r.res.map(x=>x.m).filter(m=>{const q0=S.q;S.q="";const ok=M0(m);S.q=q0;return ok})}};
+const rx=s=>s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
+hl=function(text){let s=esc(text);if(!S.q.trim())return s;const r=run(S.q);
+ const ws=[...new Set(r.hits.concat(r.p.terms.filter(t=>!TH.test(t))))].filter(Boolean).sort((a,b)=>b.length-a.length);
+ const pats=ws.map(w=>{const dot=w.includes(".");const cs=[...(dot?n0(w):nd(w))];return cs.map(c=>rx(esc(c))).join(dot?"\\s*":"[\\s.]*")}).filter(x=>x.length);
+ if(!pats.length)return s;try{s=s.replace(new RegExp("("+pats.join("|")+")(?![^<]*>)","gi"),"<mark>$1</mark>")}catch(e){}return s};
+/* suggestions: topics, places, people and offices that appear in the meetings, with how many meetings mention them */
+const SUGS=(()=>{const c=new Map(),add=(w,m)=>{w=String(w||"").trim().replace(/^จังหวัด(?=\S{2})/,"");if(w.length<2)return;const k=nd(w);let e=c.get(k);if(!e)c.set(k,e={w,ms:new Set()});e.ms.add(m)};
+ const OFF=/(กระทรวง|กรม|สำนักงาน|องค์การ|การไฟฟ้า|การประปา|ธนาคาร|มหาวิทยาลัย|จังหวัด|อำเภอ|เทศบาล|ศูนย์|สถาบัน|กองทัพ)/;
+ const END=new Set(["และ","เรื่อง","ให้","ที่","ใน","เพื่อ","โดย","ว่า","กับ","ซึ่ง","จาก","ไป","มา","ของ","เกี่ยวกับ","พร้อม","รวมถึง","ต่อ","ได้","เป็น","มี","ถึง","หรือ","ตาม","แล้ว","จะ","ขอ","เชิญ","ชี้แจง"]);
+ DATA.forEach(m=>{(m.tags||[]).forEach(t=>add(t,m));(m.places||[]).forEach(t=>add(t,m));if(m.chair)add(m.chair,m);
+  if(SEG){const txt=[m.headline,m.summary,(m.items||[]).map(i=>[].concat(i).join(" ")).join(" ")].join(" ");
+   txt.split(/[\s,()“”":;]+/).forEach(chunk=>{if(!OFF.test(chunk))return;const ws=words(chunk);for(let i=0;i<ws.length;i++){if(!OFF.test(ws[i])||!/^(กระทรวง|กรม|สำนักงาน|องค์การ|การไฟฟ้า|การประปา|ธนาคาร|มหาวิทยาลัย|จังหวัด|อำเภอ|เทศบาล|ศูนย์|สถาบัน|กองทัพ)/.test(ws[i]))continue;
+    let w=ws[i],j=i+1;while(j<ws.length&&j<i+6&&!END.has(ws[j])&&TH.test(ws[j])){w+=ws[j];j++}if(j>i+1||w.length>5)add(w,m)}})}});
+ return [...c.values()].map(e=>({w:e.w,k:nd(e.w),f:fold(e.w),n:e.ms.size}))})();
+function suggest(q){const k=nd(q),f=fold(q);if(k.length<1)return [];const out=[];
+ for(const e of SUGS){if(e.k===k)continue;let s=0;if(e.k.startsWith(k))s=3;else if(e.k.includes(k))s=2;else if(f.length>=3&&e.f.includes(f))s=1;if(s)out.push([s,e])}
+ return out.sort((a,b)=>b[0]-a[0]||b[1].n-a[1].n||a[1].w.length-b[1].w.length).slice(0,4).map(x=>x[1])}
+function closeWords(q){const f=fold(q);if(f.length<3)return [];const k=kFor(f.length)+1,out=[];
+ for(const e of SUGS){const d=e.f.length>f.length+3?(approx(f,e.f,k)||{d:99}).d+1:lev(f,e.f);if(d<=k)out.push([d,e])}
+ return out.sort((a,b)=>a[0]-b[0]||b[1].n-a[1].n).slice(0,4).map(x=>x[1])}
+/* people whose name holds the typed words (names and positions exactly as the Senate publishes them) */
+const PEOPLE=(()=>{const out=[],seen=new Set();try{if(typeof MEMBERS!=="undefined"&&MEMBERS&&MEMBERS.groups)MEMBERS.groups.forEach(g=>[...(g.people||[]),...(g.advisers||[])].forEach(p=>{if(!p||!p.n||seen.has(p.n+g.key))return;seen.add(p.n+g.key);out.push({n:p.n,p:p.p,i:p.i,k:p.k,g:g.short||g.name,gk:g.key})}))}catch(e){}
+ try{if(typeof P!=="undefined"&&P)Object.values(P).forEach(p=>{if(p&&p.name&&!out.some(o=>nd(o.n).includes(nd(p.name).replace(/^(นาย|นางสาว|นาง)/,""))))out.push({n:p.name,p:p.role,i:p.img})})}catch(e){}
+ return out.map(o=>Object.assign(o,{x:nd(o.n),f:fold(o.n)}))})();
+const TITLE=/^(นาย|นางสาว|นาง|ดร|ผศ|รศ|ศ|พล[ตอ].*?|ผู้ช่วยศาสตราจารย์|รองศาสตราจารย์|ศาสตราจารย์|ว่าที่ร้อยตรี|ร้อยตรี|เรือเอก)/;
+function people(q){const p=plan(q);if(!p.terms.length||!PEOPLE.length)return [];
+ const ts=p.terms.map(t=>nd(t).replace(TITLE,"")).filter(t=>t.length>=3&&!GK.has(t));if(!ts.length)return [];
+ let hit=PEOPLE.filter(o=>ts.every(t=>o.x.includes(t)||(t.length>=4&&o.f.includes(fold(t)))));
+ if(!hit.length)hit=PEOPLE.filter(o=>ts.every(t=>t.length>=4&&approx(fold(t),o.f,kFor(fold(t).length))));
+ const by=new Map();hit.forEach(o=>{const e=by.get(o.n);if(e)e.roles.push(o);else by.set(o.n,{o,roles:[o]})});
+ return [...by.values()].slice(0,3)}
+function personRow(e){const o=e.o,sc=typeof MEMBERS!=="undefined"&&MEMBERS&&MEMBERS.sc,href=o.k&&sc&&sc[o.k]?"#senator-"+o.k:(typeof MEMBERS!=="undefined"&&MEMBERS?"#members"+(o.gk&&o.gk!=="main"?"-"+o.gk:""):"");
+ const inner=`${o.i?`<img src="${esc(o.i)}" alt="${esc(o.n)}" loading="lazy">`:""}<span><b>${hl(o.n)}</b>${e.roles.slice(0,2).map(r=>`<span>${esc(r.p||"")}${r.g&&!String(r.p||"").includes(r.g)?" · "+esc(r.g):""}</span>`).join("")}</span>`;
+ return `<li>${href?`<a href="${href}">${inner}</a>`:`<div class="person">${inner}</div>`}</li>`}
+/* after the page draws the list: people box, notes, friendly "not found yet" box */
+const sugBox=document.createElement("div");sugBox.className="sq-sug";sugBox.id="sq-sug";sugBox.hidden=true;sugBox.setAttribute("role","group");sugBox.setAttribute("aria-label","คำค้นที่แนะนำ");
+const srow=$q.closest(".srow")||$q.parentNode;srow.insertAdjacentElement("afterend",sugBox);
+function chipQ(e){return `<button class="chip" type="button" data-q="${esc(e.w)}">${esc(e.w)}${e.n?` <small>${e.n} ครั้ง</small>`:""}</button>`}
+function drawSug(){const q=$q.value.trim();if(!q||document.activeElement!==$q&&!sugBox.contains(document.activeElement)){sugBox.hidden=true;return}
+ const ss=suggest(q);if(!ss.length){sugBox.hidden=true;return}
+ const html=`<span class="sq-l">คำแนะนำ:</span>${ss.map(chipQ).join("")}`;if(sugBox.innerHTML!==html){sugBox.innerHTML=html;sugBox.classList.remove("sq-anim");void sugBox.offsetWidth;sugBox.classList.add("sq-anim")}sugBox.hidden=false}
+function after(){const q=S.q.trim(),feed=document.getElementById("feed");if(!feed)return;
+ if(!q){return}
+ const r=run(S.q),ps=people(S.q);
+ if(ps.length)feed.insertAdjacentHTML("afterbegin",`<section class="sq-people sq-anim" aria-label="บุคคลที่ตรงกับคำค้น"><h3>บุคคลที่ตรงกับคำค้น</h3><ul>${ps.map(personRow).join("")}</ul></section>`);
+ const rl=document.getElementById("resultline");
+ if(rl&&r.res.length){const nr=r.near[0];
+  if(nr&&!rl.querySelector(".sq-note"))rl.insertAdjacentHTML("beforeend",`<span class="sq-note">ไม่พบคำที่ตรงทุกตัวอักษร จึงแสดงผลที่ใกล้เคียง: <b>${esc(nr[1])}</b></span>`)}
+ const em=feed.querySelector(".empty");
+ if(em&&DATA.length){
+  const tagset=new Set(DATA.flatMap(m=>m.tags||[])),cw=r.p.terms.length?closeWords(r.p.terms.join("")):[],tops=SUGS.filter(e=>tagset.has(e.w)).sort((a,b)=>b.n-a.n).slice(0,5);
+  const filt=!!(S.tag||S.era||S.mo>=0);
+  const ws=r.p.terms.length>1?r.p.terms:(!cw.length&&r.p.terms[0]&&TH.test(r.p.terms[0])?words(r.p.terms[0]).filter(w=>!STOP.has(nd(w))&&nd(w).length>2):[]);
+  const parts=ws.length>1?ws.map(w=>({w,n:run(w).res.length})).filter(e=>e.n):[];
+  em.className="empty sq-empty sq-anim";
+  em.innerHTML=`<p><b>ยังไม่พบการประชุมที่ตรงกับคำค้น</b></p><p class="sq-q">“${esc(q)}”</p>`+
+   (filt?`<div class="sq-row"><button class="btn primary" type="button" data-sq-unfilter>${icon("close")}ค้นหาคำนี้ในทุกเดือนและทุกประเด็น</button></div>`:"")+
+   (parts.length?`<p class="sq-h">ยังไม่มีครั้งใดที่มีทุกคำพร้อมกัน ลองค้นทีละคำ</p><div class="sq-row">${parts.map(chipQ).join("")}</div>`:"")+
+   (cw.length?`<p class="sq-h">ท่านหมายถึงคำเหล่านี้หรือไม่</p><div class="sq-row">${cw.map(chipQ).join("")}</div>`:"")+
+   `<p class="sq-h">ลองพิมพ์ให้สั้นลง หรือเลือกประเด็นที่มีในคลัง</p><div class="sq-row">${tops.map(chipQ).join("")}</div>`}}
+const R0=render;render=function(){R0.apply(this,arguments);try{after()}catch(e){}};
+document.addEventListener("click",e=>{const t=e.target.closest("[data-sq-unfilter]");if(!t)return;S.tag="";S.era="";S.mo=-1;const ef=document.getElementById("era-f");if(ef)ef.value="";render()});
+document.addEventListener("click",e=>{const t=e.target.closest("button[data-q]");if(t&&sugBox.contains(t)){sugBox.hidden=true;setURL()}},true);
+/* typing: suggestions at once, list after a short pause; Enter closes the phone keyboard and shows the results */
+$q.addEventListener("input",()=>{drawSug();clearTimeout(setURL.t);setURL.t=setTimeout(setURL,700)});
+$q.addEventListener("focus",drawSug);
+$q.addEventListener("blur",()=>setTimeout(()=>{if(!sugBox.contains(document.activeElement))sugBox.hidden=true},200));
+$q.addEventListener("keydown",e=>{if(e.key!=="Enter")return;e.preventDefault();S.q=$q.value;render();sugBox.hidden=true;$q.blur();
+ const f=document.getElementById("feed");if(f){const top=parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--toph"))||60,c=document.getElementById("controls");
+  const y=f.getBoundingClientRect().top+scrollY-top-(c?Math.min(c.offsetHeight,140):0)-8;scrollTo({top:Math.max(0,y),behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"})}});
+/* ?q= in the address: a search can be shared as a link */
+function setURL(){try{const u=new URL(location.href),v=$q.value.trim();if(v)u.searchParams.set("q",v);else u.searchParams.delete("q");if(u.href!==location.href)history.replaceState(history.state,"",u.href)}catch(e){}}
+try{const v=new URLSearchParams(location.search).get("q");if(v&&!S.q){S.q=v;$q.value=v;render()}}catch(e){}
+document.addEventListener("click",e=>{if(e.target.closest("#clear-f"))setTimeout(()=>{setURL();sugBox.hidden=true},0)});
+/*VOICE*//* voice: only where the browser offers Thai speech input; the browser's own service hears the words, this site keeps nothing */
+const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+if(SR&&srow){const b=document.createElement("button");b.type="button";b.className="sq-mic";b.id="sq-mic";b.setAttribute("aria-label","ค้นหาด้วยเสียง");
+ b.innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg><span>พูด</span>';
+ const hide=srow.querySelector(".ctl-hide");srow.insertBefore(b,hide||null);let rec=null;
+ b.addEventListener("click",()=>{if(rec){rec.stop();return}try{rec=new SR();rec.lang=document.documentElement.lang==="en"?"en-US":"th-TH";rec.interimResults=true;rec.maxAlternatives=1}catch(e){rec=null;return}
+  b.classList.add("on");b.querySelector("span").textContent="กำลังฟัง";
+  rec.onresult=ev=>{let t="";for(const r of ev.results)t+=r[0].transcript;$q.value=t.trim();S.q=$q.value;render();drawSug()};
+  const end=()=>{b.classList.remove("on");b.querySelector("span").textContent="พูด";rec=null;setURL()};rec.onend=end;rec.onerror=end;try{rec.start()}catch(e){end()}})}
+/*/VOICE*/
+if(S.q)render();
 })();
 </script>
 </body>
