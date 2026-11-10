@@ -1483,7 +1483,7 @@ function chairLine(m){
 function mediaBlock(m){
  const md=m.media||{};
  if(md.video){const v=md.video;return `<div class="media"><div class="vid"><img src="${v.poster}" alt="ภาพปก${v.label} ครั้งที่ ${m.n}/2569" loading="lazy"><button class="play" type="button" data-play="${m.n}" aria-label="เล่น${v.label} ครั้งที่ ${m.n}"><span class="pc">${icon("play")}</span><span class="pl">${icon("video")} กดเพื่อดู${v.label} (${v.dur} นาที)</span></button></div><div class="actions vidbar"><button class="btn" type="button" data-copy="reel-${m.n}">${icon("link")}คัดลอกลิงก์วิดีโอ</button></div></div>`}
- if(md.photo)return `<figure class="media"><div class="ph"><img class="room" src="${md.photo}" alt="บรรยากาศห้องประชุมคณะกรรมาธิการ ครั้งที่ ${m.n}/2569" loading="lazy"></div><figcaption>${icon("photo")} บรรยากาศการประชุม · ภาพ: สำนักงานเลขาธิการวุฒิสภา · วิดีโอกำลังจัดทำ</figcaption></figure>`;
+ if(md.photo)return `<figure class="media"><div class="ph"><img class="room" src="${md.photo}" alt="บรรยากาศห้องประชุมคณะกรรมาธิการ ครั้งที่ ${m.n}/2569" loading="lazy"></div><figcaption>${icon("photo")} บรรยากาศการประชุม · ภาพ: สำนักงานเลขาธิการวุฒิสภา${m.date>="2026-10-01"?" · วิดีโอกำลังจัดทำ":""}</figcaption></figure>`;
  const cats=[...new Set((m.items||[]).map(i=>i[2]))].slice(0,3);
  return `<div class="media none"><div class="soon"><div class="icons">${cats.map(c=>`<span class="cat ${c}" title="${CAT[c]}">${icon(c)}</span>`).join("")}</div><span>${icon("doc")} เปิดเอกสารต้นฉบับได้ในหน้ารายละเอียด</span></div></div>`;
 }
@@ -3230,6 +3230,56 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
 })();
 </script>
 
+<!--LATEST_VIDEO-->
+<style>
+.lv{margin:0 0 16px;background:var(--paper);background-color:var(--lg-fill,var(--paper));background-image:var(--lg-lens,none),var(--lg-sheen,none);-webkit-backdrop-filter:var(--lg-blur,none);backdrop-filter:var(--lg-blur,none);border:2px solid var(--line);border-color:var(--lg-edge,var(--line));box-shadow:var(--lg-rim,0 0 0 transparent),var(--lg-shadow,0 0 0 transparent);border-radius:var(--r-card,14px);padding:14px;
+ animation:lv-in .45s var(--ease-out,cubic-bezier(.16,1,.3,1)) both}
+.lv h2{display:flex;align-items:center;gap:8px;margin:0 0 10px;font:700 1.15rem/1.3 var(--f-display);color:var(--ink)}
+.lv h2 .ico{width:24px;height:24px;color:var(--teal)}
+.lv .lv-box{display:flex;gap:14px;align-items:center}
+.lv .lv-play{position:relative;flex:none;width:118px;aspect-ratio:9/16;border:0;padding:0;border-radius:12px;overflow:hidden;
+ background:#000;cursor:pointer;transition:transform var(--dur-tap,200ms) var(--spring,cubic-bezier(.34,1.4,.64,1))}
+.lv .lv-play:active{transform:scale(.96)}
+.lv .lv-play img{width:100%;height:100%;object-fit:cover;display:block}
+.lv .lv-play .pc{position:absolute;inset:0;display:grid;place-items:center}
+.lv .lv-play .pc span{width:52px;height:52px;border-radius:50%;background:rgba(0,0,0,.55);display:grid;place-items:center;color:#fff}
+.lv .lv-play .pc .ico{width:26px;height:26px}
+.lv .lv-txt{min-width:0;display:flex;flex-direction:column;gap:6px}
+.lv .lv-no{font-weight:700;font-size:1.05rem;color:var(--ink)}
+.lv .lv-h{color:var(--ink);line-height:1.45}
+.lv .lv-m{color:var(--muted,#555);font-size:.95rem}
+.lv .lv-all{display:inline-flex;align-items:center;gap:6px;min-height:var(--tap,48px);font-weight:700;color:var(--teal);text-decoration:none}
+.lv .lv-vid video{width:100%;max-height:70vh;border-radius:12px;background:#000;display:block}
+@keyframes lv-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.lv{animation:none}.lv .lv-play{transition:none}}
+</style>
+<script>
+(function(){
+ function build(){
+  try{
+   if(document.getElementById("lv")||typeof live==="undefined"||!Array.isArray(live))return;
+   var q=document.getElementById("quick");if(!q)return;
+   var vs=live.filter(function(m){return m.media&&m.media.video}).sort(function(a,b){return a.date<b.date?1:a.date>b.date?-1:0});
+   if(!vs.length)return;
+   var m=vs[0],v=m.media.video,yr=(+String(m.date).slice(0,4)||0)+543;
+   var ic=function(n){return typeof icon==="function"?icon(n):""};
+   var dt=typeof thaiDate==="function"?thaiDate(m,1):"";
+   var hd=(m.headline||"").length>90?m.headline.slice(0,88)+"…":(m.headline||"");
+   var s=document.createElement("section");s.className="lv";s.id="lv";s.setAttribute("aria-label","วิดีโอล่าสุด");
+   s.innerHTML='<h2>'+ic("video")+'<span>วิดีโอล่าสุด</span></h2><div class="lv-box"><button class="lv-play" type="button" aria-label="เล่น'+v.label+' ครั้งที่ '+m.n+'"><img src="'+v.poster+'" alt="" loading="lazy"><span class="pc"><span>'+ic("play")+'</span></span></button><div class="lv-txt"><span class="lv-no">ครั้งที่ '+m.n+'/'+yr+(dt?' · '+dt:'')+'</span><span class="lv-h"></span><span class="lv-m">'+ic("video")+' <span>'+v.label+'</span>'+(v.dur?' <span>('+v.dur+' นาที)</span>':'')+'</span><span class="lv-m">แตะเพื่อเล่น · มีคำบรรยายภาษาไทย</span><a class="lv-all" href="#reels">'+ic("reels")+'<span>ดูวิดีโอทั้งหมด</span></a></div></div>';
+   s.querySelector(".lv-h").textContent=hd;
+   s.querySelector(".lv-play").addEventListener("click",function(){
+    var box=s.querySelector(".lv-box");var tr=typeof track==="function"?track(v.ck||m.n):"";
+    box.className="lv-vid";box.innerHTML='<video controls autoplay playsinline poster="'+v.poster+'" src="'+v.src+'">'+tr+'</video>';
+    var el=box.querySelector("video");if(el)el.focus();
+   });
+   q.parentNode.insertBefore(s,q);
+  }catch(e){}
+ }
+ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",function(){setTimeout(build,0)});else setTimeout(build,0);
+ window.addEventListener("load",build);
+})();
+</script>
 </body>
 </html>
 
