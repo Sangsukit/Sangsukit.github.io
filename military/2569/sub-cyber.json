@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=-xJ6j5pfDUKy4stjDog"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-cyber-v25pre.mp4",
+    "poster": "img/poster-sub-cyber-25pre.jpg",
+    "vtt": "media/sub-cyber-v25pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:55",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "cyber-25p",
+    "size": 4725676
+   },
+   "videos": [
+    {
+     "src": "media/sub-cyber-v25pre.mp4",
+     "poster": "img/poster-sub-cyber-25pre.jpg",
+     "vtt": "media/sub-cyber-v25pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:55",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-25p",
+     "size": 4725676
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 25/2569",

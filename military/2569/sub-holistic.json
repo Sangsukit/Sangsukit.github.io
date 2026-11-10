@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JC5heR_iRv65PAZ5X4w"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-holistic-v20pre.mp4",
+    "poster": "img/poster-sub-holistic-20pre.jpg",
+    "vtt": "media/sub-holistic-v20pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:36",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "holistic-20p",
+    "size": 3957468
+   },
+   "videos": [
+    {
+     "src": "media/sub-holistic-v20pre.mp4",
+     "poster": "img/poster-sub-holistic-20pre.jpg",
+     "vtt": "media/sub-holistic-v20pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:36",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "holistic-20p",
+     "size": 3957468
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 20/2569",
