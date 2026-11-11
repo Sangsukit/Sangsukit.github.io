@@ -1,0 +1,1000 @@
+[
+ {
+  "n": 25,
+  "date": "2026-11-18",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6EZi866b3NDJRR8pgZq5iUypJihroq8H0LDiNq7LMqPVOowYNhtz_Z_nRpqFZGLNmbKX83K1W6aTqFdArSpIS-JvMCeDURryF2ZsvFjqHFWEmdmRcC0jgORyEUfNgVePov35MBY4MtjdXVjVcLhzqmXRaGp7WF77DHZcSA==&ref=11146372",
+    "size": 70548
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oJUIP4cKiSy5eeSt593TARQoKNfdS2c5Xhc36ftAeNM4pTm-RUjbq3C4kwY4fzKFBDK7xtBf0Y4Olfj6PZhxmWm4MMIeNoHxtwTa70p1gNIvzCqLEqX6INi7wQq4rG5I2UjcLiQ9iLS8yRTqeOiA1UkYst-Bu5G74PPgiA==&ref=11156957",
+    "size": 70548
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TdHD4fer0nmILmlbTPQ"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "media/sub-welfare-v25pre.mp4",
+    "poster": "img/poster-sub-welfare-25pre.jpg",
+    "vtt": "media/sub-welfare-v25pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:14",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "welfare-25p",
+    "size": 5643012
+   },
+   "videos": [
+    {
+     "src": "media/sub-welfare-v25pre.mp4",
+     "poster": "img/poster-sub-welfare-25pre.jpg",
+     "vtt": "media/sub-welfare-v25pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:14",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "welfare-25p",
+     "size": 5643012
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 25/2569",
+  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้จากหนังสือนัดประชุมในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": false,
+  "upcoming": true
+ },
+ {
+  "n": 24,
+  "date": "2026-11-04",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BgK6lISXblgKIo1McVwYbb6epODvIptpyVagSrG7rY52gH1tiVeuUt1-2TBQFJVcuuU99S97dHtYRZgONltuVUlZz_HFTKlFLnSeZB1JnEJFVUt_CDiO9VHuUzrt5k4FZDlUxNt8szTpKL2zSe0UauRXf_EZX7ng27pjqg==&ref=11079569",
+    "size": 166349
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=43YFMkN4ioeOjJnOhEsf6RBHljPbK66k_439kD_7mJC1h8ZpGbEiSAoTpxarei6ayA_RE_rrnPIrltrUt4NYqhmXkjp9BmoXKa5Y6pfFQxSBVga1nGL9CJ7t-LdNMYb_bMnNns7GZ6zrR9McDBmCSwNRgMcQIP6ieK40ow==&ref=11108897",
+    "size": 166349
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bqr7Tnyh44T1_Jx9Jsc_mrLjzWWuJaiUJOd7jew265F4jze-23rHz0KW6-qVVVTlUXvqurXyVCt5kY6bUB6Ab4y7gUVpBHUupbpeszahTbpgEwlg8-G6_4oVsLAGg55-I4oZnLoScJRrayvlR3SWoqDSnw9BPhw_tlVerw==&ref=11136299",
+    "size": 6375482
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=IUQUJPhDqZidKRm7Ycg"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 24/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 23,
+  "date": "2026-10-28",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=d-_YAQoyvQmcJfw10TF39Ls8q7qEUVtGIV7UtBgj9Q7eTRtHyBs6ViOQ_PQxUpXQUv0hfqGcFHFeMwNJRDLW4xlnPCGA7ltWUzXO-A0i1y7ytFahYv8r0tNp245TjEehE3P4gub5gAGOdpa_ONXKrilexcwgqNcE_1m1YQ==&ref=11030042",
+    "size": 188063
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KAIfr-FANKiYZlhwcvtlT7p1OkfWRNh4mqDMTqyz8EdEwHQ5aQ7mFQc_dNEkju8IW3ou_DMbmZOlI2GmzLd3a34F9baG9xlMl2HGhIg3cfpKWA4sQ74eh4flJvfKbH3otBf5uiKpo4_JECw7k2yoqBy_66MajlvgC3sKtg==&ref=11039961",
+    "size": 188063
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ToNCVev78LTCVo9_mUuYJ6unbe-NtNcZB4a_y1JzZnKG9AclYJMfpnRd1OREzQ6EKGYs7uVmI4k3C7YLJVwCiLVInr7QzC5sr2g9PEUyqjph8tJSEr10K2z4W-8bRF8Nxi_H-7t3kXbOGUR_-ImxrYC9w4a9hcU49tE0tQ==&ref=11078712",
+    "size": 9192594
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Hsx8lYvliHF07lfLw9U"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 23/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 22,
+  "date": "2026-10-21",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ\nCB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YtEAd1yXFpOQCo1DqsjHbHVUJfvYhOuBu4s1Xf6wgYTaiAZEpGVBff7PGGabxLfKFQuSZVJJzhlK3mxfWFjkDmGNkrjh10g7OmsgvjPU8djq8jvlIj2E-TR6QwhUN0Dtk_yjg1PeMdljgG00sAC9IMVwwGSRI_CZBDCo5w==&ref=10987848",
+    "size": 98248
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JZjn_dX2Zy8w__8NhvNWZDWF8epi5iODWSu_4_zhevgVIf96nZ_Y5eGH9eiZyywESTuogkE-Mdqar1W0YRMgU5cpdRnWnjewKmH_0YAfFEk35OiVYrcIY-JKi6DuhaLA3bnRock8plZ8vKu-cwGMtqi64E2P6BuAfNXv1A==&ref=10992996",
+    "size": 98248
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nDIBapa1zw2rXfWn0QhiPkwxzAzt5Z7cM5gSuM6v6NmccB_Z8vafM5xVXJhJ7uDovFmA4K_BhRCixAcRn0IdbivOmd8B-BTA_tCjy4r0halxL1ePGqRtCUOBvBrrYJPpJPVWcptTDCcMyfAHfD1Ms9UhlK8xTSNANze5BQ==&ref=11035935",
+    "size": 4745097
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=PbUIQdUHJw5l4gMzb38"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 22/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 21,
+  "date": "2026-10-07",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QorUFMnqXdm0j57giZZl1ajIyLZ_wi_qJW_KgeDQbA4aZ75VskJl83O4OebqIS6MiGkV2AZ6PLM56j_LJxohSVdlbgDSytPJ5Lv0mNtV-KcMovESCZ-njNS175JftgNbkNPe3qTRXstUfqezq9OkFn1OMTjYMiamhOx-ew==&ref=10922618",
+    "size": 154357
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OuHy1qcJJDa142ZxUf6YgqcOogq5FmBFwH03zZu-Q_CuADBDqGS-ZjMPbRMKSFCqhwD_VF94BVheYHaGeoYEbjbF20qjp2ZA5bbkJdCI8koDe7uy0U4IqisaEAOcig76JZOHk8bnop5Kxi7cpIroidmYDS6nf_GVVw_cXA==&ref=10932144",
+    "size": 154357
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4pGcaQq0iT9pELy4aJ0aJHIqlI24lhNlGqPArL7sNG7Tf5DQZJZJlkIkksQ4iCEKjJvjndN_M_vpyAH2N5XBA8Mc5L0uRH9cQuJfOpmo7OJTW3VOi0hmt60fQy-MXTCFCNrKdDqhSMPYnghiYbX5bLMdx_nqNF_KHBQ68w==&ref=10992967",
+    "size": 2750532
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1Qy9Z0zBS2EQslCVoEk"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 21/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 20,
+  "date": "2026-09-23",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=M1LGvrSwqTLA8YWgrrNsyy-C6THZT3NhmW8oGEg9NUft5fKuCehm0w5GkE1Vp_1w_M2LxVq6o08aJLs1w84Y_ZkzU7V925sK_QYLxYseXt18gaTPPZ66Y_prNpi2mALm9lwlOTIsGXbclQEjOWzn4FxPh8vxxPnuNNuz1Q==&ref=10824550",
+    "size": 172559
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EWhR3k6nadB3r5ne96UCFfa3-aHIKS_SIfeYAaD-Ng9Dpcl--cQccutJYmvuEzapxZL5NlDlPiKtJa1IJCZEKlROXbyg2XIAAnLVR-ySQSlt-FVKhX4Itc9SbcLS_1TtcTE6ppQJSeaumu9S6hIe0l00d9O_XxB8DUmhTg==&ref=10843692"
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XrpIQOZS8cw_5eCwZW4AdYCsENUcKtEFeoyRXgcg-3WMwJDvW0CWaOJ8q67sE9f28C2aqjDcnxZ08lWCvGaWhWG0gCT2IgFeGHUts9R78brhn0y9DalKNp0SoUrBsK_MFrEtyFFyuqoVW9a82WmVizyFmaKSmM-5yREn1g==&ref=10843700",
+    "size": 172559
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yPeYP6q48xZMu4Uhd1e-JNeFAqrn3ggFuvVAKb_T5I6On6nW1LYqhKdmQsu_nxSGRQOZ0gvUi3fd2eqxTPqofgTQzbHx-Bv7wh2Dy9KzAd2O2okBDb6PD2Z8lWB08wnKBL6m4wUrejxa6sD1ZS_4Nw2i3ZBw2i03b4Hy2A==&ref=10932315",
+    "size": 2571000
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=VNFPKvK44oMHn1znf8g"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 20/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 19,
+  "date": "2026-09-09",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BLeMTbgeijbJX_n49aK4Q7Mf1E0PLjhHDa6BW2rm2ZD898TLIeuc4t74P21YUz_EC4vXU0-Qu8AnTerLMfw3e6KwBxi82ofAmiTtokiIAWWuVEKeJfAWxwhm4cyaf4BLXJVQnp5vjXdBcfwB7nFcovgPsoqpVedbFeSk7A==&ref=10727796",
+    "size": 179899
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iC16z_y2r60cx3fSi3NipqZH95VfCTqqhR5SKuQnvVt_Ep8j9bdk73-AtG9OaLk2MJM95GA_hUriWE1kdpieSz7M6O7Zg8z5-nh6MmcccQRfcLoUpQALRRtL-MfQTzfuUETwqX6FmGrf2xO3PCXYcg322EeTOAB_uPkalA==&ref=10776799",
+    "size": 179899
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Rab4m9jhX_v_HhdliVySVpkVON72ytH-j0UcnOV5_Q-UxLSMZfFubRAeqoD8p3CEGty7XBKjYlSh6NcFSCCsk6Ty27HJVLCEXzeXj5iJe0lYeti4ek2T3nwUjJblAMgD9VahEX5VamRVTrK1iMAPm6xffLP0DZ27Ckr_gA==&ref=10787052",
+    "size": 2944734
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7N-7pNKfJZXAYOICTsE"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 19/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 18,
+  "date": "2026-08-26",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CXKuyoWN8qoZByGnOURrjrPBFRoiqdssV1Aq30vcD03CTIe4zrn3wFZFw6ik_h3ibw3Fj0w8gAyQE3Qj019i8obix4hw9380fTkswl-wnOGc0VTrX99YcmlMdeY82IhbZomOSN8J_WdCzzq1aa6Ly-1mgve9wNNfrakD1g==&ref=10640866",
+    "size": 167554
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qCazCkDfkuak8QmbrVOfJii7oRlU4nNPUpsuK5n4wzQE09mxm6DIowphXR-MALcso16sZG1ip17kiFTjNQn_B-qtWRgljyeXrciDVJLpz8KHKnTgOHTrZXN8YnWKOVMREE7ZOL7Ke5ck9dsEN6F-giXQyEuvIyQoxrb26w==&ref=10649298",
+    "size": 167554
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=HpLw0lO7grLbZpcVCKr3aFlZ8PPu7pyp7Q409fCWDINw4F6pwAER4SduNJSbIK9Y79BNxaA3WfGEv-OIztR3-X1b6RZw49MLsYJrK-7UfdZwCg6HU2sqWDAYV8yr_cJhaoU4FIOdmi_qZXVrx5QxZYq06GvChqSgZGd-uQ==&ref=10649302",
+    "size": 167554
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TqcgATmPJwETcnktq7osM0QrDv8dCVe9qpIJ9QmD5sPJdV5wL537PgtSI0ymQTvH1I_mGNIAFzulcUlXPnvBbfWii3R42edA7BFl73GMjv7DapdeIhZ3aa5uTPnpVKn5lhftrGY3rmEYm3AsiK37Yz2QNN4ACpKKFRewRA==&ref=10707599",
+    "size": 6883218
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=k17eF2IG2WRNqALg7U0"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 18/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 17,
+  "date": "2026-08-10",
+  "time": "10.00",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=s3Geq9157WoEunAbMJUU8ZCJdQ1TmtyL4LTjE8YiBS5yvJaxURW2xWujHsvOLp5nYeFj4IpQvEh1HEFxpS2SVMDu_T9tw2rD4bKLxnQYh3u2XkUN8yoqJZEKKn_SoANb3Zo72YgbJGcyLRaGrgOQd3RpL7piiXl6f7UY3w==&ref=10572288",
+    "size": 185657
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MGITbshmGp1ppydWULxeYIyxUZtFRUpvlDNscBvc23Lj7Iw1Jw_jajJWjIWZ6zSEYoxPzfU_kzv7XMqpqWPtPuynuBIUptv1tCqLhsKIn0mUjXSoRk8-DBOy7nHY8RsZNB8DawR5OJV0m_dMk8vhLOnn55-SiG22IQuD8w==&ref=10573189",
+    "size": 185657
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4SlhRDufR1aPz27qw9PVPXegBeFFLwoCE-YwdPzpU-BQD9kwe2vHJgzCV29YQLliIfPYYmJ_uWv6BsWoOaICvxbsgtdS2AQANRHF5J6_pAuPGcRT6vhKrJCy8r92_g3iI6NQx9hLlaPDCZiuDun4gj6txEBzJrU950Mu6Q==&ref=10707595",
+    "size": 2606371
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=SpbSHR1ShOnerY-E6Vg"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 17/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 16,
+  "date": "2026-08-05",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DDFl6WsRZCIPes9klyqv-mHPEdCdPyug0-GRqGSSuWQkrHwIaGiyF_Rj5QW4avAF-xQp52v6FVja-sZGhke7nY-Oe18TTHjVCBsKhOVe3OiAXg9rDcNKqYYJt0Ru_BUkzZeoaRmAc0iIhunSbxDbaR6-Ti6wZfauWRjiqg==&ref=10468433",
+    "size": 155497
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jbQQT1EHaW6DfcYs2UDx7xpuMrPoaFuOydh-Qfrkk7JpZbcN425BdZYpIE6frF-tzEKNKixLm8cO5T-ak-h5_XZN6G2xwhVzBnJcom9251a5odjs0psljwgShKk-GQYVsI6UMdl347cwlhFGoEaiXekLsNA-DZBz8oMo1Q==&ref=10529370",
+    "size": 155497
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=atDzGXEZIZYqf_7f6xRwyiu93rGtC1QtzORHX636GhxsApN6BI3AInB1fj-Yw_kOo9ODBkR6yZChhf0M_I7r-8Oh-QAHoi2ArzFwnOIzxhBTA1NUvMdrbXerBPcUxPBWxwlvOH0h0Rj6_tb_YnTn9ge3aFBgl4xLpmv3Rg==&ref=10563138",
+    "size": 4526440
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=bnzFeLobqkm244XS5RI"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 16/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 15,
+  "date": "2026-07-15",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0dGLada0CC_BuAFNz9MzQzsTZV5txwTZpJ_0nTHo3mIR2d20mvt_DLBMfbNfQ--3lCTBdOQ9pwqBNsISY3IUznNNPVvFQp1fgPYUl_n1W5-1cLdNT7uehjAzUngXmlR4QigjA5hIju41Nugd9R-IJ70JmrD90pYg0ssF-g==&ref=10401743",
+    "size": 155135
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rVEDvfx38bhTiC14snfirLJOdY3ZI0awliUxRozIF-2tXhkUeSFnlu0_rQtQEkSZgsCTtRNX-o7Gg2D_6xWJY7Zl4WSYClpXoyHa_zXbO14h6meM7bKgWmzgW1w-tEbOQhsRwwFVV4HSJyFv-3AptFVUksW4snJ_EFjegw==&ref=10411007",
+    "size": 155135
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oaf72VBtclaTsx8tmk5OlYwXruKMngmI9yBaodoVZpbTxsc8PtPJVoehOYuQrETnat70Uh5J318hUX0AarsF9dDtnkRd2giIpK6kIjar7WbeOndJsII3nZY8j6BEePrUTT-5GgnZdiNroNss_E_HpmlKhm_RUBNi4m0igQ==&ref=10454435",
+    "size": 3029229
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ffxZI_a2-djzl70dcZ8"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 15/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 14,
+  "date": "2026-07-01",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lxA85Puzq0119n3kKQQRbTOwYqBpg_ZllzR2rZWqpr3p-OgkwkTj0fK2gyO4SdvTWupw8A9iDGAJItZEE1ODwNGHnVrSWy4-GrrFxLRxxrXr96XncbJDTdWvPP_K_iSClxUkPUxLW9xf3FdPIzBXCdnMI2j1oDMRoOo8Zw==&ref=10305776",
+    "size": 134873
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qsgWtbtKorocAUAQQIA1IJlc8j1FYzRwFk7ttE4wneKHsRjsCiCDnNMCLDRUPSAN1IIBSEEVvLsSacEhfRiQMpEn1r1X1EDHDByVvPb9sK-yDs35BAUlV3cuYUtHcCFb4eRsFTF2395oJqBXDOBijAE3ZsGM4A8M-40i6A==&ref=10324054",
+    "size": 134873
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CU73XU50o9d0YJrYWthdM64XYz2PjQ_B-OcmeghLYl12QjLh9wsuh2EUHnJPgDK8NiN1M3DsDXK-yNPjYmZq8qsUA1il5Tgbnnbo5LzaR-_Kzr4KMrtJKni_h7q8Zhg7MTkJ59hnCvumLKrkX9-w52jeu6xO6Nn3eNy83w==&ref=10354032",
+    "size": 7341642
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=mTBCHateMbJ97ewvl3E"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 14/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 13,
+  "date": "2026-06-24",
+  "time": "",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Rj2J2nuwpjw8AYIN53vpEMdny1i6IxxejREHyz_YG00_5OzjzXBbCg6EeyWJmds-ehaCa4KIUhfgr9xfaBmdDv2C_m4g3z-9fl2tLuxwTIxJlwtvbGELJxlm4BMPF3JmK4Mxz83BfLCqE-iSSu_hFf-VRf1rez5DhHPdgw==&ref=10278241",
+    "size": 153097
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=imslL_265y_XsW_vl4zF3fjgNV6C7OgXkZW_4BYNi_2Z4nCJhSTZ-KF_NxZ3iWVyxxQcXfBT6R3NYPSCyBSElVlBSQWSA00PLL4WNY7o_w5XkZ60-kmsylnznIz4djh5GXLFKS3lZraMsSLGVZ6IO3Ap4B5uU-ybnddN2w==&ref=10279015",
+    "size": 153097
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FKw_E1xoKDuf5h4EjsAWiwGxsPCFTCrTJCtLnsZ6urJSDdknSuBSKoGu0HDUHZHbT3Q9lLHASGHFyugUGBpdWzkkSwlG0hfDKue8zp_EJd1EWIfgJaAUpvZpeQhZR-KLlf6jA7FxJlohOM1PSxtZBSAeT7KS17ii8x9vuw==&ref=10311414",
+    "size": 4916772
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=4TGNJgRbqPtFFzAvbzs"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 13/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 12,
+  "date": "2026-06-17",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=d-A3PBDPEjAjwhE5qdERhN8uPyjE7fkHECBNQM3RSPYfewYbidGCVk446l3uurzZQEezfOdbNamrYKCd65OqLKcMCmDVPwz3uZHyv_XvCcBd__vTFW246JG6H6gdL0D3y-2JdHBej51j-KS5ddwj33St_2a2d87vaICLww==&ref=10232145",
+    "size": 104299
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZbFZOzxPSoCZasP977hbVBX-am1mxpeMNEM-en-un_WH69TmOEOzgAFxgzvpZ2QaQwAaDn5I652bgJwLmMaTIzsa71Xrr2WRfFRkcWrtD04jaDO9WqFwFvK8tjYZkSRm7WJugnM-zakuSrkicFEvii5Xk48956GVu8afPQ==&ref=10250985",
+    "size": 104299
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vnaUumVw8IjNfLvhb_Pa1EAw0iC4afb9deOOjyTfkso07_wM_C7qZ4CyEE4nc3SyxOxNxfqdHIAMchFJTlRRQCu9N4R61NJ41bvlq0__MlySXqapekaN-JBst295VTLJWymfv1DjaZ-kUe9-wWyDJ6L0MAq7H6joSDB0IA==&ref=10278724",
+    "size": 4396915
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=nynFKYJAwzbIytHwBNI"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 12/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 11,
+  "date": "2026-06-10",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bgK_lqPNwzf7KYpi3oAvp8SwGDv0Tmine_IgrNb9wbqSnnUMjVlncxB8zraVubxtoEHDXJ9ganK6VFuhpzUHl7PxGwP0TpiDe6tyKlwpsDwRE0rpvemNvwtADymy5Vce46zgYxwMfO94rFxYSyG2oZJGCRZ-yI3CBZubMA==&ref=10144965",
+    "size": 150064
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MRoUu9mM2R_hq_QysCwD5sm3WzEWIcuBvdiErhcJoUbRm-k0TKrcODXWRgWlTfkNoiMAzPkMcpAx0vbF-a_6E4Z0RhdHfVfaRNxD5uhu6SH935knUDVMq4HElIBQsDNprzpAP4l3-wRFkSK11a9duUceswmU3wiYBMTPpQ==&ref=10163465",
+    "size": 150064
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UVCWMRrWYYlU8W2Q0l9h42fLe-WniE42hCYrVCz3ueL7_glCXnsT2d0fGWnqgsb69IzgeKNezOqbqpqrTdlus9lo1bUyoFlMGhc4N0DLQMzqniUpNyZq4LNQardBVVwzCU8EfmaijerIL-P8O1lnvI9in-KAl77AvAR09A==&ref=10214699",
+    "size": 16195444
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=O4M60TxAbC389WLnEnU"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 11/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 10,
+  "date": "2026-05-20",
+  "time": "09.00",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VPLRlAQrsCLpPLJeNt_dwXjSal33-lAE6Wyr_-WstBvhlR6pQ44ib4i2vmKJgtZPuWHvly7ZvvKYLW-JkXmRFvXM-HMi1L4SwlFLwCLLY1hIKS8U9hX_u7xVBeo9_ysoaUv15TGjtolRVDU1fD99KCNt8DkYF_51255-Gg==&ref=10034091",
+    "size": 157624
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=udQKBy-kYGtRvOUbO-h4CubYFj4iNafBLuyVdZVEF7kxVn8v7xlburtqvyAvNiLDuyoY2N6qrcYaq1N-1kX5ZCgJf8tUOO3p8f7iO8n8juIP-5P7GXE7b8sjtmFsuVrwq1SB577KGW-uhtoppdZ4sVnuzzd47oowRYHSbA==&ref=10051704",
+    "size": 157624
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CmFAUL_6PrnZpfOrIfk9hYse-nL5vjo3hVK0MmHZg-233vHCqXEXXEDVxNFJvHvU20BufI1rDcKA6MEfFfM3m6aSyX19nnAbORHYeHdJ5r91hRrSs7FqlLcVZD4vTPwzGroVJg3sjFvTmarhROxgXdbA0OD8Oe8oxZb8Uw==&ref=10109955",
+    "size": 11204693
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TNsFOHrWgi5aSdKIzeg"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 10/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 9,
+  "date": "2026-05-06",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JQ1deALzv5VGo8XJyp1gxtVWmtSMqImIMhE2UX8QDDJbFa-cMTXi1zZ2lRPFKU7wih7tK9RaP3JHjy7I5RfeRlZLPmpu1uCbgRdGpaLmMuAMu1H964p4K6i0CwwtXFs0O-peo3xPW5H1VEzhy3Z0IUOLgbwlH_dd5nk=&ref=9868851",
+    "size": 151083
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3qbwKaDs5e1hDVxsoByLjCaDHhOFOOUhIG4GW11VYW8LDezIjSH9nD1BEIV7LLR2UkQoIEaCuTwxMmLopFkXq-PjwnwzIMX49CCuYFEh_C4vS_Eidb7YEVD4cuiYBBDg5seqUVsV_SobX-H36KIONWn7Rir8koY52IU=&ref=9990485",
+    "size": 151083
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8Nnuxwk5Ktwc0t7tvt1MmSHO_l2pm8VqGR4DgT3fVAfNwEJG_kS51eIi9zT6lTJDvkCLeacXtgU9nYWmGJ9pK9Fewo-AnJUOA6yqYGw0EjgBp9TZotgDXtSijY9mxoXU9fdRVOS10-gvMIe50NAf6IGI43n2sqEzHHZrHA==&ref=10011765",
+    "size": 14407005
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8jFWYuwXmbLHVLuIazM"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 9/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 8,
+  "date": "2026-04-01",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_9vveghQyfMIiSe6xYsYImTmjzCl1oGJeYNrxe-LwS4hyjektK4tr3TvxKbCfBJh7LwAglM0jAwZBsLIpl4a7U8QN2x5S4drboLXlqx7fBNLDp29lw2TAfB50Pu5fAdONQALIh_bsr5kBEf-K7EkRx43UhEcx0YduVM=&ref=9801968",
+    "size": 176749
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DegUaJO28RtRd-MO6Innz2YqPvY6F2ssjArsutV3-EMG-PBSEc2kcohCBuUgiu2tW8WA_NyAFgfyTgiVx1rkHX0ttrAMncJDjatx8Qp3OvPmoIg_q7f1rbMjBtj3FyLzMlnid5panY-3FnNnXydo10cVnn6qnq1S1vo=&ref=9801977",
+    "size": 176749
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vxMRK-qr3FjAsf_vKwUlrQ3c_6_GWpjFNg3Vjuv0EWx2wJwkuxNRzFufGHshlZcJMartnsmb3CRg0lmcYeQhA-3jUCBRTc6Ws8MI7CFS3Uzp3dzMCwLg-iMM62A0ZYUcU1Tg56NKk1SMeZrV9iQ8jdq5uffRHJtt39s=&ref=9844121",
+    "size": 14019231
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=UM1V_N5GdbcGwm8ZZZw"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 8/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 7,
+  "date": "2026-03-25",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0mi5vDfY9GEMfDl8gTqqmYjjYmVy-odA1tbQmR547cr0v9BKCxGfoA0yzDOVURcPvkdO9aCf-XLma8yyZrYHb0IBj5AbGpIay8SUCWCixXQEaznd-BCMEfHGr6GE1LwJ94RXcD71220OJPd_deP04UhErBJErpkcuUo=&ref=9757166",
+    "size": 107991
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UO2kUTBPfcSC_sfI7okUjTtUS45B-ctVYRWEmArvPtL8-0l6fU8f4WTCfcemlolpEy26MgTfp8f1kML19MB9gmlVqqhNWbZRkwsaGb2gQKWvSJcwzJkdjSfkHdNj56EGwQbheZ-mF1qaxiUPwtRv3OcZzKCFkThizMM=&ref=9781119",
+    "size": 107991
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0JsOa0APvXR4hygUMwRBiw2DFI4QmSVJkX8U0fl9zqgjsjPc4EWvqj6tTZAQv2QVEMT7wbPQ8z23_GY6kZeH5SZ367AXRmxT3X7iZ9OlEEGcqUm0JB-kZ1s6-gXsaKcrpExkY6-MTk3z-RLlROsOZUtg0WT4ULgqoeU=&ref=9801959",
+    "size": 4315854
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Xmnls8zOcQPHbP9d6zo"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 7/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 6,
+  "date": "2026-03-18",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QPNRKb8XoE2prREQVtdi16mIj4SHaI8XrpJtYakSFlthW9NDNZ7jitjp8G71pqW5M61RQmy475phvJG-bMYnLLL-zHv81H8N5EuhFzJ6OAfa8B835oHDi04blbpClc_BlYNfueIa3QKYUY9VpfL5rL_ApwRFU6xmG6k=&ref=9697087",
+    "size": 172956
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=V2gt_vePBswHYZtgYVmyDOuHbcnlF5HcwLEk7eLzSs8RwB4ScvpfINSoHaE7nGEKWq6XYg4yqfiTfW8z5IbL2N5_1F99DOsqrfQz_OuvbumQNgp2sxjTpVOFkFs_kvJuN_xZiff2lJjbIy3FdHcrcom7jgWY6F0hONc=&ref=9756945",
+    "size": 4455902
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VNq9GC90W8xacecrqJ7J_Qnj44MyDt8wXc6b566I89Jn8vwKqazkgxktPRfLQC_n-7-pRUjFhoGv5h-0SVerXHC-loAa0ZxOaFpIQTlNmwdi64q4tV0wiF7vFST_qf19aSHk7WIziWvtBREz-1cvMumTMNbogcsfIY8=&ref=9781189",
+    "size": 172956
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7sIoHfDx2r9J7oWJXBA"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 6/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 5,
+  "date": "2026-03-11",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SzroTODf9K381HYh-Bp6wSN7SFbu3cha81ZIuD5jQCtOr-lDpHin9KVNRnCmibqnH2UYMyLZS43VAoUz2Cusd9xfDgHgvAHqSWmfaehArxJUhBvETBSHfCENhxUPwzMZYe7m5qA0fnvFRDODrrL7WpRRSyeZQZtRtO0=&ref=9655464",
+    "size": 155058
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=AHuucJwAPH_Vs-c_E-yweEv8q7kMSaXZTdW0g6G3zV2lfSdl-6oUe1LPNV6zULHQgfYudvharNPP0Z9HaAhFV7SXxrIyRWDmVru5eJ_uy1Zu4g2vDGTSSBC_pgd2iYPf4FpZERQMSodS_Q6x8ICoC-WsL1hmP4FHQNs=&ref=9701615",
+    "size": 7611184
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SI-et8cR-v2m2YSH9_X-4ijUn76lxdrUMYYalC4CmsuxiXHq6e9VAbzBNzLt5awAY7U7FyMPSI8HwbGrjA-ICxuSfpiYUB4NamJs83DpvdOPm1u6O3yRA7p2EA9N5EAqUL_Bd_dGkJQpF2_EtcAdm3lnR8BVVkPOvkI=&ref=9781184",
+    "size": 155058
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=PkSBva_JBOfDOx555i0"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 5/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 4,
+  "date": "2026-02-26",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=C0kEwlnAXQ16aHne5AM6ukMaSgtgaBkOVFlr4RebrIGPBq1dc0bcDZtk0A9RzLTgo4O0gd0l7TfyysqEZaji62wQhQtfqwGYfxW5LhxhRH9F59C-xgp_20bKOSCGvypOKX7xaSz78gObL1G_kQenkpPCDTYLPrezQx0=&ref=9570596",
+    "size": 128558
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Qm7pNdGj7SjiUF7lBZHccxo7JpesI0-v249R-Te195xWZzAvnt4judE6pGTp37yOaloXf7tKPDHWz-MoMYG_qiMa7R0pLwsgpRUQZCHTRHQSfNxk9F3j3qpMgCSlzNe845S3gBPD0n8QDi7-yjxbKfqBx2pFO2XiN4k=&ref=9581378",
+    "size": 128558
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=e5pAfT2j3zNyqrAM_e8VF_0fAFnuc4EfN9Zg89SqGR3YNwkbxfQZ8FVwBIGcJWLnfvqT3EqEI3RwOUGBvRiZpTNs5S3cU9uY93bo1Ybm1FgAPZCj94aqTfSwTQwn_McdMP_mdWLUDfuOGPhc4pzRSxCM4LoYv_5jTNk=&ref=9629845",
+    "size": 1998573
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=b4YyHhqTGeYHhJplNrw"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 4/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 3,
+  "date": "2026-02-04",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=psBHskfSLE66ZJQie73Fkl2dEQmNQUZ-yBxQvPGNLBzrK5B3tmc08VnOrUau6h9g0f_kDszBowhTKJzwUJxb94A7Oh2R2CZ-kOGs-udrxSopRfSsNwGN4D7nPifGMD-LsouDUbABmRJzIbF7xVKlXdQuzD9TEa2F1m8=&ref=9406133",
+    "size": 145029
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=meRsSPYVQGMUCqvS4WweWdidV5Fdn7CJ7MMFxg6jRTZBFPTxfryQmtf8qIfAPYDxyl2N-wb-A1etWyDZrldbn-Wbk_ByT5MLxhkq3QzUB6XcysyZrkae_jPcKdoOmW8gzf0CmW1ftvs9q9vWkBXX_TK70xy4uTXsbJo=&ref=9449452",
+    "size": 19116446
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DcphuL-DRzFuGA8c8CbrJOFIrJoJVfW6lqovttAdf3s0yJ0ql82BulKdJX_gW2LNW1TNLby642WNIkoO3ae7WVrLDBjgE2RkA7VQR2pYFTCtMPIX8V1g06QSB64ackyQEMmtZuIW3ZypjtIo9i17BE8HMErlOkPDMNI=&ref=9781166",
+    "size": 145029
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=DBCatLuvdBZ8oKCmE-o"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 3/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 2,
+  "date": "2026-01-28",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DvBU_Q2UgWhmiqt9QFhoaQ138dtFcYR538gUBxQZ6eC9me4GI4vRrJglEKoTLwamI5htjjj1UFrdEOh14Jh20LoJjSLQhzzLLS5nMFZEb8Gu1vQC04vbDV1ccKmEJ50m-Suf34blq5GYAUnqeCr7phWn72SKZC6QxrE=&ref=9352954",
+    "size": 148043
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=j_wyNeaqzS0VP8LqCz0V59hrSzDDjPjmk964F2QmAUTX1B5dlrf4AnILm-zZzqUiT_UXhoInB08MXShMSimav7IwKDa6OyPeOWf4F8wrtmNOVPc--ZBpp5_FZa2-Ok1rD9_rxeHxbBTo8nlD8a2kTZrve4pm_gbb4p8=&ref=9404341",
+    "size": 2892293
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hPdUgkAyltLyOigjCYgu30kXIR4YqEyJo0EmXFjuuJ7zoGX9ef4Xce9ouhDF8j1e80weoDqVYMBrOI7-atBQCmPbZn_WjZOMg_RtBVLp8FHtQsktYGkLUB3TKCEvs9C1yugwmrX9BPAodCHhqB7id2SSoeOvQEgpvnE=&ref=9781160",
+    "size": 148043
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=5E5w-XSqMzVmQh4IwHE"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2026-01-21",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sc4N4xag9g4ElXsnIB2rxYUAyvbtKjqM9qIgzg9UC-8m7Iy3SajnRyyTJh48cj3hLSG105gnQum7nGWu7kgEmA2ZQvaEX1tyEWDWUviJFslNOmDE2pBD27SkzBRHnAUKEpFiqf0oOUGJMuWYJIxm7UmbVj_0crgP9ro=&ref=9128949",
+    "size": 143285
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=amMjp6VzllfVapBx6wKS--mYXObYuwNnhbhloQspS7unHi28hyFCdhfHQg8kVcfPjqa4pNKVSsstudWI_QDVHbir_00uPRN-i-ieGioel4gPC1tpn0-eEso3ww7AmnhinL869yEwDrYXzThtboNFArVqRIAenYzNS-g=&ref=9192476",
+    "size": 143285
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=d8aBl6icZUM8DzjSF5sR0h4nDbqso5gdQakaqGeWD4KbhZwT-8mhxvcCTpDVKglrqHsB8PT8d0FMmbp_pusMuykEzNDN7TMcS9oSzzOK2-qgWr-uiG7yGAzR_2Goeo4jAH3OhbYFaXtIqNnmmwlCxEFPMs35t_OQVqI=&ref=9352399",
+    "size": 5009932
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=s4KkDiqKq5hWyIYuAR6VZIEq0e7Nej-ti5Y1tJ-uTgoHMQMIxirNdfkNFg35UhRd3n5HJ5nr7WEzhh4S70-0zR8Yj1iOmznkookZSG0QbQ9Fzdf_qj2EvvsETqAmwTdi6WgcBGEcZMDotnB5q57QH6MPbHQY2mhWXWU=&ref=9781153",
+    "size": 143285
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=AkxAfN_boOnB0_WK2PxZ5KcAs_Ot1Y1fp-L4r2dHm1P5rLrMQjzGQwlaRZCYxqnJuQCpnsn3Pb3VcPmhylitt3I897v9JK6d014Rq9REyWJ-4DQvMNQ4vSXDS7VQ1GGyy4Qo521VOvdcAOJK2crdy9HCRXvEIaZcn-4=&ref=9781154",
+    "size": 143285
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=wPTq1obp_Tmt1SJXyIE"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2026-01-07",
+  "cancelled": true,
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VP2L6Phb57D3alliP7Sd_zYfDaJ25b--aGK1ZC3OkkJj541zHFniY_m69G8CG1jF4stu8Ab8-Vxbcbauewl1MktPrlR8ynvDI5MqQ2jn3LzZVM6M3gCRNici1Qhqta8v37VhGQkpyc5RwITmA4EXPM0pvmWqRIkhB3g=&ref=9128949",
+    "size": 143285
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nEBXBTgH3NGI_-dGLVmRuanNpnuOM-Z1BDaQmnkzdNgAB5tLrwjdEraLdgPjh_6SisluNcj9PVnNKwlhJocAGLHe7GThrTTfS9nA0oKm_aHCEPXF34mXW2AHlEgrF-QE_M03HRohkvyqHhmTkwpdvC05Sw1-FBU4lzg=&ref=9192476",
+    "size": 143285
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=t2R8yRh9PBECbNhaJSyAhe8AHrdsGV6Qz84LC37YBjX6Q_eYpKrriCIEtkFPv21A681Dtz05bhL01efR9KcuyT1FnZ7iRR8z5XRJahqJwv-yORebJLBpVSrdOpHxKxScd1t6upwlTxHERPzV65oOFSalK9vebMRxS6M=&ref=9352399",
+    "size": 5009932
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MJK5lW6cdt5JGF7b1Ncc2SSXQBjGjazANIFp0RzQW6cG8UNEMK0gRBFXIvK9OVRyecVu-d9rcS1Dle8iiACS5j9qJfyfkg927dcPv_Qe0Gb4w9lxcjah0M-3GvURTnUvSslTyixTrSKjJMpQiBn0z8MVqUXYQ3mWR6o=&ref=9781153",
+    "size": 143285
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=i8wD-W2Yt9mdbcgyDZoTNN2dg8FoUbZp1reuFNWnzan29q_43amS9hXrSELxy1K6ji6QbgkdOK3GYl37Uh4xyafhaTNnXLX1JT8sptx7H5BmAGt3lUHgbP6LMcxwIZZu_IXMq6VcbiMcJnWxUrIjEfrskEAmUdgJa1E=&ref=9781154",
+    "size": 143285
+   }
+  ],
+  "time": "",
+  "room": ""
+ }
+]
