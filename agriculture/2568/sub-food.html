@@ -3646,5 +3646,22 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"timeline":"share/food-timeline.html?v=2060c06c","read-8":"share/food-8.html?v=e7767188","read-7":"share/food-7.html?v=627e28b0","read-6":"share/food-6.html?v=6143deab","read-5":"share/food-5.html?v=88284358","read-4":"share/food-4.html?v=edb71dc3","read-3":"share/food-3.html?v=df790800","read-2":"share/food-2.html?v=200fd800","read-1":"share/food-1.html?v=6e98ca8f"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>

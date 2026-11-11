@@ -4081,6 +4081,23 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"subs-welfare":"share/subs-welfare.html?v=022f4128","subs-employment":"share/subs-employment.html?v=5e027324","subs-socialsec":"share/subs-socialsec.html?v=d4ec6284","timeline":"share/timeline.html?v=a5dc736b","read-13":"share/13.html?v=27f5958e","read-12":"share/12.html?v=043fe30e","read-11":"share/11.html?v=9bfd9439","read-10":"share/10.html?v=982252ac","read-9":"share/9.html?v=7f3fe393","read-8":"share/8.html?v=73e01356","read-7":"share/7.html?v=292e88be","read-6":"share/6.html?v=e1826934","read-5":"share/5.html?v=bf40333e","read-4":"share/4.html?v=acc77a35","read-3":"share/3.html?v=cf9b005b","read-2":"share/2.html?v=17a4fea5","read-1":"share/1.html?v=bcfe15f7"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>
 <!--PREP_START-->

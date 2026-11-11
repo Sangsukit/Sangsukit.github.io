@@ -4194,6 +4194,23 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"senator-25670710_220645":"share/senator-25670710_220645.html?v=d0396f0b","senator-25670711_115031":"share/senator-25670711_115031.html?v=a59d62bb","senator-25670712_094834":"share/senator-25670712_094834.html?v=a65d8768","senator-25670712_121031":"share/senator-25670712_121031.html?v=192eaacd","senator-25670715_132412":"share/senator-25670715_132412.html?v=83de29a2","senator-25670822_085023":"share/senator-25670822_085023.html?v=4b99437b","senator-25680106_100338":"share/senator-25680106_100338.html?v=7c44bdbd","senator-25680529_093557":"share/senator-25680529_093557.html?v=7e9a1c0d","senator-25680707_132352":"share/senator-25680707_132352.html?v=37e4b217","senator-25681006_112555":"share/senator-25681006_112555.html?v=494cd90d","senator-25690505_131151":"share/senator-25690505_131151.html?v=54c17b22","senator-25690505_131218":"share/senator-25690505_131218.html?v=b52f434b","senator-25690518_084629":"share/senator-25690518_084629.html?v=f0cac6a4","senator-25690622_083803":"share/senator-25690622_083803.html?v=61400975","senator-25690710_091620":"share/senator-25690710_091620.html?v=4da9c8cd","senator-25690817_113905":"share/senator-25690817_113905.html?v=3fb3a8f0","senator-25690821_103004":"share/senator-25690821_103004.html?v=568b773f","senator-25690903_104056":"share/senator-25690903_104056.html?v=d1519540","members":"share/members.html?v=9ee9f194","members-employment":"share/members-employment.html?v=7fe4b742","members-socialsec":"share/members-socialsec.html?v=f7c45f54","members-welfare":"share/members-welfare.html?v=3fa8abad","subs-welfare":"share/subs-welfare.html?v=6d27f8b2","subs-employment":"share/subs-employment.html?v=d6c219b7","subs-socialsec":"share/subs-socialsec.html?v=388483ad","timeline":"share/timeline.html?v=4feb4498"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>
 

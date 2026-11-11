@@ -3641,5 +3641,22 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"timeline":"share/military1-timeline.html?v=0b3bfa86","read-24":"share/military1-24.html?v=40024542","read-23":"share/military1-23.html?v=bf021d97","read-22":"share/military1-22.html?v=1562933c","read-21":"share/military1-21.html?v=7e61d5a8","read-20":"share/military1-20.html?v=7a10731a","read-19":"share/military1-19.html?v=586d6b96","read-18":"share/military1-18.html?v=9857fec5","read-17":"share/military1-17.html?v=412f2563","read-16":"share/military1-16.html?v=b1b35d57","read-15":"share/military1-15.html?v=f39688db","read-14":"share/military1-14.html?v=4bc267c8","read-13":"share/military1-13.html?v=7182f2ff","read-12":"share/military1-12.html?v=65ce91ea","read-11":"share/military1-11.html?v=d379adea","read-10":"share/military1-10.html?v=e9a11a53","read-9":"share/military1-9.html?v=a42661b1","read-8":"share/military1-8.html?v=70ca8a3f","read-7":"share/military1-7.html?v=e2eff9b3","read-6":"share/military1-6.html?v=d20ef1b2","read-5":"share/military1-5.html?v=e3323576","read-4":"share/military1-4.html?v=3031ccf9","read-3":"share/military1-3.html?v=26a12663","read-2":"share/military1-2.html?v=59ddfae5","read-1":"share/military1-1.html?v=86cc91c2"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>

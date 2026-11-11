@@ -3640,5 +3640,22 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"timeline":"share/cyber1-timeline.html?v=1276565e","read-21":"share/cyber1-21.html?v=361f515a","read-20":"share/cyber1-20.html?v=4365baa9","read-19":"share/cyber1-19.html?v=4f801b62","read-18":"share/cyber1-18.html?v=0352418f","read-17":"share/cyber1-17.html?v=75dffd60","read-16":"share/cyber1-16.html?v=1dd20b86","read-15":"share/cyber1-15.html?v=b9ca7d86","read-14":"share/cyber1-14.html?v=c134133b","read-13":"share/cyber1-13.html?v=01e7cd14","read-12":"share/cyber1-12.html?v=6c99225d","read-11":"share/cyber1-11.html?v=4d3bdb3c","read-10":"share/cyber1-10.html?v=edf012b9","read-9":"share/cyber1-9.html?v=10104fa7","read-8":"share/cyber1-8.html?v=2f8c793a","read-7":"share/cyber1-7.html?v=1a1c5b32","read-6":"share/cyber1-6.html?v=93226210","read-5":"share/cyber1-5.html?v=8cf380fb","read-4":"share/cyber1-4.html?v=df17e14b","read-3":"share/cyber1-3.html?v=fb0d13dd","read-2":"share/cyber1-2.html?v=4608e263","read-1":"share/cyber1-1.html?v=98d26ede"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>

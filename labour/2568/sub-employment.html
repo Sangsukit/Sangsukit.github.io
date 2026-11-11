@@ -3640,5 +3640,22 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"timeline":"share/employment-timeline.html?v=3f94ef31","read-30":"share/employment-30.html?v=7e783504","read-29":"share/employment-29.html?v=59c2fdd5","read-28":"share/employment-28.html?v=ad05b22a","read-27":"share/employment-27.html?v=743a7c21","read-26":"share/employment-26.html?v=a42a3ce4","read-25":"share/employment-25.html?v=6186a74c","read-24":"share/employment-24.html?v=72865773","read-23":"share/employment-23.html?v=eae36771","read-22":"share/employment-22.html?v=604e428e","read-21":"share/employment-21.html?v=319ba929","read-20":"share/employment-20.html?v=793e3135","read-19":"share/employment-19.html?v=a901b9f5","read-18":"share/employment-18.html?v=2b182286","read-17":"share/employment-17.html?v=a235a8de","read-16":"share/employment-16.html?v=a54442ee","read-15":"share/employment-15.html?v=7d1fc364","read-14":"share/employment-14.html?v=55d2646a","read-13":"share/employment-13.html?v=6918f125","read-12":"share/employment-12.html?v=8e70f705","read-11":"share/employment-11.html?v=f51d4966","read-10":"share/employment-10.html?v=9c23ea3a","read-9":"share/employment-9.html?v=5d730219","read-8":"share/employment-8.html?v=f6279bc3","read-7":"share/employment-7.html?v=b8537801","read-6":"share/employment-6.html?v=e338816e","read-5":"share/employment-5.html?v=b65b9453","read-4":"share/employment-4.html?v=3fc24a4a","read-3":"share/employment-3.html?v=9106eaad","read-2":"share/employment-2.html?v=11c2f0de","read-1":"share/employment-1.html?v=25e3ce3b"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>

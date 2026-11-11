@@ -3646,5 +3646,22 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"timeline":"share/rice-timeline.html?v=563073b0","read-17":"share/rice-17.html?v=6d83aa9a","read-16":"share/rice-16.html?v=4213927b","read-15":"share/rice-15.html?v=5020a8c9","read-14":"share/rice-14.html?v=ef6c5e6e","read-13":"share/rice-13.html?v=0df66fa2","read-12":"share/rice-12.html?v=6dc68dfc","read-11":"share/rice-11.html?v=4b9ea904","read-10":"share/rice-10.html?v=7389ea11","read-9":"share/rice-9.html?v=a201fc1b","read-8":"share/rice-8.html?v=7a444bcd","read-7":"share/rice-7.html?v=40715845","read-6":"share/rice-6.html?v=77552f8a","read-5":"share/rice-5.html?v=bd97f87e","read-4":"share/rice-4.html?v=47e2d7a8","read-3":"share/rice-3.html?v=81fe8cb1","read-2":"share/rice-2.html?v=832ce280","read-1":"share/rice-1.html?v=16a0167a"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>

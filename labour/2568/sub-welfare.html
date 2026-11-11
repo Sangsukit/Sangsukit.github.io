@@ -3640,5 +3640,22 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"timeline":"share/welfare-timeline.html?v=009ccf7e","read-24":"share/welfare-24.html?v=dcce51ef","read-23":"share/welfare-23.html?v=35ff11ee","read-22":"share/welfare-22.html?v=7c19a8aa","read-21":"share/welfare-21.html?v=03fb17b5","read-20":"share/welfare-20.html?v=5123707d","read-19":"share/welfare-19.html?v=446cb32a","read-18":"share/welfare-18.html?v=56b25d1c","read-17":"share/welfare-17.html?v=e48862f9","read-16":"share/welfare-16.html?v=8f62d945","read-15":"share/welfare-15.html?v=852b8eef","read-14":"share/welfare-14.html?v=f6a9ebec","read-13":"share/welfare-13.html?v=54d10eef","read-12":"share/welfare-12.html?v=8fa044a5","read-11":"share/welfare-11.html?v=a4ac1f72","read-10":"share/welfare-10.html?v=6a808a03","read-9":"share/welfare-9.html?v=818d821b","read-8":"share/welfare-8.html?v=f05af997","read-7":"share/welfare-7.html?v=60f67deb","read-6":"share/welfare-6.html?v=f5d652dc","read-5":"share/welfare-5.html?v=db447ade","read-4":"share/welfare-4.html?v=6ce49c22","read-3":"share/welfare-3.html?v=07a48ffa","read-2":"share/welfare-2.html?v=eb597d07","read-1":"share/welfare-1.html?v=28104b46"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>

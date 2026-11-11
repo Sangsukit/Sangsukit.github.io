@@ -4197,6 +4197,23 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"senator-25670711_100646":"share/senator-25670711_100646.html?v=f878c5f7","senator-25670711_105654":"share/senator-25670711_105654.html?v=f784b7c7","senator-25670711_122453":"share/senator-25670711_122453.html?v=45858d1d","senator-25670711_151128":"share/senator-25670711_151128.html?v=fa099372","senator-25670711_154530":"share/senator-25670711_154530.html?v=579a6a32","senator-25670712_095530":"share/senator-25670712_095530.html?v=ea8e3ae9","senator-25671022_103252":"share/senator-25671022_103252.html?v=983b5440","senator-25671031_094331":"share/senator-25671031_094331.html?v=638e0f0e","senator-25671112_102143":"share/senator-25671112_102143.html?v=270ff48b","senator-25680211_083526":"share/senator-25680211_083526.html?v=c8f27ff8","senator-25680721_160113":"share/senator-25680721_160113.html?v=ca1feccc","senator-25690312_144618":"share/senator-25690312_144618.html?v=630c9b31","senator-25690324_124213":"share/senator-25690324_124213.html?v=2f4d0cc3","senator-25690511_094846":"share/senator-25690511_094846.html?v=8a13692a","senator-25690518_084629":"share/senator-25690518_084629.html?v=3717c886","senator-25690629_103310":"share/senator-25690629_103310.html?v=0594a6fe","senator-25690831_134537":"share/senator-25690831_134537.html?v=f64375f7","senator-25691001_111955":"share/senator-25691001_111955.html?v=582ac51c","members":"share/members.html?v=b9a679ba","members-military":"share/members-military.html?v=a3fd264b","members-holistic":"share/members-holistic.html?v=7e7e2d82","members-cyber":"share/members-cyber.html?v=c09c115a","subs-military":"share/subs-military.html?v=999d6e92","subs-holistic":"share/subs-holistic.html?v=98d9917f","subs-cyber":"share/subs-cyber.html?v=c0a699bd","subs-military1":"share/subs-military1.html?v=987d2f42","subs-holistic1":"share/subs-holistic1.html?v=9e873808","subs-cyber1":"share/subs-cyber1.html?v=cd4ef630","timeline":"share/timeline.html?v=df8cd972"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>
 

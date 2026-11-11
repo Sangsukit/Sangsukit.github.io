@@ -4203,6 +4203,23 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"senator-25670711_111944":"share/senator-25670711_111944.html?v=979fa986","senator-25670711_114919":"share/senator-25670711_114919.html?v=2f6cce5e","senator-25670711_131217":"share/senator-25670711_131217.html?v=cb9d73af","senator-25670711_134744":"share/senator-25670711_134744.html?v=bf42d823","senator-25670712_091242":"share/senator-25670712_091242.html?v=e7eeddba","senator-25670712_135148":"share/senator-25670712_135148.html?v=35681bce","senator-25670712_144203":"share/senator-25670712_144203.html?v=1cc40b20","senator-25670715_094849":"share/senator-25670715_094849.html?v=9e5ef428","senator-25670813_111705":"share/senator-25670813_111705.html?v=256574e1","senator-25671022_143306":"share/senator-25671022_143306.html?v=e6d5ee26","senator-25680224_095407":"share/senator-25680224_095407.html?v=8daa1bd9","senator-25680707_132249":"share/senator-25680707_132249.html?v=e232fd62","senator-25690206_154207":"share/senator-25690206_154207.html?v=357a1572","senator-25690226_085130":"share/senator-25690226_085130.html?v=98af4c6d","senator-25690331_101731":"share/senator-25690331_101731.html?v=7eb96f2a","senator-25690421_084257":"share/senator-25690421_084257.html?v=4bede2ff","senator-25690505_140537":"share/senator-25690505_140537.html?v=3876ad30","senator-25690507_132522":"share/senator-25690507_132522.html?v=bada405e","senator-25690511_150451":"share/senator-25690511_150451.html?v=e13662f8","senator-25690609_141329":"share/senator-25690609_141329.html?v=fcd393fd","senator-25690615_065517":"share/senator-25690615_065517.html?v=69f145a8","senator-25690724_132138":"share/senator-25690724_132138.html?v=e24c45be","members":"share/members.html?v=d81e6d9d","members-network":"share/members-network.html?v=f7482108","members-water":"share/members-water.html?v=3deceb03","members-livestock":"share/members-livestock.html?v=4cf3768d","subs-livestock":"share/subs-livestock.html?v=7f5ed623","subs-water":"share/subs-water.html?v=554ce655","subs-network":"share/subs-network.html?v=e11573d2","subs-beef":"share/subs-beef.html?v=c1557fdf","subs-coop":"share/subs-coop.html?v=9cc13497","subs-food":"share/subs-food.html?v=d35b6d41","subs-rice":"share/subs-rice.html?v=fa27822b","subs-dairy":"share/subs-dairy.html?v=12636d4f","subs-debt":"share/subs-debt.html?v=949f5c9f","subs-longan":"share/subs-longan.html?v=b5350bc2","subs-landwater":"share/subs-landwater.html?v=b1d0260f","subs-fishery":"share/subs-fishery.html?v=e5c1dfe2","timeline":"share/timeline.html?v=475917cc"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>
 

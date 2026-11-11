@@ -4082,6 +4082,23 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"subs-military":"share/subs-military.html?v=2f3ec85d","subs-holistic":"share/subs-holistic.html?v=c7511623","subs-cyber":"share/subs-cyber.html?v=30e029ce","subs-military1":"share/subs-military1.html?v=6ebab1b8","subs-holistic1":"share/subs-holistic1.html?v=46237de9","subs-cyber1":"share/subs-cyber1.html?v=101f37c3","timeline":"share/timeline.html?v=323e2ceb","read-35":"share/35.html?v=2d6f7d52","read-34":"share/34.html?v=31697adb","read-33":"share/33.html?v=262dfb0e","read-32":"share/32.html?v=4bd99a25","read-31":"share/31.html?v=c197f2a8","read-30":"share/30.html?v=9efd0f1b","read-29":"share/29.html?v=5937d5d7","read-28":"share/28.html?v=166ab106","read-27":"share/27.html?v=a7ecbff7","read-26":"share/26.html?v=d1a9eeb3","read-25":"share/25.html?v=f1628465","read-24":"share/24.html?v=76b1f3ac","read-23":"share/23.html?v=0ebc829f","read-22":"share/22.html?v=f0f7304c","read-21":"share/21.html?v=ca83adc1","read-20":"share/20.html?v=84fe109a","read-19":"share/19.html?v=033fedb5","read-18":"share/18.html?v=982cf5b7","read-17":"share/17.html?v=c95c6699","read-16":"share/16.html?v=897369fc","read-15":"share/15.html?v=1e9dc54e","read-14":"share/14.html?v=d24a369a","read-13":"share/13.html?v=82810f8b","read-12":"share/12.html?v=e783f5c5","read-11":"share/11.html?v=d7871227","read-10":"share/10.html?v=0ebc72ea","read-9":"share/9.html?v=f5f6566d","read-8":"share/8.html?v=52bd5338","read-7":"share/7.html?v=eb6d5008","read-6":"share/6.html?v=268fa80a","read-5":"share/5.html?v=acd8a8a5","read-4":"share/4.html?v=6e2bda5c","read-3":"share/3.html?v=2d443741","read-2":"share/2.html?v=51bdec65","read-1":"share/1.html?v=9e00ce6d"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>
 <!--PREP_START-->

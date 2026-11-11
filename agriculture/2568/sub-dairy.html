@@ -3646,5 +3646,22 @@ H.classList.add("sf-on");
 W.__sfStop=hand;
 })();
 </script>
+<script id="xshare-js">
+/* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
+   so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
+(function(){
+ const X=/*XSHARE*/{"timeline":"share/dairy-timeline.html?v=f0d2c553","read-17":"share/dairy-17.html?v=ce3786cd","read-16":"share/dairy-16.html?v=906df400","read-15":"share/dairy-15.html?v=3267131e","read-14":"share/dairy-14.html?v=c8edce3f","read-13":"share/dairy-13.html?v=cd15d0bb","read-12":"share/dairy-12.html?v=9ddd25cc","read-11":"share/dairy-11.html?v=ea1f6898","read-10":"share/dairy-10.html?v=8c3f5f0d","read-9":"share/dairy-9.html?v=b5fe2530","read-8":"share/dairy-8.html?v=ba7cb098","read-7":"share/dairy-7.html?v=c149d565","read-6":"share/dairy-6.html?v=6582f228","read-5":"share/dairy-5.html?v=64ebcaeb","read-4":"share/dairy-4.html?v=f3172609","read-3":"share/dairy-3.html?v=0086fe18","read-2":"share/dairy-2.html?v=2c39a8d5","read-1":"share/dairy-1.html?v=ca516a83"};
+ const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
+ const here=location.href.split("#")[0].split("?")[0];
+ const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
+  if(!X[h])return u;if(b!==here&&b+"index.html"!==here&&b!==dir&&b!==dir+"index.html"&&b.replace(/[^/]*$/,"")!==dir)return u;return dir+X[h]}catch(e){return u}};
+ window.xshareLink=xmap;
+ if(typeof copy==="function"){const c0=copy;copy=function(t,l){return c0(xmap(t),l)}}
+ if(navigator.share){const s0=navigator.share.bind(navigator);try{navigator.share=d=>s0(d&&d.url?Object.assign({},d,{url:xmap(d.url)}):d)}catch(e){}}
+ document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest('a[href*="lineit/share"],a[href*="facebook.com/sharer"],a[href*="twitter.com/intent"],a[href^="fb-messenger:"]');
+  if(!a)return;try{const u=new URL(a.href);for(const k of ["url","u","link"]){const v=u.searchParams.get(k);if(v){const n=xmap(v);if(n!==v){u.searchParams.set(k,n);a.href=u.toString()}}}}catch(_){}
+ },true);
+})();
+</script>
 </body>
 </html>
