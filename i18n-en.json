@@ -851,7 +851,6 @@
 "กระบี่": "Krabi",
 "กระบี่ · พังงา · สระบุรี · ลพบุรี · นราธิวาส": "Krabi · Phang Nga · Saraburi · Lop Buri · Narathiwat",
 "กระบี่ · พัทลุง · เชียงราย": "Krabi · Phatthalung · Chiang Rai",
-"กราฟนี้นับจากสรุปผลการประชุมและหนังสือนัดประชุมที่เผยแพร่ทางระบบของรัฐสภา เพื่อช่วยให้เห็นภาพรวมเท่านั้น จำนวนอาจต่างจากรายงานทางการของวุฒิสภา หากพบข้อผิดพลาด โปรดแจ้งผ่านช่องทางติดต่อท้ายหน้า": "These charts are counted from meeting summaries and meeting notices published on the Parliament system, only to give an overview. The numbers may differ from official Senate reports. If you find an error, please let us know through the contact at the bottom of the page.",
 "กราฟภาพรวมทั้งปี": "Year at a glance: charts",
 "กราฟภาพรวมทั้งปี {0}": "Year at a glance: charts {0|ce}",
 "กราฟภาพรวมทั้งปี: ดูแนวโน้ม": "Year at a glance: see the trends",
@@ -5851,5 +5850,6 @@
 "“วสท.” ชง แก้กฎหมายสถานบริการ-คุมวัสดุลามไฟ ป้องกันไฟไหม้ซ้ำ": "EIT proposes amending the Service Establishments Act and controlling flammable materials to prevent repeat fires",
 "“วสท.” ชง แก้กฎหมายสถานบริการ-คุมวัสดุลามไฟ ป้องกันไฟไหม้ซ้ำ (Thai PBS, {0} กรกฎาคม {1}) เปิดเว็บไซต์สำนักข่าวในหน้าใหม่": "EIT proposes amending the Service Establishments Act and controlling flammable materials to prevent repeat fires (Thai PBS, {0} July {1|ce}) opens the news website in a new page",
 "“หาดใหญ่” เร่งขุดลอกคูระบายน้ำ เตรียมพร้อมรับมือน้ำท่วม": "Hat Yai speeds up dredging of drainage ditches to prepare for floods",
-"“หาดใหญ่” เร่งขุดลอกคูระบายน้ำ เตรียมพร้อมรับมือน้ำท่วม (Thai PBS, {0} พฤษภาคม {1}) เปิดเว็บไซต์สำนักข่าวในหน้าใหม่": "Hat Yai speeds up dredging of drainage ditches to prepare for floods (Thai PBS, {0} May {1|ce}) opens the news website in a new page"
+"“หาดใหญ่” เร่งขุดลอกคูระบายน้ำ เตรียมพร้อมรับมือน้ำท่วม (Thai PBS, {0} พฤษภาคม {1}) เปิดเว็บไซต์สำนักข่าวในหน้าใหม่": "Hat Yai speeds up dredging of drainage ditches to prepare for floods (Thai PBS, {0} May {1|ce}) opens the news website in a new page",
+"กราฟนี้นับจากสรุปผลการประชุมและหนังสือนัดประชุมที่เผยแพร่ทางระบบของรัฐสภา เพื่อช่วยให้เห็นภาพรวมเท่านั้น จำนวนอาจต่างจากรายงานทางการของวุฒิสภา หากพบข้อผิดพลาด โปรดแจ้งผู้ที่ส่งลิงก์นี้ให้ท่าน": "These charts are counted from meeting summaries and meeting notices published on the Parliament system, only to give an overview. The numbers may differ from official Senate reports. If you find an error, please let the person who sent you this link know."
 }
