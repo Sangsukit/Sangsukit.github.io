@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>รับแจ้งเตือนทางอีเมล · ParliamentX คลังการประชุม คณะกรรมาธิการวุฒิสภา</title>
+<link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../img/favicon-32.png" sizes="32x32">
+
+<meta name="description" content="เลือกคณะกรรมาธิการที่ท่านต้องการติดตาม แล้วรับแจ้งเตือนทางอีเมลเมื่อมีหนังสือนัดประชุม สรุปการประชุม หรือวิดีโอใหม่">
+<style>
+@font-face{font-family:"Anuphan";src:local("Anuphan"),url(../fonts/anuphan-var.woff2) format("woff2");font-weight:100 700;font-display:swap}
+:root{--bg:#F6F3EC;--card:#FFFFFF;--ink:#1B1B1F;--muted:#55565C;--line:#DDD6C8;--gold:#F2B33D;--gold-ink:#1B1B1F;--gold-deep:#8A6A2B;--ok:#1E6B3A;--warn:#8A2A0A;--focus:#1F5FBF;
+ --ease-out:cubic-bezier(.22,1,.36,1);--ease-in:cubic-bezier(.55,0,1,.45);--spring:cubic-bezier(.34,1.32,.64,1)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141416;--card:#1F1F23;--ink:#F3F1EC;--muted:#B8B6B0;--line:#3A3833;--gold-deep:#E9C987;--ok:#7BD39A;--warn:#FFB59A;--focus:#8DB8FF}}
+:root[data-theme="dark"]{--bg:#141416;--card:#1F1F23;--ink:#F3F1EC;--muted:#B8B6B0;--line:#3A3833;--gold-deep:#E9C987;--ok:#7BD39A;--warn:#FFB59A;--focus:#8DB8FF}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Anuphan","Sarabun","Noto Sans Thai",system-ui,sans-serif;font-size:19px;line-height:1.7}
+.wrap{max-width:640px;margin:0 auto;padding:20px max(16px,env(safe-area-inset-left)) 40px}
+a{color:var(--gold-deep)}
+.top{display:flex;align-items:center;gap:12px;margin:4px 0 18px}
+.top a{display:inline-flex;align-items:center;min-height:48px;font-size:18px;text-decoration:none;font-weight:600}
+h1{font-size:28px;line-height:1.35;margin:0 0 8px}
+.lead{color:var(--muted);margin:0 0 20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;margin:0 0 16px}
+.step{font-size:16px;font-weight:700;color:var(--gold-deep);letter-spacing:.02em;margin:0 0 6px}
+h2{font-size:22px;margin:0 0 10px;line-height:1.4}
+.cm{border-top:1px solid var(--line);padding:6px 0}
+.cm:first-of-type{border-top:0}
+label.tick{display:flex;gap:14px;align-items:flex-start;min-height:56px;padding:10px 4px;cursor:pointer}
+label.tick input{appearance:none;-webkit-appearance:none;flex:0 0 30px;width:30px;height:30px;margin:2px 0 0;border:2.5px solid var(--muted);border-radius:8px;background:var(--card);display:grid;place-content:center;transition:background-color 160ms var(--ease-out),border-color 160ms var(--ease-out)}
+label.tick input::after{content:"";width:9px;height:16px;border:solid var(--gold-ink);border-width:0 4px 4px 0;transform:rotate(45deg) scale(0);margin-top:-4px;transition:transform 200ms var(--spring)}
+label.tick input:checked{background:var(--gold);border-color:var(--gold)}
+label.tick input:checked::after{transform:rotate(45deg) scale(1)}
+label.tick input:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
+.cm>label.tick{font-weight:700;font-size:20px}
+.subs{margin:0 0 6px 44px}
+.subs label.tick{font-size:18px;min-height:52px;padding:8px 4px}
+.subs .hint{font-size:16px;color:var(--muted);margin:0 0 2px}
+input[type=email]{width:100%;font:inherit;font-size:21px;min-height:60px;padding:12px 16px;border:2px solid var(--muted);border-radius:14px;background:var(--card);color:var(--ink)}
+input[type=email]:focus{outline:3px solid var(--focus);outline-offset:2px;border-color:var(--focus)}
+.btn{display:flex;align-items:center;justify-content:center;width:100%;min-height:64px;padding:14px 20px;border:0;border-radius:16px;background:var(--gold);color:var(--gold-ink);font:inherit;font-size:22px;font-weight:700;cursor:pointer;transition:transform 220ms var(--spring),filter 160ms var(--ease-out)}
+.btn:active{transform:scale(.97)}
+.btn:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
+.btn[disabled]{filter:grayscale(.6) opacity(.6);cursor:default}
+.btn.ghost{background:transparent;border:2px solid var(--muted);color:var(--ink);font-size:20px;min-height:58px}
+.btn+.btn{margin-top:12px}
+.note{font-size:17px;color:var(--muted);margin:12px 0 0}
+.msg{border-radius:14px;padding:14px 16px;margin:0 0 16px;font-weight:600}
+.msg.ok{background:color-mix(in srgb,var(--ok) 14%,transparent);color:var(--ok)}
+.msg.err{background:color-mix(in srgb,var(--warn) 14%,transparent);color:var(--warn)}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.big-ok{font-size:46px;line-height:1;margin:0 0 8px}
+[hidden]{display:none!important}
+.view{animation:in 320ms var(--ease-out) both}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+footer{margin-top:28px;padding-top:16px;border-top:1px solid var(--line);font-size:16px;color:var(--muted)}
+footer p{margin:0 0 8px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+<style>.top{flex-wrap:wrap;row-gap:4px}.top .lang{margin:0}</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="top"><a href="../">← กลับหน้าแรก</a><span class="fs" hidden></span></div>
+
+ <!-- 1. Sign up -->
+ <main id="v-sign" class="view" hidden>
+  <h1>รับแจ้งเตือนทางอีเมล</h1>
+  <p class="lead">เลือกคณะที่ท่านต้องการติดตาม เมื่อมีหนังสือนัดประชุม สรุปการประชุม หรือวิดีโอใหม่ เราจะส่งอีเมลแจ้งท่าน พร้อมลิงก์ไปยังเอกสารต้นฉบับของวุฒิสภา เลิกรับได้ทุกเมื่อด้วยการกดครั้งเดียว</p>
+  <div id="sign-msg" class="msg err" role="alert" hidden></div>
+  <form id="sign" novalidate>
+   <section class="card">
+    <p class="step">ขั้นที่ 1</p>
+    <h2>เลือกคณะที่ต้องการติดตาม</h2>
+    <div id="topics"></div>
+   </section>
+   <section class="card">
+    <p class="step">ขั้นที่ 2</p>
+    <h2><label for="email">อีเมลของท่าน</label></h2>
+    <input id="email" type="email" inputmode="email" autocomplete="email" placeholder="name@example.com" required>
+    <div class="hp" aria-hidden="true"><label>เว็บไซต์ <input id="website" tabindex="-1" autocomplete="off"></label></div>
+    <label class="tick" style="margin-top:12px"><input id="consent" type="checkbox"><span>ข้าพเจ้ายินยอมให้เก็บอีเมลและคณะที่เลือกไว้ เพื่อส่งแจ้งเตือนเท่านั้น โดยข้อมูลจัดเก็บบนผู้ให้บริการในต่างประเทศ ข้าพเจ้าเลิกรับได้ทุกเมื่อ และข้อมูลจะถูกลบภายใน 30 วัน (<a href="privacy.html">อ่านรายละเอียด</a>)</span></label>
+   </section>
+   <button class="btn" id="sign-btn" type="submit">สมัครรับแจ้งเตือน</button>
+   <p class="note">เราจะส่งอีเมลให้ท่านกดยืนยันอีกครั้ง จึงจะเริ่มแจ้งเตือน</p>
+  </form>
+ </main>
+
+ <!-- 2. Sent: check your email -->
+ <main id="v-sent" class="view" hidden>
+  <section class="card">
+   <p class="big-ok" aria-hidden="true">✉️</p>
+   <h1>โปรดเปิดอีเมลของท่าน</h1>
+   <p>เราได้ส่งอีเมลชื่อ <b>“โปรดยืนยันการรับแจ้งเตือน”</b> ไปให้ท่านแล้ว โปรดกดปุ่มสีทองในอีเมลนั้นเพื่อเริ่มรับแจ้งเตือน</p>
+   <p class="note">หากไม่พบภายในไม่กี่นาที โปรดดูในกล่องจดหมายขยะหรือแท็บ “โปรโมชัน”</p>
+  </section>
+ </main>
+
+ <!-- 3. Manage (after confirm, or from an email link) -->
+ <main id="v-manage" class="view" hidden>
+  <div id="man-msg" class="msg ok" role="status" hidden></div>
+  <h1>คณะที่ท่านติดตาม</h1>
+  <p class="lead" id="man-who"></p>
+  <form id="manage">
+   <section class="card"><div id="topics2"></div></section>
+   <button class="btn" type="submit">บันทึกการเลือก</button>
+  </form>
+  <button class="btn ghost" id="stop-btn" type="button" style="margin-top:12px">เลิกรับทั้งหมด</button>
+ </main>
+
+ <!-- 4. Unsubscribed -->
+ <main id="v-gone" class="view" hidden>
+  <section class="card">
+   <p class="big-ok" aria-hidden="true">✓</p>
+   <h1>เลิกรับแจ้งเตือนเรียบร้อยแล้ว</h1>
+   <p>ท่านจะไม่ได้รับอีเมลจากเราอีก อีเมลของท่านจะถูกลบออกภายใน 30 วัน ขอขอบพระคุณที่ติดตามการทำงานของคณะกรรมาธิการ</p>
+   <button class="btn ghost" id="back-btn" type="button">กดผิด ขอกลับมารับเหมือนเดิม</button>
+  </section>
+ </main>
+
+ <!-- link problem -->
+ <main id="v-bad" class="view" hidden>
+  <section class="card">
+   <h1>ลิงก์นี้ใช้ไม่ได้แล้ว</h1>
+   <p>ลิงก์อาจหมดอายุ หรือถูกคัดลอกมาไม่ครบ ท่านสมัครใหม่ได้ที่ปุ่มด้านล่าง</p>
+   <a class="btn" href="./">สมัครรับแจ้งเตือนใหม่</a>
+  </section>
+ </main>
+
+ <footer>
+  <p>หน้านี้เก็บเฉพาะอีเมลและคณะที่ท่านเลือก เพื่อส่งแจ้งเตือนเท่านั้น ไม่ใช้คุกกี้และไม่ติดตามการเปิดอ่านอีเมล · <a href="privacy.html">การใช้ข้อมูลของท่าน</a></p>
+  <p>ไม่ใช่เว็บไซต์ทางการของวุฒิสภา</p>
+ </footer>
+</div>
+
+<script>
+const API = "https://parliamentx-alerts.parliamentx.workers.dev";   // build_site.py --api https://parliamentx-alerts.parliamentx.workers.dev
+const PREVIEW = API.includes("REPLACE");                         // preview: no network calls, fake answers
+const TOPICS = [{"id": "s414", "name": "คณะกรรมาธิการการบริหารราชการแผ่นดิน", "subs": [{"id": "s414-central", "name": "คณะอนุกรรมาธิการส่วนกลางและส่วนภูมิภาค"}, {"id": "s414-dev", "name": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ"}, {"id": "s414-disaster", "name": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ"}]}, {"id": "s410", "name": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ", "subs": [{"id": "s410-military", "name": "คณะอนุกรรมาธิการด้านกิจการทหาร"}, {"id": "s410-holistic", "name": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม"}, {"id": "s410-cyber", "name": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ"}]}, {"id": "s428", "name": "คณะกรรมาธิการการเกษตรและสหกรณ์", "subs": [{"id": "s428-livestock", "name": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง"}, {"id": "s428-water", "name": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน"}, {"id": "s428-network", "name": "คณะอนุกรรมาธิการเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากล"}]}, {"id": "s423", "name": "คณะกรรมาธิการการแรงงาน", "subs": [{"id": "s423-welfare", "name": "คณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน"}, {"id": "s423-employment", "name": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน"}, {"id": "s423-socialsec", "name": "คณะอนุกรรมาธิการด้านการประกันสังคม"}]}];
+const $ = (s) => document.querySelector(s);
+const views = ["sign", "sent", "manage", "gone", "bad"];
+function show(v){ views.forEach(x => $("#v-" + x).hidden = x !== v); window.scrollTo(0, 0); }
+function esc(s){ return String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+function renderTopics(el, picked){
+  el.innerHTML = TOPICS.map(c => `
+   <div class="cm">
+    <label class="tick"><input type="checkbox" value="${c.id}" ${picked.has(c.id) ? "checked" : ""}><span>${esc(c.name)}</span></label>
+    <div class="subs"><p class="hint">คณะอนุกรรมาธิการ (เลือกเพิ่มได้)</p>${c.subs.map(s => `
+     <label class="tick"><input type="checkbox" value="${s.id}" ${picked.has(s.id) ? "checked" : ""}><span>${esc(s.name)}</span></label>`).join("")}
+    </div>
+   </div>`).join("");
+}
+const picked = (el) => [...el.querySelectorAll("input:checked")].map(i => i.value);
+
+async function call(path, body){
+  if (PREVIEW) {
+    await new Promise(r => setTimeout(r, 400));
+    if (path === "/api/get") return { ok: true, status: "active", topics: ["s414", "s414-disaster"], email: "so•••@example.com" };
+    if (path === "/api/confirm") return { ok: true, topics: ["s414"], m: "preview" };
+    return { ok: true };
+  }
+  const r = await fetch(API + path, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+  return r.json();
+}
+
+// pre-tick: ?c=<id> from a committee page, else committees followed on this device (home page "ติดตาม")
+function initialPicks(){
+  const s = new Set();
+  const q = new URLSearchParams(location.search).getAll("c");
+  q.forEach(x => s.add(x));
+  if (!s.size) { try { (JSON.parse(localStorage.getItem("arch-follow") || "[]") || []).forEach(x => s.add(x)); } catch(e){} }
+  return s;
+}
+
+let MTOK = null;
+async function openManage(tok, note){
+  MTOK = tok;
+  const r = await call("/api/get", { t: tok });
+  if (!r.ok) return show("bad");
+  if (r.status === "gone") { show("gone"); return; }
+  renderTopics($("#topics2"), new Set(r.topics));
+  $("#man-who").innerHTML = "<span>อีเมล</span> " + esc(r.email);   // label in its own node so the English switch can translate it
+  const m = $("#man-msg"); m.hidden = !note; m.textContent = note || "";
+  show("manage");
+}
+
+$("#sign").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const err = $("#sign-msg"), topics = picked($("#topics")), email = $("#email").value.trim();
+  const fail = (t, el) => { err.textContent = t; err.hidden = false; window.scrollTo(0, 0); el && el.focus(); };
+  if (!topics.length) return fail("โปรดเลือกอย่างน้อย 1 คณะ");
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return fail("โปรดตรวจสอบอีเมลอีกครั้ง", $("#email"));
+  if (!$("#consent").checked) return fail("โปรดกดยินยอมในช่องสี่เหลี่ยมก่อนสมัคร", $("#consent"));
+  err.hidden = true;
+  const b = $("#sign-btn"); b.disabled = true; b.textContent = "กำลังส่ง…";
+  try {
+    const r = await call("/api/subscribe", { email, topics, consent: true, website: $("#website").value });
+    if (r.ok) show("sent"); else fail("ขออภัย ระบบยังรับข้อมูลไม่ได้ โปรดลองอีกครั้งภายหลัง");
+  } catch(x) { fail("ขออภัย ระบบยังรับข้อมูลไม่ได้ โปรดลองอีกครั้งภายหลัง"); }
+  b.disabled = false; b.textContent = "สมัครรับแจ้งเตือน";
+});
+
+$("#manage").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const topics = picked($("#topics2"));
+  if (!topics.length) { $("#stop-btn").click(); return; }
+  const r = await call("/api/update", { t: MTOK, topics });
+  const m = $("#man-msg"); m.hidden = false; m.className = "msg " + (r.ok ? "ok" : "err");
+  m.textContent = r.ok ? "บันทึกเรียบร้อยแล้ว" : "ขออภัย บันทึกไม่สำเร็จ โปรดลองอีกครั้ง";
+  window.scrollTo(0, 0);
+});
+async function stop(tok){ const r = await call("/api/unsubscribe", { t: tok }); MTOK = tok; r.ok ? show("gone") : show("bad"); }
+$("#stop-btn").addEventListener("click", () => stop(MTOK));
+$("#back-btn").addEventListener("click", async () => {
+  const r = await call("/api/resubscribe", { t: MTOK });
+  r.ok ? openManage(MTOK, "ยินดีต้อนรับกลับ ท่านจะได้รับแจ้งเตือนเหมือนเดิม") : show("bad");
+});
+
+// Links from emails use #c= (confirm), #m= (manage), #u= (unsubscribe). The part after # never reaches any server log.
+async function route(){
+  const h = new URLSearchParams(location.hash.slice(1));
+  history.replaceState(null, "", location.pathname + location.search);   // keep the link out of history/share
+  if (h.get("c")) {
+    const r = await call("/api/confirm", { t: h.get("c") });
+    return r.ok ? openManage(r.m, "ยืนยันเรียบร้อยแล้ว ท่านจะได้รับแจ้งเตือนของคณะด้านล่าง") : show("bad");
+  }
+  if (h.get("u")) return stop(h.get("u"));                 // one tap from the email = done
+  if (h.get("m")) return openManage(h.get("m"));
+  renderTopics($("#topics"), initialPicks());
+  show("sign");
+}
+window.addEventListener("hashchange", () => { if (location.hash.length > 3) route(); });
+route();
+</script>
+<!-- I18N LAYER (Thai/English switch). Added by archive/i18n/i18n.py after the page is built. Thai stays the default and
+     the authoritative text; English comes from i18n-en.json (translation cache), loaded only when a reader picks English. -->
+<style>
+.lang{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:8px 0 0}
+.lang>span{font-size:.92rem;opacity:.9}
+.lang button{min-height:48px;min-width:72px;padding:0 16px;border-radius:12px;border:2px solid currentColor;background:transparent;color:inherit;font:inherit;font-weight:700;font-size:1.02rem;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.lang button[aria-pressed="true"]{background:#F3E2B8;color:#3A0B08;border-color:#F3E2B8}
+.gate .lang button[aria-pressed="true"],main .lang button[aria-pressed="true"]{background:#6E1A16;color:#fff;border-color:#6E1A16}
+.lang svg{width:20px;height:20px;flex:none}
+.i18n-note{display:none;margin:12px auto;max-width:1100px;padding:14px 16px;border-radius:14px;background:#FFF6DD;color:#3A2A10;border:2px solid #E2BE76;font-size:1rem;line-height:1.6}
+html[lang="en"] .i18n-note{display:block}
+.i18n-note b{display:block;font-size:1.06rem;margin-bottom:2px}
+.i18n-note button{margin-top:8px;min-height:48px;padding:0 16px;border-radius:12px;border:0;background:#6E1A16;color:#fff;font:inherit;font-weight:700;cursor:pointer}
+html.i18n-wait body{visibility:hidden}
+@media (prefers-color-scheme:dark){.i18n-note{background:#2A2112;color:#F3EBE3;border-color:#8A6A2E}.i18n-note button{background:#E2BE76;color:#1A110E}
+ .gate .lang button[aria-pressed="true"],main .lang button[aria-pressed="true"]{background:#E2BE76;color:#1A110E;border-color:#E2BE76}}
+</style>
+<script>
+(()=>{
+const DICT_URL="../i18n-en.json";
+const KEY="arch-lang";
+const TH=/[฀-๿]/;
+const ATTRS=["placeholder","aria-label","title","alt"];
+const SKIP={SCRIPT:1,STYLE:1,NOSCRIPT:1,TEXTAREA:1,INPUT:1};
+const GLOBE='<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9s1.3-6.4 3.8-9z"/></svg>';
+let dict=null, lang="th", busy=false;
+const missing=new Set(); window.__i18nMissing=missing;
+const orig=new WeakMap();      // text node -> Thai original
+const origA=new WeakMap();     // element -> {attr: Thai original}
+// Same rule as i18n.py norm(): Thai digits -> 0-9, collapse spaces, numbers -> {0},{1}...
+function norm(s){s=s.replace(/[๐-๙]/g,c=>String("๐๑๒๓๔๕๖๗๘๙".indexOf(c))).replace(/\s+/g," ").trim();const n=[];
+ s=s.replace(/\d+(?:[.,:]\d+)*/g,m=>{n.push(m);return "{"+(n.length-1)+"}"});return [s,n]}
+function fill(t,n){return t.replace(/\{(\d+)(\|ce)?\}/g,(m,i,ce)=>{const v=n[+i];if(v==null)return "";return ce?String(parseInt(v.replace(/,/g,""),10)-543):v})}
+function tr(s){ // translate one string; returns null when the cache has no entry
+ if(!dict||!s||!TH.test(s))return null;const [k,n]=norm(s);let t=dict[k];
+ if(t==null){ // try line by line (share texts, multi-line strings)
+  if(s.indexOf("\n")>=0){const parts=s.split("\n").map(l=>TH.test(l)?tr(l):l);if(parts.every(p=>p!=null))return parts.join("\n")}
+  missing.add(k);return null}
+ const lead=s.match(/^\s*/)[0],trail=s.match(/\s*$/)[0];return lead+fill(t,n)+trail}
+window.__i18n_tr=s=>lang==="en"?(tr(s)??s):s;
+function doText(node){const v=node.nodeValue;if(!TH.test(v))return;const t=tr(v);if(t!=null&&t!==v){orig.set(node,v);node.nodeValue=t}}
+function doEl(el){for(const a of ATTRS){if(!el.hasAttribute(a))continue;const v=el.getAttribute(a);if(!TH.test(v))continue;const t=tr(v);
+ if(t!=null){const o=origA.get(el)||{};o[a]=v;origA.set(el,o);el.setAttribute(a,t)}}
+ if(el.tagName==="A")doShare(el)}
+function unwrap(root){ // glossary words (button.gl) split sentences; in English the sentence is translated whole
+ if(root.matches&&root.matches("button.gl,mark,span.nw,wbr")){const p=root.parentNode;if(!p)return null;root.replaceWith(document.createTextNode(root.textContent));p.normalize();return p}
+ const g=root.querySelectorAll?root.querySelectorAll("button.gl,mark,span.nw,wbr"):[];if(!g.length)return root;const ps=new Set();
+ g.forEach(b=>{ps.add(b.parentNode);b.replaceWith(document.createTextNode(b.textContent))});ps.forEach(p=>p&&p.normalize());return root}
+function walk(root){if(root.nodeType===3){if(root.parentNode&&!SKIP[root.parentNode.nodeName])doText(root);return}
+ if(root.nodeType!==1)return;root=unwrap(root);if(!root||!root.isConnected&&root!==document.body)return;
+ if(SKIP[root.nodeName]||root.closest&&root.closest("[data-i18n-skip]"))return;doEl(root);
+ const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT|NodeFilter.SHOW_ELEMENT,{acceptNode:n=>n.nodeType===1?(SKIP[n.nodeName]||n.hasAttribute("data-i18n-skip")?2:1):(TH.test(n.nodeValue)?1:3)});
+ let n;while(n=w.nextNode()){if(n.nodeType===3)doText(n);else doEl(n)}}
+function addLang(u){try{const x=new URL(u,location.href);x.searchParams.set("lang","en");return x.href}catch(e){return u}}
+function doShare(a){ // share links: English text and a link that opens in English
+ const h=a.getAttribute("href")||"";if(a.dataset.i18nShare||!/line\.me\/lineit|twitter\.com\/intent|facebook\.com\/sharer/.test(h))return;
+ try{const x=new URL(h);for(const p of ["url","u"]){const v=x.searchParams.get(p);if(v)x.searchParams.set(p,addLang(v))}
+  const t=x.searchParams.get("text");if(t){const e=tr(t);if(e!=null)x.searchParams.set("text",e)}
+  a.dataset.i18nShare=h;a.setAttribute("href",x.href)}catch(e){}}
+function undo(){const w=document.createTreeWalker(document.documentElement,NodeFilter.SHOW_TEXT|NodeFilter.SHOW_ELEMENT);let n;
+ while(n=w.nextNode()){if(n.nodeType===3){const o=orig.get(n);if(o!=null){n.nodeValue=o;orig.delete(n)}}
+  else{const o=origA.get(n);if(o){for(const a in o)n.setAttribute(a,o[a]);origA.delete(n)}if(n.dataset&&n.dataset.i18nShare){n.setAttribute("href",n.dataset.i18nShare);delete n.dataset.i18nShare}}}
+ if(document.__thTitle)document.title=document.__thTitle}
+const mo=new MutationObserver(recs=>{if(lang!=="en"||busy)return;busy=true;
+ for(const r of recs){if(r.type==="childList")r.addedNodes.forEach(walk);else if(r.type==="characterData")doText(r.target);else if(r.type==="attributes")doEl(r.target)}
+ mo.takeRecords();busy=false});
+function searchEn(){ // let English words find meetings too (adds the English text of each meeting to the search index)
+ try{if(typeof DATA==="undefined"||!Array.isArray(DATA))return}catch(e){return}
+ try{DATA.forEach(m=>{if(m.__en||!m.hay)return;const f=[m.headline,m.summary,m.chair,m.room,...(m.items||[]).flat(),...(m.tags||[])].filter(x=>typeof x==="string");
+  m.hay+=String(f.map(x=>tr(x)||"").join(" ")).toLowerCase().replace(/\s+/g,"");m.__en=1})}catch(e){}}
+function apply(){busy=true;document.documentElement.lang="en";if(!document.__thTitle)document.__thTitle=document.title;
+ const t=tr(document.title);if(t)document.title=t;walk(document.body);mo.takeRecords();busy=false;
+ mo.observe(document.body,{subtree:true,childList:true,characterData:true,attributes:true,attributeFilter:ATTRS.concat(["href"])});
+ searchEn();sync()}
+function sync(){document.querySelectorAll(".lang button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.lang===lang)))}
+function load(){if(dict)return Promise.resolve(dict);return fetch(DICT_URL,{cache:"no-cache"}).then(r=>r.ok?r.json():{}).catch(()=>({})).then(d=>dict=d)}
+function set(l,save){if(save){try{localStorage.setItem(KEY,l)}catch(e){}}
+ if(l==="en"){lang="en";return load().then(()=>{apply();document.documentElement.classList.remove("i18n-wait")})}
+ if(lang==="en"){try{const u=new URL(location.href);u.searchParams.delete("lang");if(u.href===location.href)location.reload();else location.replace(u.href)}catch(e){location.reload()}return}
+ lang="th";document.documentElement.classList.remove("i18n-wait");sync()}
+window.__i18n_set=set;
+// the switch: next to every "ขนาดตัวอักษร" control (header, entry screen), or at the top when a page has none
+function sw(){const d=document.createElement("div");d.className="lang";d.setAttribute("role","group");d.setAttribute("aria-label","เลือกภาษา Choose language");d.dataset.i18nSkip="1";
+ d.innerHTML=GLOBE+'<span>ภาษา · Language</span><button type="button" data-lang="th" lang="th">ไทย</button><button type="button" data-lang="en" lang="en">English</button>';
+ d.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>set(b.dataset.lang,true)));return d}
+function note(){const d=document.createElement("div");d.className="i18n-note";d.setAttribute("role","note");d.dataset.i18nSkip="1";d.lang="en";
+ d.innerHTML='<b>English version (AI-assisted translation)</b>This English text is a translation made with the help of AI, for convenience only. If anything differs, the Thai text and the official documents of the Secretariat of the Senate prevail.<br><button type="button" lang="th">อ่านฉบับภาษาไทย (Read in Thai)</button>';
+ d.querySelector("button").addEventListener("click",()=>set("th",true));return d}
+function init(){const fs=document.querySelectorAll(".fs");if(fs.length)fs.forEach(f=>f.after(sw()));else document.body.prepend(sw());
+ const h=document.querySelector("header");if(h)h.after(note());else document.body.prepend(note());
+ const g=document.querySelector(".gate .lang");if(g)g.after(note());
+ try{const u=new URL(location.href),q=u.searchParams.get("lang");if(q==="en"||q==="th"){localStorage.setItem(KEY,q);u.searchParams.delete("lang");history.replaceState(history.state,"",u.href)}}catch(e){}
+ let l="th";try{l=new URLSearchParams(location.search).get("lang")||localStorage.getItem(KEY)||"th"}catch(e){}
+ if(l==="en")set("en",false);else{document.documentElement.classList.remove("i18n-wait");sync()}}
+// read-aloud and share in English
+if(window.speechSynthesis){const sp=speechSynthesis.speak.bind(speechSynthesis);speechSynthesis.speak=u=>{if(lang==="en"){const t=tr(u.text);if(t!=null)u.text=t;
+ if(!TH.test(u.text)){u.lang="en-US";const v=speechSynthesis.getVoices().find(x=>/^en/i.test(x.lang));u.voice=v||null}}return sp(u)}}
+if(navigator.share){const ns=navigator.share.bind(navigator);navigator.share=o=>{if(lang==="en"&&o){o=Object.assign({},o);if(o.title)o.title=tr(o.title)??o.title;if(o.text)o.text=tr(o.text)??o.text;if(o.url)o.url=addLang(o.url)}return ns(o)}}
+if(navigator.clipboard&&navigator.clipboard.writeText){const cw=navigator.clipboard.writeText.bind(navigator.clipboard);navigator.clipboard.writeText=s=>{if(lang==="en"&&typeof s==="string"){s=(tr(s)??s).replace(/https?:\/\/\S+/g,u=>addLang(u))}return cw(s)}}
+try{const l=new URLSearchParams(location.search).get("lang")||localStorage.getItem(KEY);if(l==="en"){document.documentElement.classList.add("i18n-wait");setTimeout(()=>document.documentElement.classList.remove("i18n-wait"),3500)}}catch(e){}
+// back/forward: a page kept in memory follows the language chosen last (on another page)
+addEventListener("pageshow",e=>{if(!e.persisted)return;let s="th";try{s=localStorage.getItem(KEY)||"th"}catch(x){}
+ if(s==="en"&&lang!=="en")set("en",false);else if(s!=="en"&&lang==="en")location.reload()});
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
+})();
+</script>
+
+</body>
+</html>

@@ -542,6 +542,7 @@ footer h4:not(#au){color:var(--gold-band-head)}
 html.sf-on{--sf:1}
 </style>
 <!--/FRICTION-->
+<!--HUB_ALERTS--><style>.hh-alert{display:flex;align-items:center;gap:14px;min-height:56px;margin:14px 0 18px;padding:12px 20px;border-radius:20px;background:var(--acc);color:var(--on-acc);text-decoration:none;max-width:560px}.hh-alert .ico{width:28px;height:28px;flex:none}.hh-alert b{display:block;font-size:1.12rem;line-height:1.35}.hh-alert .t{display:block;font-size:.98rem;line-height:1.45;opacity:.92;text-wrap:pretty}.hh-alert:focus-visible{outline:3px solid var(--gold);outline-offset:3px}@media (hover:hover){.hh-alert{transition:transform .18s cubic-bezier(.34,1.56,.64,1)}.hh-alert:hover{transform:translateY(-2px)}}@media (prefers-reduced-motion:reduce){.hh-alert{transition:none}.hh-alert:hover{transform:none}}</style>
 </head>
 <body>
 <a class="dk-skip" href="#list">ข้ามไปที่รายชื่อคณะกรรมาธิการ</a>
@@ -621,6 +622,7 @@ html.sf-on{--sf:1}
  <section class="sec hh-sec" id="hh-mine" aria-labelledby="hh-mine-h">
   <h2 id="hh-mine-h"><svg class="ico" aria-hidden="true"><use href="#i-star-on"/></svg>คณะที่ท่านติดตาม</h2>
   <p class="hh-note">บันทึกไว้ในเครื่องนี้เท่านั้น ไม่ต้องสมัครสมาชิก และไม่มีการส่งข้อมูลไปที่ใด</p>
+  <a class="hh-alert" href="alerts/"><svg class="ico" aria-hidden="true"><use href="#i-mail"/></svg><span><b>รับแจ้งเตือนทางอีเมล</b><span class="t">เมื่อคณะที่ท่านเลือกมีนัดประชุม สรุปการประชุม หรือวิดีโอใหม่ เลิกรับได้ทุกเมื่อ</span></span></a>
   <div class="hh-mine" id="hh-minelist"></div>
  </section>
 
@@ -719,6 +721,7 @@ html.sf-on{--sf:1}
  <li><b>ฉบับภาษาอังกฤษ</b> เป็นคำแปลโดยใช้ AI ช่วย เพื่อความสะดวกเท่านั้น หากความหมายต่างกัน ให้ถือตามฉบับภาษาไทยและเอกสารทางการของสำนักงานเลขาธิการวุฒิสภา</li>
    <li>แจ้งแก้ไขข้อมูล: <span id="contact">โปรดแจ้งผู้ที่ส่งลิงก์นี้ให้ท่าน</span></li>
    <li>ข้อตกลงการใช้งานของแต่ละคลังอยู่ในหน้าคลังนั้น · หน้านี้ไม่ใช้คุกกี้และไม่เก็บข้อมูลส่วนบุคคล (จำเพียงขนาดตัวอักษรและภาษาที่เลือกไว้ในเครื่องของท่าน)</li>
+   <li>การรับแจ้งเตือนทางอีเมลเป็นบริการแยกที่ท่านเลือกสมัครเอง อ่าน<a href="alerts/privacy.html">การใช้ข้อมูลของท่าน</a></li>
   </ul>
   <div class="f-credit"><span class="unofficial"><svg class="ico" aria-hidden="true"><use href="#i-info"/></svg>ไม่ใช่เว็บไซต์ทางการของวุฒิสภา</span><span>ปรับปรุงล่าสุด <span id="updated" class="nb">11 พฤศจิกายน 2569</span></span></div>
  </div>
@@ -1669,6 +1672,7 @@ html .top.hh .fs button:focus-visible,html .top.hh .lang button:focus-visible{ou
 </style>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
  <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+ <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="M4 7.5l8 6 8-6"/></symbol>
  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l5 5"/></symbol>
  <symbol id="i-hand" viewBox="0 0 24 24"><path d="M12 21c-4 0-7-3-7-7v-3.5a1.5 1.5 0 0 1 3 0V13"/><path d="M8 12V5.5a1.5 1.5 0 0 1 3 0V11M11 10.5V4a1.5 1.5 0 0 1 3 0v6.5M14 10.5V5.5a1.5 1.5 0 0 1 3 0V14c0 4-2.5 7-5 7"/></symbol>
  <symbol id="i-ext" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></symbol>
