@@ -5881,5 +5881,7 @@
 "เปิดดูคณะอนุกรรมาธิการด้านกิจการทหาร (ชุด พ.ศ. {0}–{1})": "Open the Subcommittee on Military Affairs ({0|ce}–{1|ce} term)",
 "เปิดดูคณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม (ชุด พ.ศ. {0}–{1})": "Open the Subcommittee on Holistic Security ({0|ce}–{1|ce} term)",
 "เปิดดูคณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ (ชุด พ.ศ. {0}–{1})": "Open the Subcommittee on Cyber, Technology, Weapons and Defence Industry ({0|ce}–{1|ce} term)",
-"เล่นวิดีโอ": "Play video"
+"เล่นวิดีโอ": "Play video",
+"เรื่องที่อยู่ในข่าวตอนนี้": "In the news now",
+"ข่าวล่าสุดจากสำนักข่าวหลักของไทยและต่างประเทศ ที่ตรงกับเรื่องในขอบเขตงานของคณะกรรมาธิการ อัปเดตเองทุก {0} ชั่วโมง": "The latest reports from mainstream Thai and international news outlets on subjects within the committees' scope. Updates itself every {0} hours."
 }

@@ -1,0 +1,33 @@
+# Hot Topic on the home page: refresh hot/hot.json every 3 hours (Sukit 11 Nov 2569: "hot topic is auto update").
+# Reads only the mainstream news feeds in hot/sources.json, matches headlines to committee subjects in hot/topics.json,
+# and commits hot/hot.json when it changed. GitHub Pages then republishes the site by itself.
+name: Hot Topic refresh
+on:
+  schedule:
+    - cron: "23 */3 * * *"   # every 3 hours (UTC), e.g. 07:23, 10:23 ... Bangkok
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: hot-topic
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build hot/hot.json
+        run: python3 hot/hot_topics.py --root .
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- hot/hot.json hot/hot_all.json; then echo "No change"; exit 0; fi
+          git config user.name "parliamentx-hot-topic"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hot/hot.json hot/hot_all.json
+          git commit -m "Hot Topic: refresh news ($(date -u +%Y-%m-%dT%H:%MZ))"
+          for i in 1 2 3; do git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep $((i*5)); done
+          exit 1

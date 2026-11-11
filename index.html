@@ -609,6 +609,15 @@ html.sf-on{--sf:1}
  </section>
 
 
+ <!--HUB_HOT-->
+ <section class="sec hh-sec hot" id="hh-hot" aria-labelledby="hh-hot-h" hidden>
+  <h2 id="hh-hot-h"><svg class="ico hot-fl" aria-hidden="true" viewBox="0 0 24 24"><path fill="currentColor" d="M12.6 2.2c.4 3-1 4.6-2.4 6.2C8.8 10 7.4 11.6 7.4 14.3A4.6 4.6 0 0 0 12 19a4.6 4.6 0 0 0 4.6-4.7c0-1.6-.6-2.9-1.4-4 .1 1.5-.4 2.6-1.4 3.2.3-2.9-.5-6.6-1.2-11.3zM12 22a7.6 7.6 0 0 1-7.6-7.7c0-3.9 2-6.1 3.6-7.9C9.7 4.6 11 3.1 10.4 0c4.6 2.5 7.9 6.5 8.8 10.4.3 1.2.4 2.5.4 3.9A7.6 7.6 0 0 1 12 22z"/></svg><span class="hot-tag">Hot Topic</span> <span>เรื่องที่อยู่ในข่าวตอนนี้</span></h2>
+  <p class="hh-note">ข่าวล่าสุดจากสำนักข่าวหลักของไทยและต่างประเทศ ที่ตรงกับเรื่องในขอบเขตงานของคณะกรรมาธิการ อัปเดตเองทุก 3 ชั่วโมง</p>
+  <div class="hot-list" id="hh-hotlist" translate="no"></div>
+  <div class="hh-morebtn hot-more" id="hh-hotmore" hidden><button type="button" aria-expanded="false" aria-controls="hh-hotlist"></button></div>
+  <p class="hot-foot" id="hh-hotfoot" translate="no"></p>
+ </section>
+
  <section class="sec hh-sec" id="hh-mine" aria-labelledby="hh-mine-h">
   <h2 id="hh-mine-h"><svg class="ico" aria-hidden="true"><use href="#i-star-on"/></svg>คณะที่ท่านติดตาม</h2>
   <p class="hh-note">บันทึกไว้ในเครื่องนี้เท่านั้น ไม่ต้องสมัครสมาชิก และไม่มีการส่งข้อมูลไปที่ใด</p>
@@ -1982,6 +1991,118 @@ span.cs>svg.ico,span.cs>svg.csv{width:100%!important;height:100%!important;margi
  }
  if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",function(){setTimeout(build,0)});else setTimeout(build,0);
  window.addEventListener("load",build);
+})();
+</script>
+
+<!--HUB_HOT-->
+<style>
+.hot[hidden]{display:none}
+.hot h2{flex-wrap:wrap}
+.hot .hot-fl{color:var(--warn,#8A4B12)}
+.hot-tag{display:inline-block;padding:2px 12px;border-radius:99px;background:var(--warn,#8A4B12);color:#fff;font-size:.86em;letter-spacing:.02em}
+.hot-list{display:grid;gap:14px;margin-top:12px}
+@media (min-width:900px){.hot-list{grid-template-columns:1fr 1fr}}
+.hot-card{border-radius:18px;padding:16px 16px 12px;animation:hot-in .45s var(--ease-out,cubic-bezier(.16,1,.3,1)) both}
+.hot-card[hidden]{display:none}
+.hot-ph{position:relative;margin:-4px -4px 12px;border-radius:14px;overflow:hidden;background:var(--line);aspect-ratio:16/9}
+.hot-ph img{display:block;width:100%;height:100%;object-fit:cover}
+.hot-ph .hot-chip{position:absolute;left:6px;bottom:6px;display:inline-flex;align-items:center;gap:5px;min-height:44px;padding:0 10px;border:0;background:none;
+ color:#fff;font:inherit;font-size:.86rem;cursor:pointer}
+.hot-ph .hot-chip span{padding:2px 9px;border-radius:99px;background:rgba(0,0,0,.55)}
+.hot-cr{position:absolute;left:0;right:0;bottom:0;margin:0;padding:10px 12px 12px;background:rgba(0,0,0,.78);color:#fff;font-size:.9rem;line-height:1.45;
+ animation:hot-in .25s var(--ease-out,cubic-bezier(.16,1,.3,1)) both}
+.hot-cr[hidden]{display:none}
+.hot-cr a{color:#fff}
+.hot-top{display:flex;align-items:center;gap:12px;margin:0 0 6px}
+.hot-top .ico{flex:none;width:34px;height:34px;color:var(--gold)}
+.hot-top h3{margin:0;font-size:1.22rem;line-height:1.35;color:var(--ink)}
+.hot-n{display:block;font-size:.95rem;font-weight:400;color:var(--muted)}
+.hot-items{list-style:none;margin:4px 0 0;padding:0}
+.hot-items li+li{border-top:1px solid var(--line)}
+.hot-items a{display:block;min-height:48px;padding:10px 2px;color:var(--ink);text-decoration:none;border-radius:10px;
+ transition:transform var(--dur-tap,200ms) var(--spring,cubic-bezier(.34,1.4,.64,1))}
+.hot-items a:active{transform:scale(.985)}
+.hot-items b{display:block;font-size:1.08rem;line-height:1.5;font-weight:600;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:4px}
+.hot-items small{display:flex;align-items:center;gap:6px;margin-top:4px;font-size:.95rem;color:var(--muted)}
+.hot-items small .ico{width:16px;height:16px}
+.hot-body{margin:10px 0 0;padding:12px 0 0;border-top:1px dashed var(--line);font-size:1rem;line-height:1.5;color:var(--muted)}
+.hot-links{display:flex;flex-wrap:wrap;gap:8px 10px;margin-top:8px}
+.hot-links a{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:6px 16px;border-radius:14px;border:1.5px solid var(--acc);
+ color:var(--acc);font-weight:700;font-size:1rem;line-height:1.35;text-decoration:none;
+ transition:transform var(--dur-tap,200ms) var(--spring,cubic-bezier(.34,1.4,.64,1))}
+.hot-links a:active{transform:scale(.97)}
+.hot-links a .ico{flex:none;width:20px;height:20px}
+.hot-links a.hot-m{border-color:var(--line);color:var(--ink);font-weight:600}
+.hot-items a:focus-visible,.hot-links a:focus-visible,.hot-more button:focus-visible{outline:3px solid var(--gold-deco,#C9A55A);outline-offset:3px}
+.hot-foot{margin:12px 0 0;font-size:.95rem;line-height:1.55;color:var(--muted)}
+@keyframes hot-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.hot-card{animation:none}.hot-items a,.hot-links a{transition:none}}
+</style>
+<script>
+(function(){
+ var SHOW=(window.innerWidth>=900?4:3),MAXAGE=36*3600e3,data=null,open=false;
+ var MTH=["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."],
+     MEN=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+ function en(){return document.documentElement.lang==="en"}
+ function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
+ function bkk(iso){var d=new Date(iso);if(isNaN(d))return null;return new Date(d.getTime()+7*3600e3)}
+ function day(iso,time){var b=bkk(iso);if(!b)return"";var d=b.getUTCDate(),m=b.getUTCMonth(),y=b.getUTCFullYear(),
+   hh=("0"+b.getUTCHours()).slice(-2)+":"+("0"+b.getUTCMinutes()).slice(-2);
+   if(en())return d+" "+MEN[m]+" "+y+(time?", "+hh:"");
+   return d+" "+MTH[m]+" "+(y+543)+(time?" · "+hh+" น.":"")}
+ function mday(ymd){return day(ymd+"T00:00:00Z",false)}
+ function ico(id,extra){return '<svg class="ico'+(extra||"")+'" aria-hidden="true"><use href="#'+id+'"/></svg>'}
+ function card(t,i){
+  var E=en(),items=t.items.map(function(x){
+   var out=E?x.outlet_en:x.outlet_th;
+   return '<li><a href="'+esc(x.url)+'" target="_blank" rel="noopener noreferrer" lang="'+(x.lang==="en"?"en":"th")+'"'+
+    ' aria-label="'+esc(x.title)+' · '+esc(out)+(E?" (opens the news website)":" (เปิดเว็บไซต์ข่าว)")+'">'+
+    '<b>'+esc(x.title)+'</b><small>'+esc(out)+' · '+esc(day(x.date,true))+' '+ico("i-ext")+'</small></a></li>'}).join("");
+  var n=t.outlets>1?(E?"Reported by "+t.outlets+" news outlets":"มีข่าวจาก "+t.outlets+" สำนักข่าว"):(E?"In the news":"มีข่าวล่าสุด");
+  var body=E?t.body.en:t.body.th;
+  var links='<a href="'+esc(t.body.url)+'">'+ico(t.icon)+'<span>'+esc(body)+'</span></a>';
+  if(t.meeting&&t.meeting.n)links+='<a class="hot-m" href="'+esc(t.meeting.url)+'">'+ico("i-doc")+'<span>'+
+    (E?"Meeting no. "+t.meeting.n+" ("+mday(t.meeting.date)+") on a related subject":"การประชุมครั้งที่ "+t.meeting.n+" ("+mday(t.meeting.date)+") ในเรื่องใกล้เคียง")+'</span></a>';
+  var ph="",f=t.photo;
+  if(f&&f.src){var a=E?f.alt_en:f.alt_th;
+   ph='<figure class="hot-ph"><picture>'+
+    '<source type="image/webp" srcset="'+esc(f.src)+'-480.webp 480w, '+esc(f.src)+'-960.webp 960w" sizes="(min-width:900px) 460px, calc(100vw - 64px)">'+
+    '<img src="'+esc(f.src)+'-960.jpg" width="960" height="540" alt="'+esc(a)+'" decoding="async"'+(i?' loading="lazy"':'')+'></picture>'+
+    '<button type="button" class="hot-chip" aria-expanded="false" aria-label="'+(E?"Illustration · photo credit":"ภาพประกอบ · ที่มาของภาพ")+'"><span>'+(E?"Illustration ⓘ":"ภาพประกอบ ⓘ")+'</span></button>'+
+    '<p class="hot-cr" hidden>'+(E?"Illustration only, not from the news story. Photo: ":"ภาพประกอบ ไม่ใช่ภาพจากข่าว · ภาพ: ")+esc(f.credit)+
+    ' · <a href="'+esc(f.lic_url||f.page)+'" target="_blank" rel="noopener noreferrer">'+esc(f.lic)+'</a> · '+(E?"cropped and resized":"ครอปและย่อขนาด")+'</p></figure>'}
+  return '<article class="hot-card hh-glass"'+(i>=SHOW&&!open?" hidden":"")+'>'+ph+
+   '<div class="hot-top">'+ico(t.icon)+'<h3>'+esc(E?t.en:t.th)+'<span class="hot-n">'+n+'</span></h3></div>'+
+   '<ul class="hot-items">'+items+'</ul>'+
+   '<div class="hot-body">'+(E?"This subject is within the scope of":"เรื่องนี้อยู่ในขอบเขตงานของ")+'<div class="hot-links">'+links+'</div></div></article>'}
+ function render(){
+  var sec=document.getElementById("hh-hot");if(!sec||!data)return;
+  var list=document.getElementById("hh-hotlist"),more=document.getElementById("hh-hotmore"),foot=document.getElementById("hh-hotfoot"),E=en();
+  list.innerHTML=data.topics.map(card).join("");
+  var rest=data.topics.length-SHOW;
+  if(rest>0){more.hidden=false;var b=more.querySelector("button");b.setAttribute("aria-expanded",String(open));
+   b.textContent=open?(E?"Show fewer":"แสดงน้อยลง"):(E?"See "+rest+" more subjects":"ดูอีก "+rest+" เรื่อง")}else more.hidden=true;
+  foot.textContent=E?"The news belongs to each outlet; we show only the headline and link to the full story. Subjects are matched to committees automatically by topic. This is not a statement or action of any committee or senator. Updated "+day(data.updated,true)+".":
+   "ข่าวเป็นของสำนักข่าวแต่ละแห่ง เว็บไซต์นี้แสดงเพียงหัวข่าวและลิงก์ไปอ่านต่อ ระบบจับคู่หัวเรื่องกับคณะกรรมาธิการโดยอัตโนมัติ ไม่ใช่ความเห็นหรือการดำเนินการของคณะกรรมาธิการหรือสมาชิกวุฒิสภาท่านใด · อัปเดตล่าสุด "+day(data.updated,true);
+  sec.hidden=false}
+ function init(){
+  var sec=document.getElementById("hh-hot");if(!sec||sec.getAttribute("data-ok"))return;sec.setAttribute("data-ok","1");
+  fetch("hot/hot.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():null}).then(function(d){
+   if(!d||!Array.isArray(d.topics)||!d.topics.length)return;
+   var age=Date.now()-new Date(d.updated).getTime();if(!(age<MAXAGE))return;
+   data=d;render();
+   document.getElementById("hh-hotmore").addEventListener("click",function(){open=!open;render();
+    if(!open)document.getElementById("hh-hot").scrollIntoView({block:"start"})});
+   var last=document.documentElement.lang;
+   new MutationObserver(function(){var l=document.documentElement.lang;if(l!==last){last=l;render()}}).observe(document.documentElement,{attributes:true,attributeFilter:["lang"]});
+   document.addEventListener("click",function(e){if(e.target.closest&&e.target.closest(".lang button"))setTimeout(render,150)});
+   document.getElementById("hh-hotlist").addEventListener("click",function(e){var cr=e.target.closest&&e.target.closest(".hot-cr");
+    if(cr&&!e.target.closest("a")){cr.hidden=true;var cb=cr.parentNode.querySelector(".hot-chip");if(cb)cb.setAttribute("aria-expanded","false");return}
+    var b=e.target.closest&&e.target.closest(".hot-chip");if(!b)return;
+    var c=b.parentNode.querySelector(".hot-cr"),o=c.hidden;c.hidden=!o;b.setAttribute("aria-expanded",String(o))});
+  }).catch(function(){});
+ }
+ if(document.readyState!=="loading")init();else document.addEventListener("DOMContentLoaded",init);
 })();
 </script>
 
