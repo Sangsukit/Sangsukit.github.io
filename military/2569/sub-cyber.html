@@ -2076,21 +2076,37 @@ function sayText(m){
 }
 function chunks(parts){const out=[];parts.forEach(p=>{let cur="";p.split(" ").forEach(w=>{if((cur+" "+w).length>170&&cur){out.push(cur);cur=w}else cur=cur?cur+" "+w:w});if(cur)out.push(cur)});return out}
 const SPK=`${icon("vol")}ฟังสรุปนี้`;
-let speakN=null;
-function stopSpeak(){if(!synth)return;speakN=null;try{synth.cancel()}catch(e){}document.querySelectorAll("[data-ezspeak]").forEach(b=>{b.innerHTML=SPK;b.setAttribute("aria-pressed","false")})}
+/* fix 11 Nov 2569: the device's own speech engine can fail without any sign (no Thai voice, voice list not ready,
+   Chrome swallowing speak() right after cancel()). Never fail silently: explain on the page in plain words. */
+const SAY_NOVOICE="ขออภัย เครื่องของท่านยังไม่มีเสียงอ่านภาษาไทย จึงยังอ่านออกเสียงให้ไม่ได้ ท่านยังอ่านสรุปด้านบนได้ตามปกติ หากต้องการเพิ่มเสียงภาษาไทย: iPhone หรือ iPad ไปที่ การตั้งค่า › การช่วยการเข้าถึง › เนื้อหาที่ถูกพูด › เสียง › ไทย · Android ไปที่ การตั้งค่า › การช่วยเหลือพิเศษ › เอาต์พุตการอ่านออกเสียง · Mac ไปที่ การตั้งค่าระบบ › การช่วยการเข้าถึง › เนื้อหาที่ถูกพูด · Windows ไปที่ การตั้งค่า › เวลาและภาษา › เสียงพูด แล้วเปิดหน้านี้ใหม่";
+const SAY_NOSOUND="ขออภัย ขณะนี้เครื่องของท่านยังอ่านออกเสียงไม่ได้ โปรดตรวจว่าไม่ได้ปิดเสียงเครื่องไว้ แล้วกดปุ่มอีกครั้ง หากยังไม่มีเสียง เครื่องอาจยังไม่มีเสียงอ่านภาษาไทย หรือโปรดลองเปิดหน้านี้ด้วยเบราว์เซอร์อื่น ท่านยังอ่านสรุปด้านบนได้ตามปกติ";
+let speakN=null,sayQ=[],sayDog=0,sayKeep=0,sayVoice=null;
+const sayIsTh=v=>/^th([-_]|$)/i.test(v.lang||"");
+function sayPick(){let vs=[];try{vs=synth.getVoices()||[]}catch(e){}const th=vs.filter(sayIsTh);sayVoice=th.find(v=>v.localService)||th[0]||null;return vs.length}
+function sayMsg(b,t){const box=b&&b.closest(".ez-tools");if(!box)return;let p=box.querySelector(".ez-saymsg");
+ if(!t){if(p)p.remove();return}
+ if(!p){p=document.createElement("p");p.className="ez-note ez-saymsg";p.setAttribute("role","status");box.appendChild(p)}p.textContent=t}
+function stopSpeak(c){if(!synth)return;speakN=null;clearTimeout(sayDog);clearInterval(sayKeep);if(c!==false){try{synth.cancel()}catch(e){}}sayQ=[];document.querySelectorAll("[data-ezspeak]").forEach(b=>{b.innerHTML=SPK;b.setAttribute("aria-pressed","false")})}
 function startSpeak(n,b){
  if(speakN===n){stopSpeak();return}
- stopSpeak();const m=live.find(x=>x.n===n);if(!m)return;
- const vs=synth.getVoices()||[],voice=vs.find(v=>/^th/i.test(v.lang));
- if(vs.length&&!voice)toast("ขออภัย เครื่องของท่านอาจยังไม่มีเสียงภาษาไทย");
+ stopSpeak(!!(synth.speaking||synth.pending));   // cancel only when something is playing: speak() right after cancel() is lost in Chrome
+ sayMsg(b,"");const m=live.find(x=>x.n===n);if(!m)return;
+ const nv=sayPick();
+ if(nv&&!sayVoice){sayMsg(b,SAY_NOVOICE);return}   // voices are known and none is Thai: say so instead of silence
  speakN=n;b.innerHTML=`${icon("close")}หยุดฟัง`;b.setAttribute("aria-pressed","true");
- const P=chunks(sayText(m));
- P.forEach((p,i)=>{const u=new SpeechSynthesisUtterance(p);u.lang="th-TH";if(voice)u.voice=voice;u.rate=.9;
+ const P=chunks(sayText(m));let started=false;
+ sayQ=P.map((p,i)=>{const u=new SpeechSynthesisUtterance(p);u.lang="th-TH";if(sayVoice)u.voice=sayVoice;u.rate=.9;
+  u.onstart=()=>{started=true};
   if(i===P.length-1)u.onend=()=>{if(speakN===n)stopSpeak()};
-  u.onerror=e=>{if(speakN===n&&e.error!=="interrupted"&&e.error!=="canceled"){stopSpeak();toast("ขออภัย ขณะนี้เครื่องของท่านยังอ่านออกเสียงไม่ได้")}};
-  synth.speak(u)});
+  u.onerror=e=>{if(speakN===n&&e.error!=="interrupted"&&e.error!=="canceled"){stopSpeak();sayMsg(b,/language|voice/.test(e.error||"")?SAY_NOVOICE:SAY_NOSOUND)}};
+  return u});   // kept in sayQ so the browser cannot drop them early
+ try{if(synth.paused)synth.resume()}catch(e){}
+ sayQ.forEach(u=>synth.speak(u));   // still inside the tap: iPhone/iPad only speak when started directly by the tap
+ sayDog=setTimeout(()=>{if(speakN===n&&!started&&!synth.speaking){stopSpeak();sayMsg(b,nv?SAY_NOSOUND:(sayPick()&&!sayVoice?SAY_NOVOICE:SAY_NOSOUND))}},6000);
+ if(sayVoice&&sayVoice.localService===false&&!/iPhone|iPad|Macintosh.*Safari(?!.*Chrome)/.test(navigator.userAgent))
+  sayKeep=setInterval(()=>{if(synth.speaking&&!synth.paused){try{synth.pause();synth.resume()}catch(e){}}},10000);   // Chrome online voices stop after ~15 s
 }
-if(synth&&synth.getVoices)synth.getVoices();   // some browsers load the voice list late
+if(synth){sayPick();try{if(synth.addEventListener)synth.addEventListener("voiceschanged",sayPick);else synth.onvoiceschanged=sayPick}catch(e){}}   // some browsers load the voice list late
 
 /* ---------- add to calendar ---------- */
 function calTools(m,prefix){
