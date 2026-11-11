@@ -1258,6 +1258,9 @@ html.tp-glide .whereami{opacity:0!important;transition:none!important}
 @media (prefers-reduced-motion:reduce){.lvs{opacity:1;transform:none;transition:none}.lvb,.lvb.lvb-hide{transition:none}}
 </style>
 <!--/LIVELY-->
+<!--NOVDL-->
+<style id="novdl-css">video{-webkit-touch-callout:none}a[download][href*=".mp4"],a[href$=".mp4"][download],a.dlrow[href$=".mp4"]{display:none!important}</style>
+<!--/NOVDL-->
 </head>
 <body>
 <a class="dk-skip" href="#feed">ข้ามไปที่รายการการประชุม</a>
@@ -1470,7 +1473,7 @@ html.tp-glide .whereami{opacity:0!important;transition:none!important}
 <ul>
  <li>เอกสารต้นฉบับเป็นของรัฐสภาและสำนักงานเลขาธิการวุฒิสภา <b>ภาพถ่าย รวมถึงภาพที่ปรากฏในวิดีโอ เป็นของสำนักงานเลขาธิการวุฒิสภา</b> เว็บไซต์ใช้โดยระบุที่มาทุกภาพ หากต้องการนำภาพไปใช้ต่อ โปรดขออนุญาตจากสำนักงานเลขาธิการวุฒิสภา</li>
  <li>ยกข้อความบทสรุปไปใช้ได้ โดยระบุที่มาว่า "คลังการประชุม parliamentx.com" และควรแนบลิงก์เอกสารต้นฉบับ</li>
- <li>ดาวน์โหลดวิดีโอไว้ดูเอง หรือส่งต่อทั้งเรื่องโดยไม่ตัดต่อได้</li>
+ <li>ชมวิดีโอได้บนเว็บไซต์นี้ และส่งลิงก์ให้ผู้อื่นชมได้</li>
  <li>หากต้องการนำวิดีโอไปลงใหม่ทั้งเรื่อง หรือใช้ในสื่ออื่น โปรดติดต่อคณะทำงานก่อน และห้ามใช้เพื่อการค้า</li>
 </ul>
 <h3>6. การแชร์</h3>
@@ -1691,7 +1694,7 @@ function card(m){
   <ul class="items">${items.map(i=>`<li><span class="cat ${i[2]}" title="${CAT[i[2]]}">${icon(i[2])}</span><span>${hl(i[0])}<span class="dec">${m.upcoming||m.agenda_only?"":"มติ: "}${hl(i[1])}</span></span></li>`).join("")}</ul>
   ${more>0?`<span class="eyebrow">และอีก ${more} วาระในหน้ารายละเอียด</span>`:""}
   <div class="tags">${(m.tags||[]).map(t=>`<button class="tag" type="button" data-tag="${esc(t)}">#${esc(t)}</button>`).join("")}${(m.places||[]).map(p=>`<button class="tag pl" type="button" data-q="${esc(p)}">${icon("visit")}${esc(p)}</button>`).join("")}</div>
-  <div class="actions"><a class="btn primary read" href="#read-${m.n}">${icon("book")}อ่านรายละเอียด</a><a class="btn" href="#dl-${m.n}">${icon("dl")}ดาวน์โหลด${(m.media||{}).video?"วิดีโอและเอกสาร":"เอกสาร"}</a></div>
+  <div class="actions"><a class="btn primary read" href="#read-${m.n}">${icon("book")}อ่านรายละเอียด</a><a class="btn" href="#dl-${m.n}">${icon("dl")}ดาวน์โหลดเอกสาร</a></div>
   <div class="share">${shareRow(m,id(m))}</div>
  </div>
  ${mediaBlock(m)}
@@ -1719,16 +1722,16 @@ function subChairs(m){return "";
 function fmtSize(b){if(!b)return "";const mb=b/1048576;return mb>=1?`${mb>=10?Math.round(mb):mb.toFixed(1)} MB`:`${Math.max(1,Math.round(b/1024))} KB`}
 function dlSection(m){
  const vs=(m.media||{}).videos||((m.media||{}).video?[m.media.video]:[]),rows=[];
- vs.forEach(v=>rows.push(`<a class="dlrow" href="${v.src}" download="${v.kind==="pre"?"วิดีโอก่อนการประชุม":"สรุปการประชุม"}_${m.n}-2569.mp4"><span class="di">${icon("video")}</span><span><b>${v.label} ครั้งที่ ${m.n}/2569</b><span class="dmeta"><span class="ft">MP4</span>${v.size?`<span>${fmtSize(v.size)}</span>`:""}<span>ความยาว ${v.dur} นาที</span><span>จากเว็บไซต์นี้</span></span></span><span class="act">${icon("dl")}ดาวน์โหลด</span></a>`));
+ /*NOVDL: no video download rows (no_video_dl.py, Sukit 11 Nov 2569)*/
  (m.docs||[]).forEach(d=>{const web=d.k==="agenda";
   rows.push(`<a class="dlrow" href="${esc(d.url)}" target="_blank" rel="noopener"><span class="di">${icon(web?"other":"doc")}</span><span><b>${DOC[d.k][0]} ครั้งที่ ${m.n}/2569</b><span class="dmeta"><span class="ft">${web?"หน้าเว็บ":"PDF"}</span>${d.size?`<span>${fmtSize(d.size)}</span>`:""}<span>จากระบบของรัฐสภา</span></span></span><span class="act${web?" web":""}">${icon(web?"ext":"dl")}${web?"เปิดดู":"เปิด / ดาวน์โหลด"}</span></a>`)});
  const minutes=(m.docs||[]).some(d=>d.k==="minutes");
- return `<section class="d-sec" id="dl-sec"><h3>${icon("dl")}ดาวน์โหลดเอกสาร${vs.length?"และวิดีโอ":""}</h3>
+ return `<section class="d-sec" id="dl-sec"><h3>${icon("dl")}ดาวน์โหลดเอกสาร</h3>
    <div class="dl">${rows.join("")||`<p class="credit-line">ยังไม่มีเอกสารเผยแพร่สำหรับการประชุมครั้งนี้</p>`}</div>
    <ul class="dl-notes">
     <li>${icon("info")}<span>เอกสารทางการ (PDF) เปิดจากระบบของรัฐสภาโดยตรง เว็บไซต์นี้ไม่ได้เก็บหรือแก้ไขสำเนา หากบทสรุปต่างจากเอกสาร ให้ถือตามเอกสารต้นฉบับ</span></li>
     ${minutes?`<li>${icon("info")}<span>บันทึกการประชุมเป็นฉบับที่เผยแพร่ในระบบของรัฐสภา ให้ถือตามฉบับที่ที่ประชุมรับรอง</span></li>`:""}
-    ${vs.length?`<li>${icon("info")}<span>ดาวน์โหลดวิดีโอไว้ดูหรือส่งต่อได้โดยไม่ตัดต่อ หากจะนำไปลงในสื่ออื่น โปรดติดต่อคณะทำงานก่อน (<a href="#terms">ข้อตกลงการใช้งาน</a> ข้อ 5)</span></li>`:""}
+    ${vs.length?`<li>${icon("info")}<span>วิดีโอเปิดชมได้บนเว็บไซต์นี้ และส่งลิงก์ให้ผู้อื่นชมได้ หากจะนำไปใช้ในสื่ออื่น โปรดติดต่อคณะทำงานก่อน (<a href="#terms">ข้อตกลงการใช้งาน</a> ข้อ 5)</span></li>`:""}
     <li>${icon("info")}<span>หากเปิดจาก LINE แล้วดาวน์โหลดไม่ได้ ให้แตะเมนู ⋯ แล้วเลือกเปิดใน Safari หรือ Chrome</span></li>
    </ul>
    <a class="doc" href="https://www.senate.go.th/view/428/subcommittee-detail/TH-TH/?cid=79774&amp;ctype=1&amp;scid=80569" target="_blank" rel="noopener"><span class="di">${icon("cal")}</span><span><b>รายการการประชุมทั้งหมดของคณะอนุกรรมาธิการ</b><span>senate.go.th</span></span><span class="go">${icon("ext")}</span></a>
@@ -1747,7 +1750,7 @@ function dFocus(){const h=$("#d-title");if(!h)return;h.tabIndex=-1;h.focus({prev
 function openDetail(n,sec){
  const i=live.findIndex(m=>m.n===n);if(i<0)return;const m=live[i];
  const newer=live[i-1],older=live[i+1],md=m.media||{},k=CHAIR_IMG[m.chair];
- const fig=md.video?(md.videos||[md.video]).map(v=>`<figure class="d-figure"><div class="vid"><video controls preload="none" playsinline poster="${v.poster}" src="${v.src}">${track(v.ck||m.n,v.cc)}</video></div><figcaption>${icon("video")} ${v.label} · ${v.cc||"มีคำบรรยายภาษาไทย"}</figcaption></figure>`).join("")
+ const fig=md.video?(md.videos||[md.video]).map(v=>`<figure class="d-figure"><div class="vid"><video controlslist=nodownload controls preload="none" playsinline poster="${v.poster}" src="${v.src}">${track(v.ck||m.n,v.cc)}</video></div><figcaption>${icon("video")} ${v.label} · ${v.cc||"มีคำบรรยายภาษาไทย"}</figcaption></figure>`).join("")
   :md.photo?`<figure class="d-figure"><img src="${md.photo}" alt="บรรยากาศห้องประชุม ครั้งที่ ${m.n}/2569"><figcaption>${icon("photo")} บรรยากาศการประชุม · ภาพ: สำนักงานเลขาธิการวุฒิสภา (จากเอกสารสรุปผลการประชุม)</figcaption></figure>`
   :k?`<figure class="d-figure"><img src="${P[k].img}" alt="${esc(m.chair)}"><figcaption>${esc(m.chair)} ประธานในที่ประชุม · ภาพ: สำนักงานเลขาธิการวุฒิสภา</figcaption></figure>`:"";
  const hasComplaint=(m.items||[]).some(x=>x[2]==="complaint");
@@ -1965,7 +1968,7 @@ let reelsBuilt=false,muted=true;
 function reel(m){
  const v=m.media&&m.media.video,ph=m.media&&m.media.photo;
  const top=(m.items||[]).slice(0,3);
- const inner=v?`<video playsinline muted preload="none" poster="${v.poster}" src="${v.src}">${track(v.ck||m.n,v.cc)}</video><div class="reel-ovl"><p class="reel-cap" hidden></p><b>ครั้งที่ ${m.n}/2569 · ${v.label}</b><span>${thaiDate(m,1)}</span></div><button class="unmute" type="button" data-mute>${icon("vol")}แตะเพื่อเปิดเสียง</button>`
+ const inner=v?`<video controlslist=nodownload playsinline muted preload="none" poster="${v.poster}" src="${v.src}">${track(v.ck||m.n,v.cc)}</video><div class="reel-ovl"><p class="reel-cap" hidden></p><b>ครั้งที่ ${m.n}/2569 · ${v.label}</b><span>${thaiDate(m,1)}</span></div><button class="unmute" type="button" data-mute>${icon("vol")}แตะเพื่อเปิดเสียง</button>`
  :`<div class="reel-card">${ph?`<img class="bgp" src="${ph}" alt="บรรยากาศห้องประชุม ครั้งที่ ${m.n}/2569" loading="lazy"><div class="fade"></div>`:`<div class="reel-big">${m.n}</div>`}<div class="txt"><span class="reel-no">ครั้งที่ ${m.n}/2569 · ${thaiDate(m,1)}</span><h3>${esc(m.headline)}</h3><ul>${top.map(i=>`<li>${icon(i[2])}<span>${esc(i[0].length>110?i[0].slice(0,108)+"…":i[0])}</span></li>`).join("")}</ul><a class="rread" href="#read-${m.n}">${icon("book")}อ่านสรุปครั้งนี้</a><span class="note">${m.date>="2026-10-01"?`${icon("video")} วิดีโอครั้งนี้กำลังจัดทำ`:`${icon("doc")} เปิดเอกสารต้นฉบับได้ในหน้ารายละเอียด`}${ph?" · ภาพ: สำนักงานเลขาธิการวุฒิสภา":""}</span></div></div>`;
  return `<section class="reel" id="reel-${m.n}" aria-label="ครั้งที่ ${m.n}/2569"><div class="reel-stage">${inner}
  <div class="reel-side">${v?`<button class="rbtn" type="button" data-mute aria-label="เปิดหรือปิดเสียง">${icon(muted?"mute":"vol")}</button><span class="rlabel">เสียง</span>`:""}
@@ -2016,7 +2019,7 @@ document.addEventListener("click",e=>{
  if(t.dataset.q){S.q=t.dataset.q;$("#q").value=S.q;render();$("#controls").scrollIntoView({block:"start"});return}
  if(t.dataset.mo!==undefined){S.mo=S.mo===+t.dataset.mo?-1:+t.dataset.mo;render();return}
  if(t.dataset.go){location.hash=t.dataset.go;return}
- if(t.dataset.play){const m=live.find(x=>x.n===+t.dataset.play),v=m.media.video,box=t.closest(".vid");box.innerHTML=`<video controls autoplay playsinline poster="${v.poster}" src="${v.src}">${track(v.ck||m.n,v.cc)}</video>`;box.querySelector("video").focus();return}
+ if(t.dataset.play){const m=live.find(x=>x.n===+t.dataset.play),v=m.media.video,box=t.closest(".vid");box.innerHTML=`<video controlslist=nodownload controls autoplay playsinline poster="${v.poster}" src="${v.src}">${track(v.ck||m.n,v.cc)}</video>`;box.querySelector("video").focus();return}
  if(t.dataset.mute!==undefined){muted=!muted;const R=$("#reels");R.classList.toggle("is-muted",muted);R.querySelectorAll("video").forEach(v=>v.muted=muted);R.querySelectorAll(".rbtn[data-mute]").forEach(b=>b.innerHTML=icon(muted?"mute":"vol"));if(!muted){const r=[...R.querySelectorAll(".reel")].find(x=>{const b=x.getBoundingClientRect();return b.top>-b.height/2&&b.top<b.height/2});const v=r&&r.querySelector("video");if(v)v.play().catch(()=>{})}return}
  if(t.id==="d-close"){closeDetail();return}
  if(t.id==="open-reels"){location.hash="reels";return}
@@ -3298,7 +3301,7 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
    s.querySelector(".lv-h").textContent=hd;
    s.querySelector(".lv-play").addEventListener("click",function(){
     var box=s.querySelector(".lv-box");var tr=typeof track==="function"?track(v.ck||m.n):"";
-    box.className="lv-vid";box.innerHTML='<video controls autoplay playsinline poster="'+v.poster+'" src="'+v.src+'">'+tr+'</video>';
+    box.className="lv-vid";box.innerHTML='<video controlslist=nodownload controls autoplay playsinline poster="'+v.poster+'" src="'+v.src+'">'+tr+'</video>';
     var el=box.querySelector("video");if(el)el.focus();
    });
    q.parentNode.insertBefore(s,q);
@@ -3871,6 +3874,7 @@ function start(){all();
  new MutationObserver(function(){setTimeout(all,60)}).observe(document.documentElement,{attributes:true,attributeFilter:['lang']})}
 document.readyState==='complete'?start():addEventListener('load',start)})();
 </script>
+<script id="novdl-js">(function(){function f(v){if(v.getAttribute("controlslist")!=="nodownload")v.setAttribute("controlslist","nodownload")}function a(r){if(r&&r.querySelectorAll)r.querySelectorAll("video").forEach(f)}function isV(t){return t&&t.tagName==="VIDEO"}document.addEventListener("contextmenu",function(e){if(isV(e.target))e.preventDefault()},true);document.addEventListener("dragstart",function(e){if(isV(e.target))e.preventDefault()},true);document.addEventListener("play",function(e){if(isV(e.target))f(e.target)},true);a(document);if(window.MutationObserver)new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType!==1)return;if(isV(n))f(n);else a(n)})})}).observe(document.documentElement,{childList:true,subtree:true})})();</script>
 </body>
 </html>
 
