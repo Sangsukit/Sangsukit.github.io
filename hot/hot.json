@@ -1,0 +1,241 @@
+{
+ "updated": "2026-11-11T16:25:05Z",
+ "feeds_ok": 8,
+ "window_h": 72,
+ "topics": [
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 3,
+   "count": 6,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 8,
+    "date": "2026-10-08",
+    "url": "committee-archive-2569/sub-disaster.html#read-8"
+   },
+   "items": [
+    {
+     "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
+     "url": "https://www.dailynews.co.th/news/6352136/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-11T15:47:08Z"
+    },
+    {
+     "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
+     "url": "https://www.thairath.co.th/news/society/2971928",
+     "lang": "th",
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-11T13:15:00Z"
+    },
+    {
+     "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
+     "url": "https://www.matichon.co.th/local/news_5971600",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-11T12:36:41Z"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
+   "en": "Cyber and defence industry",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/cyber",
+    "credit": "Christopher Bowns",
+    "lic": "CC BY-SA 2.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
+    "alt_en": "An aisle between server racks in a data centre"
+   },
+   "outlets": 2,
+   "count": 5,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
+    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
+    "url": "military/2569/sub-cyber.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 22,
+    "date": "2026-10-07",
+    "url": "military/2569/sub-cyber.html#read-22"
+   },
+   "items": [
+    {
+     "title": "รัฐบาลเร่งเครื่อง! คุมเข้มภัยไซเบอร์ ‘ไชยชนก’ จ่อเข้าคลัง แถลงใหญ่ กำหนดแนวทางป้องกัน 12 พ.ย.นี้",
+     "url": "https://www.matichon.co.th/economy/news_5971710",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-11T15:49:39Z"
+    },
+    {
+     "title": "ก.ล.ต. จับตาภัยไซเบอร์ ย้ำผู้ประกอบธุรกิจตลาดทุน-สินทรัพย์ดิจิทัล เร่งยกระดับระบบป้องกัน",
+     "url": "https://www.thairath.co.th/money/investment/stocks/2971506",
+     "lang": "th",
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-10T03:36:17Z"
+    },
+    {
+     "title": "ธปท.ยันระบบธนาคารยังปกติ ไม่จำเป็นต้องถอนเงินสดเก็บไว้ กำชับทุกแบงก์เพิ่มความปลอดภัยไซเบอร์",
+     "url": "https://www.matichon.co.th/economy/news_5970346",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-11T03:39:57Z"
+    }
+   ]
+  },
+  {
+   "id": "farmdebt",
+   "th": "หนี้เกษตรกรและสหกรณ์",
+   "en": "Farm debt and cooperatives",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/farmdebt",
+    "credit": "Mr.Peerapong Prasutr",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Suphanburi_Thai_Rice_Farmers_National_Museum_1.jpg",
+    "alt_th": "กระบุงใส่ข้าวเปลือกในพิพิธภัณฑ์ชาวนาไทย",
+    "alt_en": "Baskets of rice in the Thai Rice Farmers museum"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 30,
+    "date": "2026-08-31",
+    "url": "agriculture/2569/#read-30"
+   },
+   "items": [
+    {
+     "title": "เช็กบัญชีเลย! ธ.ก.ส. เริ่ม โอนเงินไร่ละ 1,000 วันนี้ ช่วยชาวนา 1.35 แสนครัวเรือน",
+     "url": "https://www.matichon.co.th/economy/news_5971042",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-11T08:40:11Z"
+    }
+   ]
+  },
+  {
+   "id": "jobs",
+   "th": "การหางานและแรงงานต่างชาติ",
+   "en": "Jobs and migrant workers",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/jobs",
+    "credit": "Bigcitydata",
+    "lic": "CC BY 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
+    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
+    "alt_en": "Office towers in Silom, Bangkok"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
+    "en": "Subcommittee on Employment and Skills",
+    "url": "labour/2569/sub-employment.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 21,
+    "date": "2026-09-23",
+    "url": "labour/2569/sub-employment.html#read-21"
+   },
+   "items": [
+    {
+     "title": "10 ความจริง คนทำงานไทยกำลังเผชิญ มีงานทำใช่ว่าจะ “มั่นคง” คนวัย 40+ ตกงานเพิ่ม",
+     "url": "https://www.thairath.co.th/money/economics/thai_economics/2971760",
+     "lang": "th",
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-11T05:51:03Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 33,
+    "date": "2026-09-21",
+    "url": "agriculture/2569/#read-33"
+   },
+   "items": [
+    {
+     "title": "ลุ้นราคาอ้อยฤดูผลิต’69/70 ตันละ 1,100 บาท รายได้ที่เกษตรกรรอคอย!!",
+     "url": "https://www.matichon.co.th/economy/eco-report/news_5970021",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-11T02:47:56Z"
+    }
+   ]
+  }
+ ]
+}
