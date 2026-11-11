@@ -578,6 +578,9 @@ html.tp-glide .whereami{opacity:0!important;transition:none!important}
 @media (prefers-reduced-motion:reduce){.lvs{opacity:1;transform:none;transition:none}.lvb,.lvb.lvb-hide{transition:none}}
 </style>
 <!--/LIVELY-->
+<!--NOVDL-->
+<style id="novdl-css">video{-webkit-touch-callout:none}a[download][href*=".mp4"],a[href$=".mp4"][download],a.dlrow[href$=".mp4"]{display:none!important}</style>
+<!--/NOVDL-->
 </head>
 <body>
 <a class="dk-skip" href="#list">ข้ามไปที่รายชื่อคณะกรรมาธิการ</a>
@@ -2019,7 +2022,7 @@ span.cs>svg.ico,span.cs>svg.csv{width:100%!important;height:100%!important;margi
      var v=vs.filter(function(x){return x.poster&&base+x.poster===poster})[0]||vs[0];
      if(!v||!v.src)throw 0;
      var box=q(".hlv-card",sec);box.classList.add("hlv-on");
-     box.innerHTML='<video controls autoplay playsinline preload="metadata"'+(v.poster?' poster="'+base+v.poster+'"':'')+' src="'+base+v.src+'">'+(v.vtt?'<track kind="captions" srclang="th" label="ไทย" src="'+base+v.vtt+'" default>':'')+'</video>';
+     box.innerHTML='<video controlslist=nodownload controls autoplay playsinline preload="metadata"'+(v.poster?' poster="'+base+v.poster+'"':'')+' src="'+base+v.src+'">'+(v.vtt?'<track kind="captions" srclang="th" label="ไทย" src="'+base+v.vtt+'" default>':'')+'</video>';
      var go=q(".hlv-go",sec);if(go)go.hidden=true;
      var el=q("video",box);if(el){try{el.focus()}catch(e){}}
     }).catch(function(){location.href=href});
@@ -2603,5 +2606,6 @@ function start(){all();
  new MutationObserver(function(){setTimeout(all,60)}).observe(document.documentElement,{attributes:true,attributeFilter:['lang']})}
 document.readyState==='complete'?start():addEventListener('load',start)})();
 </script>
+<script id="novdl-js">(function(){function f(v){if(v.getAttribute("controlslist")!=="nodownload")v.setAttribute("controlslist","nodownload")}function a(r){if(r&&r.querySelectorAll)r.querySelectorAll("video").forEach(f)}function isV(t){return t&&t.tagName==="VIDEO"}document.addEventListener("contextmenu",function(e){if(isV(e.target))e.preventDefault()},true);document.addEventListener("dragstart",function(e){if(isV(e.target))e.preventDefault()},true);document.addEventListener("play",function(e){if(isV(e.target))f(e.target)},true);a(document);if(window.MutationObserver)new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType!==1)return;if(isV(n))f(n);else a(n)})})}).observe(document.documentElement,{childList:true,subtree:true})})();</script>
 </body>
 </html>
