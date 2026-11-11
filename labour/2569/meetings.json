@@ -96,7 +96,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=gjDYGCDfhW2J7qJvaHg"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v29.mp4",
+    "poster": "img/poster29.jpg",
+    "vtt": "media/v29.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:11",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "29",
+    "size": 9491445
+   },
+   "videos": [
+    {
+     "src": "media/v29.mp4",
+     "poster": "img/poster29.jpg",
+     "vtt": "media/v29.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:11",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "29",
+     "size": 9491445
+    }
+   ]
+  },
   "chair": "นายนิรุตติ สุทธินนท์",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ร่างกฎหมายแรงงานทางทะเล เตรียมยกร่างรายงาน และวางกรอบศึกษาร่างกฎหมายศาลแรงงานอีก 2 ฉบับ",
@@ -156,7 +181,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=gF52OztiMRffTgHlqSo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v28.mp4",
+    "poster": "img/poster28.jpg",
+    "vtt": "media/v28.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:57",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "28",
+    "size": 9039052
+   },
+   "videos": [
+    {
+     "src": "media/v28.mp4",
+     "poster": "img/poster28.jpg",
+     "vtt": "media/v28.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:57",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "28",
+     "size": 9039052
+    }
+   ]
+  },
   "chair": "นายนิรุตติ สุทธินนท์",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ร่างกฎหมายแรงงานทางทะเล: สิทธิประกันสังคมของคนประจำเรือ และการทำงานของผู้อายุต่ำกว่า 18 ปี",
@@ -211,7 +261,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TMhjzlF1Db93qm0pywU"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v27.mp4",
+    "poster": "img/poster27.jpg",
+    "vtt": "media/v27.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:11",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "27",
+    "size": 7522564
+   },
+   "videos": [
+    {
+     "src": "media/v27.mp4",
+     "poster": "img/poster27.jpg",
+     "vtt": "media/v27.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:11",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "27",
+     "size": 7522564
+    }
+   ]
+  },
   "chair": "นายนิรุตติ สุทธินนท์",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ร่างกฎหมายแรงงานทางทะเล: รับฟังกรมสวัสดิการและคุ้มครองแรงงานและหน่วยงานที่เกี่ยวข้อง",
@@ -265,7 +340,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=w6pFgJcLpuToWqAgzdQ"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v26.mp4",
+    "poster": "img/poster26.jpg",
+    "vtt": "media/v26.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:32",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "26",
+    "size": 8405918
+   },
+   "videos": [
+    {
+     "src": "media/v26.mp4",
+     "poster": "img/poster26.jpg",
+     "vtt": "media/v26.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:32",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "26",
+     "size": 8405918
+    }
+   ]
+  },
   "chair": "นายนิรุตติ สุทธินนท์",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ความปลอดภัยและสิทธิของไรเดอร์ และแผนศึกษาร่างกฎหมายแรงงานทางทะเล",
@@ -335,7 +435,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=sgcBETfm9S1f6C_xPZY"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v25.mp4",
+    "poster": "img/poster25.jpg",
+    "vtt": "media/v25.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:50",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "25",
+    "size": 10789423
+   },
+   "videos": [
+    {
+     "src": "media/v25.mp4",
+     "poster": "img/poster25.jpg",
+     "vtt": "media/v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:50",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "25",
+     "size": 10789423
+    }
+   ]
+  },
   "chair": "นายนิรุตติ สุทธินนท์",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ความร่วมมือด้านแรงงานไทย–ศรีลังกา และข้อเสนอเรื่องการจ้างงานคนพิการ",
