@@ -10,10 +10,10 @@
 <meta property="og:locale" content="th_TH">
 <meta property="og:title" content="คลังการประชุม คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน 2569">
 <meta property="og:description" content="สรุปการประชุมคณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน ในคณะกรรมาธิการการแรงงาน วุฒิสภา ปี 2569 ค้นหาได้ พร้อมเอกสารต้นฉบับ">
-<meta property="og:image" content="https://parliamentx.com/labour/2569/img/s/sub-employment-48bbaba3.jpg">
+<meta property="og:image" content="https://parliamentx.com/labour/2569/img/s/sub-employment-9653f029.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta name="twitter:image" content="https://parliamentx.com/labour/2569/img/s/sub-employment-48bbaba3.jpg">
+<meta name="twitter:image" content="https://parliamentx.com/labour/2569/img/s/sub-employment-9653f029.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://parliamentx.com/labour/2569/sub-employment.html">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
@@ -1567,11 +1567,11 @@ const thaiDate=(m,short)=>{const d=dt(m);return `${short?"":"วัน"+DAY[d.ge
 const era=m=>"b";
 const live=DATA.filter(m=>!m.cancelled);
 const link=h=>(BASE_URL||location.href.split("#")[0])+"#"+h;
-const SHARE_P="employment-",SHARE_V={"23": "81caf304", "22": "1665fc01", "21": "d99456fa", "20": "f2a948d6", "19": "07e48465", "18": "072467e8", "17": "02060651", "16": "7bfed236", "15": "403c17aa", "14": "c0ab80fc", "13": "a0a6f5e9", "12": "d2081b6f", "11": "084d7450", "10": "9ac796b1", "9": "4481b44a", "8": "06a802a9", "7": "e316b180", "6": "1b077387", "5": "521786cc", "4": "3e1353c2", "3": "b5f8cf3b", "2": "d0a13e9d", "1": "728e7f0c"},SHARE_QR=[23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+const SHARE_P="employment-",SHARE_V={"23": "268ebc58", "22": "c19a7960", "21": "ec88f693", "20": "5b6fe3d2", "19": "0baedb2e", "18": "53949d8a", "17": "fe484834", "16": "cd5e40ca", "15": "46d44ef3", "14": "12a12b21", "13": "645750e2", "12": "b59cb310", "11": "f7dac55e", "10": "7d67db0b", "9": "0e8fe7b8", "8": "82b0a6f3", "7": "786459de", "6": "d6745c3f", "5": "e6d35b76", "4": "9918aff3", "3": "b6a205dc", "2": "f1737a32", "1": "3d609d1a"},SHARE_QR=[23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"23":"s/v-employment-23.html?v=74bf2cde","22":"s/v-employment-22.html?v=4f8e9619"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"23":"s/v-employment-23.html?v=e3ac8b10","22":"s/v-employment-22.html?v=8727e79e"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -3605,7 +3605,7 @@ W.__sfStop=hand;
 /* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
    so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
 (function(){
- const X=/*XSHARE*/{"timeline":"share/employment-timeline.html?v=81de459c"};
+ const X=/*XSHARE*/{"timeline":"share/employment-timeline.html?v=2d9c072f"};
  const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
  const here=location.href.split("#")[0].split("?")[0];
  const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);

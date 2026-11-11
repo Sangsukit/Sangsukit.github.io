@@ -10,10 +10,10 @@
 <meta property="og:locale" content="th_TH">
 <meta property="og:title" content="คลังการประชุม คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม 2569">
 <meta property="og:description" content="สรุปการประชุมคณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม ในคณะกรรมาธิการการทหารและความมั่นคงของรัฐ วุฒิสภา ปี 2569 ค้นหาได้ พร้อมเอกสารต้นฉบับ">
-<meta property="og:image" content="https://parliamentx.com/military/2569/img/s/sub-holistic-b7ebd57a.jpg">
+<meta property="og:image" content="https://parliamentx.com/military/2569/img/s/sub-holistic-5428cfc8.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta name="twitter:image" content="https://parliamentx.com/military/2569/img/s/sub-holistic-b7ebd57a.jpg">
+<meta name="twitter:image" content="https://parliamentx.com/military/2569/img/s/sub-holistic-5428cfc8.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://parliamentx.com/military/2569/sub-holistic.html">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
@@ -1569,11 +1569,11 @@ const thaiDate=(m,short)=>{const d=dt(m);return `${short?"":"วัน"+DAY[d.ge
 const era=m=>"b";
 const live=DATA.filter(m=>!m.cancelled);
 const link=h=>(BASE_URL||location.href.split("#")[0])+"#"+h;
-const SHARE_P="holistic-",SHARE_V={"20": "2be60f09", "19": "e5f9c902", "18": "7ff4fc8c", "17": "2a96a413", "16": "93290e1c", "15": "50735da9", "14": "c443a1fa", "13": "bdc7b5ac", "12": "63ee2008", "11": "8ada77ef", "10": "f44a07f2", "9": "19d2d84d", "8": "a7421936", "7": "af9e5aa0", "6": "703187db", "5": "0b6aa2f4", "4": "a60d8b21", "3": "cf3f95d2", "2": "3973f81f", "1": "cad3f5f3"},SHARE_QR=[20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+const SHARE_P="holistic-",SHARE_V={"20": "d81630b3", "19": "e67dce58", "18": "c1a8ff6e", "17": "cd98ce3b", "16": "2996d517", "15": "8040ec25", "14": "08fd9870", "13": "8051d409", "12": "ce60e23e", "11": "c07c9c63", "10": "9d17a74c", "9": "9accb7ab", "8": "4caf6461", "7": "fc611830", "6": "929cb771", "5": "efbf72b5", "4": "0a7b7d5e", "3": "2bda38d8", "2": "a73850b4", "1": "2e9d787a"},SHARE_QR=[20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"20":"s/v-holistic-20.html?v=d1beb7d9","19":"s/v-holistic-19.html?v=14e53bc6","18":"s/v-holistic-18.html?v=e6e95f79","17":"s/v-holistic-17.html?v=bea22162"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"20":"s/v-holistic-20.html?v=3c0944df","19":"s/v-holistic-19.html?v=5c86baeb","18":"s/v-holistic-18.html?v=30a8c756","17":"s/v-holistic-17.html?v=d95ee022"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -3607,7 +3607,7 @@ W.__sfStop=hand;
 /* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
    so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
 (function(){
- const X=/*XSHARE*/{"timeline":"share/holistic-timeline.html?v=6c764c44"};
+ const X=/*XSHARE*/{"timeline":"share/holistic-timeline.html?v=8b048393"};
  const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
  const here=location.href.split("#")[0].split("?")[0];
  const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);

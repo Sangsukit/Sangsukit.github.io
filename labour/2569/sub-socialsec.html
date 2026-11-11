@@ -10,10 +10,10 @@
 <meta property="og:locale" content="th_TH">
 <meta property="og:title" content="คลังการประชุม คณะอนุกรรมาธิการด้านการประกันสังคม 2569">
 <meta property="og:description" content="สรุปการประชุมคณะอนุกรรมาธิการด้านการประกันสังคม ในคณะกรรมาธิการการแรงงาน วุฒิสภา ปี 2569 ค้นหาได้ พร้อมเอกสารต้นฉบับ">
-<meta property="og:image" content="https://parliamentx.com/labour/2569/img/s/sub-socialsec-d772d0ee.jpg">
+<meta property="og:image" content="https://parliamentx.com/labour/2569/img/s/sub-socialsec-47fd9a1b.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta name="twitter:image" content="https://parliamentx.com/labour/2569/img/s/sub-socialsec-d772d0ee.jpg">
+<meta name="twitter:image" content="https://parliamentx.com/labour/2569/img/s/sub-socialsec-47fd9a1b.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://parliamentx.com/labour/2569/sub-socialsec.html">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
@@ -1567,11 +1567,11 @@ const thaiDate=(m,short)=>{const d=dt(m);return `${short?"":"วัน"+DAY[d.ge
 const era=m=>"b";
 const live=DATA.filter(m=>!m.cancelled);
 const link=h=>(BASE_URL||location.href.split("#")[0])+"#"+h;
-const SHARE_P="socialsec-",SHARE_V={"20": "e178d134", "19": "1072939d", "18": "55b27f02", "17": "f4fa1bac", "16": "f112ecfa", "15": "f12a1135", "14": "40acbb02", "13": "e6fd2217", "12": "0629e1fc", "11": "98132cf6", "10": "81f90fba", "9": "90532597", "8": "3be86a88", "7": "9d18cc7a", "6": "14a5f127", "5": "a7a25b4a", "4": "51057d6c", "3": "13a130c6", "2": "697b14d1", "1": "fdb090d9"},SHARE_QR=[20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+const SHARE_P="socialsec-",SHARE_V={"20": "09d86e41", "19": "5728f4f1", "18": "9f5067b0", "17": "7c9f49c0", "16": "297c6f6f", "15": "4837d7a6", "14": "c5337296", "13": "5d19857d", "12": "1018bb64", "11": "8ec6b083", "10": "25514b51", "9": "66788bd4", "8": "51f1860f", "7": "30ecbbc7", "6": "42afea72", "5": "248ea4b1", "4": "00bf9c3e", "3": "ffaa53f4", "2": "f6a7600c", "1": "067e5924"},SHARE_QR=[20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"19":"s/v-socialsec-19.html?v=3442e007"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"19":"s/v-socialsec-19.html?v=823ea50a"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -3605,7 +3605,7 @@ W.__sfStop=hand;
 /* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
    so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
 (function(){
- const X=/*XSHARE*/{"timeline":"share/socialsec-timeline.html?v=edd05e44"};
+ const X=/*XSHARE*/{"timeline":"share/socialsec-timeline.html?v=62238c84"};
  const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
  const here=location.href.split("#")[0].split("?")[0];
  const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);

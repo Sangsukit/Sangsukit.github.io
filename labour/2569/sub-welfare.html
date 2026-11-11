@@ -10,10 +10,10 @@
 <meta property="og:locale" content="th_TH">
 <meta property="og:title" content="คลังการประชุม คณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน 2569">
 <meta property="og:description" content="สรุปการประชุมคณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน ในคณะกรรมาธิการการแรงงาน วุฒิสภา ปี 2569 ค้นหาได้ พร้อมเอกสารต้นฉบับ">
-<meta property="og:image" content="https://parliamentx.com/labour/2569/img/s/sub-welfare-cc1af155.jpg">
+<meta property="og:image" content="https://parliamentx.com/labour/2569/img/s/sub-welfare-87266a7f.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta name="twitter:image" content="https://parliamentx.com/labour/2569/img/s/sub-welfare-cc1af155.jpg">
+<meta name="twitter:image" content="https://parliamentx.com/labour/2569/img/s/sub-welfare-87266a7f.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://parliamentx.com/labour/2569/sub-welfare.html">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
@@ -1567,11 +1567,11 @@ const thaiDate=(m,short)=>{const d=dt(m);return `${short?"":"วัน"+DAY[d.ge
 const era=m=>"b";
 const live=DATA.filter(m=>!m.cancelled);
 const link=h=>(BASE_URL||location.href.split("#")[0])+"#"+h;
-const SHARE_P="welfare-",SHARE_V={"25": "33eaccf4", "24": "6bc93693", "23": "0529b976", "22": "253c556f", "21": "9703c76e", "20": "4b5c6219", "19": "64b59279", "18": "704c5b98", "17": "9bf5e401", "16": "e52c937e", "15": "76a28287", "14": "9a9637cf", "13": "287f82a8", "12": "e5286348", "11": "596e9231", "10": "0f6e1854", "9": "62d6a425", "8": "808312b9", "7": "cffcac09", "6": "818d4789", "5": "892bd403", "4": "69644fd8", "3": "4836213d", "2": "c973a0ec", "1": "8e97f270"},SHARE_QR=[25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+const SHARE_P="welfare-",SHARE_V={"25": "30fd7074", "24": "c7c7f456", "23": "006d52c7", "22": "ade283b3", "21": "67db02eb", "20": "08d19f1d", "19": "fb73d93c", "18": "379a6927", "17": "1b0981e4", "16": "d44dfea5", "15": "0ece2268", "14": "9d83fc5c", "13": "98d5053f", "12": "54e7443d", "11": "a766e326", "10": "f42d775a", "9": "f83e94f3", "8": "75673b40", "7": "eb91a413", "6": "eedce3e1", "5": "17224063", "4": "a8d1f6cd", "3": "604e311b", "2": "d8d7aa34", "1": "47e7f10d"},SHARE_QR=[25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"25":"s/v-welfare-25-pre.html?v=783cea40","24":"s/v-welfare-24.html?v=c55b1f4c","23":"s/v-welfare-23.html?v=31e43810","22":"s/v-welfare-22.html?v=f449d7b8","21":"s/v-welfare-21.html?v=044437dd"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"25":"s/v-welfare-25-pre.html?v=044dfe32","24":"s/v-welfare-24.html?v=99cbbbc5","23":"s/v-welfare-23.html?v=3f36b158","22":"s/v-welfare-22.html?v=0b78e526","21":"s/v-welfare-21.html?v=35e60dbb"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -3605,7 +3605,7 @@ W.__sfStop=hand;
 /* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
    so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
 (function(){
- const X=/*XSHARE*/{"timeline":"share/welfare-timeline.html?v=fdb20da8"};
+ const X=/*XSHARE*/{"timeline":"share/welfare-timeline.html?v=adb3fd7b"};
  const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
  const here=location.href.split("#")[0].split("?")[0];
  const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);

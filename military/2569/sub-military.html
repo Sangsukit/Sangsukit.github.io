@@ -10,10 +10,10 @@
 <meta property="og:locale" content="th_TH">
 <meta property="og:title" content="คลังการประชุม คณะอนุกรรมาธิการด้านกิจการทหาร 2569">
 <meta property="og:description" content="สรุปการประชุมคณะอนุกรรมาธิการด้านกิจการทหาร ในคณะกรรมาธิการการทหารและความมั่นคงของรัฐ วุฒิสภา ปี 2569 ค้นหาได้ พร้อมเอกสารต้นฉบับ">
-<meta property="og:image" content="https://parliamentx.com/military/2569/img/s/sub-military-d28428a8.jpg">
+<meta property="og:image" content="https://parliamentx.com/military/2569/img/s/sub-military-c644acdf.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta name="twitter:image" content="https://parliamentx.com/military/2569/img/s/sub-military-d28428a8.jpg">
+<meta name="twitter:image" content="https://parliamentx.com/military/2569/img/s/sub-military-c644acdf.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://parliamentx.com/military/2569/sub-military.html">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
@@ -1569,11 +1569,11 @@ const thaiDate=(m,short)=>{const d=dt(m);return `${short?"":"วัน"+DAY[d.ge
 const era=m=>"b";
 const live=DATA.filter(m=>!m.cancelled);
 const link=h=>(BASE_URL||location.href.split("#")[0])+"#"+h;
-const SHARE_P="military-",SHARE_V={"31": "a69efee6", "30": "b21834f3", "29": "1f9a0b37", "28": "58b2e5a2", "27": "5d6ac26b", "26": "8960c95b", "25": "ca0eb856", "24": "ec8a524e", "23": "ebf9a37f", "22": "7e6eb7ab", "21": "0ed25f89", "20": "08a256ce", "19": "efe0bad7", "18": "ef25eb29", "17": "2b35bc71", "16": "7a56377f", "15": "dc56afb2", "14": "166b04c4", "13": "e2636ac9", "12": "7ca03fbe", "11": "cc3a9267", "10": "21871f1c", "9": "894d1265", "8": "7f438064", "7": "5a45112f", "6": "86c24ab3", "5": "b83077a9", "4": "88fb191e", "3": "5eb25eaf", "2": "2a0bf843", "1": "aefc7dd3"},SHARE_QR=[31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+const SHARE_P="military-",SHARE_V={"31": "97acebed", "30": "157eee75", "29": "a707b406", "28": "70bea19d", "27": "07d86a9f", "26": "a5152bb6", "25": "14c604b7", "24": "26b81998", "23": "cdb38a02", "22": "b73c26dd", "21": "046a4e66", "20": "61c3824d", "19": "ee8a5386", "18": "fee0fde2", "17": "834b611b", "16": "94d4b69b", "15": "0007b95f", "14": "7c2eb7d9", "13": "301a6ceb", "12": "2789efb5", "11": "a09ea6dd", "10": "fb8edd05", "9": "1a1b8278", "8": "d9776cce", "7": "2fbbdd8c", "6": "478add85", "5": "206acbb1", "4": "70ab0308", "3": "c26b7327", "2": "fca93dfb", "1": "a195954d"},SHARE_QR=[31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"31":"s/v-military-31-pre.html?v=ebc06e04","30":"s/v-military-30.html?v=c92f3bb1","29":"s/v-military-29.html?v=73ffe3f7","28":"s/v-military-28.html?v=c4fb59bd","27":"s/v-military-27.html?v=0478fa2a"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"31":"s/v-military-31-pre.html?v=2b7410c5","30":"s/v-military-30.html?v=3a0283c3","29":"s/v-military-29.html?v=41c8ff49","28":"s/v-military-28.html?v=ed1c2761","27":"s/v-military-27.html?v=9e318789"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -3607,7 +3607,7 @@ W.__sfStop=hand;
 /* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
    so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
 (function(){
- const X=/*XSHARE*/{"timeline":"share/military-timeline.html?v=fce881ce"};
+ const X=/*XSHARE*/{"timeline":"share/military-timeline.html?v=788c2ad8"};
  const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
  const here=location.href.split("#")[0].split("?")[0];
  const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);

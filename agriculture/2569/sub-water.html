@@ -10,10 +10,10 @@
 <meta property="og:locale" content="th_TH">
 <meta property="og:title" content="คลังการประชุม คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน 2569">
 <meta property="og:description" content="สรุปการประชุมคณะอนุกรรมาธิการพิจารณาศึกษาการบริหารจัดการน้ำในพื้นที่เกษตร นอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ในคณะกรรมาธิการการเกษตรและสหกรณ์ วุฒิสภา ปี 2569 ค้นหาได้ พร้อมเอกสารต้นฉบับ">
-<meta property="og:image" content="https://parliamentx.com/agriculture/2569/img/s/sub-water-283772fb.jpg">
+<meta property="og:image" content="https://parliamentx.com/agriculture/2569/img/s/sub-water-20f0a5b0.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta name="twitter:image" content="https://parliamentx.com/agriculture/2569/img/s/sub-water-283772fb.jpg">
+<meta name="twitter:image" content="https://parliamentx.com/agriculture/2569/img/s/sub-water-20f0a5b0.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://parliamentx.com/agriculture/2569/sub-water.html">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
@@ -1575,11 +1575,11 @@ const thaiDate=(m,short)=>{const d=dt(m);return `${short?"":"วัน"+DAY[d.ge
 const era=m=>"b";
 const live=DATA.filter(m=>!m.cancelled);
 const link=h=>(BASE_URL||location.href.split("#")[0])+"#"+h;
-const SHARE_P="water-",SHARE_V={"19": "a68228d7", "18": "5c61e8c5", "17": "f477e6ef", "16": "02f8c8cc", "15": "3a05d370", "14": "80e08538", "13": "f9e2d040", "12": "0a1033c3", "11": "d6bc4942", "10": "b5056fed", "9": "96c470a9", "8": "3b15d9c0", "7": "2647e998", "6": "f7c754de", "5": "eda2019a", "4": "5904f381", "3": "8196af12", "2": "836260d0", "1": "f66b5c17"},SHARE_QR=[19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+const SHARE_P="water-",SHARE_V={"19": "5af97b5e", "18": "3141f218", "17": "f2c58450", "16": "4d9f3eb3", "15": "46131b81", "14": "b531e145", "13": "b471a7fa", "12": "f7802a9e", "11": "f9f29c1e", "10": "5c1abd37", "9": "f6100d65", "8": "c18cc289", "7": "01a8539c", "6": "6a4462e3", "5": "2927d049", "4": "9f56db9e", "3": "a7b16a76", "2": "10d56193", "1": "5844b242"},SHARE_QR=[19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"19":"s/v-water-19-pre.html?v=bcf35ebb"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"19":"s/v-water-19-pre.html?v=3d028ac4"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -3613,7 +3613,7 @@ W.__sfStop=hand;
 /* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
    so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
 (function(){
- const X=/*XSHARE*/{"timeline":"share/water-timeline.html?v=120183f1"};
+ const X=/*XSHARE*/{"timeline":"share/water-timeline.html?v=67052cd5"};
  const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
  const here=location.href.split("#")[0].split("?")[0];
  const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);

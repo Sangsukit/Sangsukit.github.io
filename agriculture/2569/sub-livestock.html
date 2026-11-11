@@ -10,10 +10,10 @@
 <meta property="og:locale" content="th_TH">
 <meta property="og:title" content="คลังการประชุม คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง 2569">
 <meta property="og:description" content="สรุปการประชุมคณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง ในคณะกรรมาธิการการเกษตรและสหกรณ์ วุฒิสภา ปี 2569 ค้นหาได้ พร้อมเอกสารต้นฉบับ">
-<meta property="og:image" content="https://parliamentx.com/agriculture/2569/img/s/sub-livestock-c0e67724.jpg">
+<meta property="og:image" content="https://parliamentx.com/agriculture/2569/img/s/sub-livestock-b548ffad.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta name="twitter:image" content="https://parliamentx.com/agriculture/2569/img/s/sub-livestock-c0e67724.jpg">
+<meta name="twitter:image" content="https://parliamentx.com/agriculture/2569/img/s/sub-livestock-b548ffad.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://parliamentx.com/agriculture/2569/sub-livestock.html">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
@@ -1575,11 +1575,11 @@ const thaiDate=(m,short)=>{const d=dt(m);return `${short?"":"วัน"+DAY[d.ge
 const era=m=>"b";
 const live=DATA.filter(m=>!m.cancelled);
 const link=h=>(BASE_URL||location.href.split("#")[0])+"#"+h;
-const SHARE_P="livestock-",SHARE_V={"20": "705a2521", "19": "1161fd16", "18": "45de7fa0", "17": "c1b5c37a", "16": "e60c5e78", "15": "221f4eb9", "14": "44e36336", "13": "c33a5f59", "12": "15902503", "11": "0124001c", "10": "011563ff", "9": "f11ec019", "8": "9b39b097", "7": "67241cde", "6": "b081856c", "5": "0d97dfe7", "4": "6f255437", "3": "dfdd5940", "2": "1032d795", "1": "cd47c54a"},SHARE_QR=[20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+const SHARE_P="livestock-",SHARE_V={"20": "a8f36278", "19": "6aa97021", "18": "0b8038d7", "17": "b7fea2fa", "16": "de2181cd", "15": "7bca6503", "14": "b60ce626", "13": "bb177455", "12": "a48049d5", "11": "e3f04443", "10": "e9e4062b", "9": "47f82549", "8": "4b29a700", "7": "af1bac53", "6": "a7e5e928", "5": "f8f9516a", "4": "12d8d205", "3": "26bc33ec", "2": "73f79a61", "1": "52acc148"},SHARE_QR=[20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"19":"s/v-livestock-19.html?v=622c2776","18":"s/v-livestock-18.html?v=21d167dd","17":"s/v-livestock-17.html?v=b1c0ce58"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"19":"s/v-livestock-19.html?v=e12fef18","18":"s/v-livestock-18.html?v=0048ee01","17":"s/v-livestock-17.html?v=977a2b34"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -3613,7 +3613,7 @@ W.__sfStop=hand;
 /* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
    so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
 (function(){
- const X=/*XSHARE*/{"timeline":"share/livestock-timeline.html?v=10c7e3dd"};
+ const X=/*XSHARE*/{"timeline":"share/livestock-timeline.html?v=67d53ac1"};
  const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
  const here=location.href.split("#")[0].split("?")[0];
  const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);

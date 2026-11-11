@@ -10,10 +10,10 @@
 <meta property="og:locale" content="th_TH">
 <meta property="og:title" content="คลังการประชุม คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ 2569">
 <meta property="og:description" content="สรุปการประชุมคณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ ในคณะกรรมาธิการการทหารและความมั่นคงของรัฐ วุฒิสภา ปี 2569 ค้นหาได้ พร้อมเอกสารต้นฉบับ">
-<meta property="og:image" content="https://parliamentx.com/military/2569/img/s/sub-cyber-ccf616f0.jpg">
+<meta property="og:image" content="https://parliamentx.com/military/2569/img/s/sub-cyber-4e66fc5d.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta name="twitter:image" content="https://parliamentx.com/military/2569/img/s/sub-cyber-ccf616f0.jpg">
+<meta name="twitter:image" content="https://parliamentx.com/military/2569/img/s/sub-cyber-4e66fc5d.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://parliamentx.com/military/2569/sub-cyber.html">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
@@ -1570,11 +1570,11 @@ const thaiDate=(m,short)=>{const d=dt(m);return `${short?"":"วัน"+DAY[d.ge
 const era=m=>"b";
 const live=DATA.filter(m=>!m.cancelled);
 const link=h=>(BASE_URL||location.href.split("#")[0])+"#"+h;
-const SHARE_P="cyber-",SHARE_V={"25": "245da03b", "24": "0a8b70dc", "23": "f32318bf", "22": "3cada50d", "21": "0b262af5", "20": "52c08c56", "19": "87111bbe", "18": "d8750d73", "17": "c227f523", "16": "4a139622", "15": "56642315", "14": "51026e1b", "13": "ea1a3050", "12": "0bad68fc", "11": "6de83c0b", "10": "6dbae492", "9": "5714303a", "8": "f005a75d", "7": "a1d1690a", "6": "ee13ef7a", "5": "83915a80", "4": "b24652a8", "3": "0271f4eb", "2": "03a4dfca", "1": "4471d658"},SHARE_QR=[25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+const SHARE_P="cyber-",SHARE_V={"25": "dbaf2a6b", "24": "ca8561f1", "23": "6d5bfe9f", "22": "a7779b7d", "21": "5ec5d559", "20": "56d926e9", "19": "0586cd81", "18": "5d3ae2ae", "17": "c1789c0c", "16": "6bc07733", "15": "b42fd334", "14": "b52434b5", "13": "2e185a3a", "12": "8068c3ee", "11": "f4cffc75", "10": "6fd0b46f", "9": "4aaeb102", "8": "a34a22a0", "7": "e15d2471", "6": "e2b2d609", "5": "4e3c95c2", "4": "a58ef0ea", "3": "92ad4523", "2": "a4d15729", "1": "59616258"},SHARE_QR=[25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"25":"s/v-cyber-25-pre.html?v=0ec37374","22":"s/v-cyber-22.html?v=79eb145f"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"25":"s/v-cyber-25-pre.html?v=d288dc8d","22":"s/v-cyber-22.html?v=bd10bd6d"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -3608,7 +3608,7 @@ W.__sfStop=hand;
 /* link_share.py: links to a senator, the timeline, a subcommittee or a member list use their own share page,
    so LINE / Facebook show a matching preview card (apps ignore everything after "#"). */
 (function(){
- const X=/*XSHARE*/{"timeline":"share/cyber-timeline.html?v=79338d34"};
+ const X=/*XSHARE*/{"timeline":"share/cyber-timeline.html?v=7fb12be6"};
  const dir=(typeof BASE_URL!=="undefined"&&BASE_URL)||location.href.split("#")[0].split("?")[0].replace(/[^/]*$/,"");
  const here=location.href.split("#")[0].split("?")[0];
  const xmap=u=>{try{if(typeof u!=="string"||u.indexOf("#")<0)return u;const i=u.indexOf("#"),h=decodeURIComponent(u.slice(i+1)),b=u.slice(0,i);
