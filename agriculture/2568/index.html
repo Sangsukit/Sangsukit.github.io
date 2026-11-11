@@ -1260,6 +1260,21 @@ html.tp-glide .whereami{opacity:0!important;transition:none!important}
 <!--NOVDL-->
 <style id="novdl-css">video{-webkit-touch-callout:none}a[download][href*=".mp4"],a[href$=".mp4"][download],a.dlrow[href$=".mp4"]{display:none!important}</style>
 <!--/NOVDL-->
+<!--VIDKIND-->
+<style>
+.vk-head{display:flex;align-items:center;gap:12px;padding:12px 14px;color:#fff;text-align:left;line-height:1.25;container-type:inline-size}
+.vk-pre .vk-head{background:#2D2A4A}
+.vk-post .vk-head{background:#6E1A16}
+.vk-ic{flex:none;width:46px;height:46px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.12);box-shadow:inset 0 0 0 2px #E2BE76}
+.vk-ic .ico{width:24px;height:24px;color:#F6E7C1}
+.vk-t{display:grid;gap:3px;min-width:0}
+.vk-t b{display:block;font-size:1.36rem;font-weight:700;color:#fff;white-space:normal;overflow-wrap:break-word}
+.vk-t .vk-s{display:block;font-size:1rem;color:#F3EBE3;white-space:normal;overflow-wrap:break-word}
+.vk-fig figcaption{font-size:.92rem}
+@container (max-width:300px){.vk-ic{width:34px;height:34px}.vk-ic .ico{width:19px;height:19px}.vk-t b{font-size:1.08rem}.vk-t .vk-s{font-size:.88rem}}
+@media (min-width:701px){.d-hero>.vk-fig{grid-column:-2}.d-hero:has(>.vk-fig+.vk-fig)>div:first-child{grid-row:span 2}}
+</style>
+<!--/VIDKIND-->
 </head>
 <body>
 <a class="dk-skip" href="#feed">ข้ามไปที่รายการการประชุม</a>
@@ -1737,10 +1752,10 @@ function newsSection(m){const ns=m.news||[];if(!ns.length)return "";
  return `<section class="d-sec" id="news-sec"><h3>${icon("news")}ข่าวที่เกี่ยวข้อง</h3>${grp("ข่าวการประชุมหรือกิจกรรมนี้",own)}${grp("ข่าวเบื้องหลังของเรื่องที่พิจารณา",bg)}<p class="newsnote">${icon("info")}<span>ลิงก์เปิดเว็บไซต์ภายนอกในหน้าใหม่ ${ns.some(x=>x.outlet!=="วุฒิสภา")?"ข่าวจากสำนักข่าวเป็นเนื้อหาของสำนักข่าวนั้น ไม่ใช่ความเห็นของคณะกรรมาธิการหรือของเว็บไซต์นี้":"ข่าวจากเว็บไซต์วุฒิสภาเผยแพร่โดยสำนักงานเลขาธิการวุฒิสภา"}${bg.length?" ข่าวเบื้องหลังให้ข้อมูลประกอบเรื่องที่พิจารณาเท่านั้น ไม่ได้หมายความว่าคณะกรรมาธิการพิจารณาตามข่าวนั้น":""}</span></p></section>`}
 /* on open, move focus to the sheet title (screen readers read it first; no gold ring on "ปิด" for people who arrive from a shared link) */
 function dFocus(){const h=$("#d-title");if(!h)return;h.tabIndex=-1;h.focus({preventScroll:true})}
-function openDetail(n,sec){
+/*VK*/function vkK(v){return v&&v.kind==="pre"?"pre":"post"}function vkSort(a){return a.slice().sort((x,y)=>(vkK(x)==="pre"?0:1)-(vkK(y)==="pre"?0:1))}function vkHead(v){const p=vkK(v)==="pre";return `<div class="vk-head" data-solid><span class="vk-ic">${icon(p?"cal":"check")}</span><span class="vk-t"><b>${p?"ก่อนการประชุม":"หลังการประชุม"}</b><span class="vk-s">${p?"เรื่องที่นัดพิจารณา":"ผลการประชุม"}</span></span></div>`}/*/VK*/function openDetail(n,sec){
  const i=live.findIndex(m=>m.n===n);if(i<0)return;const m=live[i];
  const newer=live[i-1],older=live[i+1],md=m.media||{},k=CHAIR_IMG[m.chair];
- const fig=md.video?(md.videos||[md.video]).map(v=>`<figure class="d-figure"><div class="vid"><video controlslist=nodownload controls preload="none" playsinline poster="${v.poster}" src="${v.src}">${track(v.ck||m.n,v.cc)}</video></div><figcaption>${icon("video")} ${v.label} · ${v.cc||"มีคำบรรยายภาษาไทย"}</figcaption></figure>`).join("")
+ const fig=md.video?vkSort(md.videos||[md.video]).map(v=>`<figure class="d-figure vk-fig vk-${vkK(v)}">${vkHead(v)}<div class="vid"><video controlslist=nodownload controls preload="none" playsinline poster="${v.poster}" src="${v.src}">${track(v.ck||m.n,v.cc)}</video></div><figcaption>${icon("video")} ${v.label} · ${v.cc||"มีคำบรรยายภาษาไทย"}</figcaption></figure>`).join("")
   :md.photo?`<figure class="d-figure"><img src="${md.photo}" alt="บรรยากาศห้องประชุม ครั้งที่ ${m.n}/2568"><figcaption>${icon("photo")} บรรยากาศการประชุม · ภาพ: สำนักงานเลขาธิการวุฒิสภา (จากเอกสารสรุปผลการประชุม)</figcaption></figure>`
   :k?`<figure class="d-figure"><img src="${P[k].img}" alt="${esc(m.chair)}"><figcaption>${esc(m.chair)} ประธานในที่ประชุม · ภาพ: สำนักงานเลขาธิการวุฒิสภา</figcaption></figure>`:"";
  const hasComplaint=(m.items||[]).some(x=>x[2]==="complaint");
@@ -4307,6 +4322,17 @@ function start(){all();
 document.readyState==='complete'?start():addEventListener('load',start)})();
 </script>
 <script id="novdl-js">(function(){function f(v){if(v.getAttribute("controlslist")!=="nodownload")v.setAttribute("controlslist","nodownload")}function a(r){if(r&&r.querySelectorAll)r.querySelectorAll("video").forEach(f)}function isV(t){return t&&t.tagName==="VIDEO"}document.addEventListener("contextmenu",function(e){if(isV(e.target))e.preventDefault()},true);document.addEventListener("dragstart",function(e){if(isV(e.target))e.preventDefault()},true);document.addEventListener("play",function(e){if(isV(e.target))f(e.target)},true);a(document);if(window.MutationObserver)new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType!==1)return;if(isV(n))f(n);else a(n)})})}).observe(document.documentElement,{childList:true,subtree:true})})();</script>
+<script id="vidkind-js">
+(function(){
+ if(window.__vk)return;window.__vk=1;
+ function isVk(v){return v&&v.tagName==="VIDEO"&&v.closest&&v.closest(".vk-fig")}
+ /* one video at a time in the panel */
+ document.addEventListener("play",function(e){var v=e.target;if(!isVk(v))return;
+  var box=v.closest("#sheet")||document;box.querySelectorAll(".vk-fig video").forEach(function(o){if(o!==v&&!o.paused){try{o.pause()}catch(x){}}})},true);
+ /* when a video ends, show its cover (the title frame) again instead of the last frame */
+ document.addEventListener("ended",function(e){var v=e.target;if(!isVk(v))return;try{v.load()}catch(x){}},true);
+})();
+</script>
 </body>
 </html>
 <!--PREP_START-->
