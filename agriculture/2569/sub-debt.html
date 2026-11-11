@@ -1544,6 +1544,7 @@ const SHARE_P="debt-",SHARE_V={},SHARE_QR=[];
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
+const VSHARE=/*VSHARE*/{};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
@@ -1636,7 +1637,7 @@ function chairLine(m){
 }
 function mediaBlock(m){
  const md=m.media||{};
- if(md.video){const v=md.video;return `<div class="media"><div class="vid"><img src="${v.poster}" alt="ภาพปก${v.label} ครั้งที่ ${m.n}/2569" loading="lazy"><button class="play" type="button" data-play="${m.n}" aria-label="เล่น${v.label} ครั้งที่ ${m.n}"><span class="pc">${icon("play")}</span><span class="pl">${icon("video")} กดเพื่อดู${v.label} (${v.dur} นาที)</span></button></div><div class="actions vidbar"><button class="btn" type="button" data-copy="reel-${m.n}">${icon("link")}คัดลอกลิงก์วิดีโอ</button></div></div>`}
+ if(md.video){const v=md.video;return `<div class="media"><div class="vid"><img src="${v.poster}" alt="ภาพปก${v.label} ครั้งที่ ${m.n}/2569" loading="lazy"><button class="play" type="button" data-play="${m.n}" aria-label="เล่น${v.label} ครั้งที่ ${m.n}"><span class="pc">${icon("play")}</span><span class="pl">${icon("video")} กดเพื่อดู${v.label} (${v.dur} นาที)</span></button></div><div class="actions vidbar"><a class="btn line" href="https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(vlink(m.n))}" target="_blank" rel="noopener">${icon("share")}ส่งวิดีโอทาง LINE</a><button class="btn" type="button" data-copy="${VSHARE[m.n]?"v:"+m.n:"reel-"+m.n}">${icon("link")}คัดลอกลิงก์วิดีโอ</button></div></div>`}
  if(md.photo)return `<figure class="media"><div class="ph"><img class="room" src="${md.photo}" alt="บรรยากาศห้องประชุมคณะกรรมาธิการ ครั้งที่ ${m.n}/2569" loading="lazy"></div><figcaption>${icon("photo")} บรรยากาศการประชุม · ภาพ: สำนักงานเลขาธิการวุฒิสภา${m.date>="2026-10-01"?" · วิดีโอกำลังจัดทำ":""}</figcaption></figure>`;
  const cats=[...new Set((m.items||[]).map(i=>i[2]))].slice(0,3);
  return `<div class="media none"><div class="soon"><div class="icons">${cats.map(c=>`<span class="cat ${c}" title="${CAT[c]}">${icon(c)}</span>`).join("")}</div><span>${icon("doc")} เปิดเอกสารต้นฉบับได้ในหน้ารายละเอียด</span></div></div>`;
@@ -1934,8 +1935,8 @@ function reel(m){
  return `<section class="reel" id="reel-${m.n}" aria-label="ครั้งที่ ${m.n}/2569"><div class="reel-stage">${inner}
  <div class="reel-side">${v?`<button class="rbtn" type="button" data-mute aria-label="เปิดหรือปิดเสียง">${icon(muted?"mute":"vol")}</button><span class="rlabel">เสียง</span>`:""}
  <a class="rbtn" href="#read-${m.n}" aria-label="อ่านรายละเอียด">${icon("book")}</a><span class="rlabel">อ่านต่อ</span>
- <button class="rbtn" type="button" data-copy="reel-${m.n}" aria-label="คัดลอกลิงก์">${icon("link")}</button><span class="rlabel">ลิงก์</span>
- <a class="rbtn" href="https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(slink(m.n))}" target="_blank" rel="noopener" aria-label="แชร์ทาง LINE">${icon("share")}</a><span class="rlabel">LINE</span>
+ <button class="rbtn" type="button" data-copy="${VSHARE[m.n]?"v:"+m.n:"reel-"+m.n}" aria-label="คัดลอกลิงก์วิดีโอ">${icon("link")}</button><span class="rlabel">ลิงก์</span>
+ <a class="rbtn" href="https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(vlink(m.n))}" target="_blank" rel="noopener" aria-label="แชร์วิดีโอทาง LINE">${icon("share")}</a><span class="rlabel">LINE</span>
  </div></div></section>`;
 }
 function openReels(n){
@@ -1975,7 +1976,7 @@ document.addEventListener("click",e=>{
  if(t.dataset.nshare){nativeShare(t.dataset.nshare,+t.dataset.n);return}
  if(t.dataset.tlnow!==undefined){const el=$("#tl-now");if(el)el.scrollIntoView({block:"center"});return}
  if(t.dataset.closeSheet!==undefined){closeDetail();return}
- if(t.dataset.copy!==undefined){e.preventDefault();copy(t.dataset.copy.startsWith("s:")?slink(+t.dataset.copy.slice(2)):link(t.dataset.copy),t.dataset.copy.startsWith("reel")?"คัดลอกลิงก์วิดีโอแล้ว":"คัดลอกลิงก์แล้ว");return}
+ if(t.dataset.copy!==undefined){e.preventDefault();copy(t.dataset.copy.startsWith("v:")?vlink(+t.dataset.copy.slice(2)):t.dataset.copy.startsWith("s:")?slink(+t.dataset.copy.slice(2)):link(t.dataset.copy),t.dataset.copy.startsWith("reel")?"คัดลอกลิงก์วิดีโอแล้ว":"คัดลอกลิงก์แล้ว");return}
  if(t.dataset.tag!==undefined){const v=t.dataset.tag;S.tag=(S.tag===v&&!t.classList.contains("chip"))?"":v;render();if(!t.closest(".controls"))$("#controls").scrollIntoView({block:"start"});return}
  if(t.dataset.q){S.q=t.dataset.q;$("#q").value=S.q;render();$("#controls").scrollIntoView({block:"start"});return}
  if(t.dataset.mo!==undefined){S.mo=S.mo===+t.dataset.mo?-1:+t.dataset.mo;render();return}
