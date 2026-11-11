@@ -1219,6 +1219,11 @@ footer h4:not(#au){color:var(--gold-band-head)}
 @media (prefers-reduced-motion:reduce){.lvs{opacity:1;transform:none;transition:none}.lvb,.lvb.lvb-hide{transition:none}}
 </style>
 <!--/LIVELY-->
+<!--FRICTION-->
+<style>
+html.sf-on{--sf:1}
+</style>
+<!--/FRICTION-->
 </head>
 <body>
 <a class="dk-skip" href="#feed">ข้ามไปที่รายการการประชุม</a>
@@ -4079,6 +4084,115 @@ function start(){all();
  // re-label when the visitor switches Thai/English
  new MutationObserver(function(){setTimeout(all,60)}).observe(document.documentElement,{attributes:true,attributeFilter:['lang']})}
 document.readyState==='complete'?start():addEventListener('load',start)})();
+</script>
+<script id="friction-js">
+/* Section scroll friction v2 (Sukit 11 Nov 2569 15:32 UTC "add scrolling momentum ... friction"; 15:51 UTC "Optimize this").
+   Mouse wheel / trackpad: the page glides and slows near the start of every section (headings, meeting cards, sections);
+   pushing on past a section start meets a little resistance, then frees up.
+   v2: friction eases off for fast scrolling (a quick flick barely feels it, slow reading feels it most); trackpads get a
+   shorter glide so they never feel laggy; section positions are kept in a sorted list (binary search) and only re-read
+   when the page changes size; scrollable-box checks are cached; phones/tablets without a mouse do not load the wheel code.
+   Never stuck: never below 35 % speed, settles only forward, any key/click/tap/scrollbar/link takes over at once, watchdog.
+   Off for: Reduce Motion, Ctrl/Cmd zoom, horizontal scroll, inside scrollable boxes, open pop-ups, data-sf-off. */
+(function(){
+"use strict";
+var W=window,D=document,H=D.documentElement;
+if(H.hasAttribute("data-sf-off")||W.__sf)return;W.__sf=1;
+function mq(q){return W.matchMedia?W.matchMedia(q):{matches:false}}
+var RM=mq("(prefers-reduced-motion: reduce)"),FINE=mq("(any-pointer: fine)");
+var SEL="main > section, main h2, article.card, .d-sec, footer";
+var ZONE=200,FMIN=.35,SNAP=64,TSNAP=40,TAU_W=110,TAU_T=55,MAXRUN=2500;
+var tgt=0,run=0,raf=0,last=0,mine=-1,t0=0,tau=TAU_W,idle=0,dirty=1,bounds=[],dock=16,dir=0,lastY=0,
+    vel=0,vT=0,boxCache=null,boxT=0,touching=0,swiping=0,quiet=0;
+function off(){return RM.matches||H.hasAttribute("data-sf-off")||W.__sfOff===true}
+function maxY(){return Math.max(0,H.scrollHeight-W.innerHeight)}
+/* section starts: re-read only when the page changed size (ResizeObserver) or the window resized */
+function measure(){
+  if(!dirty)return;dirty=0;
+  var top=D.querySelector("header.top");dock=16;
+  if(top){var cs=getComputedStyle(top);if(cs.position==="sticky"||cs.position==="fixed"){var r=top.getBoundingClientRect();if(r.bottom>0&&r.bottom<W.innerHeight/3)dock=r.bottom+16}}
+  var ys=[],y=W.scrollY,l=D.querySelectorAll(SEL);
+  for(var i=0;i<l.length;i++){var e=l[i],r=e.getBoundingClientRect();if(!r.height)continue;
+    if(e.tagName!=="H2"&&r.height<160)continue;ys.push(Math.round(r.top+y)-dock)}
+  ys.sort(function(a,b){return a-b});bounds=[];
+  for(var j=0;j<ys.length;j++){if(ys[j]<40)continue;if(!bounds.length||ys[j]-bounds[bounds.length-1]>120)bounds.push(ys[j])}
+}
+function nearest(y){ /* binary search: scroll position whose section start sits on the dock line */
+  var lo=0,hi=bounds.length-1;if(hi<0)return null;
+  while(lo<hi){var m=(lo+hi)>>1;if(bounds[m]<y)lo=m+1;else hi=m}
+  var a=bounds[lo],b=lo>0?bounds[lo-1]:a;return Math.abs(a-y)<Math.abs(b-y)?a:b}
+function ease(x){return x<=0?0:x>=1?1:x*x*(3-2*x)}
+function friction(y,fast){var n=nearest(y);if(n===null)return 1;
+  var f=FMIN+(1-FMIN)*ease(Math.abs(n-y)/ZONE);return f+(1-f)*fast}
+function scrollableBox(el){
+  var now=Date.now();if(boxCache&&boxCache.el===el&&now-boxT<400)return boxCache.v;
+  var v=false;
+  for(var x=el;x&&x!==D.body&&x!==H;x=x.parentElement){
+    if(x.hasAttribute&&x.hasAttribute("data-sf-off")){v=true;break}
+    var t=x.tagName;if(t==="IFRAME"||t==="VIDEO"||t==="CANVAS"||t==="SELECT"||t==="TEXTAREA"||t==="DIALOG"){v=true;break}
+    if(x.scrollHeight>x.clientHeight+1){var o=getComputedStyle(x).overflowY;if(o==="auto"||o==="scroll"||o==="overlay"){v=true;break}}
+  }boxCache={el:el,v:v};boxT=now;return v}
+function locked(){return H.classList.contains("gated")||!!D.querySelector("dialog[open]")||getComputedStyle(D.body).overflowY==="hidden"||getComputedStyle(H).overflowY==="hidden"}
+function to(y){try{W.scrollTo({top:y,left:W.scrollX,behavior:"instant"})}catch(_){W.scrollTo(W.scrollX,y)}}
+function stop(){if(raf)cancelAnimationFrame(raf);raf=0;run=0;mine=-1}
+function go(){if(!run){run=1;last=performance.now();t0=last;raf=requestAnimationFrame(step)}}
+function step(now){
+  var dt=Math.min(64,now-last);last=now;var y=W.scrollY;
+  if(mine>=0&&Math.abs(y-mine)>3){stop();return} /* someone else moved the page: hand over */
+  var diff=tgt-y;
+  if(Math.abs(diff)<.6||now-t0>MAXRUN){to(Math.round(tgt));stop();return}
+  to(y+diff*(1-Math.exp(-dt/tau)));mine=W.scrollY;
+  if(Math.abs(mine-y)<.05&&Math.abs(diff)>2&&now-t0>200){stop();return} /* page cannot move: never fight it */
+  raf=requestAnimationFrame(step)}
+function settle(maxd){
+  if(off()||locked())return;measure();var y=W.scrollY,n=nearest(y);if(n===null)return;var d=n-y;
+  if(Math.abs(d)>maxd||Math.abs(d)<2||!dir||(d>0)!==(dir>0))return; /* only ever settle FORWARD */
+  tgt=Math.max(0,Math.min(maxY(),n));tau=TAU_W;t0=performance.now();go()}
+function onWheel(e){
+  if(e.defaultPrevented||e.ctrlKey||e.metaKey||off())return;
+  var dy=e.deltaY,dx=e.deltaX;if(e.deltaMode===1){dy*=40;dx*=40}else if(e.deltaMode===2){dy*=W.innerHeight;dx*=W.innerHeight}
+  if(!dy||Math.abs(dx)>Math.abs(dy))return;
+  if(scrollableBox(e.target)||locked())return;
+  measure();
+  if(!run)tgt=W.scrollY;
+  var m=maxY();if((dy<0&&tgt<=0)||(dy>0&&tgt>=m))return;
+  e.preventDefault();dir=dy>0?1:-1;
+  /* trackpad = small fractional/pixel deltas arriving fast: short glide, it has its own inertia */
+  var pad=e.deltaMode===0&&(Math.abs(dy)<50||dy%1!==0);tau=pad?TAU_T:TAU_W;
+  /* speed in px per second (smoothed): fast scrolling eases friction off, 0 = slow, 1 = fast */
+  var now=performance.now(),gap=Math.max(8,now-vT);vT=now;
+  vel=gap>250?Math.abs(dy)*4:vel*.6+(Math.abs(dy)/gap*1000)*.4;
+  var fast=ease((vel-1500)/3500);
+  dy=Math.max(-W.innerHeight*.9,Math.min(W.innerHeight*.9,dy));
+  var rest=dy,s=dy>0?1:-1; /* read friction along the way, so a big flick still slows at a section start */
+  while(Math.abs(rest)>.5){var sl=s*Math.min(24,Math.abs(rest));tgt+=sl*friction(tgt,fast);rest-=sl}
+  tgt=Math.max(0,Math.min(m,tgt));t0=now;
+  clearTimeout(idle);idle=setTimeout(function(){settle(SNAP)},180);
+  go()}
+function hand(){clearTimeout(idle);clearTimeout(quiet);if(run)stop()}
+function mark(){dirty=1}
+if(FINE.matches||!("ontouchstart" in W)){ /* wheel code only where a mouse or trackpad exists */
+  W.addEventListener("wheel",onWheel,{passive:false});
+  ["keydown","mousedown"].forEach(function(t){W.addEventListener(t,hand,{passive:true,capture:true})});
+}
+W.addEventListener("pointerdown",hand,{passive:true,capture:true});
+/* phones: only after a real swipe ends (momentum finished) close to a section start */
+W.addEventListener("touchstart",function(){touching=1;swiping=0;hand()},{passive:true,capture:true});
+W.addEventListener("touchmove",function(){swiping=1},{passive:true,capture:true});
+W.addEventListener("touchend",function(){touching=0},{passive:true,capture:true});
+function swipeDone(){if(!touching&&swiping&&!run){swiping=0;settle(TSNAP)}}
+W.addEventListener("scroll",function(){
+  var y=W.scrollY;if(y!==lastY){dir=y>lastY?1:-1;lastY=y}
+  if(run||touching||!swiping||"onscrollend" in W)return;clearTimeout(quiet);quiet=setTimeout(swipeDone,160)},{passive:true});
+if("onscrollend" in W)W.addEventListener("scrollend",swipeDone,{passive:true});
+W.addEventListener("hashchange",hand);W.addEventListener("resize",mark,{passive:true});
+D.addEventListener("visibilitychange",hand);
+if(W.ResizeObserver){var ro=new ResizeObserver(mark);ro.observe(D.body);var mn=D.querySelector("main");if(mn)ro.observe(mn)}
+else setInterval(mark,1500);
+D.addEventListener("click",function(){setTimeout(mark,350)},{passive:true,capture:true}); /* filters/folds change layout */
+H.classList.add("sf-on");
+W.__sfStop=hand;
+})();
 </script>
 </body>
 </html>
