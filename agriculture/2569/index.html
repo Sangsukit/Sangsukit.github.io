@@ -4229,3 +4229,169 @@ dialog#qrbox{border:0;border-radius:18px;padding:22px 20px;max-width:420px;width
   if(e.target.id==="qrc"||e.target===box){e.stopPropagation();box.close()}},true);
 })();
 </script>
+<!--PREP_START-->
+<!-- PREP LAYER (11 Nov 2569, Sukit: "Add some suggested preparation for each upcoming meetings or news sources to be
+     checked out" / "Only from mainstream trustable sources from both domestic and internationals").
+     Injected by build.py only when PREP=1 (prep.py). Never edits template.html; hooks into the rendered page.
+     Drawn from DATA for meetings dated today or later (Bangkok time), so new meetings get it automatically.
+     Links only. News outlets come only from archive/news_sources/NEWS_SOURCES.json (shared with Hot Topic). -->
+<style>
+.pp-sec{border:3px solid var(--st-up,#2D2A4A);border-radius:16px;padding:18px 16px;background:var(--paper)}
+.pp-sec>h3{font-size:1.2rem!important}
+.pp-intro{margin:0 0 12px;line-height:1.6}
+.pp-steps{list-style:none;margin:0;padding:0;display:grid;gap:14px;counter-reset:pp}
+.pp-steps>li{display:grid;grid-template-columns:44px minmax(0,1fr);gap:12px;align-items:start;counter-increment:pp}
+.pp-steps>li::before{content:counter(pp);width:44px;height:44px;border-radius:50%;display:grid;place-items:center;font-weight:700;font-size:1.15rem;background:var(--st-up,#2D2A4A);color:var(--st-up-on,#fff)}
+.pp-steps h4{margin:8px 0 6px;font-size:1.08rem;line-height:1.4;display:flex;gap:8px;align-items:center}
+.pp-steps h4 .ico{color:var(--gold);flex:none}
+.pp-row{display:flex;flex-wrap:wrap;gap:8px}
+.pp-row .btn{min-height:48px;font-size:1rem}
+.pp-grp .pp-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}
+.pp-grp .pp-row .btn{justify-content:space-between}
+.pp-mt{display:grid;gap:8px;margin:0;padding:0;list-style:none}
+.pp-mt a{display:grid;gap:2px;min-height:48px;padding:10px 14px;border:2px solid var(--line);border-radius:12px;text-decoration:none;color:var(--ink);background:var(--paper)}
+.pp-mt a:hover,.pp-mt a:focus-visible{border-color:var(--teal)}
+.pp-mt a small{color:var(--muted);font-size:.92rem}
+.pp-mt a b{font-weight:700;line-height:1.45}
+.pp-gl{margin:0;display:grid;gap:8px}
+.pp-gl div{border-left:4px solid var(--gold);padding:4px 0 4px 12px}
+.pp-gl dt{font-weight:700}
+.pp-gl dd{margin:2px 0 0;line-height:1.55}
+.pp-chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 10px}
+.pp-chips button{min-height:48px;padding:8px 16px;border-radius:99px;border:2px solid var(--st-up,#2D2A4A);background:var(--paper);color:var(--ink);font:inherit;font-weight:700;cursor:pointer}
+.pp-chips button[aria-pressed="true"]{background:var(--st-up,#2D2A4A);color:var(--st-up-on,#fff)}
+.pp-grp{margin:0 0 10px}
+.pp-grp>span{display:block;font-size:.95rem;color:var(--muted);font-weight:700;margin:0 0 6px}
+.pp-hl{list-style:none;margin:0 0 12px;padding:0;display:grid;gap:8px}
+.pp-hl a{display:block;min-height:48px;padding:10px 14px;border:2px solid var(--line);border-radius:12px;text-decoration:none;color:var(--ink);background:var(--paper)}
+.pp-hl a:hover,.pp-hl a:focus-visible{border-color:var(--teal)}
+.pp-hl b{display:block;font-weight:600;line-height:1.5}
+.pp-hl small{display:block;margin-top:4px;color:var(--muted);font-size:.92rem}
+.pp-hl small .src{font-weight:700;color:var(--ink)}
+.pp-hlh{display:block;font-size:.95rem;color:var(--muted);font-weight:700;margin:0 0 6px}
+.pp-note{margin:10px 0 0;color:var(--muted);font-size:.92rem;line-height:1.55;display:flex;gap:8px;align-items:flex-start}
+.pp-note .ico{flex:none;margin-top:3px;color:var(--gold)}
+.pp-go{display:inline-flex;align-items:center;gap:8px;min-height:48px;margin:10px 16px 0;padding:8px 16px;border-radius:99px;border:2px solid var(--st-up,#2D2A4A);color:var(--st-up,#2D2A4A);font-weight:700;text-decoration:none;background:var(--paper)}
+.pp-go .ico{width:1.25em;height:1.25em}
+@media (prefers-reduced-motion:no-preference){.pp-chips button{transition:background-color .18s cubic-bezier(.2,.8,.2,1),color .18s cubic-bezier(.2,.8,.2,1)}}
+</style>
+<script>
+(()=>{
+if(typeof live==="undefined")return;
+const PP={"outlets":[{"n":"ไทยพีบีเอส","u":"https://www.thaipbs.or.th/search?q={q}","l":"th","s":"th"},{"n":"ไทยรัฐ","u":"https://www.thairath.co.th/search?q={q}","l":"th","s":"th"},{"n":"Bangkok Post","u":"https://www.bangkokpost.com/search/?q={q}","l":"en","s":"th"},{"n":"The Nation","u":"https://www.nationthailand.com/search?q={q}","l":"en","s":"th"},{"n":"กรุงเทพธุรกิจ","u":"https://www.bangkokbiznews.com/search?q={q}","l":"th","s":"th"},{"n":"สำนักข่าวไทย อสมท","u":"https://tna.mcot.net/tna/th?s={q}","l":"th","s":"th"},{"n":"สำนักข่าวแห่งชาติ (NBT)","u":"https://thainews.prd.go.th/th/search/?keyword={q}","l":"th","s":"th"},{"n":"Reuters","u":"https://www.reuters.com/site-search/?query={q}","l":"en","s":"intl"},{"n":"Associated Press","u":"https://apnews.com/search?q={q}","l":"en","s":"intl"},{"n":"BBC News","u":"https://www.bbc.co.uk/search?q={q}","l":"en","s":"intl"}],"generic":["การทูตรัฐสภา","ต่างประเทศ","ประธานคนใหม่","ผลงานเด่น","รายงานการศึกษา","รายงานต่อวุฒิสภา","ร่างกฎหมาย","วาระการประชุม","ศึกษาดูงาน","สัมมนา","อนุกรรมาธิการ","อำนาจเรียก","เปลี่ยนประธาน","เรื่องร้องเรียน","แต่งตั้งบุคคล","แผนงานประจำปี"],"skip":["กระบวนการยุติธรรม","ความมั่นคงภายใน","ชายแดนภาคใต้","ชายแดนใต้","ชาวต่างชาติ","ที่ดินของรัฐ","ยาเสพติด/กระท่อม"],"en":{"อุทกภัย":"Thailand floods","ที่ดิน":"Thailand land rights","บริหารจัดการน้ำ":"Thailand water management","ภัยพิบัติ":"Thailand disaster","สถานบริการ":"Thailand entertainment venue safety","ศูนย์ดำรงธรรม":"Thailand Damrongdhama centre","ความปลอดภัยสาธารณะ":"Thailand public safety","ดิจิทัล":"Thailand digital government","เศรษฐกิจพอเพียง":"Thailand sufficiency economy","ผังเมือง":"Thailand city planning","บริการภาครัฐ":"Thailand public services","ท้องถิ่น":"Thailand local government","ระบบเตือนภัย":"Thailand early warning system","จัดซื้อจัดจ้าง":"Thailand public procurement","คมนาคม":"Thailand transport","ยาเสพติด/กระท่อม":"Thailand kratom","การศึกษา":"Thailand education","ที่อยู่อาศัย":"Thailand housing","งบประมาณ":"Thailand budget","กระบวนการยุติธรรม":"Thailand justice system","ปฏิรูประบบราชการ":"Thailand civil service reform","ชายแดนใต้":"Thailand deep south","มลพิษทางเสียง":"Thailand noise pollution","ทะเบียนราษฎร":"Thailand civil registration","สาธารณสุข":"Thailand public health","แผ่นดินไหว":"Thailand earthquake","ปลาหมอคางดำ":"Thailand blackchin tilapia","สหกรณ์":"Thailand cooperatives","ประมง":"Thailand fisheries","โคเนื้อ":"Thailand beef cattle","ข้าว":"Thailand rice","ภัยแล้ง":"Thailand drought","หนี้สินเกษตรกร":"Thailand farmer debt","ทุเรียน":"Thailand durian","ประมงพื้นบ้าน":"Thailand small-scale fishing","โรคพิษสุนัขบ้า":"Thailand rabies","โคนม":"Thailand dairy","กุ้งทะเล":"Thailand shrimp","ผลไม้":"Thailand fruit exports","ความมั่นคงทางอาหาร":"Thailand food security","แรงงานต่างด้าว":"Thailand migrant workers","ผู้สูงอายุ":"Thailand ageing society","ประกันสังคม":"Thailand social security","แรงงานทางทะเล":"Thailand fishing workers","แรงงานแพลตฟอร์ม":"Thailand platform workers","คนพิการ":"Thailand disability","บำนาญชราภาพ":"Thailand pension","ค่าจ้างขั้นต่ำ":"Thailand minimum wage","ไรเดอร์":"Thailand delivery riders","แรงงานไทยในต่างประเทศ":"Thai workers abroad","ชายแดนไทย–เมียนมา":"Thailand Myanmar border","ชายแดนภาคใต้":"Thailand deep south","ชายแดนไทย–กัมพูชา":"Thailand Cambodia border","ความมั่นคงภายใน":"Thailand internal security","อุตสาหกรรมป้องกันประเทศ":"Thailand defence industry","เรือฟริเกต":"Thailand navy frigate","โดรน":"Thailand drones military","ทหารผ่านศึก":"Thailand veterans","ตะวันออกกลาง":"Thai workers Middle East"},"cat":{"water":["บริหารจัดการน้ำ","Thailand water management"],"disaster":["ภัยพิบัติ","Thailand disaster"]},"gl":{"คณะกรรมาธิการ":"คณะของสมาชิกวุฒิสภาที่วุฒิสภาตั้งขึ้นให้ทำงานเฉพาะด้าน เช่น ศึกษาเรื่องต่าง ๆ รับเรื่องร้องเรียน สอบถามข้อเท็จจริงจากหน่วยงาน แล้วรายงานต่อวุฒิสภา","คณะอนุกรรมาธิการ":"คณะทำงานที่คณะกรรมาธิการตั้งขึ้นเพื่อช่วยศึกษาเรื่องเฉพาะเรื่อง แล้วรายงานกลับมาให้คณะกรรมาธิการพิจารณา","กรรมาธิการวิสามัญ":"คณะกรรมาธิการที่ตั้งขึ้นเฉพาะกิจเพื่อทำเรื่องใดเรื่องหนึ่ง เมื่อทำเสร็จก็สิ้นสุดไป","ที่ปรึกษา":"ผู้ที่คณะกรรมาธิการแต่งตั้งให้ช่วยให้ความเห็นและข้อมูลประกอบการทำงานของคณะกรรมาธิการ","ผู้ทรงคุณวุฒิ":"ผู้มีความรู้หรือประสบการณ์ในเรื่องนั้น ๆ ที่ได้รับเชิญมาให้ความเห็น","ระเบียบวาระ":"รายการเรื่องที่จะพิจารณาในการประชุม เรียงเป็นข้อ ๆ (วาระ 1, วาระ 2 ...)","มติ":"ข้อสรุปหรือการตัดสินใจของที่ประชุมในเรื่องนั้น","รับทราบ":"ที่ประชุมรับรู้เรื่องที่มีผู้รายงาน โดยยังไม่ได้ตัดสินใจหรือสั่งการอะไรเพิ่ม","เห็นชอบ":"ที่ประชุมตกลงยอมรับตามที่มีผู้เสนอ","อนุมัติ":"ที่ประชุมอนุญาตให้ดำเนินการตามที่ขอ","รับรองบันทึก":"ที่ประชุมตรวจและยืนยันว่าบันทึกของการประชุมครั้งก่อนถูกต้อง","ข้อสังเกต":"ความเห็นหรือข้อเสนอแนะที่แนบไปกับรายงาน เพื่อให้หน่วยงานนำไปพิจารณา","ญัตติ":"ข้อเสนอที่สมาชิกยื่นให้ที่ประชุมพิจารณา ชื่อญัตติเป็นถ้อยคำของผู้เสนอ","มีหนังสือ":"ส่งหนังสือราชการ (จดหมายทางการ) ถึงหน่วยงาน เพื่อขอข้อมูลหรือขอให้พิจารณาเรื่องนั้น","ผู้ร้อง":"ผู้ที่ยื่นเรื่องร้องเรียนหรือข้อเสนอต่อคณะกรรมาธิการ เว็บไซต์นี้ไม่แสดงชื่อผู้ร้อง","เรื่องร้องเรียน":"เรื่องที่ประชาชนหรือหน่วยงานแจ้งเข้ามา เป็นข้อกล่าวอ้างของผู้ร้อง ยังไม่ใช่ข้อยุติว่าใครผิด","สว.พบประชาชน":"กิจกรรมที่สมาชิกวุฒิสภาลงพื้นที่รับฟังปัญหาของประชาชน แล้วนำเรื่องเข้าสู่การพิจารณา","ศึกษาดูงาน":"การเดินทางไปดูสถานที่หรือพบหน่วยงานจริง เพื่อเก็บข้อมูลประกอบการพิจารณา","สัมมนา":"การประชุมที่เชิญผู้เกี่ยวข้องหลายฝ่ายมารับฟังและแลกเปลี่ยนความคิดเห็นในหัวข้อหนึ่ง","ร่าง พ.ร.บ.":"ร่างกฎหมายที่ยังอยู่ระหว่างพิจารณา ยังไม่มีผลบังคับใช้","พ.ร.บ.":"พระราชบัญญัติ คือกฎหมายที่ผ่านการพิจารณาของรัฐสภาและประกาศใช้แล้ว","พ.ร.บ.อำนวยความสะดวก":"กฎหมายที่ให้หน่วยงานรัฐต้องบอกขั้นตอน ระยะเวลา และเอกสารที่ต้องใช้ในการขออนุญาตต่าง ๆ ให้ประชาชนรู้ล่วงหน้าอย่างชัดเจน","ครม.":"คณะรัฐมนตรี ประกอบด้วยนายกรัฐมนตรีและรัฐมนตรี ทำหน้าที่บริหารราชการแผ่นดิน","ส่วนกลาง":"หน่วยงานระดับประเทศ เช่น กระทรวง กรม ซึ่งส่วนใหญ่อยู่ในกรุงเทพฯ","ส่วนภูมิภาค":"หน่วยงานของรัฐที่อยู่ในจังหวัดและอำเภอ เช่น ศาลากลางจังหวัด ที่ว่าการอำเภอ","อปท.":"องค์กรปกครองส่วนท้องถิ่น เช่น อบต. เทศบาล อบจ. ที่ประชาชนในพื้นที่เลือกตั้งผู้บริหารเอง","อบต.":"องค์การบริหารส่วนตำบล หน่วยงานท้องถิ่นระดับตำบล","บูรณาการ":"ให้หลายหน่วยงานทำงานร่วมกันเป็นระบบเดียว ไม่ต่างคนต่างทำ","ภัยพิบัติ":"เหตุร้ายที่เกิดกับคนจำนวนมาก เช่น น้ำท่วม ภัยแล้ง ดินถล่ม ไฟป่า","อุทกภัย":"ภัยจากน้ำท่วม","แก้มลิง":"พื้นที่พักน้ำไว้ชั่วคราวเมื่อน้ำมาก แล้วค่อยระบายออกเมื่อน้ำลด","ผังเมือง":"แผนที่กำหนดว่าที่ดินแต่ละบริเวณใช้ทำอะไรได้ เช่น ที่อยู่อาศัย เกษตร หรือแนวถนนในอนาคต","ที่ราชพัสดุ":"ที่ดินของรัฐที่กรมธนารักษ์ดูแล บางแห่งให้ประชาชนหรือหน่วยงานเช่าได้","ที่สาธารณประโยชน์":"ที่ดินของรัฐที่ประชาชนใช้ร่วมกัน เช่น ทางสาธารณะ หนองน้ำ ที่เลี้ยงสัตว์","โฉนด":"หนังสือแสดงกรรมสิทธิ์ในที่ดินที่กรมที่ดินออกให้","เยียวยา":"การช่วยเหลือหรือชดเชยผู้ที่ได้รับความเดือดร้อนหรือเสียหาย","หนังสือนัดประชุม":"เอกสารทางการที่แจ้งวัน เวลา สถานที่ และระเบียบวาระของการประชุมล่วงหน้า","สรุปผลการประชุม":"เอกสารของสำนักงานเลขาธิการวุฒิสภาที่สรุปว่าการประชุมพิจารณาเรื่องอะไร และมีมติอย่างไร"},"al":{"กมธ.":"คณะกรรมาธิการ","อนุกรรมาธิการ":"คณะอนุกรรมาธิการ","อนุฯ":"คณะอนุกรรมาธิการ","ลงพื้นที่":"ศึกษาดูงาน","เสวนา":"สัมมนา","ร่างพระราชบัญญัติ":"ร่าง พ.ร.บ.","พ.ร.บ. อำนวยความสะดวก":"พ.ร.บ.อำนวยความสะดวก","คณะรัฐมนตรี":"ครม.","องค์กรปกครองส่วนท้องถิ่น":"อปท.","สาธารณภัย":"ภัยพิบัติ"},"n_th":11,"n_intl":8};if(!PP)return;
+const today=()=>new Date(Date.now()+7*3600e3).toISOString().slice(0,10);
+const ahead=m=>m&&!m.cancelled&&m.date>=today();
+const GEN=new Set(PP.generic),SKIP=new Set(PP.skip||[]);
+const nsubj=m=>subj(m).filter(t=>!SKIP.has(t));
+const TH_M=["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."];
+const sd=m=>{const d=new Date(m.date+"T00:00:00Z");return `${d.getUTCDate()} ${TH_M[d.getUTCMonth()]} ${d.getUTCFullYear()+543}`};
+const subj=m=>(m.tags||[]).filter(t=>!GEN.has(t));
+const held=m=>!m.cancelled&&m.date<today();
+// topics for the news step: meeting's own (prep_q, subject tags, water/disaster agenda), else what the committee follows most
+function topics(m){
+ if(m.prep_q&&m.prep_q.length)return {own:1,t:m.prep_q.map((q,i)=>[q,(m.prep_q_en||[])[i]||PP.en[q]||""])};
+ const t=nsubj(m).map(x=>[x,PP.en[x]||""]);
+ (m.items||[]).forEach(x=>{const c=PP.cat[x[2]];if(c&&!t.some(y=>y[0]===c[0]))t.push(c)});
+ if(t.length)return {own:1,t:t.slice(0,3)};
+ const cnt={};live.filter(held).slice(0,40).forEach(x=>nsubj(x).forEach(s=>cnt[s]=(cnt[s]||0)+1));
+ return {own:0,t:Object.entries(cnt).sort((a,b)=>b[1]-a[1]).slice(0,3).map(([s])=>[s,PP.en[s]||""])};
+}
+// earlier meetings worth a look: the previous meeting, then up to 2 sharing a subject
+function related(m){
+ const past=live.filter(x=>held(x)&&x.date<m.date);
+ const out=[];const prev=past[0];
+ if(prev)out.push([prev,(m.items||[]).some(x=>/รับรองบันทึก/.test(x[0]))?"ครั้งก่อนหน้า ที่ประชุมครั้งนี้จะรับรองบันทึกการประชุม":"การประชุมครั้งก่อนหน้า"]);
+ const s=new Set(subj(m));
+ if(s.size)past.filter(x=>x!==prev).map(x=>[x,subj(x).filter(t=>s.has(t))]).filter(x=>x[1].length).slice(0,2)
+  .forEach(([x,c])=>out.push([x,"เรื่องเดียวกัน: "+c.join(" · ")]));
+ return out;
+}
+function words(m){
+ const txt=(m.items||[]).map(x=>x[0]).join(" ")+" "+(m.headline||"");
+ const seen=new Set(),out=[];
+ Object.keys(PP.gl).concat(Object.keys(PP.al)).sort((a,b)=>b.length-a.length).forEach(k=>{
+  const t=PP.gl[k]?k:PP.al[k];if(seen.has(t)||!txt.includes(k))return;seen.add(t);out.push(t)});
+ return out.slice(0,3);
+}
+const ext=(u,label,extra)=>`<a class="btn" href="${esc(u)}" target="_blank" rel="noopener noreferrer"${extra||""}>${label}${icon("ext")}</a>`;
+function newsRows(q,qe){
+ const enc=s=>encodeURIComponent(s);
+ const th=PP.outlets.filter(o=>o.s==="th"&&o.l==="th"),ten=PP.outlets.filter(o=>o.s==="th"&&o.l==="en"),intl=PP.outlets.filter(o=>o.s==="intl");
+ const row=(a,s)=>a.map(o=>ext(o.u.replace("{q}",enc(s)),esc(o.n))).join("");
+ return `<div class="pp-grp"><span>สำนักข่าวในประเทศ · ค้นหา “${esc(q)}”</span><div class="pp-row">${row(th,q)}</div></div>`+
+  (qe?`<div class="pp-grp"><span>สำนักข่าวภาษาอังกฤษในไทยและต่างประเทศ · ค้นหา “${esc(qe)}”</span><div class="pp-row">${row(ten.concat(intl),qe)}</div></div>`:"");
+}
+// latest headlines from the Hot Topic feed (same matcher and block lists as the home page), only for this committee
+let HOT=null;
+const hotOk=d=>d&&d.topics&&d.updated&&(Date.now()-Date.parse(d.updated))<36*3600e3;
+function loadHot(){
+ const get=u=>fetch(u,{cache:"no-cache"}).then(r=>r.ok?r.json():null).catch(()=>null);
+ return get("/hot/hot_all.json").then(d=>hotOk(d)?d:get("/hot/hot.json")).then(d=>{HOT=hotOk(d)?d:{topics:[]};return HOT});
+}
+function mine(){
+ const path=location.pathname;
+ return (HOT&&HOT.topics||[]).filter(t=>[t.body&&t.body.url,t.parent&&t.parent.url].filter(Boolean).some(u=>{const dir=u.replace(/[^/]*$/,"");return dir&&path.indexOf("/"+dir)===0}));
+}
+const TM=["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."];
+const hd=iso=>{const d=new Date(Date.parse(iso)+7*3600e3);return `${d.getUTCDate()} ${TM[d.getUTCMonth()]} ${d.getUTCFullYear()+543}`};
+function headlines(){
+ const ts=mine().slice(0,2);if(!ts.length)return "";
+ return ts.map(t=>`<span class="pp-hlh">ข่าวล่าสุด · ${esc(t.th)}</span><ul class="pp-hl">${(t.items||[]).slice(0,3).map(i=>`<li><a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer"><b>${esc(i.title)}</b><small><span class="src">${esc(i.outlet_th||i.outlet_en)}</span> · ${hd(i.date)} ${icon("ext")}</small></a></li>`).join("")}</ul>`).join("")+
+ `<p class="pp-note" style="margin:0 0 12px">${icon("info")}<span>หัวข่าวคัดโดยอัตโนมัติจากสำนักข่าวหลัก ตามเรื่องที่อยู่ในขอบเขตงานของคณะกรรมาธิการ ไม่ได้หมายความว่าคณะกรรมาธิการหรือสมาชิกท่านใดเกี่ยวข้องกับข่าวนั้น</span></p>`;
+}
+function box(m){
+ const docs=(m.docs||[]).filter(d=>d.k==="notice"||d.k==="agenda"||d.k==="doc");
+ const v=(m.media||{}).video,rel=related(m),gl=words(m),tp=topics(m);
+ const steps=[];
+ if(docs.length)steps.push(`<li><div><h4>${icon("doc")}อ่านเอกสารทางการของการประชุมครั้งนี้</h4><div class="pp-row">${(()=>{const seen={};return docs.map(d=>{const l=(DOC[d.k]||[d.k])[0];seen[l]=(seen[l]||0)+1;return ext(d.url,esc(l+(seen[l]>1?" ฉบับที่ "+seen[l]:"")))}).join("")})()}</div></div></li>`);
+ if(v)steps.push(`<li><div><h4>${icon("video")}ชมวิดีโอสรุปก่อนการประชุม${v.dur?` (${esc(v.dur)} นาที)`:""}</h4><div class="pp-row"><button class="btn" type="button" data-pp-video>${icon("play")}ไปที่วิดีโอด้านบน</button></div></div></li>`);
+ if(rel.length)steps.push(`<li><div><h4>${icon("book")}ทบทวนการประชุมที่เกี่ยวข้องบนเว็บไซต์นี้</h4><ul class="pp-mt">${rel.map(([x,why])=>`<li><a href="#read-${x.n}"><small>${esc(why)} · ครั้งที่ ${x.n} · ${sd(x)}</small><b>${esc(x.headline||"")}</b></a></li>`).join("")}</ul></div></li>`);
+ if(gl.length)steps.push(`<li><div><h4>${icon("info")}คำที่พบในวาระครั้งนี้</h4><dl class="pp-gl">${gl.map(t=>`<div><dt>${esc(t)}</dt><dd>${esc(PP.gl[t])}</dd></div>`).join("")}</dl></div></li>`);
+ if(tp.t.length){const [q,qe]=tp.t[0];
+  steps.push(`<li><div><h4>${icon("news")}ติดตามข่าวจากสำนักข่าวหลักที่เชื่อถือได้</h4>
+  <p class="pp-intro" style="margin:0 0 8px">${tp.own?"เลือกหัวข้อของการประชุมครั้งนี้":"วาระครั้งนี้ยังไม่ระบุหัวข้อเฉพาะ จึงแสดงเรื่องที่คณะกรรมาธิการนี้ติดตามบ่อย"}</p>
+  ${tp.t.length>1?`<div class="pp-chips" role="group" aria-label="หัวข้อข่าว">${tp.t.map(([a,b],i)=>`<button type="button" aria-pressed="${i?"false":"true"}" data-pp-q="${esc(a)}" data-pp-qe="${esc(b)}">${esc(a)}</button>`).join("")}</div>`:""}
+  <div data-pp-hl>${headlines()}</div>
+  <div data-pp-news>${newsRows(q,qe)}</div>
+  ${(m.news||[]).length?`<div class="pp-row" style="margin-top:4px"><button class="btn" type="button" data-pp-newssec>${icon("news")}ข่าวที่คัดมาให้แล้ว (${m.news.length} ข่าว)</button></div>`:""}
+  <p class="pp-note">${icon("info")}<span>ปุ่มข่าวเปิดหน้าค้นหาของสำนักข่าวนั้นในหน้าใหม่ ผลการค้นหาและเนื้อข่าวเป็นของสำนักข่าว ไม่ใช่ความเห็นของคณะกรรมาธิการหรือของเว็บไซต์นี้ รายชื่อสำนักข่าวคัดเฉพาะสื่อหลักที่น่าเชื่อถือทั้งในประเทศและต่างประเทศ</span></p></div></li>`)}
+ if(!steps.length)return "";
+ return `<section class="d-sec pp-sec" id="prep-sec"><h3>${icon("check")}เตรียมตัวก่อนการประชุม</h3>
+ <p class="pp-intro">สำหรับท่านที่สนใจติดตาม ขอเสนอสิ่งที่อ่านประกอบได้ก่อนวันประชุม ใช้เวลาประมาณ 10–15 นาที</p>
+ <ol class="pp-steps">${steps.join("")}</ol></section>`;
+}
+let go=0;
+function markSheet(){
+ const body=$("#sheet .sheet-body");if(!body||body.dataset.pp)return;
+ const mm=location.hash.match(/^#read-(\d+)$/);if(!mm)return;
+ const m=live.find(x=>x.n===+mm[1]);if(!ahead(m))return;
+ const ag=[...body.querySelectorAll(".d-sec")].find(s=>s.querySelector("ol.agenda"));if(!ag)return;
+ body.dataset.pp="1";
+ let after=ag;const nx=ag.nextElementSibling;if(nx&&nx.classList.contains("caution"))after=nx;
+ after.insertAdjacentHTML("afterend",box(m));
+ if(!HOT)loadHot().then(()=>{const h=$("#prep-sec [data-pp-hl]");if(h)h.innerHTML=headlines()});
+ if(go===m.n){go=0;const s=$("#prep-sec");if(s)setTimeout(()=>s.scrollIntoView({block:"start"}),60)}
+}
+function markFeed(){
+ const feed=$("#feed");if(!feed)return;
+ feed.querySelectorAll(".card").forEach(c=>{
+  if(c.dataset.pp)return;const n=+((c.id||"").match(/^m-(\d+)$/)||[])[1];const m=n&&live.find(x=>x.n===n);
+  c.dataset.pp="1";if(!ahead(m))return;
+  c.insertAdjacentHTML("beforeend",`<a class="pp-go" href="#read-${n}" data-pp-go="${n}">${icon("check")}เตรียมตัวก่อนการประชุม</a>`);
+ });
+}
+document.addEventListener("click",e=>{
+ const g=e.target.closest("[data-pp-go]");if(g){go=+g.dataset.ppGo;return}
+ const c=e.target.closest("[data-pp-q]");
+ if(c){const sec=c.closest("#prep-sec");sec.querySelectorAll("[data-pp-q]").forEach(b=>b.setAttribute("aria-pressed",b===c?"true":"false"));
+  sec.querySelector("[data-pp-news]").innerHTML=newsRows(c.dataset.ppQ,c.dataset.ppQe);return}
+ if(e.target.closest("[data-pp-video]")){const f=$("#sheet .d-figure");if(f)f.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion:reduce)").matches?"auto":"smooth",block:"center"});return}
+ if(e.target.closest("[data-pp-newssec]")){const s=$("#news-sec");if(s)s.scrollIntoView({block:"start"})}
+});
+new MutationObserver(markSheet).observe($("#sheet"),{childList:true});
+new MutationObserver(markFeed).observe($("#feed"),{childList:true});
+loadHot();markFeed();markSheet();
+})();
+</script>
+
+<!--PREP_END-->
