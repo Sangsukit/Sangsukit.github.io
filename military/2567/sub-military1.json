@@ -7,28 +7,45 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bAMqrftrt7qEOSzTlM1wiekdwu5immQAnj4DYQLFw2819niZ-ycFNJOb2374YJOpWzic41TfO21yPm3iQqJnRn7DcTW7OfdaENvFafXeWcOOMk8NxTHhSMshZN-kDT1MnURCUGzrCths6oW0tMeZKXokocNVEbSFUCo=&ref=6695737",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=fChbz2Zp8HWKxmOBojeG1d9BRPmA_B3OnNTxJGSLN7GmOANraMVX9vzLID27qxago1qzsWhV7yuKP3kvo49Jp3ccv6ZWyFsXWzNZE4l2b2AvRzk_5bEXF3nI-CfIw9GdDiMm4nVIlRelVeovBIZoxuBQEwDIuk8mbdU=&ref=6695737",
     "size": 138626
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Bi7hIxck9Fd_P_fxxCgKkHi0n5V0yqH117TsTIlS19E4Z9TfsgczQhie9TJUCujAiNQFlI9gycCDkBlNmoFtowFyxB6pUhrJP_U1J7bXlLxYSr0POuOQ9GPnOzH0FEodGTLQ6X2JaIXWCtzYEsjETwiB2twcsQAmeQU=&ref=6750927",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8k3S8wXyz0NZL1XliQ9YKUHNCKMlZVxa8JcFh2Ph15CUAHE-3rpMHdu_x6QpSCh-I6yMF8COyD6v_DC_0Y7L_-zVZMfv45Gg3GJX2smedD8FG2DNoDKuumiYiwoDGO-q0mKe2ELeZ-JQMsRG5B4dTDtwqE7zYsIKL4I=&ref=6750927",
     "size": 317883
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZW83xT58dEPZA_oyQVE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=bXfdYbMfGjguyEPCCfg"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 9/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "headline": "สรุปงานปลายปี และวางแผนไตรมาสแรกของปี 2568",
+  "summary": "ที่ประชุมสรุปผลงานช่วงพฤศจิกายน–ธันวาคม 2567 ซึ่งคณะทำงานแต่ละคณะอยู่ระหว่างจัดทำรายงานและคาดว่าจะเสร็จในเดือนมกราคมถึงกุมภาพันธ์ 2568 และวางแผนไตรมาสแรกของปี 2568 เช่น ประชุมทุกวันพุธ ดูงานที่ชลบุรีและสำนักงานสลากกินแบ่งรัฐบาล และจัดเสวนาเรื่องเทคโนโลยีการวิจัยความมั่นคงร่วมกับสถาบันการศึกษาและโรงเรียนเสนาธิการทหารบก",
+  "items": [
+   [
+    "สรุปผลการดำเนินงานเดือนพฤศจิกายน–ธันวาคม 2567",
+    "รับทราบ",
+    "other"
+   ],
+   [
+    "แผนการดำเนินงานไตรมาสที่ 1 ปี 2568 (ประชุม ดูงาน และเสวนา)",
+    "พิจารณา",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "แผนงาน",
+   "ดูงาน",
+   "เสวนา"
+  ],
+  "places": [
+   "ชลบุรี",
+   "นนทบุรี"
+  ],
   "upcoming": false
  },
  {
@@ -39,28 +56,47 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vnDPSJEdQOSE_znqbuNXltlSXEiJEEDw2eGep2c6ZHHJft58OVCHI3DfYZOdvx7NIBWV0XVbK3VeqnbcXcxDOcc2hBp2n1c3JuLmNc-N6bCpYdm7rvSkcW3kh7_PhemIRF461AonpKAm6863T5MWcjEi6NwhITq8ULc=&ref=6657629",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EzIrgEV5nGnuxUVVPM3D0N1GaUnLboN86cU2eJ_gyGXzO1-q-UhHEtf7VXPT8sp-byz2ODKIQ_gzH33aUpSMd4OBf-U9H8jVp33rfWfnRdcZh1BpxOTMLXhG7twI0Vd0RKw8qE3JOoWcWQk_urJvKjPmtaIoFROuh9o=&ref=6657629",
     "size": 141495
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2hM8xLn2kVwU5WIWGQNk4M_8AA5whu3gdUmTtcqnh92_cBwJ_UFhFAn_LKiERGEFuvorWO6xCfNNPUpca2w7Ulkit6tjAq6U6CjMTYV6fALAnau6Q5uW9zWUX46R22RhbuwAPKi5xKAFQxd41iLF5DYvmjnWWbkkxc4=&ref=6705708",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7DKHcKAA3f73Y7zos3Ys8fL1lTSR7Dbc6dgZ6fzFpRJNUDOR_efoyZ05ppAY3vO7Xvr46TmZrKkqqkvOm010WTyTf5yFVBZb-4sZyfEaB55vvXN3W8Bv9gDpbCv0eUCu50sWl3O5WhyM4lV4Jexzy9ZtI85im7scCfs=&ref=6705708",
     "size": 3112861
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=oC14yxxNwWJK0ALXFms"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=E8kbtc1H55Q6k_dPHXc"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 8/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "headline": "เสนอรายงาน 3 เรื่อง: ทหารกองประจำการ กำลังพลสำรองช่วยภัยพิบัติ และสวัสดิการทหารผ่านศึก",
+  "summary": "ที่ประชุมพิจารณาจัดทำรายงานการศึกษา 3 เรื่องเสนอคณะกรรมาธิการ คือ แนวทางพัฒนาบุคลากรของกองทัพกรณีทหารกองประจำการ กรอบการนำกำลังพลสำรองไปช่วยบรรเทาสาธารณภัย และแนวทางพัฒนาสิทธิและสวัสดิการทหารผ่านศึก ส่งผู้แทนร่วมจัดทำรายงานประจำปีของคณะกรรมาธิการ พิจารณาขอเข้าพบผู้บัญชาการทหารสูงสุดเรื่องการจัดการภัยพิบัติ และเชิญกรมป้องกันและบรรเทาสาธารณภัยกับกรมกำลังพลทหารบกมาให้ข้อมูล",
+  "items": [
+   [
+    "รายงานการศึกษา 3 เรื่องเสนอคณะกรรมาธิการ",
+    "พิจารณาจัดทำ",
+    "other"
+   ],
+   [
+    "แผนการป้องกันและบรรเทาสาธารณภัยแห่งชาติ และการตรวจเลือกทหารกองเกิน",
+    "เชิญหน่วยงานมาให้ข้อมูล",
+    "disaster"
+   ],
+   [
+    "การขอเข้าพบผู้บัญชาการทหารสูงสุดเรื่องการจัดการภัยพิบัติ",
+    "เตรียมเสนอคณะกรรมาธิการ",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "รายงาน",
+   "ภัยพิบัติ",
+   "ทหารผ่านศึก"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -71,28 +107,57 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YqhS5kVk9zb5LSP213gdajEMNS4AIBVrpy-oc3WH5Nbylhe-u0LKINmbfInYNqiS-mocHEWNlry3XFUGpQP0FfKXNSVPj4OWaFdj0aIOdi8mNaIqPT-eE4Zbynvb4MOSeL9e_9rT4zRFwXBbEWpRI7o-6UGB1sTgA3w=&ref=6601567",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VuJAbgAGedB81iAf30A73KtB7Qxo-fQyA9uFe4uutQAAAPYpYicWL8JY2e-IhPVYpCPEAcjAsL1C2PRaG-C4coAGnGpOI-sOUcPQuJlX79NsotLx_j0y4QZWbFVhc-9WvG7EvLfhrLxpfWxBr3a0RarN_OAY1U9qbLw=&ref=6601567",
     "size": 129096
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=58OXnlb3n3ukJzLKMeeEhb6u5HmeoyscFFpPCgoxSQJ0dRaApWzpIrbEvRk3YUFtDP4LlyunqwaaWI265mw0zGUgbq6x31_U4y06xFl2atpEB5HnY7xiFzlerWSd8Tr-l1RJkZ7xW7Xn6HTPK2RklgoMtt4tan4VHcY=&ref=6657205",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mjwegtnfOrHG9StBsoNHcPlHFfdvXgTfHMzHutHVWi7VPH3OyHadx1fSTZyu8L2UP8qZDcT9yyD1t-oong42OdxlnfYvH4r3KJMfPxp-EwO-WjV3LO3DjaUC-pp2iUTCtO3gZmpP_7ulXpW1wtwQgIWzXi9Bp7-phK0=&ref=6657205",
     "size": 462681
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=mwa0bXlPbQPFlYF5DX4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=gsMgjw2Yfr_UniSbiec"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 7/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "headline": "รับฟังสถานการณ์ชายแดนภาคเหนือ และเตรียมดูงาน เสวนา และโครงการบรรพชา",
+  "summary": "ที่ประชุมรับฟังข้อมูลจากผู้ทรงคุณวุฒิเรื่องสถานการณ์ของกองกำลังติดอาวุธตามแนวชายแดนภาคเหนือ และเสนอแนวทางจัดระเบียบชายแดนให้ชัดเจน กำหนดการดูงานภาคตะวันออกในเดือนมกราคม 2568 และการเสวนาเรื่องภัยคุกคามรูปแบบใหม่ พิจารณาโครงการทหารพระราชา บวชพัฒนาท้องถิ่นไทย เทิดไท้องค์ราชัน เพื่อถวายเป็นพระราชกุศลเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว เนื่องในโอกาสมหามงคลเฉลิมพระชนมพรรษา 6 รอบ 28 กรกฎาคม 2567 และพิจารณาผลการศึกษาร่างพระราชบัญญัติจัดระเบียบราชการกระทรวงกลาโหม (ฉบับที่ ..) พ.ศ. .... ที่คณะกรรมาธิการมอบหมาย",
+  "items": [
+   [
+    "สถานการณ์ตามแนวชายแดนภาคเหนือ",
+    "รับฟังข้อมูลและเสนอแนวทาง",
+    "other"
+   ],
+   [
+    "กำหนดการดูงานภาคตะวันออกและการเสวนาเรื่องภัยคุกคามรูปแบบใหม่",
+    "พิจารณา",
+    "visit"
+   ],
+   [
+    "โครงการทหารพระราชา บวชพัฒนาท้องถิ่นไทย เทิดไท้องค์ราชัน",
+    "พิจารณา",
+    "other"
+   ],
+   [
+    "ผลการศึกษาร่างพระราชบัญญัติจัดระเบียบราชการกระทรวงกลาโหม (ฉบับที่ ..) พ.ศ. ....",
+    "พิจารณา",
+    "bill"
+   ]
+  ],
+  "tags": [
+   "ชายแดน",
+   "ดูงาน",
+   "ร่างกฎหมาย"
+  ],
+  "places": [
+   "ฉะเชิงเทรา",
+   "ชลบุรี",
+   "จันทบุรี",
+   "ตราด"
+  ],
   "upcoming": false
  },
  {
@@ -103,28 +168,47 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VBW30KKVI-DdDk9z-O77uAQjO-MEe14lgT7tZr8TyD03qToWLldVX6mer78vB0LFqVV8Ni8Y2Go2h1PIbM3UGAP0WbOrUm8lQAMZkywldMm8nhhyBs9NSZsspSE4RFuMKNGB8x2XWGhOdj29eBMZfPOHcsLG1aEcT9I=&ref=6531771",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Taiaz61Sh-bsp_wXFq-8MtrmPpbrpyS9fdKytzXJuxs_iHoRI7BHUGN-JOp-no2kbMTvh90HJiTt7v6zuMCs08nRk_cKzLaHtUX0Oiq5T332794Kap8iZyJeOXkSO0dzTsYb6K68oCQVBXi-_KLBoulUMC5nKWjwPTE=&ref=6531771",
     "size": 124401
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UxD1P6jwx9AoVdl3LUBLue1n-2MtPNF7Mcnx6V0QAOJRHfsuFuOp4xav9IV6ScuZHzhkD3QO4Em_auDStUZ0Di18oFtxgrGbudaZf36f9GmMqS8d01-nJ8JqpxMl_KL9KnyjLt2P2BLes6aiNDdZNUahqsYdWbQtUHU=&ref=6565149",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yNIjJ1i0ct2W0ppsJFD-X3hvOQQ4gOYaACwUDokBOlYsye_OOPA-AOqhuU8t2oAbHP8tOQt2g1gZITDDBXTCwP9Dk5cvSWLdlGSIG7EG113XdAEEUfOVjppv9cH9cb7OwYBgpLTBYkIOZduIbdVrlshZnc04Hz_CjtY=&ref=6565149",
     "size": 752388
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=sNuB-N1FP6afE3buGGs"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=kbrr694bUcd6RLWFQ_8"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 6/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "ว่าที่พันตรี กรพด รุ่งหิรัญวัฒน์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ติดตามเงินผดุงเกียรติทหารผ่านศึก และการตรวจโรคก่อนตรวจเลือกทหาร",
+  "summary": "ที่ประชุมพิจารณาหนังสือของสมาคมทหารผ่านศึกเรื่องการติดตามเงินผดุงเกียรติ เชิญกรมแพทย์ทหารบกมาให้ข้อมูลการตรวจโรคก่อนการตรวจเลือกทหารกองเกินและหน้าที่ของกรรมการแพทย์ ปรับแผนงานของกลุ่มกำลังพลสำรอง และตั้งคณะทำงานโครงการทหารพระราชา บวชพัฒนาท้องถิ่นไทย เทิดไท้องค์ราชัน",
+  "items": [
+   [
+    "เงินผดุงเกียรติของทหารผ่านศึก",
+    "พิจารณาหนังสือที่ส่งถึงคณะอนุกรรมาธิการ",
+    "complaint"
+   ],
+   [
+    "การตรวจโรคก่อนการตรวจเลือกทหารกองเกิน",
+    "เชิญกรมแพทย์ทหารบกมาให้ข้อมูล",
+    "other"
+   ],
+   [
+    "คณะทำงานโครงการทหารพระราชา บวชพัฒนาท้องถิ่นไทย เทิดไท้องค์ราชัน",
+    "ตั้งคณะทำงาน",
+    "appoint"
+   ]
+  ],
+  "tags": [
+   "ทหารผ่านศึก",
+   "ตรวจเลือกทหาร",
+   "สุขภาพ"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -135,28 +219,46 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=p4FDmh7CdzDqN0CLWMdlOW6bASOR1HFOItfeattI9yNUPomIs8DTXnC3--7Heeo4yUE2CZp93Tyb-I2ye7NgUYIXIEZJuW8pIHs_O7-y8P94HBh4bS1jgyB4wl38aq3FjYP85qTGkDMfZRQRhMRWoc8rjFaSeng-_HE=&ref=6487030",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=-w7BYsrVjXfVsdjYW6B0TjxSvTo-XSjPa_uuDwHTt5t7cfqvS-R2PB-qaqBdCN0_HHfsu3AkOVeW0EheHTS_pSN4-f8mi8y1s78gPlJHA8yRkVXdXP5CwjaW99jgzY83ncNf_vA5Vfj28lUhvIKgFkH8PtwSdMCGTVc=&ref=6487030",
     "size": 135877
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qHvDJJ5Oi70TFr8DUuuLgAByPhkLeTF2yfPp9-TN4nDMTjqfS-_VO0xQ-GG7RLo3D0feWFU8qi5PEESIxzpjgI3lFnHfAwaGP2SFb2MHxRwhEidS0XMzkIzkrWzL3ROrEaz8eC_HD6Mm3-ud_-9Y7uJhy4M-XqdBXkM=&ref=6555137",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nPF0XrISDW7Z_0Qv7wy6YG8peuwEdbJT9-CJIzuNDe3AhFtKodILQfm2Mm8GAyokNckpu2HHq3qzmz3CByKvoa__b0srtcNWjg2wVhN55yFRqXvjHscqYZwulzMjgJN_me8GNabFka364i-bP5M5zTvm0bFXOIpGHaY=&ref=6555137",
     "size": 691697
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=K_M0jEtEFCCMbaaN-iE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hlrdByW4ClOz58Vm3k8"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 5/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "ว่าที่พันตรี กรพด รุ่งหิรัญวัฒน์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ตั้งคณะทำงานเพิ่ม และศึกษากำลังพลสำรองกับการฝึกทหารใหม่",
+  "summary": "ที่ประชุมตั้งคณะทำงานเพิ่มเติม รับทราบการแต่งตั้งที่ปรึกษากิตติมศักดิ์ตามมติคณะกรรมาธิการ พิจารณากิจการกำลังพลสำรองในความรับผิดชอบของหน่วยบัญชาการรักษาดินแดน เชิญกรมยุทธศึกษาทหารบกมาให้ข้อมูลการฝึกทหารใหม่ และปรับแผนงานของคณะทำงาน",
+  "items": [
+   [
+    "การตั้งคณะทำงานและที่ปรึกษากิตติมศักดิ์",
+    "รับทราบ",
+    "appoint"
+   ],
+   [
+    "กิจการกำลังพลสำรองของหน่วยบัญชาการรักษาดินแดน",
+    "พิจารณา",
+    "other"
+   ],
+   [
+    "การฝึกทหารใหม่ของกองทัพบก",
+    "เชิญกรมยุทธศึกษาทหารบกมาให้ข้อมูล",
+    "other"
+   ]
+  ],
+  "tags": [
+   "กำลังพลสำรอง",
+   "ทหารใหม่"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -167,32 +269,46 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Dw2c7UChs_tJ8SwzMZ0KsoGZqUuXNzBwJW9faWI87w_2-ehd5DxtLy4FflGHbZVEIKaxCppNCD_qOreTHVlduyqJy19EheuKn4Tz0uhNLd2jwfRX4PCn27VdkKgarZdboyeBGTtDRoda0eNNuaYUfSsAjqq_K7HR53s=&ref=6431780",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BKkAdBqyzUNX_6_UeMywgjtv_pvHMl_1JQnL7DXt79LTxh9_MXg_ITpvM84Y4a7OzyVGnh5HkK0WmGTb1sHMfy6v7n5UlOWngbYOWGCd0e4CE3mEFYw_5yZHsNI4vphic-ZvTmTArHZ5JJKwbS2adHhpjsUVu9fA5ho=&ref=6431780",
     "size": 141565
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VcFrW8O8HX4o-bVq1bdxa6blK0a5YCMYFVExWyO1GO6-sgUhQqHKBwA6xQhqugW6IQq_oygO9HsWaCCobmCqtf0l8dEMb6IYN4_9hT7Is8oVIYMhMuv9K6WP9CW6atDJCiafmFEJYP7yUlWU40e4vSY7hbVx7wxaF14=&ref=6486962"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=piujsPwuVNlq225BtgFXiDOB2RwEB9rN4BqMXalwByjATcPm9k70Qn6APRpzKkk6dul9JgoC2VaBpUFVBQxMKurP7RZ4iu2t91soFGu8lfxwTnsWTVaEMFOXLtaWy4BWFxUtyB7T4GDxzBDYRIrc_dZZDEqzzAcuPE4=&ref=6486962"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OCaSnP6i_Y1Zs6_8XeJhT7wqpfQ5N2OSCgB2zCgc9s-6WMVAkYY4QUtuSHasRwYv1dtJev94U10lQ7ZuQBvp6d0pum9szHIFLVvOr0hWuhetyri8ZRlg-LAjj-CUxLjWSwby7xDaqUoDzcLfasiTz5WXSYReSOuaN-k=&ref=6496285",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jQ2ziRtOHb67E0SSmVoFxLQ3ir-8vSgazZfH-wD_-S377D1wIwJiQMvEH9OSLfYHYEQrP5Zz_wgoXPJNG5S2LLOCjkwPj7ml_poSGe9ZZynx3C09Sr3XPxgdywqXT10Ce7Qsl1VGReLSvVhiDz_XJxCP3FSjDeUVEXo=&ref=6496285",
     "size": 1137731
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cARH5GeZItG65iu3wMM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QjP8pO7guE74ucbAkg0"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 4/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "ว่าที่พันตรี กรพด รุ่งหิรัญวัฒน์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เสนอจูงใจคนสมัครเป็นทหาร และปรับกฎหมายกำลังพลสำรองเพื่อช่วยภัยพิบัติ",
+  "summary": "ที่ประชุมเชิญหน่วยบัญชาการรักษาดินแดนมาให้ข้อมูลเรื่องการรับสมัครทหารกองเกินเข้ากองประจำการด้วยวิธีร้องขอ (กรณีพิเศษ) ทางออนไลน์ และเสนอให้ประชาสัมพันธ์สิทธิประโยชน์ เช่น สิทธิสอบนักเรียนนายสิบ สวัสดิการ และการศึกษา พร้อมตรวจสุขภาพเชิงลึกเพื่อลดการสูญเสียระหว่างฝึก และเชิญกรมการสรรพกำลังกลาโหมมาให้ข้อมูลพระราชบัญญัติกำลังพลสำรอง พ.ศ. 2558 โดยเสนอปรับกฎหมาย ระเบียบ และสายการบังคับบัญชา เพื่อใช้กำลังพลสำรองป้องกันและบรรเทาสาธารณภัยได้จริง",
+  "items": [
+   [
+    "การรับสมัครทหารกองเกินเข้ากองประจำการด้วยวิธีร้องขอ (กรณีพิเศษ) ทางออนไลน์",
+    "เชิญหน่วยบัญชาการรักษาดินแดนมาให้ข้อมูลและให้ข้อเสนอแนะ",
+    "other"
+   ],
+   [
+    "พระราชบัญญัติกำลังพลสำรอง พ.ศ. 2558 และระเบียบที่เกี่ยวข้อง",
+    "เชิญกรมการสรรพกำลังกลาโหมมาให้ข้อมูล",
+    "law"
+   ]
+  ],
+  "tags": [
+   "รับสมัครทหาร",
+   "กำลังพลสำรอง",
+   "สุขภาพ"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -203,32 +319,51 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iWeu51QiCxoMOYQdsuOwsOZiK9W5_9pyJXr8DEaMUsZz2VDzWDWXVpnWvwcE_C3syMoFiOcjnVGAqw4CNkI08qkRZdyG1NbHApughkA7Z7jA-vGCv1LZBX6gVt-B50RQBEK_8vky2ndHlJfvsnXEY94fsyJ0N7PXdXk=&ref=6392589",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rd2ZuLOxL98eo4WNmpapuqABb8nRABmw9FJq_hY7fhE9gKwYW-c04S3kR6oAkgrWyJtRTUjacIa7NPxi2EZF_ILLJXrdv8ci7tF8ZAbdajYjTgTFnajubekJV9GzhA9Ooh8Aat-YuB5JZLwsXyGItj2B73DWptsBmJ0=&ref=6392589",
     "size": 138355
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=LIf3Z-sWaOvmjtX-K-0zA3IdYsafFmaVS3sX8t8iPipbK2EM7xgHvW3Ozk3cYYLjoNbu1BwAQKJIcy1CgBHXWmFmr7ix7nYI32yUaoVWLsqqsdZ9pS5_lYNrM76rqwC25Bu8UQGAjgAzd1HhGgp4cNzK7nYo9b15ER4=&ref=6422549"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jiRoxJuF_XUx9NAZJKWa7fZfV5hPsQIWUgEGJSZdoQIFoblvKZq3Sel10TmDznDIgMNfGspRbft_h_c3h2QX6KxbFsQTV88PBw9RsHOOBy414WJp8kgUGYzdLRDkq_STe5afMCLJ2MK7C84-0Qso57c3eSXBFM-V6fM=&ref=6422549"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FLbDw-jiogBUONgbsydJ3LGHgS_CgxTj-1lS4afwyDnUE25hhWnIiBocX3d9rrl0th3EQRrafSRh2FxCSPdtjq5YduGVDHCwCnE0IeuOIX-BLNu5jGLvghpRxRFjZHyBqYoL5UlKmoMccTgCBfYgwcBmL3S0CwZPOW4=&ref=6441043",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pcBJsP78dSa7t_yh2JtvE9dsgs1kHQ3w4ZLu0sc_m6vI6O7cdtvumJEZLSw4sQTHvVGPMuiUalIyIVJYzzjE8AtGCropptqdrXEsLNQs45aSbfSi0GtECeDi5SSLf1JsNwCgL6-lFkSZGl37rLHHS9NylYyYTau_QMs=&ref=6441043",
     "size": 787860
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=aB0kpU9jDo_KfLNwMx4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=5Xay1jinkjbhwe5MJIg"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 3/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "ว่าที่พันตรี กรพด รุ่งหิรัญวัฒน์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รับรายงานคณะทำงาน: ทดสอบสมรรถภาพแบบใหม่ ฝึกทหารใหม่ และสิทธิทหารผ่านศึก",
+  "summary": "ที่ประชุมรับรายงานของคณะทำงาน เช่น การทดสอบสมรรถภาพร่างกายรูปแบบใหม่ของกองทัพบก ระเบียบและหลักสูตรการฝึกทหารใหม่ กรอบการนำกำลังพลสำรองไปช่วยบรรเทาสาธารณภัย สิทธิของทหารผ่านศึกในปัจจุบัน และการเตรียมจัดเสวนาเรื่องภัยคุกคามรูปแบบใหม่",
+  "items": [
+   [
+    "รายงานคณะทำงานกลุ่มโครงสร้างกองทัพ: การทดสอบสมรรถภาพและการฝึกทหารใหม่",
+    "รับทราบ",
+    "other"
+   ],
+   [
+    "รายงานคณะทำงานกลุ่มกำลังพลสำรอง: การนำกำลังพลสำรองไปสนับสนุนการบรรเทาสาธารณภัย",
+    "รับทราบ",
+    "disaster"
+   ],
+   [
+    "รายงานคณะทำงานกลุ่มทหารผ่านศึก: สิทธิประโยชน์ของทหารผ่านศึก",
+    "รับทราบ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ทหารใหม่",
+   "กำลังพลสำรอง",
+   "ทหารผ่านศึก"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -239,32 +374,46 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cLIUGc6za2Jj0yglzIqO7YNhayGnn9fzgZw830uTdKetUN5PabFNsJ2JVni-QCEmI7KMV-as3IK3SH8AeEycIjdh6qKd7_GHNjeu4IEv0cFPksUEJ64Zwe84ackT6r5hquX6l2XNXtiTP2Bwy0FTP0PQglTO-Z9bhqA=&ref=6345001",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=C7zAtFnsMgbMB9E-aakNusX9n_be_zOAbWmdv5xN9O1aSnXs500p8NKtUoE5mBQCDpEXXaS39RHLPUDw5GsKAzkole5kfCDCzedOppYjQGQlekqENPqsY_yxB6-ll0zxtvGD3o3-UK9U344YlN4UT_l8t9Uizz3hdbw=&ref=6345001",
     "size": 112293
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nZM8g0KkkDl8yESfBntuqLj4VqByZPaI9HeWE_eVFAf8gKlO7V32B6FZ6MmzFUw2IYMe9dLVpa3qqvvNLuTlpSN89PqWLBSHLtAzOt2bTrFk2gk_b3ROPFTp0EL21hRbpW5gI77a2zhQR5g49EtGHELD9sbwTMRZ9ZM=&ref=6372792"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vkkyXcSHC0jEUp9SlI2WuCPj0thYP-shMW2JU4kwadF6IIrVnkJZoBhXWN9LaLXb6wCzHtAFvgQYNZgkgCOhSHgb-QylM1k_OqcymarcbTRTotX0yTw1mnh6nEs_eDV4Bj_fV4hBKtb-udKOt6QZyBaCnf_DkWHrm4A=&ref=6372792"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kCJeoc3FediEN9OgdN0iPuUK7BpcokLdc2S-fglyQjstEuItgK8hTShx2s7ZDFINhxk1X1stGpmd1-f5nE5VLSl61b_RmurM5dH0YRv9oz4vYwxmSzQanXL5q11WOX1Er42pMpc7E989nTTFR1AbV36CIvvIK0Q58Q8=&ref=6402963",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2ZTYeBzHgffIm9KFkIfUAmE7zOBYevIZYgTACWirmsdpJBVy_6zfWnFfNmeUJbstJn3pfZGSY1tiO5ry2wJ_Hm00m968IfSvQYH0G_d3B1ZGIZkABWq6bwq6rokc7u0RvntIY8oDX21KvutmtvHV2U88wrHYxzFlh4k=&ref=6402963",
     "size": 715010
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Do6Iceauv7oy4re1UXA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7cc-K24vJsnbvUivZqE"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 2/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "headline": "วางงานเร่งด่วน 5 เรื่อง ช่วงตุลาคม 2567 ถึงมีนาคม 2568",
+  "summary": "ที่ประชุมติดตามงานของคณะทำงาน 4 คณะ และกำหนดงานเร่งด่วน 5 เรื่อง คือ ติดตามกรณีพลทหารเสียชีวิตระหว่างการฝึก ศึกษาการรับสมัครทหารกองเกินเข้ากองประจำการด้วยวิธีร้องขอ (กรณีพิเศษ) ทางออนไลน์ จัดทำคู่มือการทดสอบสมรรถภาพร่างกาย ศึกษาการนำกำลังพลสำรองไปสนับสนุนการบรรเทาสาธารณภัย และศึกษาสิทธิประโยชน์ของทหารผ่านศึก รวมทั้งเตรียมประเด็นหารือกับรัฐมนตรีว่าการกระทรวงกลาโหม และพิจารณาการเชื่อมฐานข้อมูลกำลังพลสำรองระหว่างหน่วยงาน",
+  "items": [
+   [
+    "งานเร่งด่วน 5 เรื่องของคณะทำงาน",
+    "กำหนด",
+    "other"
+   ],
+   [
+    "การเชื่อมระบบฐานข้อมูลกำลังพลสำรองแห่งชาติ",
+    "พิจารณา",
+    "other"
+   ]
+  ],
+  "tags": [
+   "กำลังพลสำรอง",
+   "ทหารผ่านศึก",
+   "พลทหาร"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -275,32 +424,46 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rTbqldLDwYHvocbkl1-0A4aRF80_b6DbyTaiIHRDryd6owxPGC3YPLGopY7o9Zp59ZVGiZMT3TEBH5lhuQ0iQE-gVPXHVRuv6l54R0hYURL0lxH-3ThjYcEqrxfBfrNLaoRkevaCJzZ8jgKO8kKXmgkD4m4_isAuEaE=&ref=6314503",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6YZh1k6L6Le2uRW0PHKO_K3vYtC8p4XdTDfoUO-xtXYe2kR3Xvcoho4bdkfH6cruVtkDniPJuhYG3SxJ5xsdxNBusl8H_glaJ_9JPnjc-OdAJGAF7xgFz_R6VYIfnXPmxm0spdfC00fq3oIuvacFy2NUgGJLSthysgg=&ref=6314503",
     "size": 145462
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zsrGD95Wx_34oA4DnJDWW931o_xhmKYX1ECgxCrFSJLVENjJLRsdrm0_VVLoMLg5HBxjv_NSZXUiAbof7FWU7sgAtago9s1GhIfBzM6zpZhlMxBl1k54IT_zv_MwVoBhNvEx8tCisDnAFKNv_5fsYJVV0XUMIrvZ-do=&ref=6332860"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZyK_cMNDsYZq6GuIb6FUQxIaWMvx_34EhZnGn7tR_owUh8aVTlnm9Sj6K3Xo8l-RvFJM_DlAf4FWc0sJ1IVy25w9wJfUiS5NATY978osnPjRGdzeBEN_Xeuu2_aB47RxY6ZUwf76xaAlDAwxXW1XZjXxVD2998gYcq8=&ref=6332860"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PqylrSAMBq2LIDtlQWhrYPWZdZDzEauTfe-kytN4MxZ4ko-DDIL7F-Q5XGPZm44v127zWv6lUgX6X6UNoEz4VickDZQlj12LjviQ6eGxQTCbiImVru82hIp30ssxWbVKWGSmyiKzr_nKPxEcirO7lminHvJlr9xnX-Q=&ref=6402983",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=-MNLhtpbmyo4s4P4TCqdAFDTeieMXezbX4rDLOs2itDewbUAbA-vML8nExc7NrP9ir33I2kzAoYDh1b8MKQ52WzEsnqwT5OPr01N1I2VntKewk9WZ6TFvZzXSnmUvqWVAPVtIje_iftyIwJUBkgXWDtgPRFwdJ9UI10=&ref=6402983",
     "size": 725487
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=srZuH02RrMOUIb7QX9U"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1Y_PV0bB4B_m5pD7c1o"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 1/2567",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "ว่าที่พันตรี กรพด รุ่งหิรัญวัฒน์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ประชุมนัดแรก แบ่งงานเป็นกลุ่มโครงสร้างกองทัพ กำลังพลสำรอง และทหารผ่านศึก",
+  "summary": "ที่ประชุมรับทราบรายชื่อที่ปรึกษาที่จะเสนอขออนุมัติ พิจารณาหน้าที่และภาพรวมการทำงาน และแบ่งงานเป็นกลุ่มงาน ได้แก่ กลุ่มโครงสร้างกองทัพ ซึ่งเร่งศึกษาการรับสมัครทหารกองเกินเข้ากองประจำการด้วยวิธีร้องขอ (กรณีพิเศษ) ทางออนไลน์ และคู่มือการทดสอบสมรรถภาพร่างกายของกำลังพล กลุ่มกำลังพลสำรอง ซึ่งเร่งศึกษาการนำกำลังพลสำรองไปสนับสนุนการบรรเทาสาธารณภัย และกลุ่มทหารผ่านศึก",
+  "items": [
+   [
+    "รายชื่อที่ปรึกษาคณะอนุกรรมาธิการ",
+    "รับทราบเพื่อเสนอขออนุมัติ",
+    "appoint"
+   ],
+   [
+    "การแบ่งกลุ่มงานและงานเร่งด่วน",
+    "เห็นชอบ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ประชุมนัดแรก",
+   "กำลังพลสำรอง",
+   "ทหารผ่านศึก"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  }
 ]
