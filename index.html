@@ -543,6 +543,33 @@ html.sf-on{--sf:1}
 </style>
 <!--/FRICTION-->
 <!--HUB_ALERTS--><style>.hh-alert{display:flex;align-items:center;gap:14px;min-height:56px;margin:14px 0 18px;padding:12px 20px;border-radius:20px;background:var(--acc);color:var(--on-acc);text-decoration:none;max-width:560px}.hh-alert .ico{width:28px;height:28px;flex:none}.hh-alert b{display:block;font-size:1.12rem;line-height:1.35}.hh-alert .t{display:block;font-size:.98rem;line-height:1.45;opacity:.92;text-wrap:pretty}.hh-alert:focus-visible{outline:3px solid var(--gold);outline-offset:3px}@media (hover:hover){.hh-alert{transition:transform .18s cubic-bezier(.34,1.56,.64,1)}.hh-alert:hover{transform:translateY(-2px)}}@media (prefers-reduced-motion:reduce){.hh-alert{transition:none}.hh-alert:hover{transform:none}}</style>
+<!--TAP-->
+<style id="tap-css">
+:root{--tp-in:var(--ease-in,cubic-bezier(.5,0,.75,0));--tp-spring:var(--spring,cubic-bezier(.34,1.4,.64,1));--tp-out:var(--ease-out,cubic-bezier(.16,1,.3,1));--tp-ring:rgba(201,165,90,.9);--tp-hl:rgba(201,165,90,.30)}
+:root[data-theme="dark"]{--tp-ring:#E9C987;--tp-hl:rgba(233,201,135,.28)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--tp-ring:#E9C987;--tp-hl:rgba(233,201,135,.28)}}
+html{-webkit-tap-highlight-color:transparent}
+.tp-on{scale:var(--tp-s,.96);outline:3px solid var(--tp-ring)!important;outline-offset:2px;transition:scale .1s var(--tp-in),outline-color .1s var(--tp-in)!important}
+.tp-off{scale:1;outline:3px solid transparent!important;outline-offset:2px;transition:scale .45s var(--tp-spring),outline-color .3s var(--tp-out)!important}
+.tp-on.tp-inline{scale:none;outline:0!important;background-color:var(--tp-hl)!important;border-radius:4px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.tp-off.tp-inline{scale:none;outline:0!important;transition:background-color .3s var(--tp-out)!important}
+.lvb a.tp-on{scale:none;outline:0!important}
+.lvb a.tp-on .lvb-i{scale:.9;background-color:var(--tp-hl);transition:scale .1s var(--tp-in),background-color .1s var(--tp-in)}
+.lvb a.tp-off{scale:none;outline:0!important}
+.lvb a.tp-off .lvb-i{scale:1;transition:scale .45s var(--tp-spring),background-color .3s var(--tp-out)}
+.tp-here0{outline:3px solid transparent;outline-offset:6px;border-radius:10px;transition:outline-color .6s var(--tp-in)}
+.tp-here0.tp-here{outline-color:var(--tp-ring);transition:outline-color .35s var(--tp-out)}
+html.tp-glide .whereami{opacity:0!important;transition:none!important}
+#tp-load{position:fixed;left:0;top:0;height:4px;width:100%;z-index:2147483000;pointer-events:none;transform-origin:0 50%;transform:scaleX(0);
+ background:linear-gradient(90deg,#C9A55A,#E9C987);box-shadow:0 0 8px rgba(201,165,90,.6);opacity:0}
+#tp-load.go{opacity:1;transform:scaleX(.85);transition:transform 6s var(--tp-out),opacity .2s var(--tp-out)}
+@media (pointer:coarse){button.gl{padding-block:7px}}
+@media (prefers-reduced-motion:reduce){
+ .tp-on,.tp-off,.lvb a.tp-on .lvb-i,.lvb a.tp-off .lvb-i{scale:none;transition:none!important}
+ .tp-here0,.tp-here0.tp-here{transition:none}
+ #tp-load.go{transform:scaleX(.85);transition:none}}
+</style>
+<!--/TAP-->
 </head>
 <body>
 <a class="dk-skip" href="#list">ข้ามไปที่รายชื่อคณะกรรมาธิการ</a>
@@ -2445,6 +2472,127 @@ else setInterval(mark,1500);
 D.addEventListener("click",function(){setTimeout(mark,350)},{passive:true,capture:true}); /* filters/folds change layout */
 H.classList.add("sf-on");
 W.__sfStop=hand;
+})();
+</script>
+<script id="tap-js">
+(function(){"use strict";
+var W=window,D=document,H=D.documentElement;if(W.__tapOn)return;W.__tapOn=1;
+var RM=W.matchMedia?matchMedia("(prefers-reduced-motion: reduce)"):{matches:false};
+var SEL='a[href],button,summary,[role="button"],[role="tab"],[role="link"],label[for],select,input[type="checkbox"],input[type="radio"],input[type="button"],input[type="submit"]';
+/* iOS Safari only runs :active styles when the page listens for touches */
+D.addEventListener("touchstart",function(){},{passive:true});
+
+/* ---------- 1 press feedback ---------- */
+var cur=null,t0=0,showT=0,offT=new WeakMap();
+function tappable(t){var el=t&&t.closest?t.closest(SEL):null;
+ if(!el||el.disabled||el.getAttribute("aria-disabled")==="true"||el.closest("[data-tp-off]"))return null;return el}
+function show(el){if(!el)return;clearTimeout(offT.get(el));el.classList.remove("tp-off");
+ var cs=getComputedStyle(el);if(cs.display==="inline")el.classList.add("tp-inline");
+ else{var r=el.getBoundingClientRect(),m=Math.max(r.width,r.height)||48;el.style.setProperty("--tp-s",Math.min(.99,Math.max(.95,1-8/m)).toFixed(3))}
+ el.classList.add("tp-on");t0=Date.now()}
+function release(el,hold){if(!el)return;var wait=Math.max(0,(hold||140)-(Date.now()-t0));
+ setTimeout(function(){if(cur===el)cur=null;el.classList.remove("tp-on");el.classList.add("tp-off");
+  offT.set(el,setTimeout(function(){el.classList.remove("tp-off","tp-inline")},460))},wait)}
+function cancel(){clearTimeout(showT);if(cur){var el=cur;cur=null;el.classList.remove("tp-on","tp-inline")}}
+D.addEventListener("pointerdown",function(e){if(e.button>0||e.isPrimary===false)return;cancel();var el=tappable(e.target);if(!el)return;cur=el;
+ /* a finger may be starting a scroll: wait 60 ms before showing, so swiping over a button does not flash it */
+ if(e.pointerType==="mouse")show(el);else{clearTimeout(showT);showT=setTimeout(function(){if(cur===el)show(el)},60)}},{passive:true,capture:true});
+D.addEventListener("pointerup",function(){if(!cur)return;var el=cur;
+ if(!el.classList.contains("tp-on")){clearTimeout(showT);show(el)} /* quick tap: still show the press */
+ release(el)},{passive:true,capture:true});
+D.addEventListener("pointercancel",cancel,{passive:true,capture:true});
+D.addEventListener("dragstart",cancel,{passive:true,capture:true});
+D.addEventListener("keydown",function(e){if(e.key!=="Enter"&&e.key!==" ")return;var el=tappable(e.target);if(el&&el===D.activeElement){show(el);cur=el;release(el)}},true);
+
+/* ---------- 2 glide to a part of the same page ---------- */
+var EO=function(){ /* cubic-bezier(.16,1,.3,1) = --ease-out, solved for x */
+ var x1=.16,y1=1,x2=.3,y2=1;function bz(t,a,b){return 3*a*t*(1-t)*(1-t)+3*b*t*t*(1-t)+t*t*t}
+ return function(x){if(x<=0)return 0;if(x>=1)return 1;var lo=0,hi=1,t=x;for(var i=0;i<22;i++){t=(lo+hi)/2;if(bz(t,x1,x2)<x)lo=t;else hi=t}return bz(t,y1,y2)}}();
+function visible(el){if(!el||!el.isConnected)return false;if(el.closest("[hidden],dialog:not([open]),template"))return false;
+ var r=el.getBoundingClientRect();return r.width>0||r.height>0||el.tagName==="DETAILS"}
+function scroller(el){for(var p=el.parentElement;p&&p!==D.body&&p!==H;p=p.parentElement){var s=getComputedStyle(p).overflowY;
+ if((s==="auto"||s==="scroll")&&p.scrollHeight>p.clientHeight+2)return p}return null}
+function topClear(box){ /* height of bars fixed to the top of the screen (or of the scrolling box) */
+ if(box)return 0;var y=0,seen=[];[innerWidth/2,24,innerWidth-24].forEach(function(x){var st=D.elementsFromPoint?D.elementsFromPoint(x,2):[];
+  st.forEach(function(e){for(var p=e;p&&p!==D.body&&p!==H;p=p.parentElement){if(seen.indexOf(p)>=0)break;seen.push(p);
+   var ps=getComputedStyle(p).position;if(ps==="fixed"||ps==="sticky"){var r=p.getBoundingClientRect();if(r.top<=2&&r.height<innerHeight*.4&&!p.matches("#tp-load"))y=Math.max(y,r.bottom)}}})});
+ return y}
+function headOf(t){if(t.matches("h1,h2,h3,h4,summary"))return t;var h=t.querySelector("h1,h2,h3,summary");
+ if(h){var a=t.getBoundingClientRect(),b=h.getBoundingClientRect();if(b.top-a.top<160)return h}return t}
+function ring(el){if(!el)return;el.classList.add("tp-here0");requestAnimationFrame(function(){el.classList.add("tp-here");
+ setTimeout(function(){el.classList.remove("tp-here");setTimeout(function(){el.classList.remove("tp-here0")},650)},1400)})}
+var anim=null,quietT=0;
+function stopAnim(){if(anim){var a=anim;cancelAnimationFrame(a.raf);anim=null;a.stop&&a.stop()}}
+["touchstart","wheel","keydown"].forEach(function(n){addEventListener(n,function(){stopAnim();clearTimeout(quietT);H.classList.remove("tp-glide")},{passive:true,capture:true})});
+var nSIV=Element.prototype.scrollIntoView,nST=W.scrollTo;
+function getY(box){return box?box.scrollTop:(W.scrollY||H.scrollTop)}
+function maxY(box){return box?box.scrollHeight-box.clientHeight:Math.max(H.scrollHeight,D.body.scrollHeight)-innerHeight}
+function setY(box,y){if(box)box.scrollTop=y;else nST.call(W,W.scrollX||0,y)}
+/* glide the page (or a scrolling box) to aim(); aim is asked again every frame */
+function run(box,aim,then){stopAnim();if(W.__sfStop)try{W.__sfStop()}catch(e){}
+ var y0=getY(box),goal=aim(),dist=Math.abs(goal-y0),vh=box?box.clientHeight:innerHeight;
+ if(RM.matches||dist<2){setY(box,goal);then&&then();return}
+ /* very far away: skip most of the way at once, then glide the last stretch, so the page never becomes a blur */
+ if(dist>3*vh){y0=goal-(goal>y0?1:-1)*1.5*vh;setY(box,Math.round(y0));dist=1.5*vh}
+ var dur=Math.min(760,Math.max(340,260+dist*.06)),start=0,a={raf:0},oa=H.style.overflowAnchor;anim=a;
+ H.style.overflowAnchor="none"; /* no browser scroll anchoring while gliding */
+ clearTimeout(quietT);H.classList.add("tp-glide"); /* the "where am I" chip stays away so it never covers the heading we land on */
+ function done(){if(anim===a)anim=null;H.style.overflowAnchor=oa;quietT=setTimeout(function(){H.classList.remove("tp-glide")},2200)}a.stop=done;
+ function step(ts){if(anim!==a)return;if(!start)start=ts;
+  var p=Math.min(1,(ts-start)/dur),y=y0+(aim()-y0)*EO(p);setY(box,Math.round(y));
+  if(p<1)a.raf=requestAnimationFrame(step);else{done();then&&then()}}
+ a.raf=requestAnimationFrame(step)}
+function glide(t,then){var box=scroller(t);
+ run(box,function(){var r=headOf(t).getBoundingClientRect(),base=box?box.getBoundingClientRect().top:0;
+  return Math.max(0,Math.min(maxY(box),getY(box)+r.top-base-topClear(box)-14))},then)}
+/* the page's own smooth scrolls (meeting cards, back to top, bottom bar, topic tags) use the same glide and landing */
+var clickTick=0,barTick=0;
+D.addEventListener("click",function(e){clickTick=1;barTick=!!(e.target.closest&&e.target.closest(".lvb"));setTimeout(function(){clickTick=barTick=0},0)},true);
+function mine(el,o){if(RM.matches||!el.isConnected||scroller(el)||el.closest("dialog[open],[role=dialog]"))return false;
+ if(o&&typeof o==="object"){if(o.block&&o.block!=="start")return false;return o.behavior==="smooth"||(clickTick&&o.behavior!=="instant")}
+ return clickTick&&o!==false}
+Element.prototype.scrollIntoView=function(o){try{if(mine(this,o)){glide(this);return}}catch(e){}return nSIV.apply(this,arguments)};
+var BAR=["#hh-latest","#hh-videos","#hh-all","#st-up","#feed","#controls"];
+W.scrollTo=function(o){try{if(o&&typeof o==="object"&&o.behavior==="smooth"&&typeof o.top==="number"&&!RM.matches){
+  var y=o.top,el=null;
+  if(barTick){ /* bottom-bar tabs aim below the tall phone header; land the section right at the top instead */
+   var th=((D.querySelector(".top")||{}).offsetHeight)||0;
+   BAR.forEach(function(s){var e=D.querySelector(s);if(!el&&e&&Math.abs(e.getBoundingClientRect().top+getY()-th-10-y)<6)el=e})}
+  if(el)glide(el,function(){ring(headOf(el))});else run(null,function(){return Math.max(0,Math.min(maxY(),y))});return}}catch(e){}
+ return nST.apply(W,arguments)};
+function openWay(t){ /* open closed <details> and "find-in-page" folds that hide the target */
+ var f=t.closest('[hidden="until-found"]');if(f){try{t.dispatchEvent(new Event("beforematch",{bubbles:true}))}catch(e){}if(f.getAttribute("hidden")==="until-found")f.removeAttribute("hidden")}
+ for(var p=t;p&&p!==D.body;p=p.parentElement){if(p.tagName==="DETAILS"&&!p.open)p.open=true}}
+function watch(fn){ /* run fn and tell whether the page's own code scrolled meanwhile */
+ var hit=false,E=Element.prototype,o1=E.scrollIntoView,o2=W.scrollTo,o3=W.scrollBy;
+ E.scrollIntoView=function(){hit=true;return o1.apply(this,arguments)};W.scrollTo=function(){hit=true;return o2.apply(W,arguments)};W.scrollBy=function(){hit=true;return o3.apply(W,arguments)};
+ try{fn()}catch(e){}finally{E.scrollIntoView=o1;W.scrollTo=o2;W.scrollBy=o3}return hit}
+function go(t,hash,push){var old=location.href;
+ if(push&&location.hash!==hash){try{history.pushState(null,"",hash)}catch(e){}}
+ /* let the page's own hash code run (it unfolds sections); if it scrolls or opens a sheet itself, leave it to it */
+ var other=push&&watch(function(){var ev;try{ev=new HashChangeEvent("hashchange",{oldURL:old,newURL:location.href})}catch(e){ev=D.createEvent("Event");ev.initEvent("hashchange",false,false)}
+  if(old!==location.href)W.dispatchEvent(ev)});
+ if(other||D.querySelector("dialog[open]")&&!t.closest("dialog[open]"))return;
+ openWay(t);
+ requestAnimationFrame(function(){if(!visible(t))return;glide(t,function(){var h=headOf(t);ring(h);
+  if(!t.matches("a,button,input,select,textarea,summary,[tabindex]"))t.setAttribute("tabindex","-1");try{t.focus({preventScroll:true})}catch(e){}})})}
+D.addEventListener("click",function(e){if(e.defaultPrevented||e.button>0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+ var a=e.target.closest&&e.target.closest("a[href]");if(!a||a.closest("[data-tp-off]"))return;
+ var href=a.getAttribute("href");
+ if(href&&href.charAt(0)==="#"&&href.length>1){var t=null;try{t=D.getElementById(decodeURIComponent(href.slice(1)))}catch(x){}
+  /* no such element, or a sheet / video room: a route the page handles itself */
+  if(!t||t.matches("dialog,[role=dialog]")||t.closest("dialog:not([open]),template"))return;
+  var hid=t.closest("[hidden]");if(hid&&hid.getAttribute("hidden")!=="until-found")return;
+  /* inside an open sheet: glide inside it, leave the address alone (the page closes sheets on unknown addresses) */
+  var inSheet=!!a.closest("dialog[open],[role=dialog]");
+  e.preventDefault();go(t,href,!inSheet);return}
+ /* 3 another page on this site in this tab: loading line */
+ if(a.target&&a.target!=="_self"||a.hasAttribute("download"))return;var u;try{u=new URL(a.href,location.href)}catch(x){return}
+ if(u.origin!==location.origin||(u.pathname===location.pathname&&u.search===location.search))return;
+ setTimeout(function(){if(e.defaultPrevented)return;var l=D.getElementById("tp-load");if(!l){l=D.createElement("div");l.id="tp-load";l.setAttribute("aria-hidden","true");D.body.appendChild(l)}
+  l.classList.remove("go");void l.offsetWidth;l.classList.add("go");setTimeout(function(){l.classList.remove("go")},9000)},0)},false);
+addEventListener("pageshow",function(){var l=D.getElementById("tp-load");if(l)l.classList.remove("go")});
+W.__tapGlide=function(el){if(el)go(el,location.hash,false)};
 })();
 </script>
 </body>
