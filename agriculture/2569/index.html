@@ -2525,6 +2525,321 @@ $("#detail").addEventListener("close",()=>{const b=$("#sheet .sheet-body");if(b&
 dgRoute();
 })();
 </script>
+<!-- CHARTS LAYER (11 Nov 2569): trend charts on page #trends. Injected by build.py / yearsite.py only when CHARTS=1.
+     Wording in charts.py. Bars are HTML (not pictures), so numbers grow with the text-size buttons, work in light and
+     dark mode, and every chart has a table view. Counted in the browser from the page's own meeting data. -->
+<style>
+.ch-sec p{overflow-wrap:anywhere}
+.ch-lede{margin:0 0 14px;line-height:1.6;font-size:1.05rem}
+.ch-lede b{color:var(--teal)}
+/* 1. columns per month */
+.ch-cols{display:grid;grid-template-columns:repeat(var(--n),minmax(0,1fr));gap:4px;align-items:end;height:200px;padding:0 2px;border-bottom:2px solid var(--line);margin-top:8px}
+.ch-col{display:grid;grid-template-rows:auto 1fr;justify-items:center;align-items:end;height:100%;min-width:0;border:0;background:none;padding:0;cursor:pointer;font:inherit;color:var(--ink);border-radius:8px 8px 0 0}
+.ch-col:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.ch-col .v{font-weight:700;font-size:1.05rem;line-height:1.2;margin-bottom:4px}
+.ch-col .bk{display:flex;flex-direction:column;justify-content:flex-end;width:min(76%,40px);height:100%}
+.ch-col i{display:block;width:100%;border-radius:4px 4px 0 0;background:var(--teal);transform-origin:bottom;transform:scaleY(0);transition:transform .7s var(--ease-out,cubic-bezier(.22,1,.36,1))}
+.ch-col i.up{background:transparent;border:2px dashed var(--gold-deco);border-bottom:0;margin-bottom:2px}
+.ch-col i.up+i{border-radius:0}
+.ch-x{display:grid;grid-template-columns:repeat(var(--n),minmax(0,1fr));gap:4px;padding:6px 2px 0;text-align:center;font-size:.9rem;color:var(--muted)}
+.ch-x span{min-width:0;overflow:hidden}
+.ch-key{display:flex;flex-wrap:wrap;gap:6px 16px;margin:10px 0 0;font-size:.95rem;color:var(--ink)}
+.ch-key span{display:inline-flex;align-items:center;gap:6px}
+.ch-key i{width:16px;height:16px;border-radius:3px;background:var(--teal);display:inline-block}
+.ch-key i.up{background:none;border:2px dashed var(--gold-deco)}
+/* 2. small multiples: one row per kind of item */
+.ch-sm{list-style:none;margin:0;padding:0;display:grid;gap:14px}
+.ch-row{border:1.5px solid var(--line);border-radius:14px;padding:10px 12px 8px;background:var(--paper)}
+.ch-row h4{margin:0 0 6px;display:flex;align-items:center;gap:8px;font-size:1.02rem;line-height:1.4}
+.ch-row h4 .ico{color:var(--tc,var(--teal));width:22px;height:22px;flex:none}
+.ch-row h4 .t{margin-left:auto;font-weight:700;white-space:nowrap}
+.ch-mini{display:grid;grid-template-columns:repeat(var(--n),minmax(0,1fr));gap:4px;align-items:end;height:64px;border-bottom:1.5px solid var(--line)}
+.ch-mini span{display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%;min-width:0;font-size:.85rem;font-weight:700;line-height:1.1}
+.ch-mini i{display:block;width:min(70%,30px);border-radius:3px 3px 0 0;background:var(--tc,var(--teal));margin-top:2px;transform-origin:bottom;transform:scaleY(0);transition:transform .7s var(--ease-out,cubic-bezier(.22,1,.36,1))}
+.ch-row .ch-x{font-size:.8rem;padding-top:4px}
+/* 3 and 4. horizontal bars */
+.ch-hb{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.ch-hb button,.ch-hb .rw{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;width:100%;min-height:52px;align-items:center;text-align:left;border:1.5px solid var(--line);background:var(--paper);color:var(--ink);border-radius:12px;padding:8px 12px;font:inherit;line-height:1.4}
+.ch-hb button{cursor:pointer}
+.ch-hb button:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.ch-hb .lb{display:flex;align-items:center;gap:8px;min-width:0;font-weight:600}
+.ch-hb .lb .ico{flex:none;color:var(--c-complaint,var(--teal))}
+.ch-hb .n{font-weight:700;white-space:nowrap}
+.ch-hb .tr{grid-column:1/-1;height:12px;border-radius:99px;background:var(--line);overflow:hidden}
+.ch-hb .tr i{display:block;height:100%;border-radius:99px;background:var(--hc,var(--teal));transform-origin:left;transform:scaleX(0);transition:transform .7s var(--ease-out,cubic-bezier(.22,1,.36,1))}
+.ch-on .ch-col i,.ch-on .ch-mini i{transform:scaleY(1)}
+.ch-on .ch-hb .tr i{transform:scaleX(1)}
+@media (prefers-reduced-motion:reduce){.ch-col i,.ch-mini i,.ch-hb .tr i{transition:none}}
+/* table view */
+.ch-tbl{margin-top:12px}
+.ch-tbl summary{display:inline-flex;align-items:center;gap:8px;min-height:48px;cursor:pointer;font-weight:700;color:var(--teal)}
+.ch-tbl table{border-collapse:collapse;width:100%;margin-top:6px;font-size:.95rem}
+.ch-tbl th,.ch-tbl td{border:1px solid var(--line);padding:6px 8px;text-align:left}
+.ch-tbl td.r,.ch-tbl th.r{text-align:right}
+.ch-tw{overflow-x:auto}
+.ch-note{display:flex;gap:8px;align-items:flex-start;margin:12px 0 0;color:var(--muted);line-height:1.6;font-size:.95rem}
+.ch-note .ico{margin-top:4px;color:var(--gold);flex:none}
+.ch-ovbtn{margin-top:12px}
+@media (max-width:600px){a.dg-help[href="#trends"] small{display:none}}
+/* key numbers */
+.ch-tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:4px 0 6px}
+@media (min-width:700px){.ch-tiles{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.ch-tile{border:1.5px solid var(--line);border-radius:14px;padding:12px 14px;background:var(--paper);display:grid;gap:2px;min-width:0}
+.ch-tile .ico{width:26px;height:26px;color:var(--gold)}
+.ch-tile b{font-size:2.1rem;line-height:1.15;color:var(--teal);font-variant-numeric:tabular-nums}
+.ch-tile span{color:var(--ink);line-height:1.4;font-size:.98rem}
+/* plain takeaway under a chart */
+.ch-take{display:flex;gap:10px;align-items:flex-start;margin:12px 0 0;padding:10px 12px;border-radius:12px;background:var(--gold-soft);border:1px solid var(--gold-deco);line-height:1.6}
+.ch-take .ico{flex:none;margin-top:3px;color:var(--gold)}
+.ch-hint{display:flex;gap:10px;align-items:flex-start;margin:12px 0 0;padding:10px 12px;border-radius:12px;border:1.5px dashed var(--line);line-height:1.6;color:var(--ink)}
+.ch-hint .ico{flex:none;margin-top:3px;color:var(--teal)}
+.ch-hint b{display:block;color:var(--teal)}
+.ch-take>span{min-width:0}.ch-take b{color:var(--teal)}
+/* topic heat map: rows = topics, columns = months; one hue, darker = more */
+.ch-hm{display:grid;gap:6px}
+.ch-hr{display:grid;gap:4px;width:100%;border:1.5px solid var(--line);background:var(--paper);color:var(--ink);border-radius:12px;padding:8px 10px;font:inherit;text-align:left;cursor:pointer}
+.ch-hr:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.ch-hr .hl{display:flex;justify-content:space-between;gap:8px;font-weight:700;line-height:1.4}
+.ch-hr .hl small{font-weight:600;color:var(--muted);font-size:.92rem;white-space:nowrap}
+.ch-cells{display:grid;grid-template-columns:repeat(var(--n),minmax(0,1fr));gap:3px}
+.ch-cells i{display:grid;place-items:center;height:30px;border-radius:5px;font-style:normal;font-weight:700;font-size:.9rem;background:var(--line);color:var(--muted)}
+.ch-cells i.l1{background:color-mix(in srgb,var(--teal) 28%,var(--paper));color:var(--ink)}
+.ch-cells i.l2{background:color-mix(in srgb,var(--teal) 55%,var(--paper));color:var(--ink)}
+.ch-cells i.l3{background:var(--teal);color:var(--on-teal,#fff)}
+.ch-hm .ch-x{font-size:.8rem;padding:0 10px}
+/* compare with earlier years */
+.ch-yr{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.ch-yr .rw{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;align-items:center;border:1.5px solid var(--line);border-radius:12px;padding:8px 12px;background:var(--paper)}
+.ch-yr .lb{font-weight:700}
+.ch-yr .lb small{display:block;font-weight:400;color:var(--muted);font-size:.9rem}
+.ch-yr .n{font-weight:700;white-space:nowrap}
+.ch-yr .tr{grid-column:1/-1;height:12px;border-radius:99px;background:var(--line);overflow:hidden}
+.ch-yr .tr i{display:block;height:100%;border-radius:99px;background:var(--teal);transform-origin:left;transform:scaleX(0);transition:transform .7s var(--ease-out,cubic-bezier(.22,1,.36,1))}
+.ch-yr .cur .tr i{background:var(--gold)}
+.ch-on .ch-yr .tr i{transform:scaleX(1)}
+.ch-yh{margin:14px 0 6px;font-size:1.02rem}
+.ch-yr-wait{color:var(--muted)}
+/* one meeting: what this meeting covered */
+.ch-mix{display:flex;gap:2px;height:18px;border-radius:99px;overflow:hidden;margin:6px 0 10px}
+.ch-mix i{display:block;height:100%;background:var(--tc,var(--teal))}
+.ch-mixl{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.ch-mixl li{display:flex;align-items:center;gap:10px;line-height:1.4}
+.ch-mixl .sw{width:16px;height:16px;border-radius:4px;background:var(--tc,var(--teal));flex:none}
+.ch-mixl .ico{color:var(--tc,var(--teal));flex:none}
+.ch-mixl b{margin-left:auto;white-space:nowrap}
+@media (prefers-reduced-motion:reduce){.ch-yr .tr i{transition:none}}
+
+</style>
+<script>
+(()=>{
+if(typeof live==="undefined"||typeof DATA==="undefined")return;
+const CH={"text": {"title": "กราฟภาพรวมทั้งปี", "intro": "กราฟอย่างง่ายช่วยให้เห็นแนวโน้มของงานคณะกรรมาธิการตลอดปี นับจากสรุปผลการประชุมที่เผยแพร่แล้วเท่านั้น โปรดแตะแท่งกราฟเพื่อดูการประชุมที่เกี่ยวข้อง", "hint_label": "ควรรู้ก่อนอ่านกราฟนี้", "hints": {"tiles": "ตัวเลขเหล่านี้นับจากเอกสารที่เผยแพร่แล้วเพื่อช่วยให้เห็นภาพรวม ไม่ได้ใช้วัดผลการทำงานของบุคคลหรือของคณะกรรมาธิการ", "ch-mo": "จำนวนครั้งที่ประชุมขึ้นอยู่กับหลายปัจจัย เช่น ช่วงปิดสมัยประชุม วันหยุด หรือการลงพื้นที่ จึงไม่ได้บอกว่าเดือนใดทำงานมากหรือน้อยกว่ากัน", "ch-kind": "เรื่องหนึ่งอาจใช้เวลาหลายครั้งการประชุม จำนวนเรื่องจึงไม่ได้บอกความสำคัญหรือความยากง่ายของเรื่อง ประเภทของเรื่องเป็นการจัดกลุ่มของเว็บไซต์นี้เพื่อให้อ่านง่าย", "ch-heat": "ประเด็นที่ปรากฏบ่อยหมายถึงที่ประชุมพิจารณาเรื่องนั้นบ่อย ไม่ได้หมายความว่าปัญหานั้นรุนแรงกว่าประเด็นอื่น ชื่อประเด็นเป็นการจัดกลุ่มของเว็บไซต์นี้", "ch-pl": "จังหวัดที่ปรากฏบ่อยหมายถึงมีเรื่องที่เกี่ยวข้องกับจังหวัดนั้นในวาระ เช่น เรื่องร้องเรียน การลงพื้นที่ หรือการสัมมนา ไม่ได้บอกว่าจังหวัดนั้นมีปัญหามากกว่าจังหวัดอื่น หรือหน่วยงานในจังหวัดนั้นปฏิบัติงานไม่ดี", "ch-cmp": "เรื่องร้องเรียนเป็นข้อกล่าวอ้างของผู้ร้อง ยังไม่ใช่ข้อยุติ จำนวนเรื่องไม่ได้บอกว่าผู้ใดหรือหน่วยงานใดถูกหรือผิด แนวทางนับจากถ้อยคำของมติในสรุปผลการประชุม และเรื่องหนึ่งอาจมีหลายขั้นตอน", "ch-yr": "แต่ละปีมีจำนวนเดือน วาระงาน และสถานการณ์ไม่เท่ากัน จึงไม่ควรใช้กราฟนี้เทียบผลงานระหว่างปี หรือระหว่างประธานในแต่ละช่วง", "mix": "ประเภทของเรื่องเป็นการจัดกลุ่มของเว็บไซต์นี้เพื่อให้อ่านง่าย ไม่ได้บอกความสำคัญของแต่ละเรื่อง"}, "source": "กราฟนี้นับจากสรุปผลการประชุมและหนังสือนัดประชุมที่เผยแพร่ทางระบบของรัฐสภา เพื่อช่วยให้เห็นภาพรวมเท่านั้น จำนวนอาจต่างจากรายงานทางการของวุฒิสภา หากพบข้อผิดพลาด โปรดแจ้งผ่านช่องทางติดต่อท้ายหน้า"}, "cmp": [["ask", "doc", "ประสานหน่วยงานที่เกี่ยวข้อง"], ["invite", "person", "เชิญมาให้ข้อมูล"], ["sub", "sub", "มอบคณะอนุกรรมาธิการ"], ["refer", "share", "ส่งคณะกรรมาธิการที่ดูแลโดยตรง"], ["close", "check", "แจ้งผู้ร้อง หรือยุติเรื่อง"]]};
+const T=CH.text;
+const rm=()=>matchMedia("(prefers-reduced-motion: reduce)").matches;
+const held=live.filter(m=>!m.upcoming);
+if(held.length<2)return;   /* too little to show a trend */
+const yr=be(held[0]);
+const mon=m=>dt(m).getUTCMonth();
+/* months shown: first to last month with a meeting (held or booked), at least 3 */
+const allM=live.map(mon);let m0=Math.min(...allM),m1=Math.max(...allM);
+while(m1-m0<2){if(m0>0)m0--;else m1++}
+const MS=[];for(let i=m0;i<=m1;i++)MS.push(i);
+const xAxis=()=>`<div class="ch-x" style="--n:${MS.length}" aria-hidden="true">${MS.map(i=>`<span>${MOS[i]}</span>`).join("")}</div>`;
+const table=(cap,head,rows)=>`<details class="ch-tbl"><summary>${icon("doc")}ดูเป็นตาราง</summary><div class="ch-tw"><table><caption class="sr">${esc(cap)}</caption><thead><tr>${head.map((h,i)=>`<th${i?' class="r"':""} scope="col">${esc(h)}</th>`).join("")}</tr></thead><tbody>${rows.map(r=>`<tr>${r.map((c,i)=>i?`<td class="r">${c}</td>`:`<th scope="row">${esc(c)}</th>`).join("")}</tr>`).join("")}</tbody></table></div></details>`;
+
+/* 1. meetings per month */
+function monthsHTML(){
+ const h=MS.map(i=>held.filter(m=>mon(m)===i).length),u=MS.map(i=>live.filter(m=>m.upcoming&&mon(m)===i).length);
+ const mx=Math.max(1,...h.map((v,k)=>v+u[k])),up=u.reduce((a,b)=>a+b,0);
+ const cols=MS.map((i,k)=>{
+  return `<button class="ch-col" type="button" data-chmo="${i}"><span class="sr">${MOS[i]}</span><span class="v">${h[k]+u[k]||""}</span><span class="sr">ครั้ง</span><span class="bk">${u[k]?`<i class="up" style="height:${u[k]/mx*100}%"></i>`:""}${h[k]?`<i style="height:${h[k]/mx*100}%"></i>`:""}</span></button>`}).join("");
+ return `<p class="ch-lede">ปี ${yr} ประชุมแล้ว <b>${held.length} ครั้ง</b>${up?` และนัดประชุมไว้อีก <b>${up} ครั้ง</b>`:""}</p>
+ <div class="ch-cols" style="--n:${MS.length}" role="group" aria-label="จำนวนการประชุมในแต่ละเดือน แตะเพื่อดูการประชุมของเดือนนั้น">${cols}</div>${xAxis()}
+ <div class="ch-key"><span><i></i>ประชุมแล้ว</span>${up?`<span><i class="up"></i>นัดประชุม</span>`:""}</div>
+ ${(()=>{const b=Math.max(...h),bm=MS.filter((i,k)=>h[k]===b).map(i=>MOS[i]),nm=MS.filter(i=>i<=lastHeldMon).length;
+  return take(`<span>เดือนที่มีการประชุมมากที่สุด (${b} ครั้ง)</span> <b>${bm.map(x=>`<span>${x}</span>`).join(", ")}</b><br><span>โดยเฉลี่ยประชุมเดือนละประมาณ ${(held.length/nm).toFixed(1)} ครั้ง</span>`)})()}
+ ${table("จำนวนการประชุมในแต่ละเดือน",["เดือน","ประชุมแล้ว","นัดประชุม"],MS.map((i,k)=>[MOS[i],h[k],u[k]]))}`;
+}
+
+/* 2. agenda items per month, one small chart per kind of item */
+function kindsHTML(){
+ const c={};held.forEach(m=>(m.items||[]).forEach(x=>{const k=x[2];if(!k||!CAT[k])return;(c[k]=c[k]||MS.map(()=>0))[MS.indexOf(mon(m))]++}));
+ const ks=Object.keys(c).filter(k=>k!=="other").sort((a,b)=>c[b].reduce((s,v)=>s+v,0)-c[a].reduce((s,v)=>s+v,0)).slice(0,6);
+ if(!ks.length)return "";
+ const mx=Math.max(1,...ks.flatMap(k=>c[k])),tot=ks.reduce((s,k)=>s+c[k].reduce((a,b)=>a+b,0),0);
+ const row=k=>{const v=c[k],t=v.reduce((a,b)=>a+b,0);
+  return `<li class="ch-row" data-c="${k}"><h4>${icon(k)}<span>${esc(CAT[k])}</span><span class="t">${t} เรื่อง</span></h4>
+  <div class="ch-mini" style="--n:${MS.length}" aria-hidden="true">${v.map(n=>`<span>${n||""}${n?`<i style="height:${n/mx*44}px"></i>`:""}</span>`).join("")}</div>${xAxis()}</li>`};
+ return `<p class="ch-lede">ตลอดปี ที่ประชุมพิจารณาเรื่องต่าง ๆ รวม <b>${tot} เรื่อง</b> กราฟเล็กแต่ละภาพใช้มาตราส่วนเดียวกัน จึงเทียบกันได้ตรง ๆ</p>
+ <ul class="ch-sm">${ks.map(row).join("")}</ul>
+ ${take(`<span>ประเภทที่มีจำนวนเรื่องมากที่สุด</span> <b>${esc(CAT[ks[0]])}</b> <span>(${c[ks[0]].reduce((a,b)=>a+b,0)} เรื่อง)</span>`)}
+ ${table("จำนวนเรื่องในแต่ละเดือน แยกตามประเภท",["ประเภท",...MS.map(i=>MOS[i]),"รวม"],ks.map(k=>[CAT[k],...c[k],c[k].reduce((a,b)=>a+b,0)]))}`;
+}
+
+/* 3. provinces in the agendas */
+function placesHTML(){
+ const c={};held.forEach(m=>new Set(m.places||[]).forEach(p=>c[p]=(c[p]||0)+1));
+ const top=Object.entries(c).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],"th")).slice(0,10);
+ if(top.length<2)return "";
+ const mx=top[0][1];
+ return `<p class="ch-lede">มีจังหวัดที่ปรากฏในวาระการประชุมทั้งหมด <b>${Object.keys(c).length} จังหวัด</b> ต่อไปนี้คือจังหวัดที่ปรากฏบ่อย นับเป็นจำนวนครั้งที่ประชุม แตะชื่อจังหวัดเพื่อดูการประชุมที่เกี่ยวข้อง</p>
+ <ul class="ch-hb">${top.map(([p,n])=>`<li><button type="button" data-chq="${esc(p)}"><span class="lb">${icon("pin")}${esc(p)}</span><span class="n">${n} ครั้ง</span><span class="tr"><i style="width:${n/mx*100}%"></i></span></button></li>`).join("")}</ul>
+ ${table("จังหวัดที่ปรากฏบ่อยในวาระการประชุม",["จังหวัด","จำนวนครั้งที่ประชุม"],top)}`;
+}
+
+/* 4. how complaint items were handled (same buckets as the #how diagram) */
+const BUCKET=[["sub",/มอบ.*อนุ/],["invite",/เชิญ/],["refer",/ส่ง.{0,12}(กมธ|คณะกรรมาธิการ)/],["ask",/มีหนังสือ|ขอข้อมูล|ขอข้อเท็จจริง|ตรวจสอบ|เร่งรัด|สอบถาม/],["close",/ยุติ(?!ธรรม)|แจ้ง.{0,20}ผู้ร้อง/]];
+const bucket=t=>{for(const b of BUCKET)if(b[1].test(String(t)))return b[0];return null};
+function cmpHTML(){
+ const its=held.flatMap(m=>(m.items||[]).filter(x=>x[2]==="complaint"));if(its.length<2)return "";
+ const c={};its.forEach(x=>{const k=bucket(x[1]);if(k)c[k]=(c[k]||0)+1});
+ const rows=CH.cmp.filter(p=>c[p[0]]);if(!rows.length)return "";
+ const mx=Math.max(...rows.map(p=>c[p[0]]));
+ return `<p class="ch-lede">ตลอดปี มีเรื่องร้องเรียนในวาระ <b>${its.length} เรื่อง</b> ที่ประชุมมีมติตามแนวทางต่อไปนี้</p>
+ <ul class="ch-hb" style="--hc:var(--c-complaint,var(--teal))">${rows.map(p=>`<li><span class="rw"><span class="lb">${icon(p[1])}${esc(p[2])}</span><span class="n">${c[p[0]]} เรื่อง</span><span class="tr"><i style="width:${c[p[0]]/mx*100}%"></i></span></span></li>`).join("")}</ul>
+ ${table("แนวทางที่ที่ประชุมมีมติต่อเรื่องร้องเรียน",["แนวทาง","จำนวนเรื่อง"],rows.map(p=>[p[2],c[p[0]]]))}`;
+}
+
+
+const hint=k=>T.hints&&T.hints[k]?`<p class="ch-hint">${icon("info")}<span><b>${esc(T.hint_label)}</b>${esc(T.hints[k])}</span></p>`:"";
+const take=t=>`<p class="ch-take">${icon("star")}<span>${t}</span></p>`;
+const sum=a=>a.reduce((x,y)=>x+y,0);
+const lastHeldMon=Math.max(...held.map(mon));
+
+/* key numbers at the top (count up on open; nothing moves with Reduce Motion) */
+function tilesHTML(){
+ const items=held.reduce((n,m)=>n+(m.items||[]).length,0),prov=new Set(held.flatMap(m=>m.places||[])).size;
+ const cmp=held.reduce((n,m)=>n+(m.items||[]).filter(x=>x[2]==="complaint").length,0);
+ const t=[["room",held.length,"ครั้งที่ประชุมแล้ว"],["doc",items,"เรื่องที่พิจารณา"],["pinmap",prov,"จังหวัดที่ปรากฏในวาระ"],["complaint",cmp,"เรื่องร้องเรียนในวาระ"]].filter(x=>x[1]);
+ return `<div class="ch-tiles" role="list">${t.map(x=>`<div class="ch-tile" role="listitem">${icon(x[0])}<b data-chn="${x[1]}">${x[1]}</b><span>${x[2]}</span></div>`).join("")}</div>`;
+}
+function countUp(root){
+ if(rm())return;
+ root.querySelectorAll("[data-chn]").forEach(el=>{const to=+el.dataset.chn,t0=performance.now(),d=900;
+  const f=t=>{const k=Math.min(1,(t-t0)/d),e=1-Math.pow(1-k,3);el.textContent=Math.round(to*e);if(k<1)requestAnimationFrame(f)};el.textContent="0";requestAnimationFrame(f)});
+}
+
+/* topics over time: the most frequent topic labels, month by month */
+function heatHTML(){
+ const c={};held.forEach(m=>new Set(m.tags||[]).forEach(t=>{if(t==="วาระการประชุม")return;(c[t]=c[t]||MS.map(()=>0))[MS.indexOf(mon(m))]++}));
+ const ts=Object.keys(c).sort((a,b)=>sum(c[b])-sum(c[a])||a.localeCompare(b,"th")).slice(0,8);
+ if(ts.length<3)return "";
+ const mx=Math.max(...ts.flatMap(t=>c[t])),lv=n=>!n?"":n>=mx*.67?"l3":n>=mx*.34?"l2":"l1";
+ const top=ts[0],spread=t=>c[t].filter(Boolean).length;
+ const steady=ts.slice().sort((a,b)=>spread(b)-spread(a))[0];
+ return `<p class="ch-lede">ช่องที่สีเข้มกว่า หมายถึงเดือนนั้นมีการประชุมที่เกี่ยวกับประเด็นนั้นหลายครั้ง ตัวเลขคือจำนวนครั้งที่ประชุม แตะแถวเพื่อดูการประชุมของประเด็นนั้น</p>
+ <div class="ch-hm">${ts.map(t=>`<button class="ch-hr" type="button" data-chtag="${esc(t)}"><span class="hl"><span>${esc(t)}</span><small>${sum(c[t])} ครั้ง</small></span><span class="ch-cells" style="--n:${MS.length}" aria-hidden="true">${c[t].map(n=>`<i class="${lv(n)}">${n||""}</i>`).join("")}</span></button>`).join("")}
+ ${xAxis()}</div>
+ ${take(steady===top?`<span>ประเด็นที่ปรากฏบ่อยและต่อเนื่องที่สุด</span> <b>${esc(top)}</b> <span>(${sum(c[top])} ครั้ง ใน ${spread(top)} เดือน)</span>`:`<span>ประเด็นที่ปรากฏบ่อยที่สุด</span> <b>${esc(top)}</b> <span>(${sum(c[top])} ครั้ง)</span><br><span>ประเด็นที่ปรากฏต่อเนื่องหลายเดือนที่สุด</span> <b>${esc(steady)}</b> <span>(${spread(steady)} เดือน)</span>`)}
+ ${table("ประเด็นที่ปรากฏในแต่ละเดือน",["ประเด็น",...MS.map(i=>MOS[i]),"รวม"],ts.map(t=>[t,...c[t],sum(c[t])]))}`;
+}
+
+/* compare with earlier years of the same committee (read from each year site's own meetings.json) */
+function yearsHTML(){
+ return `<p class="ch-lede">เทียบกับปีก่อน ๆ ของคณะกรรมาธิการเดียวกัน ตั้งแต่เริ่มวาระของวุฒิสภาชุดปัจจุบัน</p><div id="ch-yrs"><p class="ch-yr-wait">กำลังเปิดข้อมูลปีก่อน…</p></div>`;
+}
+function yearLinks(){
+ return [...document.querySelectorAll("nav.yearnav a[href]")].map(a=>{const y=(a.getAttribute("href").match(/25\d\d/)||a.textContent.match(/25\d\d/)||[])[0];return y?{y:+y,u:new URL("meetings.json",new URL(a.getAttribute("href"),location.href)).href}:null}).filter(Boolean);
+}
+let yrCache=null;
+async function fillYears(){
+ const box=document.getElementById("ch-yrs");if(!box)return;
+ if(!yrCache){
+  const L=yearLinks();
+  const got=await Promise.all(L.map(l=>fetch(l.u).then(r=>r.ok?r.json():null).then(d=>Array.isArray(d)?{y:l.y,d}:null).catch(()=>null)));
+  yrCache=got.filter(Boolean);
+ }
+ const nowBE=+String(typeof today==="string"?today:new Date().toISOString()).slice(0,4)+543;
+ const row=(y,list,own)=>{const h=list.filter(m=>!m.cancelled&&!m.upcoming);if(!h.length)return null;const ms=h.map(mon);
+  return {y,m:h.length,i:h.reduce((n,m)=>n+(m.items||[]).length,0),a:Math.min(...ms),b:Math.max(...ms),own,now:y===nowBE}};
+ const rows=[...yrCache.map(x=>row(x.y,x.d,0)),row(yr,live,1)].filter(Boolean).sort((a,b)=>a.y-b.y);
+ const sec=box.closest(".ch-sec");
+ if(rows.length<2){if(sec)sec.hidden=true;const j=document.querySelector('[data-chjump="ch-yr"]');if(j)j.hidden=true;return}
+ const bars=(k,unit,cap)=>{const mx=Math.max(...rows.map(r=>r[k]));return `<h4 class="ch-yh">${cap}</h4><ul class="ch-yr">${rows.map(r=>`<li class="${r.own?"cur":""}"><span class="rw"><span class="lb"><span>ปี ${r.y}</span>${r.own?` <span>(หน้านี้)</span>`:""}<small><span>${MOS[r.a]}</span>–<span>${MOS[r.b]}</span>${r.now?` · <span>ปีนี้ยังไม่ครบปี</span>`:""}</small></span><span class="n">${r[k]} ${unit}</span><span class="tr"><i style="width:${r[k]/mx*100}%"></i></span></span></li>`).join("")}</ul>`};
+ const allI=rows.every(r=>r.i>0);   /* a year whose agenda items were not recorded is left out of the item comparison */
+ box.innerHTML=bars("m","ครั้ง","จำนวนครั้งที่ประชุม")+(allI?bars("i","เรื่อง","จำนวนเรื่องที่พิจารณา"):"")+
+  table("เทียบแต่ละปี",allI?["ปี","ครั้งที่ประชุม","เรื่องที่พิจารณา"]:["ปี","ครั้งที่ประชุม"],rows.map(r=>allI?[`ปี ${r.y}`,r.m,r.i]:[`ปี ${r.y}`,r.m]))+
+  `<p class="ch-note">${icon("info")}<span>แต่ละปีนับจากเอกสารที่เผยแพร่ในปีนั้น ใต้ปีแต่ละปีบอกช่วงเดือนที่มีการประชุม ปีแรกเริ่มนับตั้งแต่วุฒิสภาชุดปัจจุบันเริ่มปฏิบัติหน้าที่</span></p>`;
+ if(sec&&sec.classList.contains("ch-on")){sec.classList.remove("ch-on");requestAnimationFrame(()=>requestAnimationFrame(()=>sec.classList.add("ch-on")))}
+}
+
+/* each meeting page: what this meeting covered, by kind */
+function mixHTML(m){
+ const c={};(m.items||[]).forEach(x=>{const k=x[2]&&CAT[x[2]]?x[2]:"other";c[k]=(c[k]||0)+1});
+ const ks=Object.keys(c).sort((a,b)=>c[b]-c[a]),tot=sum(Object.values(c));
+ if(tot<2||ks.length<2)return "";
+ return `<section class="d-sec ch-sec ch-on" id="ch-mixsec"><h3>${icon("chart")}เรื่องในการประชุมครั้งนี้ ${tot} เรื่อง</h3>
+ <div class="ch-mix" aria-hidden="true">${ks.map(k=>`<i data-c="${k}" style="flex:${c[k]}"></i>`).join("")}</div>
+ <ul class="ch-mixl">${ks.map(k=>`<li data-c="${k}">${icon(k)}<span>${esc(CAT[k])}</span><b>${c[k]} เรื่อง</b></li>`).join("")}</ul>
+ ${hint("mix")}<p class="dg-more"><a href="#trends">${icon("chart")}ดูกราฟภาพรวมทั้งปี</a></p></section>`;
+}
+function enhanceMeeting(){
+ const body=$("#sheet .sheet-body");if(!body||body.dataset.chx)return;
+ const mm=location.hash.match(/^#(?:read|dl)-(\d+)$/);if(!mm)return;
+ const m=live.find(x=>x.n===+mm[1]);if(!m||m.cancelled)return;
+ const h=mixHTML(m);if(!h)return;
+ const at=body.querySelector("#dg-track")||body.querySelector(".facts");if(!at)return;
+ body.dataset.chx="1";at.insertAdjacentHTML("afterend",h);
+}
+new MutationObserver(()=>requestAnimationFrame(()=>requestAnimationFrame(enhanceMeeting))).observe($("#sheet"),{childList:true});
+
+function openTrends(){
+ const S4=[["ch-mo","cal","การประชุมในแต่ละเดือน",monthsHTML()],["ch-kind","chart","เรื่องที่พิจารณาในแต่ละเดือน แยกตามประเภท",kindsHTML()],
+  ["ch-heat","time","ประเด็นที่ปรากฏในแต่ละเดือน",heatHTML()],["ch-pl","pinmap","จังหวัดที่ปรากฏในวาระ",placesHTML()],
+  ["ch-cmp","complaint","เรื่องร้องเรียน ที่ประชุมมีมติอย่างไร",cmpHTML()],["ch-yr","flag","เทียบกับปีก่อน",yearLinks().length?yearsHTML():""]].filter(s=>s[3]);
+ $("#sheet").innerHTML=`
+ <div class="sheet-head"><span class="t">${esc(T.title)}</span><button class="iconbtn" type="button" data-copy="trends" aria-label="คัดลอกลิงก์หน้านี้">${icon("link")}</button><button class="closebtn" type="button" id="d-close">${icon("close")}ปิด</button></div>
+ <div class="sheet-body" data-ch="trends">
+  <h2 id="d-title">${icon("chart")} ${esc(T.title)} ${yr}</h2>
+  <p class="tl-intro">${esc(T.intro)}</p>
+  ${tilesHTML()}${hint("tiles")}
+  <div class="dg-jump">${S4.map((s,i)=>`<button class="btn" type="button" data-chjump="${s[0]}"><span class="dg-jn">${i+1}</span>${s[2]}</button>`).join("")}</div>
+  ${S4.map((s,i)=>`<section class="d-sec ch-sec" id="${s[0]}"><h3>${icon(s[1])}${i+1}. ${s[2]}</h3>${s[3]}${hint(s[0])}</section>`).join("")}
+  <p class="dg-more"><a href="#how">${icon("flow")}ดูแผนภาพ: เรื่องหนึ่งผ่านคณะกรรมาธิการอย่างไร</a></p>
+  <p class="credit-line">${esc(T.source)}</p>
+  <button class="closebtn" type="button" data-close-sheet style="justify-self:center">${icon("close")}ปิด กลับหน้าหลัก</button>
+ </div>`;
+ const dlg=$("#detail");if(!dlg.open){try{dlg.showModal()}catch(e){dlg.setAttribute("open","")}}
+ const b=$(".sheet-body");b.scrollTop=0;$("#d-close").focus();countUp(b);fillYears();
+ /* bars grow when each chart comes into view (entrance: ease-out) */
+ const secs=b.querySelectorAll(".ch-sec");
+ if(rm()||!("IntersectionObserver" in window))secs.forEach(s=>s.classList.add("ch-on"));
+ else{const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("ch-on");io.unobserve(e.target)}}),{root:b,threshold:.25});secs.forEach(s=>io.observe(s))}
+}
+function chRoute(){if(!termsOk||location.hash!=="#trends")return;try{closeReels()}catch(e){}openTrends()}
+function backToList(after){
+ const dlg=$("#detail");try{history.replaceState(null,"","#feed")}catch(e){}
+ if(dlg.open)dlg.close();
+ setTimeout(()=>{after();const f=$("#resultline")||$("#feed");if(f)f.scrollIntoView({block:"start",behavior:rm()?"auto":"smooth"})},60);
+}
+
+/* entry points: a strip after the diagrams strip, a button in the year overview, a footer link */
+const strip=`<a class="dg-help" href="#trends">${icon("chart")}<span>กราฟภาพรวมทั้งปี: ดูแนวโน้ม<small>การประชุมแต่ละเดือน เรื่องแต่ละประเภท จังหวัด และเรื่องร้องเรียน</small></span>${icon("right")}</a>`;
+const after=document.querySelector('a.dg-help[href="#how"]')||document.querySelector("a.ez-help")||$("#quick");
+if(after)after.insertAdjacentHTML("afterend",strip);
+const bn=$("#bars");if(bn&&bn.parentElement)bn.parentElement.insertAdjacentHTML("beforeend",`<a class="btn primary ch-ovbtn" href="#trends">${icon("chart")}ดูกราฟแนวโน้มทั้งปี</a>`);
+const fl=document.querySelector('footer a[href="#how"]')||document.querySelector('footer a[href="#faq"]');
+if(fl&&fl.parentElement)fl.parentElement.insertAdjacentHTML("afterend",`<p><a href="#trends">กราฟภาพรวมทั้งปี</a></p>`);
+
+document.addEventListener("click",e=>{
+ const j=e.target.closest("[data-chjump]");
+ if(j){const el=document.getElementById(j.dataset.chjump);if(el)el.scrollIntoView({block:"start",behavior:rm()?"auto":"smooth"});return}
+ const mo=e.target.closest("[data-chmo]");
+ if(mo){const i=mo.dataset.chmo;backToList(()=>{const bt=document.querySelector(`.mo[data-mo="${i}"]`);if(bt&&bt.getAttribute("aria-pressed")!=="true")bt.click()});return}
+ const tg=e.target.closest("[data-chtag]");
+ if(tg){const v=tg.dataset.chtag;backToList(()=>{if(typeof S==="object"&&typeof render==="function"){S.tag=v;render()}});return}
+ const q=e.target.closest("[data-chq]");
+ if(q){const v=q.dataset.chq;backToList(()=>{const inp=$("#q");if(inp){inp.value=v;inp.dispatchEvent(new Event("input",{bubbles:true}))}});return}
+});
+window.addEventListener("hashchange",chRoute);
+$("#g-ok").addEventListener("click",chRoute);
+$("#detail").addEventListener("close",()=>{const b=$("#sheet .sheet-body");if(b&&b.dataset.ch==="trends"&&location.hash==="#trends"){try{history.replaceState(null,"","#quick")}catch(e){}}});
+chRoute();
+})();
+</script>
+
+
+
 
 <!-- STATUS LAYER (9 Nov 2569, Sukit: "I have trouble telling which meeting is past and which is upcoming").
      Injected by build.py only when STATUS=1 (status.py). Never edits template.html; hooks into the rendered page.
