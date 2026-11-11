@@ -7,32 +7,43 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Aa_Xev34bVuvmfOT0Zp3-mbpfCSW8WsmQInyoRnu0ld5B0-7TSaoauCLM5vKnY8hkzZSwZKEGGJvm1IkRDutAiIg5kXsTuIpjNxQW0BK5pgR0ssyorQoJRHb09TrmsxmgCprhCvLc71s1ERmgMQgi6De2jjgjqn60vk=&ref=9939256",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MTxpNp2KMzb6Up2bjO2PcwDJykMxfNAe0FfxoOEBJwr0TJeXZ2b9WCW0Kbs7h71BSVZblHi9co_T0Tz0DKW4Dei2NGHaBkUd8tu2_2q20UDFt8PUCrFTUPuI1JIZ-zlWZy01tG4veqe248zm3AGDjCLCBmJTRROJWSA=&ref=9939256",
     "size": 103976
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KZZk5CiqTP_vRBbiC3WJ9-lVFcb-EqRHZxJSYsGhqnKGmXV8ys3Q46yq-bSxAIe8jS14UW62RHPUYJPrjtGZsHiCwkefbjPH-4kTd-Dm3wY6tFCFP_ELAusgHyvEY1XO_SaFfifCXiXFQ9sA-v_uIyMpx-2dft-bryg=&ref=9985919"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ICz9Tw-KlYe_j3kIUqFnrx6e5J0-vQJadK7TfT5PjoD4eDmm4rt-NSdxv9O4LBj88jOpDDWDSoqKRLz2A08g1xGsqd20EUArapuVTJsnCEJEpUHdyRAyKmDHSGhSs1SYz0sp5kVodzCTczI_RDG5I714fjGx-frIdlA=&ref=9985919"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3L53oM5Jr7IFQeAgyFZrapme-7GrObpQsQadYDxg1FrQ3V8hlCqLD5ttMGWtHJY6C25N76dqqeP0rmREMpdhHFyhp24kGFKTSXUcRrv42bh_g0Lr2NQrz9T5IwL0KahqsBTfi4pWVodQ4B5e47StiOmmVhyBW26m_wXjZg==&ref=10117878",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mMZVlVKsrx4R_qtSVGC1NhLtZwZFsbHowrnDZ69AtvzBBbG_7BqlC_GTAawXTxfWJmFlJmwMWX3XsPLwN2rBZc2A9mOhhOY_Rkj9rkwCalH2INWqzYYrVDJuOpRlMYurIdwhQSHBgCNXGZ139k4KOulIYRTuc49oTlHQFQ==&ref=10117878",
     "size": 2512389
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fnybajzcNZGxW81jymw"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=sOeJxc7FgClkN6Zi7Dk"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 11/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "สรุปการดูงานชุมพร: ต้นแบบการรวมกลุ่มผู้เลี้ยงโคขุน",
+  "summary": "ที่ประชุมสรุปผลการดูงานที่จังหวัดชุมพร วันที่ 21–22 เม.ย. 2569 ซึ่งได้เรียนรู้จากวิสาหกิจชุมชนผู้เลี้ยงโคขุนที่รวมตัวกันตั้งแต่ปี 2563 เพื่อเพิ่มอำนาจต่อรอง ทำงานเป็นเครือข่ายฟาร์มกว่า 30 แห่งภายใต้ข้อตกลงร่วมกันเรื่องมาตรฐานการเลี้ยง การรวบรวม และการจำหน่าย และให้ความสำคัญกับการปรับปรุงสายพันธุ์ รวมทั้งได้ศึกษากระบวนการแปรรูปโคเนื้อระดับอุตสาหกรรม",
+  "items": [
+   [
+    "สรุปผลการดูงานด้านการเลี้ยงโคมาตรฐานและการแปรรูปโคเนื้อครบวงจร จังหวัดชุมพร",
+    "พิจารณา",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "ดูงาน",
+   "วิสาหกิจชุมชน",
+   "โคขุน"
+  ],
+  "places": [
+   "ชุมพร"
+  ],
   "upcoming": false
  },
  {
@@ -43,32 +54,42 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=P0MDd9DAYf0yG3VJD-TnWQvyi79Cz9ga5UR3AjX30wdzOzV8DS_iQ9NvK_lFXN5mXVWOOVhZ7HNUAO-e1FkuY7y0sID3Jb9oET2_tUOYIYjlgP0Nd5LyUNSCdyBec7SF33JUiEhglShA00LwYpd-BeLyW8J_RfLQJdU=&ref=9879827",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yiqm27Gs3AKjLeWbpM6M-ZG9RxGxoYBx0XbnvKDlZzLwTiM6n_pRN8uMAjTtTn5MvTA40VfX_lelrQA55ecDTUDQgARh5MrGEXCxlmJCOeSe8WVR3bB5UNsLaf0P6pSWpj8Gh_jFS6jYlxwyffpJ6mq1CbAF1yUiYLE=&ref=9879827",
     "size": 106431
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4WbMemZZ8t5iK2HR1XtYIpskHwPCrk4o4WJxMZvsJZpzo0VfINn0yrXOhO0EwPtlmLhv2zVLUrD1rnriqLZZQNpJ4H_mUvzecSwD0r-QWVoTUoMyIy3UYpaoUmczIpDD5p8qcWoXb3IW0f2agGFcsAMApynG2ILBBh8=&ref=9985912"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=L7zyAKIlrcBLxS2kA7JI8OgfPN6qbIaVsYjvVFAbhsrFnsaocxovv4lfYK-xzCAS4U8-ZQsK3LCAQZMPulovwwe7byvWqGICDjSi_YGIxGNGcRT1JdJc2w9QKjNhECsYgLwd_2L5ay5RQkoJ41paIGQUmMJ7fTVbKAE=&ref=9985912"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mNQQeWZU1C6gn64_boNqXIoVoH0P08DMCH-MqY8icPUtxC_nvjXYyNIOaISa2FXdgidlTrQh9ofX0kW_xo4BJ-O3oxHFS8bl5418-XaPyYsvwmWQTSoQfHjNkgdYrmnHcdNqnYpaAD4Ra5U5euLR97q6X0c5tpyJD10=&ref=9985915",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SxgnIreH11nYZjXvFDowAtC0hz-ong58lnixSrfxTSOsna1JEpDRJ_H6NHA6ppOmE0IkG-MT_S4NMNsmeCJ5NqDRKY9rtsaENjSqg4X5H5xcseQHBlLpbYFfIfwbAF8K_h4Cb409Cz0IXgl4nn-CqpKqujfqQe2rbLE=&ref=9985915",
     "size": 2097324
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=4-3TM7O5w-YSwOQfdEQ"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cA-Of4agsKcJwLwcB2g"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 10/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เตรียมดูงานการเลี้ยงโคมาตรฐานและการแปรรูปครบวงจรที่ชุมพร",
+  "summary": "ที่ประชุมพิจารณาเตรียมการดูงานด้านการเลี้ยงโคมาตรฐานและการแปรรูปโคเนื้อครบวงจรที่จังหวัดชุมพร ซึ่งจะไปศึกษาการบริหารกลุ่มและการเลี้ยงโคขุนของวิสาหกิจชุมชนในอำเภอปะทิว และกระบวนการผลิตโคเนื้อระดับอุตสาหกรรมของผู้ประกอบการในอำเภอท่าแซะ",
+  "items": [
+   [
+    "การเตรียมการดูงานจังหวัดชุมพร",
+    "พิจารณา",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "ดูงาน",
+   "โคขุน"
+  ],
+  "places": [
+   "ชุมพร"
+  ],
   "upcoming": false
  },
  {
@@ -79,32 +100,41 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WW5raFxWNqAWnZFf9IMZoYc6YcWfEQgiPOibeopyektvJ7psVnU4YYNqTUXSFC59SJsqqkQ3baSYdgaUnCC_qJc7kE1Xug91KoAzxkblV9PsrzLwkpvPN2njpPT1WeUBypK-OXIKQ0gB7nL4z5rjJmT6T87aJzEhD7c=&ref=9805658",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Qwq_pmnCKPTQCPLmX3sOs_kLDDJfRGI2C0ZecnneLo6kbIpCR2v-yDrT35x9oLp8_7BRYZ5f_wFuzkGrjJZ2imHlqbqAqW-9H2YuGirCoaq9qrhnDmnAb5YlDZqc_8k-RdryudqJWRW4FfSs2wW13ZoG_a2BmxljuFg=&ref=9805658",
     "size": 106582
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sgfn54II6ZawSWILnFWyrrTP51QjScA3J0Esw2dxGhi386Ws9e4Ys-EypwU_8jqrp3NhlFMShZBvur6mrqFcfDdOafTHBLnsj9dtnGJUNT5ti-8ftdlUSQun3VGgZinJbHZdUD7L5JkEkTXgvCq-3Dhda2bcdiJXIKE=&ref=9985884"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1axfZlnWqZkokMliK9yyExxckIjWU5v4TfwUF7kXe_Jj2zTaJ79PCChGfJyj-YH7ZjfY6Kx-CafSH5_B7DXxOJC09hJHhNKauPnJtJddcnS54gw7L87ofp0W5jyifV53MP736wGzRZMaDPJODKGeXkSjSc9117gnBko=&ref=9985884"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lSOL-vMxRPC19f_jP8sCPGPUC9CW3VU6c43uvGTsXqjjgQl7iHdtc8I0NhkTuRtucHcOEcT6BNlkaAzy9qTZ_i9QOfY-NB2hi5M-XI3BGxgg-dKLp-srbfwm4-QdXgeF1NKl8cuosCqeGchqIQKB5VQbdF5ZhRZe7sk=&ref=9985898",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tv-1mOcowfQb8Vv7m-DUQdMAKO0FWpCHPyzoM666GZ0nfmNYnmRLqAo_zRJKTdxhm2ouclp833ZWH0QtIbKGzgKiKKHk_ceKGXDBn-gMEmwOM0Aa_J1P1aOdajgKswHW3ftHiuO0LO9KYQ7n_fRbNiGG9cRMdkC7f3Q=&ref=9985898",
     "size": 3361570
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Q0A_ZelEa4e4p3RcfN0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cWGMHd_XMS9PYI-UJC4"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 9/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รับฟังความเห็น 7 กระทรวงต่อข้อเสนอเชิงนโยบายเรื่องโคเนื้อ",
+  "summary": "ที่ประชุมพิจารณาข้อเสนอแนะเชิงนโยบายและรับฟังความคิดเห็นจากหน่วยงานของ 7 กระทรวง เช่น กระทรวงการคลังซึ่งชี้แจงมาตรการสินเชื่อดอกเบี้ยต่ำผ่านธนาคารของรัฐ การค้ำประกันสินเชื่อ และมาตรการภาษีเพื่อส่งเสริมผู้ประกอบการ SME โดยคณะอนุกรรมาธิการได้ให้ข้อสังเกตเพิ่มเติมเพื่อให้มาตรการเข้าถึงผู้เลี้ยงโคได้จริง",
+  "items": [
+   [
+    "ข้อเสนอแนะเชิงนโยบายด้านการปรับปรุงพันธุ์และการตลาดโคเนื้อ",
+    "รับฟังความคิดเห็นจากหน่วยงาน 7 กระทรวง",
+    "other"
+   ]
+  ],
+  "tags": [
+   "นโยบาย",
+   "สินเชื่อ",
+   "โคเนื้อ"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -115,32 +145,43 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GegKZHwRw6xmIfjGiyrn8o4C2mPnBoHAO4z_aL1GTbLLmw_lcNT88I-JKntQiuHMj5qYaAFG03_bep9sXgBHhw9YUi_kPml2B87w29dY5LzoD2ZxoWUCi86mkpKKz0PPyGw5KdyyXlhbwnaW_u7ZCwB1-70wfAs-QBs=&ref=9756884",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IbTGZfg2LhpOVZjbOfs1opX8vffYHg1sUPIjYCRHbKRPLcUwS4r2twDpLqPcDHFOa3VwJfyW2pHsAPwmM4Il5lMgX1joqXzKpJifdT_f5K2tknmi57I_avIFgFOKrP37ImSOUt2frxzBevnRKkN3K2g-L8ReYKKUxSE=&ref=9756884",
     "size": 108760
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hU7A7nZw62-rtM-cLep-2nA8qT4WqHckIrHvmaIC1dT-5d_Qolp48_2NZhqcKiQdo-fIDyB6v654DzeLjHO2TJy1T2gjY-NfbAOdBW5jYXPWCX2f3FDbSFNCRUX9gHPLN51oFRZd_duFyj6v_273a_h3iTfAYuhWzO8=&ref=9985876"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pCEoMKyAWYSiLndb7zj_KNSWZ55-fiJoE0DMywtHXMrUcBrOuioEGVoYkc0veaaf60vbYMJ_3RSrTOuXF9JUtQbYRz5C9yC47OzM6YrZHPOh0FrTCgPhw42pfHEloQMBiSE0QqXCRWfFJtNOnFPJiL54o8dy6iFYA_c=&ref=9985876"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=szXOPsVhId77ebh79UjhsetIJviAhSeC2DJxdTqSgxXY6nVEd-2LrNsktQS0EGsvfESfITwY1RCJmizAe_ARjPc4zUUI2gPEl4d0BCizpr7XWeQYHta7Cam-gElfss4E6gM7ep7k6SyVyK9_ezrJ5V-Jwix0KURKQd0=&ref=9985881",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1Eexu97gH0BYxBHWgl9ugXzHPZDlOARll4zuWmNsQiuJ7-7Rqjl4MPaBAQqNyk1Gqq0PxgdVxWmK9jcsbADzj2NKrKt0GozNYoQvUjo7vV41lhYstQ_vCZeydl_03yx1r81d_ZXNrJ7oBWlh9bZc_RBgwVIu0CzE7kY=&ref=9985881",
     "size": 2108819
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=m9KtPlsDim9unXno7sk"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=g5_zB-wynZKw2OLYlO8"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 8/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "สรุปการดูงานสระแก้ว: รับฟังปัญหาหนี้สินผู้เลี้ยงโคในโครงการโคบาลบูรพา",
+  "summary": "ที่ประชุมพิจารณาสรุปผลการดูงานที่จังหวัดสระแก้ว วันที่ 20–21 มี.ค. 2569 ซึ่งไปรับฟังปัญหาหนี้สินของเกษตรกรผู้เลี้ยงโคในโครงการ \"โคบาลบูรพา\" ที่เริ่มเมื่อปี 2560 ที่ประชุมรับทราบว่าปัญหามีหลายด้าน เช่น ความพร้อมด้านพันธุ์สัตว์ ความพร้อมของเกษตรกรและระบบสหกรณ์ และภัยแล้งที่กระทบอาหารสัตว์ และได้อภิปรายข้อเสนอแนวทางแก้ไข",
+  "items": [
+   [
+    "สรุปผลการดูงานเรื่องปัญหาหนี้สินเกษตรกรผู้เลี้ยงโค จังหวัดสระแก้ว วันที่ 20–21 มี.ค. 2569",
+    "พิจารณาและเสนอแนวทางแก้ไข",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "หนี้สินเกษตรกร",
+   "ดูงาน",
+   "โคเนื้อ"
+  ],
+  "places": [
+   "สระแก้ว"
+  ],
   "upcoming": false
  },
  {
@@ -151,32 +192,41 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YcRN1_y_um3XlvBECtOLHcWwBZLtaeWq-bdSdcUT7WJzTCyUM-yghT2F5PUxxbAJZfsu6Rb7Xp3hzQ1xKZltRJHcvN8ZHLDLfTA4G1Bvkq65m7OeHhsYDXlq8ETZ6zG7WzzwTfwa8JT8ToaFwhJuxpWvn31qYLXXuh8=&ref=9695936",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oSH5ck3EIRhXjDSuEKho7RKHX0pnpGs5Iwj6-KhYP-wL2Uc1i-XnnxAMgMQt1FiaZRKkxRm6zT3lQqf2CzX8jwxZDSV5jUhqr7M_oeTLdQfy5_I2MkMhftFqh7BzAxFDP7FN8rHgSkbLkgA66sTlh6EtpTri392GOQE=&ref=9695936",
     "size": 99490
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9gnIyyEvlXelJW_5NhmYb3CXlKEv6a-fIfMVzYQjD2Y9dthLOwxYkOsv9UR91mkWTXkFg86YmZmrNZ1kTo-Bc3lskdYgx8h92q2ktBfQ8QaBnW8D8oHK5XRFi2Fa2OiA0w6MIgrqEaGbfRIZr0-PPuJDrxmvz6UZvvo=&ref=9985857"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hvX2U2UuzdNEZ6Tb6sKKge0rqZVQU_6o7X1BFhjVbRiwF8vgsi9skK86yJF5gYG0wPTxBx6gu1I3vtg7OmPX0aL7txMvZMv3BzgdCLeQzmHLO2isXa-p3SC5ujjEGWbPWB5_sqSQmfiIniRtINIgNrS_OzRSoJ6IKnM=&ref=9985857"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wAksh8wPQFlMCffWlnbndFB1j-k-TBeHXsZAzqc4lwT45X75yigrU1gcPZGyTlmfmEpH_MEU0vtsr_0UiGdNZxuLLkjXe03NM9PMx5NbApQkQwuCsVBxXB-fYG3T2cjSu88W2QYElL1SUsSNwCqVz1JlOLenrTm8aqE=&ref=9985867",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WhwrLCQcNoD-tMRR-g_ZP8MzwLQ8IVO9mulOxPs5q_k_A4EA7Do8cfBMVQcqRIpxw-Rib1AJTS6tC7oHZCzQ0J969hhPUY3I3YUQv757HLQItYe7_8KLfP8jwexCAeOwZaLUUfVLmqMKq79Rfs8ji74PSUAJAQssBlc=&ref=9985867",
     "size": 2313628
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7Jt26D_n-_lK-bXFv4s"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=kVWbOC2RWU-CZfFgMYQ"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 7/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เพิ่มข้อเสนอด้านการแปรรูปและการตลาดโคเนื้อในร่างรายงาน",
+  "summary": "ที่ประชุมพิจารณารายงานเรื่อง \"การปรับปรุงพันธุ์และพัฒนากลยุทธ์การตลาดโคเนื้อแบบครบวงจรเพื่อเพิ่มศักยภาพการแข่งขัน\" และเพิ่มข้อเสนอด้านการแปรรูป เช่น ปรับปรุงโรงฆ่าสัตว์และเขียงชุมชนให้ได้มาตรฐาน GMP, HACCP และฮาลาล สนับสนุนสินเชื่อดอกเบี้ยต่ำ จัดระบบเกรดเนื้อแห่งชาติ ฉลากสินค้า และการตรวจสอบย้อนกลับ รวมถึงใช้แนวคิด BCG กับผลพลอยได้ และข้อเสนอด้านการตลาดให้ภาครัฐช่วยสร้างเสถียรภาพราคาและเพิ่มอำนาจต่อรองของเกษตรกร",
+  "items": [
+   [
+    "รายงานการศึกษา เรื่อง การปรับปรุงพันธุ์และพัฒนากลยุทธ์การตลาดโคเนื้อแบบครบวงจรเพื่อเพิ่มศักยภาพการแข่งขัน ด้านการแปรรูปและการตลาด",
+    "พิจารณาและให้ข้อเสนอแนะเพิ่มเติม",
+    "report"
+   ]
+  ],
+  "tags": [
+   "มาตรฐานโรงฆ่าสัตว์",
+   "ตรวจสอบย้อนกลับ",
+   "การตลาด"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -187,36 +237,45 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aOd0AR19SNpFUVUGg_-dCQ23BWnS8-bTMNQWIhK4SzrD9XynjXpx_fbLcJM652B-rXt5V2rqK8X-u4nrVS5kmIq2QM7Vm6nE_dC6yBca1aoUkGnwBSIjYl_3J02fSVLZgGH3LBKpbzliG3foKlNouofydcw5n7NuC7A=&ref=9564851",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ckWHxlQdVJJHQia4xlxJR3vSByChtn67Hfb7zrVeHo4BurYJB-gLOj8xT3dyVijqq1r1wBZrfiKC6xFYDGnJRy3fIBy5mDROJ2SOuq-dmLvBsVyvGI3MyqBJwOfxbbfyQwsGH452ouOBL3xzzTneG9f0ifOeTjjdc-g=&ref=9564851",
     "size": 103631
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SLivbIle7mgLu9NXU5crM6sgqtsw0xPTTciDOl_JpKfqd3loKYEDPPVEAoUPFl3EJusVtqDHRYnO9P_V2YXyahoJYZzoMF3e2x573hyvwepUxpOvs4PrgniV2PLIjbwRNlW96NVUlqmqkABOQkGugF7bxC1fepMFPpI=&ref=9716903"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_jQ_Q25VcbUx4KRAniEVMFvTmCow5rZ_Nb4_phraZ0xidLY_DHrhpANwlIKtA19vBRbBO2X2pvCtT1XvHxDKJtPGr-6lT3jlCUQk8ywWjp3vERDQ08GHsqdRcruSt7yHqdxmRv9O44LwnyLFwZrN_c90gt1uP4WnLu0=&ref=9716903"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NcBKPKZ6GF-3i2Nn10lsvPjdD3k3HsXbV1AdF05qc17d685XKLRmiZ4mdBKR_p69tkiJXRPB-GzWQ5P_yattAjcrAdbr9HUOSLdr2zdVrEjBM_9WsBBql3nrOkGlVLWfuwswB8rBskGy4SHXkt_yEf7wvTpd2LdF6zI=&ref=9985871",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DmQ3LywkF7I3mEpxbYtgwGXTLmnj9s5Cu8MnzuEYFIm7BAitIMJQ1ofCeAkA55pgzEm7ZVY-hyKqLIoUEjHBDVWdhuT-1RPjHamjE-IIOcqyyQTcKo97qxosfvDBq2LwOhCsGYyuTylo4d06A1bsI_AUx8S4IQ-W-fg=&ref=9985871",
     "size": 2380081
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hjPYM9-XbWfYAKE1ZrSqyIRrmiZA_WJ6FYTKxAUcr3UEcTBTod1Fb2u2_H2T6diHl8DOCPjAJbuffe3X7EwR8VehzmYZQozBRyhZioVbxugxi_WABiiFtpiujQ0DrtfN8fQpnimu_qyEd1TDVzp9WH7DOMKFET0-1So=&ref=9985875"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Y2jZ_YayRUgqlvM_b272VjASKfE-YleNsd_aHd39dR2ABzkaxz2b8RjeV5bEINRlDrdJFbW3WJn-zTiaoaKvePC9zdchdXbDX4SQfe7hPExMBAlilI4gr7cSHsZql02v-5QT4-ZjuuglrQ1NbRk2VGA6ic4HcFUwLkE=&ref=9985875"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=gv02B-wn7D5nxUDK2P8"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=B3Uz64cBEl9GZPxwSe8"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 6/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "วางแนวทางบริหารอุตสาหกรรมโคเนื้อแบบครบวงจรทั้งระบบ",
+  "summary": "ที่ประชุมพิจารณาการบริหารจัดการอุตสาหกรรมโคเนื้อในภาพรวมตั้งแต่การผลิต การแปรรูป ถึงการตลาด พบว่าปัญหาสำคัญคือระบบข้อมูล กลไกกำกับดูแล และกฎหมายที่ยังไม่เชื่อมโยงกัน จึงเห็นว่าควรบูรณาการทั้งระบบตั้งแต่ต้นน้ำถึงปลายน้ำ ภายใต้นโยบายที่ชัดเจนและใช้ข้อมูลประกอบการตัดสินใจ เริ่มจากการพัฒนาพันธุกรรมให้ตรงความต้องการตลาด",
+  "items": [
+   [
+    "แนวทางการบริหารจัดการอุตสาหกรรมโคเนื้อแบบครบวงจร",
+    "พิจารณา",
+    "other"
+   ]
+  ],
+  "tags": [
+   "โคเนื้อ",
+   "ระบบข้อมูล",
+   "ห่วงโซ่อุปทาน"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -226,21 +285,21 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VqierAtS5HWEGCMw73o1hrLYR60DodmqcuZscbjZ5OHYTEbHykAaAKLNJXlTZi2oPFIQFDWpyFQjVxXGduSuC4ufcAyaOG-A-OXHgbHA16UaTWWCUVpT8n8fBGt4NDv_QkRRCQTT_N-bHPsZcutIdONhBxfYxegXTvM=&ref=9564851",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=B4yK9TjaBRbHSY7s8LOa9nc4SQK-X5APQ2Sq4WSvyo6rzS1sTJw8V8mBRZkza-HER0YHkLZokrAREwtafF55i9g-pJrwCFtHbK1nBpIKfcJfyTc_qPWJGl4jQURKLqQ14BW680XTEKi_DnmT9CX4bg8qKWfKgxUjntE=&ref=9564851",
     "size": 103631
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=52IzPS42MY-lHxE7tAlWs6xDtWeRg09FrSOkQdIc2Jw-W1glUBT-CzF0gCrZJyIPxEcb-dWOIOO-3uZNEdaVhfa1qxvBj-wsqx0vtL4vLbKVYxAx777EkrkxALWz4oqdOByWcsM1Pi6PyMSZFxV2CNdFLg0O7XMdDaA=&ref=9716903"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=L8pws79Sf2m496WJTy5p9QiZVkXjRJhFNjI3suy681OaBF-wQ2khv3Nas9feoeQAE1C4A3yh50P23QB0nK8QRY8eP3iIoCihWd23WYtgbmDKAIjN6_h8qlDctaFetA6-2U-Onya39suuOxKciSGPHiA8lZJiB2abTSk=&ref=9716903"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QIUudqtQDOv45ufouUjKmagHrCEtjvLeAIIjwjQCWhdSkvYaXJ1cdrpDQXNGSmQ9bA5BC5g6Ex3R2VjUy0A4hpHDmFwtmCRLySRymUT5T4AEZfDnIt9bJETdE5pqNlgP9_FmnQ80Z3q6Vli4-aYSLsamMY9-kqkV0UI=&ref=9985871",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rf97kd9gyUv57XHslGmEF_5zz2aofZQJGjoB6ax45-Us0gXslq8R2-0a83hdb-ic0fSHg2HRB1pgNG8L_i1PfAUt-RKjMuMgzwx3MwDVkoClfpGNT_vb4f532sIfJFV2b8qdz-bhU3LMfae2cknK07UZ-TckJw_W8EM=&ref=9985871",
     "size": 2380081
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7kES3eh0kf3DdOTghhzUZad4ieA3DvfmIt1bJFYFajV5-Xh2Pb-53OVwVv20bmMtGa7O2lU9_HiTZoX9OR1g_A5t752MCTZhg5cvEwi4SfXwHP9fg-d4qNq8Td5SGIOoBOmEv8glECfG1KsBbTCaitlcU3nw0JRFu50=&ref=9985875"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xPqQEQybL0ZUndwZOUCDrH0l9a3ktuBl2wGvLTB0AcnnNrmRubs7rqLEveAT3_SzSPCgQQM_x84IKLlf8phhVcfOvjUHla6McE9yosHU6vMuNO-ZXoYOh1pzkSK0WQ-t8ayuCp7dE7x4Ehi567G4pwSNgTueW-3FSWM=&ref=9985875"
    }
   ],
   "time": "",
@@ -254,32 +313,41 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jOblRqGLndzJ2Wv5RB9us42NMbZG_adIlqeA-V1HfRJoJta_pO7m3PTBYLvzCWGHOY_Mj11Wy7ytf6VuuVQGuzO8vOLGlBWf3pcwo16t5WkZMTtXczP_qs-72Ldk1aWlLV3dl1tHaKflmlhHRBO4LxyBz9rBJ0RB064=&ref=9515887",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_mk5B9SdwwxegXG3BO-PenjgoOXdZYmX5lxI8LHysOl84BwvEyoxt21Os0OnYY7KG1CHfm05D-48UqfkHXdlaAsiIO9oNc_3dJjfurkSb6aWSRWzN0jhRAtcG47iN-1tn_cb4t4DMAdPJM-m33_6qbAYevIWlKLi8kU=&ref=9515887",
     "size": 115150
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lH5noatcwST9DCrqM7fVuEJM-Mb6dnMxkx7wBXmk0TykEL_FzwyNbOCerFNYH8n4a5AO8keIeJR4QqLjMmrAoXZe4WvolQe0J19UTaZQHsNlN8Q4kdvM5vUytLUp0UrdSL_FE4xjBYztpFK1ChwpDrYU29yMHRekz-Q=&ref=9985834"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=E5ANhmj3jKXvodFGgT7neViWfIkvsb3gpdWjY5q4JwGqNcGbEKS2_Nc8Qtj3gmHAB5baVcN9bX8K6LiV6QekEZyVTWPaqZx7qkxe_zDmSMJLJQJHvh7k-Nfmiez4OALN-XRfADlD8cgatKMXO5DM_M_BZudHh21VcdU=&ref=9985834"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NtcrqKP7T8yrzzhcCDx_Z3_HFVECYvXz6v5lZGCSTssSeBf3aCd_GZsk-y9tQI5J5zisam3QeH11NtEikL1ZFIJIDik9i3rGYYKqyXYNcypiYmOg1xUlkSmILH6GxWaqK2PyJvmKAz2xY6BzwG4Rzd31obgDRGOH654=&ref=9985835",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oybfr5FmDnFuLKDwQaoh791aBWM_FUPcEGbyMlWgyhb5EKxPdCKa9uuecWUkfaChJLF8lNr8sIfWqlXHTIGR7u-3z3ahqys-X3GwUCg04SH3Lf-Y-pH1BLX6vcJ9UStkOETPXhGLoRuF5v0OhDQLFzXCH70XhMMra3M=&ref=9985835",
     "size": 2205025
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=wyVHj-EuF9RbKMxx88I"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=t2KoscF1kEcR7-5eECo"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 5/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "อภิปรายร่างรายงาน: ปัจจัยภายนอกและภายในที่กระทบอุตสาหกรรมโคเนื้อ",
+  "summary": "ที่ประชุมพิจารณารายงานเรื่อง \"การปรับปรุงพันธุ์และพัฒนากลยุทธ์การตลาดโคเนื้อแบบครบวงจรเพื่อเพิ่มศักยภาพการแข่งขัน\" และอภิปรายสถานการณ์อุตสาหกรรมโคเนื้อ ด้านปัจจัยภายนอก เห็นว่าการเปิดเสรีทางการค้าและการนำเข้าที่ไม่ถูกต้องตามกฎหมายกระทบราคาในประเทศ จึงเสนอให้มีมาตรการป้องกันและบังคับใช้กฎหมายอย่างจริงจัง ด้านปัจจัยภายใน พบว่าการผลิตยังเป็นรายย่อยและกระจายตัว ทำให้ต้นทุนสูง คุณภาพไม่สม่ำเสมอ และขาดอำนาจต่อรอง",
+  "items": [
+   [
+    "รายงานการศึกษา เรื่อง การปรับปรุงพันธุ์และพัฒนากลยุทธ์การตลาดโคเนื้อแบบครบวงจรเพื่อเพิ่มศักยภาพการแข่งขัน",
+    "พิจารณาและให้ข้อเสนอแนะเพิ่มเติม",
+    "report"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "ราคาโคเนื้อ",
+   "การค้าเสรี"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -290,32 +358,40 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qND1rGnq7Wt4xglbQ2Gq82BDrWWga5GAUE7r9y_rJIK9oBgkxeCbwik3pkbDTZVtXlu5IU61WzyYLnrHRJ6GJ95T1gEoStH3mtAUl1Qb1GLMK88Fx5nM2sBY4y1I569wbITBH4UGhETMRoMBKs_ie5JZhd92GFXLKiQ=&ref=9450023",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yPI8KIlj_rAS_jMVamO18xEUFhTGrd0883gYhrWWekc3fYmwXiZlQhEz3pfqh1B_8tpkYQ2DdwBkNcqsGNIt-4OMGwwJWxoOdFgyR2dkaUVd1WbEcnt6ZBTYA3-IeDV0Z_UMyI3WqGe5lQ4tsEnTwBEinG4TFCyMYW0=&ref=9450023",
     "size": 106848
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UOXM_iqSe42p-IMbq2lDa7Prpol6_maWIH8R3BGiDFoeawcNSTi5yTxTdDl9ulwcnSavtvbNnGhgYWTDRwVmXKBZ3sdB-9ctjSsRoofsSNMpu36drTwSOd4QeMDDpJnHZzfbYdyO2B28qi8TNOVbuU_BKkWnUKwaUmA=&ref=9970193"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=di6vjuaSCUC_7uboRwetLAKWyhgyWtoD_nUZhciQ5tITFcuTaGhMwDS_hcHfZhCCA10EhyCDwlwGXPLHNZZ9lKfwUXxzCzJrhmMad_7jKtXF25BKfUjDAzsKcchs1F9Y_jxC0hywyeRtGAlrgfYMc3-wV_onp4H1n3g=&ref=9970193"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=r91k-a4t8HPxkxiB7dLj2oytgdx16eggd3qpMUgdJ9tZuzPhU6tbNFZJSkoK0jap00WSfXRtmper5FzIpKQ63wOC_w1AwGzqvt_Mt21AVxLS9m-WbGnJy-R0Y9lrMp7glSmGup9vTrr4IkEj9ku8Omp_ZrYa0lBV8MA=&ref=9985829",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=N23N1EdVxypqTh3P777trwszQbB6MMkQ_0lw1YBNblMxZnV-tgsNLE_Yo8VSC9kLnUUQNlkVPcl-wFYzzV1a11eBorkUcrE_wv37yxUHYICHN69A5CmFhtXGC5amLLh2meoxPIJclkq4OgWtN58-ydUH9MW1y3L6HaY=&ref=9985829",
     "size": 2384596
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=s3RIY1xoGgMOx_0QKRM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=kfoGrS97m-Jbq2Z1TWs"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 4/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "พิจารณาโครงร่างรายงานการศึกษาเรื่องโคเนื้อ 4 บท",
+  "summary": "ที่ประชุมพิจารณาร่างรายงานเรื่อง \"การปรับปรุงพันธุ์และพัฒนากลยุทธ์การตลาดโคเนื้อแบบครบวงจรเพื่อเพิ่มศักยภาพการแข่งขัน\" ซึ่งมี 4 บท ได้แก่ บทนำ สถานการณ์และสภาพปัญหาโคเนื้อของไทยและของโลกพร้อมตัวอย่างนโยบายต่างประเทศ วิธีการพิจารณาศึกษา และผลการศึกษาพร้อมข้อเสนอแนะ",
+  "items": [
+   [
+    "ร่างรายงานการศึกษา เรื่อง การปรับปรุงพันธุ์และพัฒนากลยุทธ์การตลาดโคเนื้อแบบครบวงจรเพื่อเพิ่มศักยภาพการแข่งขัน",
+    "พิจารณา",
+    "report"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "โคเนื้อ"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -326,32 +402,46 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=I6XnE7J3E3TMUoAZUf3kkMGCrqxSGqCbtAf2LfrTvFoKUkt-wQyWy-S0-OZ2uWdS7Wg5aev75gv33cyPMC6MUv-50CYCXMf99ezeZ0EF5TQcR0uR3yQ-0qmotj-aQkBEqvtR-olmSGJWVndA2wWaYrfMOFoY99fRjxs=&ref=9332468",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=r_nAnkCghZ7QNqVgrb3qUWh_WUgTLseH0pVqUTWuhhMMxbzmnq1S-K_bQd0ybpLZPq-qo6sab2AqKkfdMWE6Z3lsTWsZvQqWN_dcXwBj6faisChVHDzsJ5c4hnqalcq-tYGD_DZipBBrXCZpPhCZDF3e_rS_F4zedCA=&ref=9332468",
     "size": 92411
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=q5dJPPlmNrFhoQjz7_L_mpzE4wWseo26QPg9I80ITRzi_KIvLI2zvLGy9IWRDJiYD3ganSFcIbi0e8rCFMA-kBVI1lCdV_yyz8BNQZPGSJ8opybioml-5LP_tBRsnN-MH8Jp7XNS7hBxc8EQ3FXhZ0ULyNjjrVhLByA=&ref=9966016"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9MTxIPR-yUMh9GlzzTRUZEunUTBZK3O7-NoQcB4mfy2ZtTLL9jl6MMmW4TD2H5t90POtiDl6SbDFbn-ZdXj0BmG_-CNPPrYftn58S50b268JFkumvayXZL1bXSkoXwf4opHPHXshZKExJEWxatg-0ddistzm8-00Ido=&ref=9966016"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jJQS96vJ3LCTJ7p6nV9g176A9ZtfOwAH58xVoS1MUWMK9EE3IziBnlwYDnx7EfUiCkEDiOJdkjhqTkttzbOxHnt4FgYPDkao_nIHGl3i-JzCJoSKqo06zmMIpQd4J6IGNUn76m5PqnDQpS--80CaPWZ9ynURdFb0Y_U=&ref=9966045",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YDpesvIR1wpzV_khibJWEgaNLb0RgemhVWHJ4g1D8jIR46kkLbGs2pYO_xzZUKgJiCbymEf8IbHF4EILEBq2sAUxWXBhbVvVABun7gNm69_eSvfPA8ivGQZBWW1Rusqu1J88nQjDOfAEjrrnqT3PpV_h8mMrum5xcz4=&ref=9966045",
     "size": 5017550
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=m77J-RofHU9uJhFw7Qw"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tK4-rU9FXM1L4D303J8"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 3/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ศึกษาการส่งออก–นำเข้าโคเนื้อ และเสนอแนวทางพื้นที่ควบคุมโรค",
+  "summary": "ที่ประชุมพิจารณากฎหมายและกลไกที่เกี่ยวกับการส่งออกและนำเข้าโคเนื้อ โดยเสนอให้กรมปศุสัตว์พิจารณาเปลี่ยนแนวทางควบคุมโรคจากการทำทั้งประเทศหรือทั้งโซนให้ปลอดโรค มาเป็นระบบ \"Compartment\" หรือพื้นที่ควบคุมโรคเฉพาะ เช่นเดียวกับอุตสาหกรรมสุกรและไก่ เพื่อให้ส่งออกเนื้อโคจากพื้นที่ควบคุมได้โดยไม่ต้องรอให้ทั้งประเทศปลอดโรค และพิจารณาอุปสรรคด้านกฎหมายและระเบียบที่เกี่ยวข้อง",
+  "items": [
+   [
+    "ข้อเสนอให้ใช้ระบบพื้นที่ควบคุมโรคเฉพาะ (Compartment) เพื่อการส่งออกเนื้อโค",
+    "เสนอให้กรมปศุสัตว์พิจารณา",
+    "other"
+   ],
+   [
+    "อุปสรรคด้านกฎหมายและระเบียบเกี่ยวกับการส่งออก–นำเข้า",
+    "พิจารณา",
+    "law"
+   ]
+  ],
+  "tags": [
+   "ส่งออก",
+   "ควบคุมโรคสัตว์",
+   "โคเนื้อ"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -362,37 +452,46 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=je7tG9S0Paz6z2QEI1xuzRzu-Fm1NtTBlnlwTKv0qwtY066f9LgixJ_EVeILmzzo8VgIrZtJSYYVIc4oydcx2hmgDv19HV2lBSHMmGVcG7woMUamE20OcfX3itkVtOyi-WWshj_lFr2TZEoZG6V5bSfS0xWw-Hs84Uc=&ref=9227310",
-    "size": 91784
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oER1LUNH_jFgebbyxzgBz1ulz7uJpxDDHXKU2G6eChuhNRQ7uzjo6Jcl4GRuBLeo9MbitFmJ3SmWw2dd1vJkET6VLy4qxCdepkXYcabqGFUqRPva3rMLlihe35ooREewVfIjN6BwwGcuHnQsdhFqnOtRnJpBi3ub5jc=&ref=9227310",
+    "size": 92318
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=fuO2nizdNESwd7D7BurdtH1_HjfXatrkFH45vXqE0BOW0FYerTvoBRBHtk7g0Gn4z1lGa0woHQJbmFxIQ_aDjZWqhh_8iJCLgen4j_KuQVvqHXuoXhR8DJW3gk5E-FZFoCwLZ_-MnDM2CBCM2kEmegIifqoWNF-sHdg=&ref=9307684",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Yxr3vIRnj5b3mtotLgsanV-yB79c_tOYown9ZmsrFo53LDrcSshuOgPnrYAzI6FUyRetbw0SNBbMbdwywhgga70RNXkOLhIil0DvF--2vPjjbZV-BcaJfuyccbghZlj817eQ_PUi-Ec33wqkXxqGL9OW3HC1k3j4I_k=&ref=9307684",
     "size": 92318
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KpsdNu5j7xMZrGpH-duw_UJITgN_Mu4E5StR_AkfaJf2NkH22q2WUUjUFSe8go7i8MeJ3k3p4_VSrojn7qkNtx3jJaRsniPNV9DiFAaBFzOG0V1LAaVXE98GwhvlNIUMzs1GHAtiRkwsSLl-M-_2Tzk-Kh5fDIrZdcM=&ref=9965980"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DOlWdqZ9D_DJGq3Fl0kPdi38RhjmLZpQRz0b9uOkm46i2ogNMFPWmLdoM4tzy_fluw7AVsGD6aMqU-wX71tNkTE0LK9GcWKESP9wKV9-zQpnE3WpVStrtsN8kQNGVj5VL9z-Dcwc2_MhetdY04p-ZFgpMLANFu555Mk=&ref=9965980"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YMqd9QvJR0nLkCugZKFsR397k9aGfGG7iUPxwWd57QNfRpGt3aFdNJ8vn9_c2JL6R1nSa9SFdx-8-dVjcm8Zoc2khNAWKbfkI9cLphc4WfTXTbNgv0_kBsVZn_BoKdM2m1YYX4jGHHv4cEBEtknUjnSKjO5I3oKBOFc=&ref=9966007",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jHNeESJxBosqZk9YcBwDxrZzuIiR2McxV-rRNFAY8TAgpQrCtZbCDaxdlXEhoRJxqkmQ7AR6yhRhvPcXfhoP41WPkFleOCtBacVr4Cqtphqx6XEiTjZWZmvtTZq-nHxCpG1RsJ4LpTFtmxlbfwj42FvgL6b7pOUa78Y=&ref=9966007",
     "size": 2301781
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rS173lT3Ijss_z9ivjA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fT6apjzJcBOzBQDs0xA"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 2/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ศึกษาปัญหาและข้อเสนอด้านโรงฆ่าสัตว์และการแปรรูปเนื้อ",
+  "summary": "ที่ประชุมพิจารณากฎหมายและกลไกกำกับดูแลด้านโรงฆ่าสัตว์และการแปรรูปเนื้อ พบว่ามาตรฐานและระบบกำกับดูแลยังขาดความยืดหยุ่นและไม่สอดคล้องกับบริบทการผลิตที่หลากหลาย โดยเห็นว่ามาตรฐานด้านความปลอดภัยอาหารควรอยู่บนฐานเดียวกัน เพื่อคุ้มครองผู้บริโภคในประเทศอย่างเท่าเทียม",
+  "items": [
+   [
+    "สถานการณ์ ปัญหา และข้อเสนอเชิงนโยบายด้านโรงฆ่าสัตว์และการแปรรูปเนื้อ",
+    "พิจารณา",
+    "law"
+   ]
+  ],
+  "tags": [
+   "โรงฆ่าสัตว์",
+   "ความปลอดภัยอาหาร",
+   "การแปรรูป"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -403,32 +502,46 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_q21M7rLkVqt5rorve7T-jxRgGo_Qm3ao83BfrON6gFtaHaar8-psWqYv_qx-VbgOkTNKWdeO8q3kY9E8KVN04eMSnAsCK4-HPBaHBxw2kX2zXySRV_Bb9yA_ybUPPPmYjkHsoXxp-bz27Of2HjrpggmuGbLdOdUdDw=&ref=9163421",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=STUeYYypurRQr7P_oMaVAD0Q3AvmLXjDrEMI5WvCtyZKB8oMbflXcuaGQJhH7f4qwy-beopcpN6IivEawDn8eD6qzl0I78xvPnTBC8WQHikZ45H8pug_8jfAmYMPIUHjjJmIfef3N9U8WTY0RbtoVR_TRCsandbH75s=&ref=9163421",
     "size": 101344
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lPT-AFeB-KwSSzRrGflTy4FobRBNPzOBr3llubuAuf9bY_0rDaR_4JJ69WRBaSrFm8sdk6T6SzFhyxBcvQXy5rRCch14YYZqLGswCfCn6e7JhnyP-we2PZ8sD4FPQBRJAzMdlgKDfLQB1pjO3da0zQX9YLzQfEX4SoI=&ref=9528082",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=AeG5lVEvzKXKB1Pd51lL-NpnXQ5GJ5gXxa8j2s5vqZ9Nfi-HfpXD5srRc8lSYP0EyKYdj2RmYAC54vrhK6kUcQRZVHoXrTs-pFP2ht1Le6rC7xnk6cheJax6Vsd6-4vCQ0H0ZL1HsupbV85kHp6KUUaX8qCU3KjDOao=&ref=9528082",
     "size": 2196738
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yrZw5R1AmMpQRshTbpojle7YvPjS0cgNfUIteNjIzRf_2OR39VKHzpYIdcQnimukGpOrqoHTBqSFtIwpzuoMXVB4MgZIJ9RA7S7WdNJoiSVN_HeBGzN79hgLZmEHfg_EAzGuK_OfV4ku6miV9dFG8rH-s1TfXQahCw4=&ref=9965977"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xBiAkQSKZaGMCyuQmBbYST-DOgu6CHwchR3hwpGxXEwjfPAGt4E37MlDgBzmjHr9ppW6R0NgYLt3SQEBHxzT46eCg6ccrjwQDEOQcbBhRsw4QfbGygKlfp46WeTHzbGdgNZxfDUNgT2qPo2TD2rOWFJtobBW5RmkW_M=&ref=9965977"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QT-R3h7a0yPgBAkqWJc"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=wnmoorPlpDbMSQOAUsY"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 1/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวมาเรีย เผ่าประทาน",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ศึกษากฎหมายตลอดห่วงโซ่โคเนื้อ: ช่วงการผลิตและพ่อค้าคนกลาง",
+  "summary": "ที่ประชุมวางกรอบศึกษากฎหมายตลอดห่วงโซ่โคเนื้อเป็น 5 ระยะ ได้แก่ การปรับปรุงพันธุ์ การผลิต พ่อค้าคนกลาง โรงฆ่าและการแปรรูป และการนำเข้า–ส่งออก แล้วพิจารณาระยะการผลิตและพ่อค้าคนกลาง โดยประเด็นหลักของการผลิตคือการรวมกลุ่มเกษตรกร การเคลื่อนย้ายสัตว์ และการใช้สารเร่งเนื้อแดง ที่ประชุมเห็นว่าการส่งเสริมเกษตรกรแบบเดียวกันทั้งหมดอาจไม่เหมาะกับบริบทจริงของแต่ละกลุ่ม",
+  "items": [
+   [
+    "กรอบการศึกษากฎหมายตลอดห่วงโซ่โคเนื้อ 5 ระยะ",
+    "กำหนดกรอบ",
+    "law"
+   ],
+   [
+    "ปัญหาและกฎหมายในช่วงการผลิตและพ่อค้าคนกลาง",
+    "พิจารณา",
+    "law"
+   ]
+  ],
+  "tags": [
+   "โคเนื้อ",
+   "กฎหมาย",
+   "การรวมกลุ่มเกษตรกร"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  }
 ]
