@@ -424,6 +424,39 @@ footer h4:not(#au){color:var(--gold-band-head)}
   .hero h1:not(#au),.panel>h2:not(#au),.sec>h2:not(#au){background-image:none}
 }
 </style>
+<!--FRICTION-->
+<style>
+html.sf-on{--sf:1}
+</style>
+<!--/FRICTION-->
+<!--HUB_ALERTS--><style>.hh-alert{display:flex;align-items:center;gap:14px;min-height:56px;margin:14px 0 18px;padding:12px 20px;border-radius:20px;background:var(--acc);color:var(--on-acc);text-decoration:none;max-width:560px}.hh-alert .ico{width:28px;height:28px;flex:none}.hh-alert b{display:block;font-size:1.12rem;line-height:1.35}.hh-alert .t{display:block;font-size:.98rem;line-height:1.45;opacity:.92;text-wrap:pretty}.hh-alert:focus-visible{outline:3px solid var(--gold);outline-offset:3px}@media (hover:hover){.hh-alert{transition:transform .18s cubic-bezier(.34,1.56,.64,1)}.hh-alert:hover{transform:translateY(-2px)}}@media (prefers-reduced-motion:reduce){.hh-alert{transition:none}.hh-alert:hover{transform:none}}</style>
+<!--TAP-->
+<style id="tap-css">
+:root{--tp-in:var(--ease-in,cubic-bezier(.5,0,.75,0));--tp-spring:var(--spring,cubic-bezier(.34,1.4,.64,1));--tp-out:var(--ease-out,cubic-bezier(.16,1,.3,1));--tp-ring:rgba(201,165,90,.9);--tp-hl:rgba(201,165,90,.30)}
+:root[data-theme="dark"]{--tp-ring:#E9C987;--tp-hl:rgba(233,201,135,.28)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--tp-ring:#E9C987;--tp-hl:rgba(233,201,135,.28)}}
+html{-webkit-tap-highlight-color:transparent}
+.tp-on{scale:var(--tp-s,.96);outline:3px solid var(--tp-ring)!important;outline-offset:2px;transition:scale .1s var(--tp-in),outline-color .1s var(--tp-in)!important}
+.tp-off{scale:1;outline:3px solid transparent!important;outline-offset:2px;transition:scale .45s var(--tp-spring),outline-color .3s var(--tp-out)!important}
+.tp-on.tp-inline{scale:none;outline:0!important;background-color:var(--tp-hl)!important;border-radius:4px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.tp-off.tp-inline{scale:none;outline:0!important;transition:background-color .3s var(--tp-out)!important}
+.lvb a.tp-on{scale:none;outline:0!important}
+.lvb a.tp-on .lvb-i{scale:.9;background-color:var(--tp-hl);transition:scale .1s var(--tp-in),background-color .1s var(--tp-in)}
+.lvb a.tp-off{scale:none;outline:0!important}
+.lvb a.tp-off .lvb-i{scale:1;transition:scale .45s var(--tp-spring),background-color .3s var(--tp-out)}
+.tp-here0{outline:3px solid transparent;outline-offset:6px;border-radius:10px;transition:outline-color .6s var(--tp-in)}
+.tp-here0.tp-here{outline-color:var(--tp-ring);transition:outline-color .35s var(--tp-out)}
+html.tp-glide .whereami{opacity:0!important;transition:none!important}
+#tp-load{position:fixed;left:0;top:0;height:4px;width:100%;z-index:2147483000;pointer-events:none;transform-origin:0 50%;transform:scaleX(0);
+ background:linear-gradient(90deg,#C9A55A,#E9C987);box-shadow:0 0 8px rgba(201,165,90,.6);opacity:0}
+#tp-load.go{opacity:1;transform:scaleX(.85);transition:transform 6s var(--tp-out),opacity .2s var(--tp-out)}
+@media (pointer:coarse){button.gl{padding-block:7px}}
+@media (prefers-reduced-motion:reduce){
+ .tp-on,.tp-off,.lvb a.tp-on .lvb-i,.lvb a.tp-off .lvb-i{scale:none;transition:none!important}
+ .tp-here0,.tp-here0.tp-here{transition:none}
+ #tp-load.go{transform:scaleX(.85);transition:none}}
+</style>
+<!--/TAP-->
 <!--LIVELY-->
 <style id="lively-css">
 :root{--lv-gold:var(--gold,#7A5C22);--lv-maroon:var(--maroon,#7A1F1A)}
@@ -464,12 +497,20 @@ footer h4:not(#au){color:var(--gold-band-head)}
 #quick .qbtn::after{content:"";position:absolute;inset:0;pointer-events:none;border-radius:inherit;background:radial-gradient(90% 120% at 0% 50%,rgba(201,162,83,.10),transparent 60%)}
 .lv-num{font-variant-numeric:tabular-nums}
 @media (prefers-reduced-motion:reduce){.lv-wm{transition:none}.lv-dot{animation:none}}
+.card>.when .d,.card>.when .m{display:block;min-width:64px;text-align:center;background:var(--paper,#fff);color:var(--ink,#1A110E);border:1.5px solid var(--line,#D8CDB8)}
+.card>.when .d{font-size:1.9rem!important;font-weight:800;line-height:1.15;padding:4px 6px 0;margin-top:6px;border-bottom:0;border-top:14px solid #6E1A16;border-radius:10px 10px 0 0}
+.card>.when .m{font-size:.95rem!important;font-weight:600;padding:0 6px 6px;margin-bottom:6px;border-top:0;border-radius:0 0 10px 10px;box-shadow:0 3px 6px rgba(60,30,10,.12)}
+@media (max-width:700px){
 .card>.when{display:grid!important;grid-template-columns:auto auto auto 1fr;grid-template-rows:auto auto;align-items:center;column-gap:0;row-gap:0}
-.card>.when .d,.card>.when .m{grid-column:1;display:block;min-width:64px;text-align:center;background:var(--paper,#fff);color:var(--ink,#1A110E);border:1.5px solid var(--line,#D8CDB8)}
-.card>.when .d{grid-row:1;font-size:1.9rem!important;font-weight:800;line-height:1.15;padding:4px 6px 0;margin-top:6px;border-bottom:0;border-top:14px solid #6E1A16;border-radius:10px 10px 0 0}
-.card>.when .m{grid-row:2;font-size:.95rem!important;font-weight:600;padding:0 6px 6px;margin-bottom:6px;border-top:0;border-radius:0 0 10px 10px;box-shadow:0 3px 6px rgba(60,30,10,.12)}
+.card>.when .d,.card>.when .m{grid-column:1}.card>.when .d{grid-row:1}.card>.when .m{grid-row:2}
 .card>.when .lbl,.card>.when .no,.card>.when .yr{grid-row:1 / span 2;align-self:center}
 .card>.when .lbl{grid-column:2;margin-left:16px;margin-right:.3em}.card>.when .no{grid-column:3}.card>.when .yr{grid-column:4;justify-self:start;margin-left:.12em!important}
+}
+@media (min-width:701px){
+.card>.when{gap:0!important;justify-content:flex-start}
+.card>.when .d{order:-2;margin-top:0}.card>.when .m{order:-1;margin-bottom:10px}
+.card>.when .lbl,.card>.when .no,.card>.when .yr{margin-left:0!important;max-width:100%;overflow-wrap:anywhere}
+}
 .play .pc{box-shadow:0 0 0 4px rgba(217,182,106,.95),0 8px 22px rgba(0,0,0,.35)!important}
 .play .pc::after{content:"";position:absolute;inset:-10px;border-radius:50%;border:3px solid rgba(217,182,106,.8);pointer-events:none;animation:lv2Ring 2.6s var(--ease-breathe) 3}
 .play .pc{position:relative}
@@ -537,11 +578,6 @@ footer h4:not(#au){color:var(--gold-band-head)}
 @media (prefers-reduced-motion:reduce){.lvs{opacity:1;transform:none;transition:none}.lvb,.lvb.lvb-hide{transition:none}}
 </style>
 <!--/LIVELY-->
-<!--FRICTION-->
-<style>
-html.sf-on{--sf:1}
-</style>
-<!--/FRICTION-->
 </head>
 <body>
 <a class="dk-skip" href="#list">ข้ามไปที่รายชื่อคณะกรรมาธิการ</a>
@@ -621,6 +657,7 @@ html.sf-on{--sf:1}
  <section class="sec hh-sec" id="hh-mine" aria-labelledby="hh-mine-h">
   <h2 id="hh-mine-h"><svg class="ico" aria-hidden="true"><use href="#i-star-on"/></svg>คณะที่ท่านติดตาม</h2>
   <p class="hh-note">บันทึกไว้ในเครื่องนี้เท่านั้น ไม่ต้องสมัครสมาชิก และไม่มีการส่งข้อมูลไปที่ใด</p>
+  <a class="hh-alert" href="alerts/"><svg class="ico" aria-hidden="true"><use href="#i-mail"/></svg><span><b>รับแจ้งเตือนทางอีเมล</b><span class="t">เมื่อคณะที่ท่านเลือกมีนัดประชุม สรุปการประชุม หรือวิดีโอใหม่ เลิกรับได้ทุกเมื่อ</span></span></a>
   <div class="hh-mine" id="hh-minelist"></div>
  </section>
 
@@ -719,6 +756,7 @@ html.sf-on{--sf:1}
  <li><b>ฉบับภาษาอังกฤษ</b> เป็นคำแปลโดยใช้ AI ช่วย เพื่อความสะดวกเท่านั้น หากความหมายต่างกัน ให้ถือตามฉบับภาษาไทยและเอกสารทางการของสำนักงานเลขาธิการวุฒิสภา</li>
    <li>แจ้งแก้ไขข้อมูล: <span id="contact">โปรดแจ้งผู้ที่ส่งลิงก์นี้ให้ท่าน</span></li>
    <li>ข้อตกลงการใช้งานของแต่ละคลังอยู่ในหน้าคลังนั้น · หน้านี้ไม่ใช้คุกกี้และไม่เก็บข้อมูลส่วนบุคคล (จำเพียงขนาดตัวอักษรและภาษาที่เลือกไว้ในเครื่องของท่าน)</li>
+   <li>การรับแจ้งเตือนทางอีเมลเป็นบริการแยกที่ท่านเลือกสมัครเอง อ่าน<a href="alerts/privacy.html">การใช้ข้อมูลของท่าน</a></li>
   </ul>
   <div class="f-credit"><span class="unofficial"><svg class="ico" aria-hidden="true"><use href="#i-info"/></svg>ไม่ใช่เว็บไซต์ทางการของวุฒิสภา</span><span>ปรับปรุงล่าสุด <span id="updated" class="nb">11 พฤศจิกายน 2569</span></span></div>
  </div>
@@ -780,7 +818,7 @@ function card(c){
   const y0 = c.years[0], st = stats(y0.snap);
   const ylinks = c.years.map((y,i) => `<a class="ybtn${i ? "" : " main"}" href="${esc(y.url)}">${i ? "" : "เปิดคลังปี "}${i ? "คลังปี " : ""}${y.year} ${i ? "" : ic("arrow")}</a>`).join("");
   return `<article class="cmte" id="c-${esc(c.id)}">
-   <div class="c-head"><span class="c-badge cs">${ic(({"agriculture": "cs-agri", "military": "cs-security", "public-admin": "cs-admin", "labour": "cs-labour"})[c.id] || "cols")}</span><div><h3>${esc(c.name)}</h3><p class="c-house">${esc(c.house)}${c.subs ? " · " + nb("คณะอนุกรรมาธิการ " + c.subs + " คณะ") : ""}</p></div></div>
+   <div class="c-head"><span class="c-badge cs"><svg class="ico" aria-hidden="true"><use href="#${({"agriculture": "cs-agri", "military": "cs-security", "public-admin": "cs-admin", "labour": "cs-labour"})[c.id] || "i-cols"}"/></svg></span><div><h3>${esc(c.name)}</h3><p class="c-house">${esc(c.house)}${c.subs ? " · " + nb("คณะอนุกรรมาธิการ " + c.subs + " คณะ") : ""}</p></div></div>
    <p class="c-chair">${ic("person")}<span>ประธานคณะกรรมาธิการ <b class="nb">${esc(c.chair)}</b><small>ข้อมูล ณ ${nb(esc(c.chair_asof))}</small></span></p>
    <div class="facts">
     <div class="fact">${ic("cal")}<span><small>ประชุมแล้วในปี ${y0.year}</small><b>${st.held} ครั้ง</b></span></div>
@@ -1539,7 +1577,7 @@ html .top.hh .fs button:focus-visible,html .top.hh .lang button:focus-visible{ou
 .hh-chip.up{background:#2D2A4A;color:#fff}
 .hh-chip.held{background:#E1F2E8;color:#1B6E45}
 .hh-chip.vid{background:var(--acc-soft);color:var(--acc)}
-.hh-morebtn{display:flex;justify-content:center;margin:12px 0 0}
+.hh-morebtn{display:flex;justify-content:center;margin:12px 0 0}.hh-morebtn[hidden]{display:none}
 .hh-morebtn button,.hh-morebtn a{display:inline-flex;align-items:center;gap:8px;min-height:52px;padding:0 22px;border-radius:99px;border:2px solid var(--acc);background:var(--paper);color:var(--acc);font:inherit;font-weight:700;font-size:1.04rem;text-decoration:none;cursor:pointer}
 .hh-morebtn button:focus-visible,.hh-morebtn a:focus-visible{outline:3px solid var(--gold-deco);outline-offset:2px}
 
@@ -1669,6 +1707,7 @@ html .top.hh .fs button:focus-visible,html .top.hh .lang button:focus-visible{ou
 </style>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
  <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+ <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="M4 7.5l8 6 8-6"/></symbol>
  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l5 5"/></symbol>
  <symbol id="i-hand" viewBox="0 0 24 24"><path d="M12 21c-4 0-7-3-7-7v-3.5a1.5 1.5 0 0 1 3 0V13"/><path d="M8 12V5.5a1.5 1.5 0 0 1 3 0V11M11 10.5V4a1.5 1.5 0 0 1 3 0v6.5M14 10.5V5.5a1.5 1.5 0 0 1 3 0V14c0 4-2.5 7-5 7"/></symbol>
  <symbol id="i-ext" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></symbol>
@@ -2213,6 +2252,236 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
 })();
 </script>
 
+<script id="friction-js">
+/* Section scroll friction v2 (Sukit 11 Nov 2569 15:32 UTC "add scrolling momentum ... friction"; 15:51 UTC "Optimize this").
+   Mouse wheel / trackpad: the page glides and slows near the start of every section (headings, meeting cards, sections);
+   pushing on past a section start meets a little resistance, then frees up.
+   v2: friction eases off for fast scrolling (a quick flick barely feels it, slow reading feels it most); trackpads get a
+   shorter glide so they never feel laggy; section positions are kept in a sorted list (binary search) and only re-read
+   when the page changes size; scrollable-box checks are cached; phones/tablets without a mouse do not load the wheel code.
+   Never stuck: never below 35 % speed, settles only forward, any key/click/tap/scrollbar/link takes over at once, watchdog.
+   Off for: Reduce Motion, Ctrl/Cmd zoom, horizontal scroll, inside scrollable boxes, open pop-ups, data-sf-off. */
+(function(){
+"use strict";
+var W=window,D=document,H=D.documentElement;
+if(H.hasAttribute("data-sf-off")||W.__sf)return;W.__sf=1;
+function mq(q){return W.matchMedia?W.matchMedia(q):{matches:false}}
+var RM=mq("(prefers-reduced-motion: reduce)"),FINE=mq("(any-pointer: fine)");
+var SEL="main > section, main h2, article.card, .d-sec, footer";
+var ZONE=200,FMIN=.35,SNAP=64,TSNAP=40,TAU_W=110,TAU_T=55,MAXRUN=2500;
+var tgt=0,run=0,raf=0,last=0,mine=-1,t0=0,tau=TAU_W,idle=0,dirty=1,bounds=[],dock=16,dir=0,lastY=0,
+    vel=0,vT=0,boxCache=null,boxT=0,touching=0,swiping=0,quiet=0;
+function off(){return RM.matches||H.hasAttribute("data-sf-off")||W.__sfOff===true}
+function maxY(){return Math.max(0,H.scrollHeight-W.innerHeight)}
+/* section starts: re-read only when the page changed size (ResizeObserver) or the window resized */
+function measure(){
+  if(!dirty)return;dirty=0;
+  var top=D.querySelector("header.top");dock=16;
+  if(top){var cs=getComputedStyle(top);if(cs.position==="sticky"||cs.position==="fixed"){var r=top.getBoundingClientRect();if(r.bottom>0&&r.bottom<W.innerHeight/3)dock=r.bottom+16}}
+  var ys=[],y=W.scrollY,l=D.querySelectorAll(SEL);
+  for(var i=0;i<l.length;i++){var e=l[i],r=e.getBoundingClientRect();if(!r.height)continue;
+    if(e.tagName!=="H2"&&r.height<160)continue;ys.push(Math.round(r.top+y)-dock)}
+  ys.sort(function(a,b){return a-b});bounds=[];
+  for(var j=0;j<ys.length;j++){if(ys[j]<40)continue;if(!bounds.length||ys[j]-bounds[bounds.length-1]>120)bounds.push(ys[j])}
+}
+function nearest(y){ /* binary search: scroll position whose section start sits on the dock line */
+  var lo=0,hi=bounds.length-1;if(hi<0)return null;
+  while(lo<hi){var m=(lo+hi)>>1;if(bounds[m]<y)lo=m+1;else hi=m}
+  var a=bounds[lo],b=lo>0?bounds[lo-1]:a;return Math.abs(a-y)<Math.abs(b-y)?a:b}
+function ease(x){return x<=0?0:x>=1?1:x*x*(3-2*x)}
+function friction(y,fast){var n=nearest(y);if(n===null)return 1;
+  var f=FMIN+(1-FMIN)*ease(Math.abs(n-y)/ZONE);return f+(1-f)*fast}
+function scrollableBox(el){
+  var now=Date.now();if(boxCache&&boxCache.el===el&&now-boxT<400)return boxCache.v;
+  var v=false;
+  for(var x=el;x&&x!==D.body&&x!==H;x=x.parentElement){
+    if(x.hasAttribute&&x.hasAttribute("data-sf-off")){v=true;break}
+    var t=x.tagName;if(t==="IFRAME"||t==="VIDEO"||t==="CANVAS"||t==="SELECT"||t==="TEXTAREA"||t==="DIALOG"){v=true;break}
+    if(x.scrollHeight>x.clientHeight+1){var o=getComputedStyle(x).overflowY;if(o==="auto"||o==="scroll"||o==="overlay"){v=true;break}}
+  }boxCache={el:el,v:v};boxT=now;return v}
+function locked(){return H.classList.contains("gated")||!!D.querySelector("dialog[open]")||getComputedStyle(D.body).overflowY==="hidden"||getComputedStyle(H).overflowY==="hidden"}
+function to(y){try{W.scrollTo({top:y,left:W.scrollX,behavior:"instant"})}catch(_){W.scrollTo(W.scrollX,y)}}
+function stop(){if(raf)cancelAnimationFrame(raf);raf=0;run=0;mine=-1}
+function go(){if(!run){run=1;last=performance.now();t0=last;raf=requestAnimationFrame(step)}}
+function step(now){
+  var dt=Math.min(64,now-last);last=now;var y=W.scrollY;
+  if(mine>=0&&Math.abs(y-mine)>3){stop();return} /* someone else moved the page: hand over */
+  var diff=tgt-y;
+  if(Math.abs(diff)<.6||now-t0>MAXRUN){to(Math.round(tgt));stop();return}
+  to(y+diff*(1-Math.exp(-dt/tau)));mine=W.scrollY;
+  if(Math.abs(mine-y)<.05&&Math.abs(diff)>2&&now-t0>200){stop();return} /* page cannot move: never fight it */
+  raf=requestAnimationFrame(step)}
+function settle(maxd){
+  if(off()||locked())return;measure();var y=W.scrollY,n=nearest(y);if(n===null)return;var d=n-y;
+  if(Math.abs(d)>maxd||Math.abs(d)<2||!dir||(d>0)!==(dir>0))return; /* only ever settle FORWARD */
+  tgt=Math.max(0,Math.min(maxY(),n));tau=TAU_W;t0=performance.now();go()}
+function onWheel(e){
+  if(e.defaultPrevented||e.ctrlKey||e.metaKey||off())return;
+  var dy=e.deltaY,dx=e.deltaX;if(e.deltaMode===1){dy*=40;dx*=40}else if(e.deltaMode===2){dy*=W.innerHeight;dx*=W.innerHeight}
+  if(!dy||Math.abs(dx)>Math.abs(dy))return;
+  if(scrollableBox(e.target)||locked())return;
+  measure();
+  if(!run)tgt=W.scrollY;
+  var m=maxY();if((dy<0&&tgt<=0)||(dy>0&&tgt>=m))return;
+  e.preventDefault();dir=dy>0?1:-1;
+  /* trackpad = small fractional/pixel deltas arriving fast: short glide, it has its own inertia */
+  var pad=e.deltaMode===0&&(Math.abs(dy)<50||dy%1!==0);tau=pad?TAU_T:TAU_W;
+  /* speed in px per second (smoothed): fast scrolling eases friction off, 0 = slow, 1 = fast */
+  var now=performance.now(),gap=Math.max(8,now-vT);vT=now;
+  vel=gap>250?Math.abs(dy)*4:vel*.6+(Math.abs(dy)/gap*1000)*.4;
+  var fast=ease((vel-1500)/3500);
+  dy=Math.max(-W.innerHeight*.9,Math.min(W.innerHeight*.9,dy));
+  var rest=dy,s=dy>0?1:-1; /* read friction along the way, so a big flick still slows at a section start */
+  while(Math.abs(rest)>.5){var sl=s*Math.min(24,Math.abs(rest));tgt+=sl*friction(tgt,fast);rest-=sl}
+  tgt=Math.max(0,Math.min(m,tgt));t0=now;
+  clearTimeout(idle);idle=setTimeout(function(){settle(SNAP)},180);
+  go()}
+function hand(){clearTimeout(idle);clearTimeout(quiet);if(run)stop()}
+function mark(){dirty=1}
+if(FINE.matches||!("ontouchstart" in W)){ /* wheel code only where a mouse or trackpad exists */
+  W.addEventListener("wheel",onWheel,{passive:false});
+  ["keydown","mousedown"].forEach(function(t){W.addEventListener(t,hand,{passive:true,capture:true})});
+}
+W.addEventListener("pointerdown",hand,{passive:true,capture:true});
+/* phones: only after a real swipe ends (momentum finished) close to a section start */
+W.addEventListener("touchstart",function(){touching=1;swiping=0;hand()},{passive:true,capture:true});
+W.addEventListener("touchmove",function(){swiping=1},{passive:true,capture:true});
+W.addEventListener("touchend",function(){touching=0},{passive:true,capture:true});
+function swipeDone(){if(!touching&&swiping&&!run){swiping=0;settle(TSNAP)}}
+W.addEventListener("scroll",function(){
+  var y=W.scrollY;if(y!==lastY){dir=y>lastY?1:-1;lastY=y}
+  if(run||touching||!swiping||"onscrollend" in W)return;clearTimeout(quiet);quiet=setTimeout(swipeDone,160)},{passive:true});
+if("onscrollend" in W)W.addEventListener("scrollend",swipeDone,{passive:true});
+W.addEventListener("hashchange",hand);W.addEventListener("resize",mark,{passive:true});
+D.addEventListener("visibilitychange",hand);
+if(W.ResizeObserver){var ro=new ResizeObserver(mark);ro.observe(D.body);var mn=D.querySelector("main");if(mn)ro.observe(mn)}
+else setInterval(mark,1500);
+D.addEventListener("click",function(){setTimeout(mark,350)},{passive:true,capture:true}); /* filters/folds change layout */
+H.classList.add("sf-on");
+W.__sfStop=hand;
+})();
+</script>
+<script id="tap-js">
+(function(){"use strict";
+var W=window,D=document,H=D.documentElement;if(W.__tapOn)return;W.__tapOn=1;
+var RM=W.matchMedia?matchMedia("(prefers-reduced-motion: reduce)"):{matches:false};
+var SEL='a[href],button,summary,[role="button"],[role="tab"],[role="link"],label[for],select,input[type="checkbox"],input[type="radio"],input[type="button"],input[type="submit"]';
+/* iOS Safari only runs :active styles when the page listens for touches */
+D.addEventListener("touchstart",function(){},{passive:true});
+
+/* ---------- 1 press feedback ---------- */
+var cur=null,t0=0,showT=0,offT=new WeakMap();
+function tappable(t){var el=t&&t.closest?t.closest(SEL):null;
+ if(!el||el.disabled||el.getAttribute("aria-disabled")==="true"||el.closest("[data-tp-off]"))return null;return el}
+function show(el){if(!el)return;clearTimeout(offT.get(el));el.classList.remove("tp-off");
+ var cs=getComputedStyle(el);if(cs.display==="inline")el.classList.add("tp-inline");
+ else{var r=el.getBoundingClientRect(),m=Math.max(r.width,r.height)||48;el.style.setProperty("--tp-s",Math.min(.99,Math.max(.95,1-8/m)).toFixed(3))}
+ el.classList.add("tp-on");t0=Date.now()}
+function release(el,hold){if(!el)return;var wait=Math.max(0,(hold||140)-(Date.now()-t0));
+ setTimeout(function(){if(cur===el)cur=null;el.classList.remove("tp-on");el.classList.add("tp-off");
+  offT.set(el,setTimeout(function(){el.classList.remove("tp-off","tp-inline")},460))},wait)}
+function cancel(){clearTimeout(showT);if(cur){var el=cur;cur=null;el.classList.remove("tp-on","tp-inline")}}
+D.addEventListener("pointerdown",function(e){if(e.button>0||e.isPrimary===false)return;cancel();var el=tappable(e.target);if(!el)return;cur=el;
+ /* a finger may be starting a scroll: wait 60 ms before showing, so swiping over a button does not flash it */
+ if(e.pointerType==="mouse")show(el);else{clearTimeout(showT);showT=setTimeout(function(){if(cur===el)show(el)},60)}},{passive:true,capture:true});
+D.addEventListener("pointerup",function(){if(!cur)return;var el=cur;
+ if(!el.classList.contains("tp-on")){clearTimeout(showT);show(el)} /* quick tap: still show the press */
+ release(el)},{passive:true,capture:true});
+D.addEventListener("pointercancel",cancel,{passive:true,capture:true});
+D.addEventListener("dragstart",cancel,{passive:true,capture:true});
+D.addEventListener("keydown",function(e){if(e.key!=="Enter"&&e.key!==" ")return;var el=tappable(e.target);if(el&&el===D.activeElement){show(el);cur=el;release(el)}},true);
+
+/* ---------- 2 glide to a part of the same page ---------- */
+var EO=function(){ /* cubic-bezier(.16,1,.3,1) = --ease-out, solved for x */
+ var x1=.16,y1=1,x2=.3,y2=1;function bz(t,a,b){return 3*a*t*(1-t)*(1-t)+3*b*t*t*(1-t)+t*t*t}
+ return function(x){if(x<=0)return 0;if(x>=1)return 1;var lo=0,hi=1,t=x;for(var i=0;i<22;i++){t=(lo+hi)/2;if(bz(t,x1,x2)<x)lo=t;else hi=t}return bz(t,y1,y2)}}();
+function visible(el){if(!el||!el.isConnected)return false;if(el.closest("[hidden],dialog:not([open]),template"))return false;
+ var r=el.getBoundingClientRect();return r.width>0||r.height>0||el.tagName==="DETAILS"}
+function scroller(el){for(var p=el.parentElement;p&&p!==D.body&&p!==H;p=p.parentElement){var s=getComputedStyle(p).overflowY;
+ if((s==="auto"||s==="scroll")&&p.scrollHeight>p.clientHeight+2)return p}return null}
+function topClear(box){ /* height of bars fixed to the top of the screen (or of the scrolling box) */
+ if(box)return 0;var y=0,seen=[];[innerWidth/2,24,innerWidth-24].forEach(function(x){var st=D.elementsFromPoint?D.elementsFromPoint(x,2):[];
+  st.forEach(function(e){for(var p=e;p&&p!==D.body&&p!==H;p=p.parentElement){if(seen.indexOf(p)>=0)break;seen.push(p);
+   var ps=getComputedStyle(p).position;if(ps==="fixed"||ps==="sticky"){var r=p.getBoundingClientRect();if(r.top<=2&&r.height<innerHeight*.4&&!p.matches("#tp-load"))y=Math.max(y,r.bottom)}}})});
+ return y}
+function headOf(t){if(t.matches("h1,h2,h3,h4,summary"))return t;var h=t.querySelector("h1,h2,h3,summary");
+ if(h){var a=t.getBoundingClientRect(),b=h.getBoundingClientRect();if(b.top-a.top<160)return h}return t}
+function ring(el){if(!el)return;el.classList.add("tp-here0");requestAnimationFrame(function(){el.classList.add("tp-here");
+ setTimeout(function(){el.classList.remove("tp-here");setTimeout(function(){el.classList.remove("tp-here0")},650)},1400)})}
+var anim=null,quietT=0;
+function stopAnim(){if(anim){var a=anim;cancelAnimationFrame(a.raf);anim=null;a.stop&&a.stop()}}
+["touchstart","wheel","keydown"].forEach(function(n){addEventListener(n,function(){stopAnim();clearTimeout(quietT);H.classList.remove("tp-glide")},{passive:true,capture:true})});
+var nSIV=Element.prototype.scrollIntoView,nST=W.scrollTo;
+function getY(box){return box?box.scrollTop:(W.scrollY||H.scrollTop)}
+function maxY(box){return box?box.scrollHeight-box.clientHeight:Math.max(H.scrollHeight,D.body.scrollHeight)-innerHeight}
+function setY(box,y){if(box)box.scrollTop=y;else nST.call(W,W.scrollX||0,y)}
+/* glide the page (or a scrolling box) to aim(); aim is asked again every frame */
+function run(box,aim,then){stopAnim();if(W.__sfStop)try{W.__sfStop()}catch(e){}
+ var y0=getY(box),goal=aim(),dist=Math.abs(goal-y0),vh=box?box.clientHeight:innerHeight;
+ if(RM.matches||dist<2){setY(box,goal);then&&then();return}
+ /* very far away: skip most of the way at once, then glide the last stretch, so the page never becomes a blur */
+ if(dist>3*vh){y0=goal-(goal>y0?1:-1)*1.5*vh;setY(box,Math.round(y0));dist=1.5*vh}
+ var dur=Math.min(760,Math.max(340,260+dist*.06)),start=0,a={raf:0},oa=H.style.overflowAnchor;anim=a;
+ H.style.overflowAnchor="none"; /* no browser scroll anchoring while gliding */
+ clearTimeout(quietT);H.classList.add("tp-glide"); /* the "where am I" chip stays away so it never covers the heading we land on */
+ function done(){if(anim===a)anim=null;H.style.overflowAnchor=oa;quietT=setTimeout(function(){H.classList.remove("tp-glide")},2200)}a.stop=done;
+ function step(ts){if(anim!==a)return;if(!start)start=ts;
+  var p=Math.min(1,(ts-start)/dur),y=y0+(aim()-y0)*EO(p);setY(box,Math.round(y));
+  if(p<1)a.raf=requestAnimationFrame(step);else{done();then&&then()}}
+ a.raf=requestAnimationFrame(step)}
+function glide(t,then){var box=scroller(t);
+ run(box,function(){var r=headOf(t).getBoundingClientRect(),base=box?box.getBoundingClientRect().top:0;
+  return Math.max(0,Math.min(maxY(box),getY(box)+r.top-base-topClear(box)-14))},then)}
+/* the page's own smooth scrolls (meeting cards, back to top, bottom bar, topic tags) use the same glide and landing */
+var clickTick=0,barTick=0;
+D.addEventListener("click",function(e){clickTick=1;barTick=!!(e.target.closest&&e.target.closest(".lvb"));setTimeout(function(){clickTick=barTick=0},0)},true);
+function mine(el,o){if(RM.matches||!el.isConnected||scroller(el)||el.closest("dialog[open],[role=dialog]"))return false;
+ if(o&&typeof o==="object"){if(o.block&&o.block!=="start")return false;return o.behavior==="smooth"||(clickTick&&o.behavior!=="instant")}
+ return clickTick&&o!==false}
+Element.prototype.scrollIntoView=function(o){try{if(mine(this,o)){glide(this);return}}catch(e){}return nSIV.apply(this,arguments)};
+var BAR=["#hh-latest","#hh-videos","#hh-all","#st-up","#feed","#controls"];
+W.scrollTo=function(o){try{if(o&&typeof o==="object"&&o.behavior==="smooth"&&typeof o.top==="number"&&!RM.matches){
+  var y=o.top,el=null;
+  if(barTick){ /* bottom-bar tabs aim below the tall phone header; land the section right at the top instead */
+   var th=((D.querySelector(".top")||{}).offsetHeight)||0;
+   BAR.forEach(function(s){var e=D.querySelector(s);if(!el&&e&&Math.abs(e.getBoundingClientRect().top+getY()-th-10-y)<6)el=e})}
+  if(el)glide(el,function(){ring(headOf(el))});else run(null,function(){return Math.max(0,Math.min(maxY(),y))});return}}catch(e){}
+ return nST.apply(W,arguments)};
+function openWay(t){ /* open closed <details> and "find-in-page" folds that hide the target */
+ var f=t.closest('[hidden="until-found"]');if(f){try{t.dispatchEvent(new Event("beforematch",{bubbles:true}))}catch(e){}if(f.getAttribute("hidden")==="until-found")f.removeAttribute("hidden")}
+ for(var p=t;p&&p!==D.body;p=p.parentElement){if(p.tagName==="DETAILS"&&!p.open)p.open=true}}
+function watch(fn){ /* run fn and tell whether the page's own code scrolled meanwhile */
+ var hit=false,E=Element.prototype,o1=E.scrollIntoView,o2=W.scrollTo,o3=W.scrollBy;
+ E.scrollIntoView=function(){hit=true;return o1.apply(this,arguments)};W.scrollTo=function(){hit=true;return o2.apply(W,arguments)};W.scrollBy=function(){hit=true;return o3.apply(W,arguments)};
+ try{fn()}catch(e){}finally{E.scrollIntoView=o1;W.scrollTo=o2;W.scrollBy=o3}return hit}
+function go(t,hash,push){var old=location.href;
+ if(push&&location.hash!==hash){try{history.pushState(null,"",hash)}catch(e){}}
+ /* let the page's own hash code run (it unfolds sections); if it scrolls or opens a sheet itself, leave it to it */
+ var other=push&&watch(function(){var ev;try{ev=new HashChangeEvent("hashchange",{oldURL:old,newURL:location.href})}catch(e){ev=D.createEvent("Event");ev.initEvent("hashchange",false,false)}
+  if(old!==location.href)W.dispatchEvent(ev)});
+ if(other||D.querySelector("dialog[open]")&&!t.closest("dialog[open]"))return;
+ openWay(t);
+ requestAnimationFrame(function(){if(!visible(t))return;glide(t,function(){var h=headOf(t);ring(h);
+  if(!t.matches("a,button,input,select,textarea,summary,[tabindex]"))t.setAttribute("tabindex","-1");try{t.focus({preventScroll:true})}catch(e){}})})}
+D.addEventListener("click",function(e){if(e.defaultPrevented||e.button>0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+ var a=e.target.closest&&e.target.closest("a[href]");if(!a||a.closest("[data-tp-off]"))return;
+ var href=a.getAttribute("href");
+ if(href&&href.charAt(0)==="#"&&href.length>1){var t=null;try{t=D.getElementById(decodeURIComponent(href.slice(1)))}catch(x){}
+  /* no such element, or a sheet / video room: a route the page handles itself */
+  if(!t||t.matches("dialog,[role=dialog]")||t.closest("dialog:not([open]),template"))return;
+  var hid=t.closest("[hidden]");if(hid&&hid.getAttribute("hidden")!=="until-found")return;
+  /* inside an open sheet: glide inside it, leave the address alone (the page closes sheets on unknown addresses) */
+  var inSheet=!!a.closest("dialog[open],[role=dialog]");
+  e.preventDefault();go(t,href,!inSheet);return}
+ /* 3 another page on this site in this tab: loading line */
+ if(a.target&&a.target!=="_self"||a.hasAttribute("download"))return;var u;try{u=new URL(a.href,location.href)}catch(x){return}
+ if(u.origin!==location.origin||(u.pathname===location.pathname&&u.search===location.search))return;
+ setTimeout(function(){if(e.defaultPrevented)return;var l=D.getElementById("tp-load");if(!l){l=D.createElement("div");l.id="tp-load";l.setAttribute("aria-hidden","true");D.body.appendChild(l)}
+  l.classList.remove("go");void l.offsetWidth;l.classList.add("go");setTimeout(function(){l.classList.remove("go")},9000)},0)},false);
+addEventListener("pageshow",function(){var l=D.getElementById("tp-load");if(l)l.classList.remove("go")});
+W.__tapGlide=function(el){if(el)go(el,location.hash,false)};
+})();
+</script>
 <script id="lively-js">
 (function(){
 var RM=matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -2333,115 +2602,6 @@ function start(){all();
  // re-label when the visitor switches Thai/English
  new MutationObserver(function(){setTimeout(all,60)}).observe(document.documentElement,{attributes:true,attributeFilter:['lang']})}
 document.readyState==='complete'?start():addEventListener('load',start)})();
-</script>
-<script id="friction-js">
-/* Section scroll friction v2 (Sukit 11 Nov 2569 15:32 UTC "add scrolling momentum ... friction"; 15:51 UTC "Optimize this").
-   Mouse wheel / trackpad: the page glides and slows near the start of every section (headings, meeting cards, sections);
-   pushing on past a section start meets a little resistance, then frees up.
-   v2: friction eases off for fast scrolling (a quick flick barely feels it, slow reading feels it most); trackpads get a
-   shorter glide so they never feel laggy; section positions are kept in a sorted list (binary search) and only re-read
-   when the page changes size; scrollable-box checks are cached; phones/tablets without a mouse do not load the wheel code.
-   Never stuck: never below 35 % speed, settles only forward, any key/click/tap/scrollbar/link takes over at once, watchdog.
-   Off for: Reduce Motion, Ctrl/Cmd zoom, horizontal scroll, inside scrollable boxes, open pop-ups, data-sf-off. */
-(function(){
-"use strict";
-var W=window,D=document,H=D.documentElement;
-if(H.hasAttribute("data-sf-off")||W.__sf)return;W.__sf=1;
-function mq(q){return W.matchMedia?W.matchMedia(q):{matches:false}}
-var RM=mq("(prefers-reduced-motion: reduce)"),FINE=mq("(any-pointer: fine)");
-var SEL="main > section, main h2, article.card, .d-sec, footer";
-var ZONE=200,FMIN=.35,SNAP=64,TSNAP=40,TAU_W=110,TAU_T=55,MAXRUN=2500;
-var tgt=0,run=0,raf=0,last=0,mine=-1,t0=0,tau=TAU_W,idle=0,dirty=1,bounds=[],dock=16,dir=0,lastY=0,
-    vel=0,vT=0,boxCache=null,boxT=0,touching=0,swiping=0,quiet=0;
-function off(){return RM.matches||H.hasAttribute("data-sf-off")||W.__sfOff===true}
-function maxY(){return Math.max(0,H.scrollHeight-W.innerHeight)}
-/* section starts: re-read only when the page changed size (ResizeObserver) or the window resized */
-function measure(){
-  if(!dirty)return;dirty=0;
-  var top=D.querySelector("header.top");dock=16;
-  if(top){var cs=getComputedStyle(top);if(cs.position==="sticky"||cs.position==="fixed"){var r=top.getBoundingClientRect();if(r.bottom>0&&r.bottom<W.innerHeight/3)dock=r.bottom+16}}
-  var ys=[],y=W.scrollY,l=D.querySelectorAll(SEL);
-  for(var i=0;i<l.length;i++){var e=l[i],r=e.getBoundingClientRect();if(!r.height)continue;
-    if(e.tagName!=="H2"&&r.height<160)continue;ys.push(Math.round(r.top+y)-dock)}
-  ys.sort(function(a,b){return a-b});bounds=[];
-  for(var j=0;j<ys.length;j++){if(ys[j]<40)continue;if(!bounds.length||ys[j]-bounds[bounds.length-1]>120)bounds.push(ys[j])}
-}
-function nearest(y){ /* binary search: scroll position whose section start sits on the dock line */
-  var lo=0,hi=bounds.length-1;if(hi<0)return null;
-  while(lo<hi){var m=(lo+hi)>>1;if(bounds[m]<y)lo=m+1;else hi=m}
-  var a=bounds[lo],b=lo>0?bounds[lo-1]:a;return Math.abs(a-y)<Math.abs(b-y)?a:b}
-function ease(x){return x<=0?0:x>=1?1:x*x*(3-2*x)}
-function friction(y,fast){var n=nearest(y);if(n===null)return 1;
-  var f=FMIN+(1-FMIN)*ease(Math.abs(n-y)/ZONE);return f+(1-f)*fast}
-function scrollableBox(el){
-  var now=Date.now();if(boxCache&&boxCache.el===el&&now-boxT<400)return boxCache.v;
-  var v=false;
-  for(var x=el;x&&x!==D.body&&x!==H;x=x.parentElement){
-    if(x.hasAttribute&&x.hasAttribute("data-sf-off")){v=true;break}
-    var t=x.tagName;if(t==="IFRAME"||t==="VIDEO"||t==="CANVAS"||t==="SELECT"||t==="TEXTAREA"||t==="DIALOG"){v=true;break}
-    if(x.scrollHeight>x.clientHeight+1){var o=getComputedStyle(x).overflowY;if(o==="auto"||o==="scroll"||o==="overlay"){v=true;break}}
-  }boxCache={el:el,v:v};boxT=now;return v}
-function locked(){return H.classList.contains("gated")||!!D.querySelector("dialog[open]")||getComputedStyle(D.body).overflowY==="hidden"||getComputedStyle(H).overflowY==="hidden"}
-function to(y){try{W.scrollTo({top:y,left:W.scrollX,behavior:"instant"})}catch(_){W.scrollTo(W.scrollX,y)}}
-function stop(){if(raf)cancelAnimationFrame(raf);raf=0;run=0;mine=-1}
-function go(){if(!run){run=1;last=performance.now();t0=last;raf=requestAnimationFrame(step)}}
-function step(now){
-  var dt=Math.min(64,now-last);last=now;var y=W.scrollY;
-  if(mine>=0&&Math.abs(y-mine)>3){stop();return} /* someone else moved the page: hand over */
-  var diff=tgt-y;
-  if(Math.abs(diff)<.6||now-t0>MAXRUN){to(Math.round(tgt));stop();return}
-  to(y+diff*(1-Math.exp(-dt/tau)));mine=W.scrollY;
-  if(Math.abs(mine-y)<.05&&Math.abs(diff)>2&&now-t0>200){stop();return} /* page cannot move: never fight it */
-  raf=requestAnimationFrame(step)}
-function settle(maxd){
-  if(off()||locked())return;measure();var y=W.scrollY,n=nearest(y);if(n===null)return;var d=n-y;
-  if(Math.abs(d)>maxd||Math.abs(d)<2||!dir||(d>0)!==(dir>0))return; /* only ever settle FORWARD */
-  tgt=Math.max(0,Math.min(maxY(),n));tau=TAU_W;t0=performance.now();go()}
-function onWheel(e){
-  if(e.defaultPrevented||e.ctrlKey||e.metaKey||off())return;
-  var dy=e.deltaY,dx=e.deltaX;if(e.deltaMode===1){dy*=40;dx*=40}else if(e.deltaMode===2){dy*=W.innerHeight;dx*=W.innerHeight}
-  if(!dy||Math.abs(dx)>Math.abs(dy))return;
-  if(scrollableBox(e.target)||locked())return;
-  measure();
-  if(!run)tgt=W.scrollY;
-  var m=maxY();if((dy<0&&tgt<=0)||(dy>0&&tgt>=m))return;
-  e.preventDefault();dir=dy>0?1:-1;
-  /* trackpad = small fractional/pixel deltas arriving fast: short glide, it has its own inertia */
-  var pad=e.deltaMode===0&&(Math.abs(dy)<50||dy%1!==0);tau=pad?TAU_T:TAU_W;
-  /* speed in px per second (smoothed): fast scrolling eases friction off, 0 = slow, 1 = fast */
-  var now=performance.now(),gap=Math.max(8,now-vT);vT=now;
-  vel=gap>250?Math.abs(dy)*4:vel*.6+(Math.abs(dy)/gap*1000)*.4;
-  var fast=ease((vel-1500)/3500);
-  dy=Math.max(-W.innerHeight*.9,Math.min(W.innerHeight*.9,dy));
-  var rest=dy,s=dy>0?1:-1; /* read friction along the way, so a big flick still slows at a section start */
-  while(Math.abs(rest)>.5){var sl=s*Math.min(24,Math.abs(rest));tgt+=sl*friction(tgt,fast);rest-=sl}
-  tgt=Math.max(0,Math.min(m,tgt));t0=now;
-  clearTimeout(idle);idle=setTimeout(function(){settle(SNAP)},180);
-  go()}
-function hand(){clearTimeout(idle);clearTimeout(quiet);if(run)stop()}
-function mark(){dirty=1}
-if(FINE.matches||!("ontouchstart" in W)){ /* wheel code only where a mouse or trackpad exists */
-  W.addEventListener("wheel",onWheel,{passive:false});
-  ["keydown","mousedown"].forEach(function(t){W.addEventListener(t,hand,{passive:true,capture:true})});
-}
-W.addEventListener("pointerdown",hand,{passive:true,capture:true});
-/* phones: only after a real swipe ends (momentum finished) close to a section start */
-W.addEventListener("touchstart",function(){touching=1;swiping=0;hand()},{passive:true,capture:true});
-W.addEventListener("touchmove",function(){swiping=1},{passive:true,capture:true});
-W.addEventListener("touchend",function(){touching=0},{passive:true,capture:true});
-function swipeDone(){if(!touching&&swiping&&!run){swiping=0;settle(TSNAP)}}
-W.addEventListener("scroll",function(){
-  var y=W.scrollY;if(y!==lastY){dir=y>lastY?1:-1;lastY=y}
-  if(run||touching||!swiping||"onscrollend" in W)return;clearTimeout(quiet);quiet=setTimeout(swipeDone,160)},{passive:true});
-if("onscrollend" in W)W.addEventListener("scrollend",swipeDone,{passive:true});
-W.addEventListener("hashchange",hand);W.addEventListener("resize",mark,{passive:true});
-D.addEventListener("visibilitychange",hand);
-if(W.ResizeObserver){var ro=new ResizeObserver(mark);ro.observe(D.body);var mn=D.querySelector("main");if(mn)ro.observe(mn)}
-else setInterval(mark,1500);
-D.addEventListener("click",function(){setTimeout(mark,350)},{passive:true,capture:true}); /* filters/folds change layout */
-H.classList.add("sf-on");
-W.__sfStop=hand;
-})();
 </script>
 </body>
 </html>
