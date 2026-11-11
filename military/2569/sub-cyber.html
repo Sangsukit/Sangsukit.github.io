@@ -1522,7 +1522,8 @@ const P={
  nifarid:{img:"img/p_nifarid.jpg",name:"ผู้ช่วยศาสตราจารย์นิฟาริด ระเด่นอาหมัด",role:"ประธานคณะอนุกรรมาธิการด้านกิจการทหาร"},
  thanatphong:{img:"img/p_thanatphong.jpg",name:"นายธณัชญ์พงศ์ วงศ์มุลาลี",role:"ประธานคณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม"},
  chaiyong:{img:"img/p_chaiyong.jpg",name:"นายไชยยงค์ มณีรุ่งสกุล",role:"ประธานคณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ"},
- wutthiphong:{img:"img/p_wutthiphong.jpg",name:"นาวาตรี วุฒิพงศ์ พงศ์สุวรรณ",role:"อดีตประธานคณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ (ชุด พ.ศ. 2567–2568)"}
+ wutthiphong:{img:"img/p_wutthiphong.jpg",name:"นาวาตรี วุฒิพงศ์ พงศ์สุวรรณ",role:"อดีตประธานคณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ (ชุด พ.ศ. 2567–2568)"},
+ chalong:{img:"img/p_chalong.jpg",name:"ร้อยตำรวจเอก ฉลอง ทองนะ",role:""}
 };
 const CHAIR_IMG={"นายไชยยงค์ มณีรุ่งสกุล": "chaiyong", "พลเอก สวัสดิ์ ทัศนา": "sawat", "นายสมบูรณ์ หนูนวล": "somboon", "ผู้ช่วยศาสตราจารย์นิฟาริด ระเด่นอาหมัด": "nifarid", "นายธณัชญ์พงศ์ วงศ์มุลาลี": "thanatphong", "นาวาตรี วุฒิพงศ์ พงศ์สุวรรณ": "wutthiphong"};
 const SYN=[["น้ำท่วม","อุทกภัย","ท่วม"],["ไฟไหม้","เพลิงไหม้"],["ร้องเรียน","ข้อร้องเรียน","ร้องทุกข์"],["ดูงาน","ลงพื้นที่","ศึกษาดูงาน"],["โฉนด","ที่ดิน"]];
@@ -1605,7 +1606,7 @@ function renderOverview(){
   [provinces.size,"จังหวัดที่ปรากฏในวาระ"],
   [live.reduce((a,m)=>a+(m.items||[]).length,0),"เรื่องที่พิจารณาตามบทสรุป"]
  ].map(([v,l])=>`<div class="stat"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
- $("#era").innerHTML=`<div class="era-seg b" style="grid-column:1/-1"><img src="${P.chaiyong.img}" alt="นายไชยยงค์ มณีรุ่งสกุล" loading="lazy"><div><b>นายไชยยงค์ มณีรุ่งสกุล</b><span>ประธานคณะอนุกรรมาธิการ · กำลังดำเนินงาน</span></div></div>`;
+ $("#era").innerHTML=`<div class="era-seg b" style="grid-column:1/-1">${((Object.values(P).find(p=>p.name==="ร้อยตำรวจเอก ฉลอง ทองนะ")||{}).img)?`<img src="${Object.values(P).find(p=>p.name==="ร้อยตำรวจเอก ฉลอง ทองนะ").img}" alt="ร้อยตำรวจเอก ฉลอง ทองนะ" loading="lazy">`:""}<div><b>ร้อยตำรวจเอก ฉลอง ทองนะ</b><span>ประธานในที่ประชุม ครั้งที่ 2–5, 7–8</span></div></div><div class="era-seg b" style="grid-column:1/-1">${((Object.values(P).find(p=>p.name==="นายไชยยงค์ มณีรุ่งสกุล")||{}).img)?`<img src="${Object.values(P).find(p=>p.name==="นายไชยยงค์ มณีรุ่งสกุล").img}" alt="นายไชยยงค์ มณีรุ่งสกุล" loading="lazy">`:""}<div><b>นายไชยยงค์ มณีรุ่งสกุล</b><span>ประธานคณะอนุกรรมาธิการ · กำลังดำเนินงาน · ประธานในที่ประชุม ครั้งที่ 9–22</span></div></div>`;
  const byN=[...live].sort((a,b)=>a.n-b.n);
  $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];if(lastM)$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
  if(UPDATED)$("#updated").textContent=isoTh(UPDATED,null,1);

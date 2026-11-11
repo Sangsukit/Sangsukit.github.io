@@ -1596,7 +1596,7 @@ function renderOverview(){
   [provinces.size,"จังหวัดที่ปรากฏในวาระ"],
   [live.reduce((a,m)=>a+(m.items||[]).length,0),"เรื่องที่พิจารณาตามบทสรุป"]
  ].map(([v,l])=>`<div class="stat"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
- $("#era").innerHTML=`<div class="era-seg b" style="grid-column:1/-1"><img src="${P.nongluck.img}" alt="นางนงลักษณ์ ก้านเขียว" loading="lazy"><div><b>นางนงลักษณ์ ก้านเขียว</b><span>ประธานคณะอนุกรรมาธิการ ตามทำเนียบปัจจุบันของวุฒิสภา</span></div></div>`;
+ $("#era").innerHTML=`<div class="era-seg b" style="grid-column:1/-1">${((Object.values(P).find(p=>p.name==="นายนิรุตติ สุทธินนท์")||{}).img)?`<img src="${Object.values(P).find(p=>p.name==="นายนิรุตติ สุทธินนท์").img}" alt="นายนิรุตติ สุทธินนท์" loading="lazy">`:""}<div><b>นายนิรุตติ สุทธินนท์</b><span>ประธานในที่ประชุม ครั้งที่ 28, 30</span></div></div><div class="era-seg b" style="grid-column:1/-1"><img src="${P.nongluck.img}" alt="นางนงลักษณ์ ก้านเขียว" loading="lazy"><div><b>นางนงลักษณ์ ก้านเขียว</b><span>ประธานคณะอนุกรรมาธิการ ตามทำเนียบปัจจุบันของวุฒิสภา</span></div></div>`;
  const byN=[...live].sort((a,b)=>a.n-b.n);
  $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];if(lastM)$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
  if(UPDATED)$("#updated").textContent=isoTh(UPDATED,null,1);
