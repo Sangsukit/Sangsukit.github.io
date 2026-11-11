@@ -1,5 +1,63 @@
 [
  {
+  "n": 39,
+  "date": "2026-11-16",
+  "time": "15.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hhUuW6oRnfQ1X2vxFMsmLhx4XhR3ySNxD3g8w_oynynNb1Ac2-kPR2_GHgcUkHROFqX67Wj3oEFGOKDotCem9brcKHXW3-Ox7cZMW3Lxcc086vePWWci0poQGBA3OYg5flCaBYU9Rw1f8MmmknmY9N_SrxVqMs6iZ3th0Q==&ref=11156890",
+    "size": 119166
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=LfY-u_vNfK_AxR6LU9c"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "media/v39pre.mp4",
+    "poster": "img/poster39pre.jpg",
+    "vtt": "media/v39pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:25",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "39p",
+    "size": 3583230
+   },
+   "videos": [
+    {
+     "src": "media/v39pre.mp4",
+     "poster": "img/poster39pre.jpg",
+     "vtt": "media/v39pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:25",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "39p",
+     "size": 3583230
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 39/2569",
+  "summary": "เปิดอ่านเอกสารต้นฉบับของรัฐสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 38,
   "date": "2026-11-09",
   "time": "15.00",
@@ -7,12 +65,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=k-1daQdX3yMEtmzP1XrKzM2QJ0at-M9oWi02fpED690A4c8PIB_yCg1E79VtHSY0Jv2toF7uhmG0HJwBSU3ICjHBoqJpUQAUg_NZdtg06Jqi4ztBYevm0gMA-QBKiq6JwYpnKzYDVvgL2O1tcVjw-A4EIHBHsRHI6sYdHg==&ref=11118048",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=P8RskrkItP5W1o7rTcBeCve1KEWtOaGD8pLbLmyHPrLPmFNEe9E3by2YIWyna_hBVS9UbXQKMKsHQhPbpr0HoRK7nppskRBumpJJmBY8sDL_l5fj1Z-Z7AO0px-3M1Vh8it2oGvEgVuQyHDo6q9CO9d1SYHM3V-6AE9V7g==&ref=11118048",
     "size": 117080
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=q9nwywbvwr4hYXJj30w"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ncQCDXje0TD-dsN9CYs"
    }
   ],
   "media": {},
@@ -58,12 +116,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nYmxtVe3GTvSsLkN6eqstHfxM2ooKf6Y9oXmN9RZnVw0yMlVH-CgB3-PS6rlEIpSLxmLpXej8ldb9SMW_wbDR1Y4BhFIlMknbUICv7X-wJ6AIbxZS1YOIPu0EVO4oiBl88uOoEEKkhsfXYDOp51xNHobYhgOFB9CpL4x9w==&ref=11069130",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lQ4XU0oJwktUCadPSSXz7Ajc3S5woX2fBlR2QBQ5VZV32qAKerpAzUOuooaW3tBEve0g_GULXaGUpOuREHmm2nQM1fkPz82LnEKZxBMZg7xzNLMVSUc4Lb2_7oxZucZH1YeGqKDEE77Y8tpfjibJrOqb3tq9mdAocmxsiw==&ref=11069130",
     "size": 118081
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=SMWrWurhBy9_ms8O238"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=M2FA1HSzpIatn9GqkV0"
    }
   ],
   "media": {},
@@ -106,12 +164,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DGmH0FVHg6870ia_ekGyWkLEn3cYsb-A0SStXWqzi5M3ix0y8RQwyqRRsy3ehqBKFsdTGMxaEdJGRs5KV3_5tTbgxUVFm4nRnfxmUSJf4Hxpv5ABhFcMpR-ibZ5UWk-Pjxg8ZQFKUcstoHE0HQnpeeljZaUZ0mo_8Gq6oQ==&ref=11029559",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YRqeOkwjHadPjDAAfV-O_sxb0IRv5-6kpPjGQdZXAayr90R5m2IN0xj8cpObCpzzk4CSEdew4SKle71-LmhY3BGacbQkmEWjzgCqr4JACjmB3WzuZo0ztkHJlXr-uCz0mBhSa0wbvcMZtktUuh2igqHLNk9TlG1cp16IQQ==&ref=11029559",
     "size": 115759
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=HYIoWpRn6ogUgjXLWoE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lnAmXjNRRaDLiiOTG2M"
    }
   ],
   "media": {},
@@ -151,14 +209,14 @@
   "docs": [
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Xc3FUsByZ6wPNqB3pxI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=L6rM-IiN-9Bhg_uJ3uE"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 35/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านเอกสารต้นฉบับของรัฐสภาได้จากหน้ารายละเอียด",
+  "summary": "เปิดอ่านเอกสารต้นฉบับของรัฐสภาได้จากหน้ารายละเอียด",
   "items": [],
   "tags": [],
   "places": [],
@@ -173,20 +231,20 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bJ4J0yyhDEXz6ILKE4yacqMUGEn_g0nNcRtCY3aIjXUUejBWbPaU55RypEJYplFmvjvLb3xVwhRWRUmff5tJ9DJzcSS9pirswAmiO6f_tgy6CdM6j9JUk-WQ7HI7eRECVM2tNhLlTB23RU99pGcdbUhJFGoX4ivfMSwqqA==&ref=10879630",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XgVhcztO59WJ3EEc3CWxkiT6m3WFW_M6sOqvmkiaQ7JRyAQhtW2di3vlnGl1-vEmsEhQz7JOQfGQaNVzQgKuq5yVZUhKgfDzwzoWZ-RtRQegTudlFlN0otC_3H6YFvxUFfO62zxv49BaNVeqL_sOW8n7GcSGF438kfUgjw==&ref=10879630",
     "size": 121351
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UZ2bEHyvD0QX_V1pL-QcLz6IkkTckD0H7w1-Ds0RImg5LIx8KLkwByqUNSwF-zf9G9xJGI2P2YXyzlgw6iQA6kH5pNmD-X4iYcq73E77RcHA9N_RlUnD7m5_YZOKSO33yFO6pLr9AcVndRj6_C_rXOMas3yKLq_0u43cWA==&ref=10922670"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=A--1e9uxt_OOgw3l54TPHnMnwbiR15zgDLLuBAQBd3cadDdtjxG2H6GsO38jAtWJd-4wa6KQTOJIYhtwXJHqyvrNbGvUdqoKJ206U_IFNI18MhJmZ8wfotvv_9z9CcW3T9gddH2D_t9Dde_ho-ruU-W1-XgP4R0gKcQU7Q==&ref=10922670"
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Zy89iouxnFBoqYriD3T-evd4dKtzEEWRO9SXhsoz5a4zfJ-hOP7hSiYNSPpjrg3JFs1MR_6vYoLMJaktKNzKJjQST_7H_CVT6kEzSDa2_1EKdPUFfSl-3Z5Kz7VOuG7KKgCPRCOw-_NFtjhjvfx2avdkx3m-kcHw2bCQjg==&ref=10991471"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=x0cTBHnkWc_PHtHhXARnWTtcrhSOxukWtxI226BFcVgueJZMMUfAswnLQY6WfgODy8po2gcsI9gJUvDUaE52PPnzYZjE1ArT9tY6RGxxsmf_ZOs912rVEGzlyDh2GBxkPCo7SXXraE6TbIv_RlYLF62oekt8c3Aa9kwI_A==&ref=10991471"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=sziFfTYrOmXGhU4kyK0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=-GVNYXB8BL7rZ_FNrpg"
    }
   ],
   "media": {},
@@ -225,20 +283,20 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3b4Yh4xMForS9WOwogcd63qRH2Kq9OBIEuqKTAwu_RWGBuctthCIew-UkHxMxgD8pdUFAIY_gI4EDfEv5Yt5f_6tz16At9BvtKexYxvNv-bNcR-SB6Ts9sZZeEJIOyNJFEVPjHi2xMCWe6IbxNK7RujZXMnPfZGLi_5Puw==&ref=10879630",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dvWT9ct0bqeP-SSHmd8eQcD_OZSi-y89I_eJbCMDOAqG3ppXcUiF-4KhOTwCAjMSSwkGsviBng8GGKHngugmeE0yOCEHAVZGogqT25mwOn3pCv3I_9y2P4Gu3posgxZoWcEXi_3yYaYEuVNrhRuFQ_qMWvRvC1RRFPQQzQ==&ref=10879630",
     "size": 121351
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BIy_YM57Gobvl55vZrkqP2jpYufiRbaIbRVaT7S3tHVuG3MOvUEFFfY_SlC_hDqr0RuICtBX4aeq8kLMxIEy0vwFsCN9e6ofbMshNcjespqZTbGOpwdxy21AIs2GF0FpfA4ssghtZd9yLws9GmTVDMNZd8DmjoTp6qHT2g==&ref=10922670"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bzowgRhF4sTDL4YfGNISa7a_ccogt9tLh7OcBUxbgNrq2eyxmyJaC48R_YhONSSV5fDmfBbv1WkGyFcYr2yOCpG3zScf_lrx-7PHWSMa7fX_AcpU6cV-7TNtonX_pOC7vv992GDyAHKvpFg01cUsdbK9T-o-xrTOUC_sCQ==&ref=10922670"
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9WOrx_3l91_AV-f8c5lILpUP46f7eT4q-xCKhC-6NU09RlP4-7EkI8HNagrdWCtER3frrTGL0b3jkwdyqpuF6-7pqshjB-OYjSPQri3Uc9VI87049cjNy50hODIngI6zYCH8aX2iWvbEWHRaPHdE5J4QIXQgWQsqT17s6w==&ref=10991471"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lsXFPXCZaqMhJ9FHgV52eJB9VaK9ghOeI-t9oknPTSpMGgJV32r8PBeMOW7zAp4F-BcV3VrHX8UE21VJiEhKiYHLfcVFLlTMcp2OLWU0K7EYcL_1y-079_IKrKdJs23P9KsB3jjQfflHW_BAemBcbDqUH1Bs-RG3VoMJ9Q==&ref=10991471"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=W1GI02z9pxRqFwdfqS4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=VUnDFFer6IpKEVR5yzM"
    }
   ],
   "time": "",
@@ -252,16 +310,16 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qRWALUI4CxFir5EFJsty5BS49PMtogvKD2--eE9u4b7vK14GhtBRmg0oiiyEqfzrejmrqt_4oNAinrwjS-Apo1lA1ayzbBuiJqJcG3f4URzHl6iWYCky6ZFDZVNY-iZni7_8NhjKaKIak_DymucV08OWo34req77JoKL1Q==&ref=10836641",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=szcPfH1HOJiYXQXM70hzaalU1UofeEG8MkQW5TFNG16X2wt1TFo07zOc0lBnaRHx9jAv-FhwfhtCsTV9yP5hI6qer6xUuVcGo2-lThY4i-OaQg3IhMwBCa1GmQgeyKx4l6JSYQ497B-7RGN1rZwhzfzcYK5rG-NKYTndow==&ref=10836641",
     "size": 128217
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SFticFDgOpZ_tbQ5PoM75ldtJsJfhEjS5I6zsIMiai-95DC-XpOOPLgaVru8HxQ2Sl3S3Z2zlnm0KrbaFV2b50dRMYwrliX7IDmzQRuoqDbuuwLgbBfcnXcj5iHBBzy2qa026Ue4hsfPmN_QjZ-otfoNknOMv_RcqaBdXw==&ref=10991456"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zVRhfTu_jRJdaMtPTKoKuWUxyW-h1nkdI4oH58LO_sTj8dsHw4D8a3bwnvMygbPIfHdj7HfgKWZZnsWD2JDup3HcLm1annK51VQmp9d7JSEGvcVHO8lJ2NYXiZcIejTm7p0oj3KBWY8hfh0sJEC5SgaVA_xikj9nL0S0_w==&ref=10991456"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=41rg9GkUFzulff7pnoE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=VIIb3gsmqDp99pd991M"
    }
   ],
   "media": {},
@@ -302,25 +360,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=AsebACiyFvEAR_1U90LpFIM2UnU8Fj9o0RlPFwLXgDdx7fUTNSR6z8Ny9k2V8yRXkIbXs8c-WNLhmjSKZ-i3tWqWdc8L-JaXbQ_-DTBtMg4ozUdZ9lqRVr0QfJvcwQMvqijgfd3FEfTGGZhN-r7E_ZkeI7xpNZHhEHoIgA==&ref=10818667",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3wFIrvzwc3Db0k5tiS6vq0nH6GGKj_wWncrD5krad8Z94yrBFaZbqzw_e5-0gp8yVRmK_IxyMI7iQQGP92HOxIFjLDq0GcTTdJohqqwtIkJxu9nAItYWMvBwA_vNGFw4m-J_-YLm42ZHDraxsFMFMhb6n1hTsykI3kYzHw==&ref=10818667",
     "size": 115147
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RwynVDEXz3pGK8RjVBQvsMC6TLYS0z15gTTMa5GMEm_d-DmKrdz5A87qHQ2qgALNDGNveAjarcEDGZxknw5Zl2ItlSH88lyp_16c1BBRsY9kzMG88GyWxi6jdKHdcWVbEYLlNZ_gA6gtY1bBluEoCVxWQ7ZddK11JQDX4Q==&ref=10991387"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=T8u_aQIyexlm6fupe9BuSdV_nEwHOLM1kz_iL6MmSXULCXN2xYFqzHm-kbY5DVOHtXbvVlGBca6B1EzQ2ZlwsgGW5qbDxiEBe-p_Xsb-9aWkRz7WzHpyYZzdebksParLPCBYG9bsEz7uNtQpe_JCn4KmT_ErppRcWjzBBQ==&ref=10991387"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=D10uec51HsQ8Cdpxy5ts3XuNjS20frQ_mCI2lSaeMO6_o72fnESWPEA-YRcHH1xkNSvyZcOEh2wKQ5QJzX4ZqkAHv5SAHK4ahTL0sIqjWjrqkYJ3RqbPwo6SiJW0HNwkqd27Y4ccikyl_cB8LKWVZwtO6YAv2wX08THCOA==&ref=10991442",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=R7KNEUIFO7eCqyMp4O9oOVys18SROCRLo39P0_HOrDN75iPXU82ZSROsQAmQf-lGxdTcW7LRUR_gvYNOWU3rehSHL2TxpuRy0QJAiG_A5zJDVF5xEDjcJq4MtIg5ksxmaTTU7tJOZbCemTGxMOzfHcDjpCjREl8LmT1w3g==&ref=10991442",
     "size": 2294219
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=A4LDXsDj1tN_XhIWa8jh0shVUV3bKEQkv-Lof_iqghP6oiSE3Duts9un6t3yZVmEZ3jAu8VtkIxkeXPOpnE_xbWgqx6d5T03EOT6xmVTPOl2nhLg207D4MAUCgyyPRAqPhZq5NSw9BIs3T0afScqxUmU6nG6jdznT408rQ==&ref=10991444"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=y4b556unqg2ZSK8JYUDN3DaBj8AU3YE3J6nHNiAswwvJ7eR-Ztf-feNebioiv7LbvxNSmRmCu02hYsf85fwdfY_a_3_-4GUVOzdDC84fL9Er6xFbVq0OxoYS0WGUwdZSQt9RzOqee_2BQ500jcsxEyXXyi9Rqwophl-ISg==&ref=10991444"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=a_2UvLwtHpfN3triqO4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=I2kkKGj22JWlOoJBBWY"
    }
   ],
   "media": {},
@@ -356,25 +414,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cbgxylC-o5QKJCIkMmjXXWI_78TZsnUPLYakaUIgMl5KhKFRwed1UfKk-jzuD3aRvOKOCzAAwY6EB7sbWcEchbevmRCjk7HPYeCR_jLmS-Vw_w0Yq3HQ14jgxtXXMJIxmmZxjHGAA7hOD6GilsFAXux7LkGHcceHAzvDBg==&ref=10747438",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8rMeTqWwl7BZp5jozgS4tp2R7w9GYQa46sU82FU1n5OH59udtNFXB768L85jJ_VL6j3-xwj29EjHuYzcQL9XcpL30amvqOb1KYKlfJLl57v595S_BgVvBCj4jSpCA9n--K7oWPlJDv7CD6B7tt2S88pIxWpjENFjmZySDA==&ref=10747438",
     "size": 89964
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2qUySx9GVc17CdvSMWcQY7E_JJ03aJTW5cND_ZiuZh8kIXa0qwhTwjBrriF7EX2Yb1tndkBhq7WSpNGKuEYS14deOFwjv_tSqxq5_Q_wD3nfxYpYWqtJsfQFf6ziMvlUuu44tQzbCwbC2aGjQHqMgRiG6kGY2p3J-v-3Gg==&ref=10991329"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=uAA6LpsUexQnrnEOOAO2kZLGuQGix-m09ct2ZBOJ9C7UTEdAUUxBr60IgLuUDCh0Lkb5PNuuqPPNotIZKJSFuEwzxrt6zBi-GlcKFPQ5Cx5Kv2lA_f_GbzZYAD6rD6L99pcMGoT1czKEAz9aVBoTSjNI1gVQ0EGDMlBWdQ==&ref=10991329"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zdNl06PPe4CW-Ip5nHp-iqGk50eM-em4B0TNjvNDX85svguFc7QqLQMoszJjxwNfEIY5n45tGD4L96RDiTmLLZ-mjGU2vRwA77ilL30aPH1t3nlvvGHeMqpY6twDNRBO35qeCTW9PvYiTFPDEHGaxSPz8-tjQQxStznJLA==&ref=10991359",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NL79pPZ128qn2M9a_FT2J0d3nbiIQ-EDjwgFTp5DajxXo134zSeplkTh8ApjrO0nVi1nw35ADPPusJoDUGgbAgIQ3FAu5KHMEnZueRbKYedf0uQ-RSDrTG1ZTMiMvEZNG7hPZD8Gkr-PL-L8AvW8VgelnOPFvsDatLnHdQ==&ref=10991359",
     "size": 2143963
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oDQot3czPNaI4su8DxGZsr_6OeAcAS5S-8HbPpE3e7a3uoJ_Wwvqn_UcmahTTCGuByGXzS7B7x8cg1jBFwBPMqJVdc8qN6_yXXyaSJ_hoMnI3DjmdTTN8xQ83SlrbXZVDDBUSoB1AV-GiH4T0_MJacT3TTlV3gCWfkK-TA==&ref=10991361"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pRWbaxQJ5D0oiF9AGpiA00w5govQ0bUh-d_FaSbeHOb7yqCofMNM2Xx3CzIKRBhBQYocB0Zf61uMuFyBADmVW8Bit6anI-ygNSCN3gwIHuqBvqm6741PfpSgpHY7ruV6XXXgPU6qRZEgRg7xpSrqXm7MhhJXkRqy9vZfzw==&ref=10991361"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=uG9GxYFwD7UgKfB4jLo"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zngZgJqmkNs3SeqHLqE"
    }
   ],
   "media": {},
@@ -435,25 +493,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_WZINV0mrOMlz5wlubgUTAaWgB9StafdOmnrAA3I3JCUrh5Bv48klIAkzlo87-7ytYDqumszQ5LsW2Ds_0D7QGYtD0NOO_YWm1AGzEDiKtRZoliWIOGSpFo5F1Ku0kuwj1j-fEqPiVGDjj5ZK9-LfPKfQ9hfh_vn1wDm2A==&ref=10678889",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yw1ZJ167G1Hasse7M1fUR4fDCKSq2a5wExahYphtc6CCi3zobSS1PngGMHxjFhRMEX6wJ5tpQOVt49hgUNVkJZ2ynpjkqaTaEG09FOE936YmD4adtUzWJegKyeaRgPy3i_dGZ4EbGMQzI_5OGQw7DD6S8_kKNDQ0tF8R0g==&ref=10678889",
     "size": 123421
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OzhN7ZW-0X5XbKmjFufOZIcpFWLigKcMBN8oIAceBgaNR3dVgGf8ZTcoGgqHe22_1U3d_Idv72FbF6NzidE1EHKJiS_yjsqe-QF6ptqACBkrNYOJ3ZpYzSiNQ6Hkg4fOtUa00M3UXIGNV6tktmT4IoNEzLESqJ-9Ymrtfw==&ref=10991311"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=M4mjWVah5OfDwlfbQvQmXGyN3IY52qVsGUVKzjYOl11MnNElikcWvTZK5cp1ZCWufkmGxJ-INXqy8pWdFkXKpN6OXM7lv0u0nNUkugTX_qMSZ8uSoVNscONz36j4tezOnQ9b_kKolTGDsTwnMXhIj812ahL-07w_GO8bFw==&ref=10991311"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6NxiJeaUIU1pkg-UQlrLZF-Ew6UUdio_FcJTJtw8q1SD9VzXyHMttADUTc2dRqRKUibjfzEZLqOwnCPC0sHVaYZj8OpJ516tsFTrPZi1SYATrDHb8lQq6Dh4P70XL2l9qoOHihna8CO7t-pCihEbbVjHtIka-dTwARYIqg==&ref=10991326",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=i8H_y4SK1wKQMvTbsuGNTlAdbSMO23z2slR5P5bJVPZRuo7x3JnUzFkWqjjL-iQoTvpY1sFoeyvfflbEhdj5598ubfJvgjw9KGaKmXWez2545rIWiPSe47NguXgdmb5QBLZ-4IMmMgfZq9WVCatDYjobFXfQFQP5gcPUpg==&ref=10991326",
     "size": 1838206
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BThmVmW6SP0F-7WrlUK1Bj8PDlhS4oVudAuqZYBQw7mrvDJJ4N3jSyaUx2Amg_3TZgsi_9U1jAe0Ax6-4gZnpAyxiJlqKm3VhrZ2Yu1eSKY4ePpXCISm9Vdl23XbJkRtz0w9AUkX2gbdzPvOCai682G3VwLW5BPFDz0DmA==&ref=10991327"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qYw8yCK9D8dm8JvXByX6EcLOSHasCugApKFLSWaMARNWpax4v3rlKnC1RiJq9u2CwyVgOS6CtqfRliV7-IQI5X1gjC1RSdjjgYBrVc3uKS1deeYvUWo6VQrABbh1vIrRzhkPY4boHF1ezRHtOfGEP4HuZaT1A8Vv5KPp4A==&ref=10991327"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=usZZTRDR4Wb7q1I2zsU"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QQ1Jnj7UcSOP3hbUdJk"
    }
   ],
   "media": {},
@@ -512,25 +570,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KIlohMUXi6ScJF_UVNDsn2SWSNmVejXdAjaLuM5PlEvqf5FbUCko4ixXStGYx0SqHYq8Dxbyysr8rzFlyiIF4UJD5eyqoeMjbSiZsMMP7BoVKjN1INnu6RxXLqMMwQnIO8fUZ5GyGiokXnFr8SQiyavuU9zpwNEKrn5_LQ==&ref=10650005",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7w7nHk01TRuJZGuxUJtGcnoygIm28FLQ6b-iAdFC2D9isRqzbVdD3LoLJm9_Zw5dMUPxgKZemfMGq0NRCHUDGASwR1pYOzJ4mt8zwLrJ7pzjP087ktqof3AgGeMYWSa1cybPJy8q4KIxko1xgXfIfLRpaJiK1qS9knDcXw==&ref=10650005",
     "size": 120699
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gfyiUYFwafeYsvk1NiZx7GtuRBG4idJVhVIXndI5xBKmQs0pftlJ3Y9FQIYIfoH13Onnn4H2jd3hfmxWPbN6niYYGGAov_Im2d5Tsk-ORzjBaL6JY7b8sRCH0YK9w9-85u15chlPz7aVgDV7c8MXyBEuQ6TG-aXegx96AA==&ref=10991288"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4nqZ5u9rU-uGawdTDdW9msrrGb_lDZTtw0byT9LBhOJHvQwr5q3M9asaaK2vDYRYpVPdSX-6lFNbBQmeU_6IW6Dak5yAexcPUXlB-TxK_zEuKJZHHJeEjzPjn9djFyLpy6h1qgZ0nWMObDWK_hdmSmwqb5_esj-0BYHJwA==&ref=10991288"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3RfBoUttyvhzb3_hvFIRMCzkY1I0Gi5x5v2Bn8RYkhApzLYBQ4KtLVquG7NPE2WmfPp-U4eUO6Ach3cbVUqUMwISNqyG9-jT97pAEkFzl4OL3JIhZJVYOAzOto9ifCnSS_fPAPsbNEd8uOCYQCVK-LsJtHyqJHF0fsshmg==&ref=10991308",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vLwkZtPl1UQGPzXMK8diVZwsv0Y6uZI-GbloFJ9mocBIJrBMi3Ib_YPL-Ai3jVR4NQRDxSwHqs9XN1vgcrm2yv6CFk84_TqiWpYnzbblgnPGzgneumwJTYdCxoqv5tJNEEweQIhUdCqfdxvBn_23O4NthxEOgaIqFmvd6Q==&ref=10991308",
     "size": 1845126
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=H7zzApyrSst6FNmVek5-L-3sLTGQRUDeWq9TbkNoj8JlIz24UdU146wtcd6JOAjndoOu3huOr_PbQSQNb3_kEzojNQTjhfh2rUMEWraFhkMs8Z4pA2JEQZT6MVHuOBGvVxr63iqPVHrDcmXfHjpoQoRWjFP80blRGeSulw==&ref=10991309"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=D5vcrdw9-wsVRbD7byrFugmq05TnpO38dIfuS6TZg2a31QcV9ljOVXx-C1TmTjQhc9R9sE-vCnoYOCHuw4xEHn0uJeNzqDvkj5JlD6a3l_xEFZtOCnwg7-r1ykleAQ7FfZITL-RWwHfp53QrDccXNos9TFCmn3THdLAqYw==&ref=10991309"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=q2RVPOSBTFXT7er2hpo"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=f6oALowOrWG7Tc3jHRw"
    }
   ],
   "media": {},
@@ -590,25 +648,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NegoJQozpYECipGcjzYfy2XAB0kzdoWdTUWQm3BOiIdu1q0chNvmHrrP5b8HZY6lbrFFHXFc6ZCb7pFIkbJDqqv5yrdiuL9KoP3IJfZniJpKfsYoyoRJbQ8vnx9T4kWnFaXBpjqE9RdUBKaWGVgtRoyguadvAPYFXXe74Q==&ref=10583343",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=52G2sFiOZWibducouUeDnMenlV8YmDf5M872mmy8zNQtUf4w21sEeNZ0MHDQJCNcLGB6BIcFerkorRrfEm_Gdu_7NgYEPd5jxOWGLN9cuI2qmtNGB7ZdULP12aBa_843AMNy5IEIXgNXXHQ2-Apy-2iIakswyd8Za4ltdw==&ref=10583343",
     "size": 86310
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FWkqNEA3UierWuLDajAYrRcEnv2rehcJLxff35AgyMRZJ2uJ7hC53Dj-kqRxtMCl44Hxk9zVgM-00mWlJk5Im29wbC-C54CyWG6cnhLc3Tcy__Xt_L9OoqscaRD2frjFjbisCWIj5c5w11YfjSbzdKbsftr5aYl2VWdKEQ==&ref=10836946"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aOzCkUCJKn0u8UrKcaKZATEq8SGmNw8-jASlHkQnzQEXmnjee0jqDw6K0NbUXp6Ly9piaimIESQqEhnv9B2xC_ih6FHazzp5SpilrCq4cBOkgkAbbMDNNnG3XvDGD8HdgOT4BBfWlYhJRTFyySUxy-Av_U8w-1bCVuBWlw==&ref=10836946"
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=S2ZKM5LYqv8HxfHGkqQDZx3thFCFSGSRJU6uW0i8w2dy-K6LR59quiV62m_r37QXm9ZsMNWvshijaxiusYRNAhvJpqurC7unEwzUYZrVEgc8y6LgtrQyF1KO6zDksLIWBt4p8A7WDvaPBQrGYlknsMnWeRFaXLlps-3EZg==&ref=10837045"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=eweUC9_YAkUD3BwKA0KHKBEL91yd-51EpjA19h-gVqyO31jGnF9IjkBsA99QE6ttTj3uUsKhLy7NuBKECXqQOBoYFUFeukCpXMUNHMXP4to6s4f_mlQvjpFANOvsn0P7aClyb158NeSkV2NSCFMZbLukMszukFJMaHMrPw==&ref=10837045"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MD1DOCZNxeJR5Rom8yBHIVUFTCwXG64_YkPJnC6IV8yx0nQKhmx6tt_5KW4s09mGnK4N71ERYfHWm0Z-JdzrsNtVepld1JREGAIDTgaFXdckPtua7ecwuqprI3es4KGAUPJWLP6aWYC8PcOV0sUhI6WS7lUMRrBKAcOxhA==&ref=10837050",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Kh4IWSKXUVMCTLVhddShljNe7Vtd0b-3o_f0G4Q11k47ma7--fuWpvQx6ptoKcJjlMdaN38T4zJ16k0BEVnPjBfvIjp3DbZP-Ow3YIT0Xpyhd1zC5fzos_vc5gb2sFEClS4Cas_ODeDkj_gkuYJbkENX9aXdE1jTpmZ_WQ==&ref=10837050",
     "size": 2012061
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ImtIWfZURWFEUdxXuLQ"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=a0JiittBAfoOunfRD3s"
    }
   ],
   "media": {},
@@ -665,25 +723,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cpuCylgBNz95kLCYmmJ18zdZLZITpLyyxJDVeB9Oo83QEuZIjBbPUq__UGRu8DyG8MVJJFaTD9AqvPUGIE8PION166jR5BUXCOKBDHruvirLWtjtI9-6gFaJpgEs2xm0UrHz5Gub6dXCVoF6P3Sq6t4v9yoOsv604ER2oA==&ref=10518332",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BWE8CmH5xkGkGAlMIZ1smDsvYc7qLu754LSJp1_xTHY2_VSdGpoEzbZV_uVE3KifOgwfmkd9oPJjYwleMlVwKBDFDQzVMI9utr7eaKCEHHBSxcsv_0DRDOf3vN3cYhA1PyILDb7C-Bx_ILeQhbrv5TTEZS2vwO8iKGJ1Zw==&ref=10518332",
     "size": 105038
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cCzMyhr8D1P642aIp2UHbrlenyHGiZDa0TfXRvGX0xJcvxa_FvXYcV0bj5VrKBJ9cLhK-Zoak3QOP92zSH2Cog5jg2_P5ocigyJuThGKZ5WBwYNnqfh2CdvjYR0kACgTcPTrIKQuA6ivx3MS4JgOZWsjF-75ey4pqHykaw==&ref=10836709"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WcafDoilScB4zNaR1QK4eLSt6lj8SJCQStpl8EINNR6nABCvB4smxNAW-QwS46lRbhmQK3lQrxexM6DriYM5eNbq1Oz2NJfpb-PZxaCXBC6HcUWKcKTpBUGQGBzEaUAIodv8RWan-Kkyqjbo9-HFSnD0kQitdhNtLHdDrQ==&ref=10836709"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mya5aU1phmeSpM8wsCmTAENkbaLda3dxSrn-dtcXVhrpeoSezeaQ6e86L0CByrgqI5V19FMePSffkdMUm2mPebNipxpmvAYND65tR-vraJrhugfysh_B1VLAHw51oVGw-UmNT3Po8IbqtZw6OZqeu8BwqqsQZPWiAFC1Fw==&ref=10836827",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RtzFPwPcM_-6_rGkIqv3_DPzC7nxjJGiLtdtBzvvl5iDrp_bptJO6ZDuBsVzyEhu1hANj3hOw_keNYj97RnqKvqC1H6hEZS0MAbYd_F63ZIcSz55qyDo2DmvEtbnLdCI3vTYS9JRY6ThTNm29W9sR1A3S7rQIwSVN6A2hA==&ref=10836827",
     "size": 1698510
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wkUZgUYDDtrJONtHoSm6YI3vXYdcyEAhEhdQJMJRlC-VPRwT-k2Q5Zhp8jPgnWdchQG5NuaIfTX_EWa4IfNpM4R7eshliTIxmTH-y0GiTt1Tp180-N59Mu87PS4qi3SwAyLQjpPY408vvSw83mivwEmBHCIRz_w2z7sOEQ==&ref=10836833"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TkNU2wu6SkIk89iWzkC9HUMe8HroefjTgPR0nMUWJBeUam6zHQ1f6xPFgI8STvcacYvbCL-7nsblFD5wPfhpDIAb1WuXkf_IMvTLYTvn7Z-WTW68s9OJK1Is3YfnA-43V4sKy5QQaxU4s40Qn6-qkpDITbfDUGjQFqVqZQ==&ref=10836833"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=aO1-dOHzC8AHJhVrTCc"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=GeMs7J7qmEQ3cCsaS9U"
    }
   ],
   "media": {},
@@ -736,25 +794,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Y1jzi_IbB05PX53kCrSDDIX6fue-XCBGQcC0BE0x5qKZCCoBkA42LqajGqRwx3AsyoLF5riyNZRMvvQ4lTjfKwAEX7AmBdaL2MZSQXb4l3rc6lheIYOO2sBkRrUxkFMontCUWaOQFk8sHmERcT7dZZgbPT9YW-8gVaPHCg==&ref=10496994",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bzHl4tKqv8-QvSKZ8Ey0E5zJnz6QOBqSnBesubXoKSS4rvH-A6FJGyy5v4_LyQoDXwH9g9aBdIp6Rkj_9UitB7m3eJFgB9m_Jspbf1w1976cis--oDSsxSEHM61mQyVUgwO2394YUQe8_aOO0ZHS-TkXqAJ5TcT5XxUY0g==&ref=10496994",
     "size": 141028
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GF0Z8_pEtlCl0sjYYv5DHrtbO2C4169Z5-Dr7fm3meMe2srxgz853MqH9cGNMp9uc2SZSWyC7dt35NKZ3bNhklEtlgd0WAGh2Xt3jNqsqPVnZ6K9So_gt8jiDwSgr0hF3ilOw3j0blVJZTF_xpNn2VTbmHf89z4MjJVCqg==&ref=10497002"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IgQmew1XaRCvek4bJDnAwNBPnyRtQTKqm4gk52Cw-Ou99bAr_xpDjUtecHtht_keowATnrcEW7BdHbHmntijCKTOKh1Zs-VXKo0-qlZmiClSKoF-5uTvtyE4sv231SrIZslG0xwoZrMIF06sfotEAS5YMy9UKNfJv2WfIw==&ref=10497002"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WR8IW0x4pFXMxGnoB8NBINFguM61OYplq5a0g8v4YsaOulQqLXSqPHZ8J2dTa0MZGLZhbmH0YxGZDGVD9R5nWFsHCd8cMFRyhq2pvel0it0CFvZYG_ZkfQN0JZPEmxpDyzx2AycTvqAe8LkAkmO7IblCYbm-kNG7ePdulg==&ref=10518701",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=C0imFqiXwfp6gaINw3FLIRhxuIwAQcQIjPQR-3mEtsnAT75VTkUiRmOE0oIVszcKLiqTVp2qzmIWNm_mRSLs27Jgne0QP3n81u9eyiAJj5ym_mAZVkLIp7rm6aZPl43mW5_UBXz-z_BO5MaXLKQ2mirMeKHv8RfnZYXJ9Q==&ref=10518701",
     "size": 1887466
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zXXpJ1uP90ArOM72SSaV0ALbZqw9ifHuRZsxnI3vwUDSwchY3aA0vQM9nK0S4-KfTl0buQufh0cz8E5u6uIXpErLaLE5znA9gCe2b3wWVdAUvz1DGL_MyxxAt9pw7Ud0uqHn9Zz-PxZrV3OkjMrbBNJB93wH25jqAj-IgQ==&ref=10828668"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2HpFGxSt1xJcLhmYPv-AKVum36MA8x9ggK1JHhe4G5BFNzT5LgW_1N3VdDxj6CgEJ_i2cBZJJUgI7xxqOA8ned_8Wga5zZP0N9RaHmpclvhZJ1fgxlALfoAuHwFx3wBwn6-zOZ7G_VfSoDtXxCavtidP3GAhMSG8wkNeMA==&ref=10828668"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=adRC9i6c0w0yJBJItq4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Ls8NXNvalQKd5A7E6rY"
    }
   ],
   "media": {},
@@ -803,29 +861,29 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=604f6e_vXNwS5Kd-_nee_4sNUu5cBm3YDwVSHbcsWlA7CjgXBHPY-EF-lgmK5Yx9QNJ3iSHqwJKj2DA10rJfq6zfYG_5IuNZiGwgYWEyW2af-ZeBLofkxHdqxkyNu3NM1PdbhTx0xHvbN4VTxGP6zivjx9aXKajTKq-zFw==&ref=10362887",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RlcPTKzRdp2RKNDyK02q6rhx-N2XIIEkyP8_AS5_Dzx0zD0YEnkppUtnwI_doY5w6JdkB9lnKG-pDYbLkQy2BkqXg4gX6MSHyMyfXTMYXcWZL8YOpud2hcTFWtNW0gNyUwHUv9tV1J_trbBWeky6TDyd4gUktxsKLoeJyA==&ref=10362887",
     "size": 112853
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cKpT9dQTRMCRamNfMrR0cL_GdcbNTRQeFUV8rKDl18vCpgmmY1ANu_u-vlsAFaExZ-6KY2ikSolBdbqGVrtX1dPbvlWFAHvI4amxhnbTA9alAM6xCZUA7ktFaxY0TSSsBITVPne348GLpGLVuCUV936MMWo7eZknTfTgpw==&ref=10448844"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=k0s0NoAVU3gc9XJCdYP3Oc5ZV_L0C4L9MDFkADbffWD5bDyXo_rp43K5m1LiAH_0wb3rT5Nlg8d0tGblt1k0Wa9Q8zojw_DQIMy8kQ88OZof9gUderfjcr3MfcfHF9XA666evYM6lzmDyK20U4TUihOHY-FqUf6gPTExzg==&ref=10448844"
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=a-Q7qJ2G8BnrirHSAAJG_O1PqTnvE7rzToZvV1S_kCPn_7sPbrlHev5gIpbKXcO8SBlCHO7XuECFXB5_xVO050PWPOepsZWOzREOXr8pm1UF6bpuYgyew-2aHSHzITah8D3VsCVeIJ6NNW3JwbPzW6hlfWLz1p6IhXqNlw==&ref=10448893"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=luSbETkKJMD9Nzp9Z4hoIOA7SOWQaS2LU61nzbSty__ZbzDHzeB45lmw3pqyuOwUf2Vl2u8QPm1UmlhA4pCJYcGKGumklCNzc3BQuuFTIDSgx_uZjiW5FpfYR2q4g_LQERY8ip5q9BSyRk816CYU0dWWbB7h2PWTvvJDyg==&ref=10448893"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=eKjiDXU5jVwKK_nuXzUKVE2O2zz5ThwN70CqcLVAYNzJyTLZclyGPUwmxapgcnjbWR5nwoDrEbPjBi8SGeNbj7Zx7fT4-vqBWsNxfB3wxDflbMvItdG-bYC_Lfg4SwGWXBriImXPvLXIQVoZRYj0exVU98unMywam-1Ytg==&ref=10518700",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Ry38OEUwitgZuj4dpHwtBEkKawxa-TSAO1mLG9DTlwOg7nMfnYYiJM_Ee7Nfsqea3MxBKQT0JSoby6ep0UqdrK3BCSbbiJOXkJcwHunya5ckKPk7q47XSLsjReo80bU0KCeR6o9ccZ5emMwrtIONhv2NtaikCn12Lk4lUA==&ref=10518700",
     "size": 1930657
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kK6RVBKY4bxLxqI0zVXfdYNSPs8PMUGjEbY9w-J3yc-uCcOn2oPpTZYkNyrpCi20j6FHVwKJ9pNvsmmHs2LCC7wXmqqaQP1k3CRkp34lsTuBqbYIvOcZCklGEA2dmMDSG4n4GvLkW7Va1XZYssUa1l4H5Ac5NDxE3v00eA==&ref=10828650"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CsiFIQwUxug59U2d1KnFtOA_FNGgj7El3G6xmqktrOUXJy4XGjjhb-woHZULa7Vnh1VeJ71Mz6Hm5u_r_AFRYEGgmdS0-zEnNjjdSTQGIbZBsOSTloPpmy1lCeQSWbzRfN8Vl3joGdMgD5VHXA-KdnycPKmvx0evoCo84g==&ref=10828650"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Ay2hE250NtSoSNLFFVo"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lw3kM4HCXIvECxdUncY"
    }
   ],
   "media": {},
@@ -869,29 +927,29 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KV03B7xRhyTjwFZfdWS0zvG8_GU7LaBdbOUhs6YDkVX_ujwywkEHYQmXS3mZFZ8qzhswQ2Hxd-fow2ujK68INzezbIg6qQD4HuEdo1uBzhNN1Q8PZ66r4r1UVOKedMzPxV0-EmNLVxgmNBD4E_FZoFSw44gCN-5dPV4_vw==&ref=10362887",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=LB33XS1UpWtsFlD72iqVqVwQoDKVnrShp5m3N0h9AljKhBA8noZ4kupXNUFgkwdsXUhn7hGMnGmQ49GK1SEydnS7DyrjpO_GYwYLbAaxUNXbKMuJMCdKfbY6qqEbDmSDld6SzSvzmqq2_Hx1Qf0Bwj0d6HrxA4rZLAawUg==&ref=10362887",
     "size": 112853
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pALhq5FqIIuq3tkDuJaJUpP6vfZYUJZrfvRVUDZEDd7f6TL6jp2co4pb2qg_wdtGmvROuvV2IfCpkb7cUf-uosFv5wWB7osLP-lvQIiRU79pzL_g2b4EELW3Fw4cWW7tmC4Uo_58D_SmR18-3U_u-uN7IKplpiiVWKBznw==&ref=10448844"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=13WrAxAd7wEWTBOp5tSms41XpvaFu4GJ0EMpscTO5AY3_fZKLTZSx3xqLxaNiCk6CIj7xyGFIw6Eo_IOt1GMz8c-n2NusSFuoeRCFSuGJZGnDqeJqg6brQ6LFhCSDnwss5E3tw7_ub_mdN1U3v4hPUvgTB-H7-zt0Uml7w==&ref=10448844"
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=I_Z0YUy3Ig2M-t1cOHiwY74spLstia432bl0Tmi0HLJWfiQlcAIhcgqcwSd2moltW_sODu5VmMGKQpWacXQaTzactc_al38N_uAAm_nNyFPvXCe4GKD697MlpU2DdroI1EN3JOEP7R9_ckt382k-ecPE1llWOfsxY17yiQ==&ref=10448893"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lhIM0m0YrcPEkZgZuFu2sf6SdW45FnyfW3A-RZWmY0jvmsJbmPRjJa5wDz-dsDkxegwCrgFrMf_y4v-PakgLzkwCL0W2f5MBSGzdfL569NFlbrth4BiUUq8suUID4N9Djal2qCeZ1M6iCW5ymN9axwpBnVFvMAG2gKGUqg==&ref=10448893"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FZTN857KosBjTNc_5tlNvC-MtVNcljhEJ2F3jSyQUbMDjM0Q6v4Fwf7bbd8g8wBRCluFJ6PxE41hwzm8_iHcF3OqQ8D96Ah51Gxh0dHBT8sQq4_Ze0aTqHQ8EqlTbnWKBPXtXqvkwEoqE-vijutwKozemMpiCDmSOYWPxw==&ref=10518700",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jZskgMCdw0k3Ctvk5dCX7WfxMwlWk9E-wwYdqVT544RX6RZPS79Q6EpgJtRZa3DdVaH3efvuWjwKHGFAwo-OlboMjK1PWGeR7OKx_WLQoQsllobjLtAjnfB9If7sXjCsRmbM-EFtcd9vVX4ZrNrXLdSpdFx_aLy2qV3I3g==&ref=10518700",
     "size": 1930657
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9Ovihn23Ob3TmbmlmFzMt4bHY8UtIO0IzSse8WHR6EWQcbxnxexsGpV3knERJI_8YhrJoCIOVeyIYfL2Ck77m8KM58ePetcU0kDM4kzu4UxE45_X_4T1R-EvK9NOMy9esqasAqkbn8GEjWyndijhcVuCz1UArKUcXF5RkQ==&ref=10828650"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KVMreGypDt_JursQaZbs6BkfbLV7uYnb4a8tioJwNRdoCYHRnNqQ5FRof0q7Mb6x258msaOA1aWR_koWoLEHHebbf-7SqTYhIiDGYwINeXU4NeCMXcZghqWRIalGfJ5tfLLOykDGGVq7idsfYNDG__qI7NQF8SlhhGUrsA==&ref=10828650"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fI2u_P5Yr56tDnXFRoM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=GRWGv8W4teFBn1bszzs"
    }
   ],
   "time": "",
@@ -905,25 +963,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=J6IV_oWBjCjTDgAZxakSq0v2ltEHI6wOTnZqkf3N_fB9XnsNWRCKW2obwuXQDg52HiuOwauF_jJ8RvKgbXGArgOQX-Wn3k2v1ymbpcsGkUF92ys8oqPVvQFIwTAZqVBrbQkcj4_24yvQyeehVqmfLfLAxdEexfv4Y7IStA==&ref=10332860",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bXGorARjKM_r_mLgUw7Tso2xSYQzuKmXVaI7ypDJ0HVrqRuNp3C9dE4naXu3NN596eU9LMmClmDEXufOKt_QKK3X4NBIq7ggzm0K0vAOb4F8lOdVAJQnZRA-ENV6YgZRY8W4WhPzQQ72YcN3nMVE4VRRjl58V-j5Zi3rlw==&ref=10332860",
     "size": 108629
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OxccTgMc8a8n4BSL1RoCwktWzQ_kOpqtdX6dso90wJWhkp94TrxLCjXYD5kWDHu018ZLe965fE6DdVCchJW-5IhHBKFhpnocMRutKhtQOHRhvhjGp0WsDxK9X6BOT3NHdqtICAU9s_uN_CSYB-_FLzkO1RNa0N43rOfEGw==&ref=10343494"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PFNIZca26OcazGcOczYhXGtsnTzwSdo5Ye4rk5MJSD_I51Jjn-NUzJMd6DErRRia1r9VWkpiJ7xiFDUuYuNEhl_ofC_yftsghfCEY_ldIYr8d8TPo3LQWCcM-bHdCAflNgYVVVmVf9SgmfJT9fFtpOQwi-rHqKnpOtJm6Q==&ref=10343494"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iTlTBKpjR2JvIsUv0UR_Ak2_Pdl2PLdRLQiuKusLsbbff4v9PdyW0QmwGNKfAx4LbatFm6MJExs5oSHuvqS2sU6ZPU_ObPhqIeCRCweDXsjr0EmaW-lvji_zKC1bsFVU6LHP3PeVI2ugfkRCRb-V-2AyiNMzuR43mZ_yyw==&ref=10518697",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WIAgMnVzpJBxvB6_SjnDJqg09XPM0HMcvzssB5O4kUMRDjcKxWyr9wXxRNGBWofmy-YdNO_uj8pHdC7Wxqvw4BdmSjWp1xnV6-dwZ6numBkTVv5CYhYL43Fu1T3rachXydhhMWXss0ckslkRoLq2SbDQvjjpLs5NPhF50g==&ref=10518697",
     "size": 1399267
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Fyc2pyQHhTFFA6y0RYJw-MO4H3PSFLLvfb9ckYIkPNMSnDHtjVBxqr0ZwkYFrwNxpSnpmP5yEoV1nDdmMKfPNgDtX-l2PqxiAXuSeZS4l8fjxBDx1D4TpWNK91xu8tImsLYXHGAq-oX6nphbJ7XfUpI9qfgImZgfLeP9pA==&ref=10828643"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TEQql6Q_u3acsWy36Cz_EBjkw4xjdmIRgsFRGAn-Ju8KMeSjzG3EuPuOQ5zkb4N_d_wgmG5_5lRZUvSZjO4t2AtC7pGj_ukA4_UauVsRRGdI6qZb-W220yKZdAjNVg6VbZhHyhk0O86iiFrePraVPGjfigPGDN2hlMieJQ==&ref=10828643"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0rjWlSzol9GfO8WyOrw"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=sciv6f0loUDeRekFZ8s"
    }
   ],
   "media": {},
@@ -976,25 +1034,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gNg-EwwfM_Q3k8p6kHbr6Bx57mCSZYLKOkMr5Foee_h-mueNPtB5PvLEPu01AG-e3DW-Rx1h5SMMYTXu2b6n4vTsMJuMLKFcrNGN38SdES1l5EagalgLeSxthZKo0ZIQP9b2KyPJk5MLiQAz926b9yqU3qi76oQ81RshsA==&ref=10278316",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cGrKHNBxkJnm0xt5EGH6fQ-UnrOHDpVWk9x-9dzdcIdEpdNcAaAN2RPqjLiJF7exl05xCHD0nTLXlNilO5OUDQHJe7vd-Rw5o7TY8BEOqrMh_WryKsW1GJp_D8l4C5v0p02k4DpFlrQ62zrzfcjnY9nqeUJX8inniCd9ag==&ref=10278316",
     "size": 116389
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kfVoLn5FffzAvkNipVU-u3uWzJiXl0zKSHUC4HtYeb0mi0BSobJppySy3qTC3jKhPM0RhDq88pa-IpTUa7klzXMuE0PKFZPTLIj6qqOWY9gP2IPVxrO-MPNLE9VDoMeSJtkJWcUQJzF2dTLUEMj6KISQ-5NVaTWd7SwYkQ==&ref=10300473"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1WRpcmW25TfkOqXs8I5Q9EWo02OZ0Cr1v0M_3ddjWGMxItqbrJ8U5-IwpzIH8dZnROxREjQuwYlX0NGe1VeF_RJDXCtFpNtj0x9YHyVj9A7BXqzzm82qvkpeRc5fDyp14GfA599GJ_ofsADTs4oP2GPoEKKBqTbi2GhYMA==&ref=10300473"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0ntXbhdQ8T-209c7KcqVEM1IUgfJ8-mellnme3kfCdLI-ExUwXFPZi4yHvIy8c44p6b28zJ51rvfoYKxXSjmI_dQtsC4F6ZvYMwNoSGb8dh07pLhyVnsy13Pvk-x6SDGVFt95uTYKR2Eu8tU1bJ7Rvk_ZGZB3WlKgeSrmA==&ref=10518696",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mAvsJAy4akJQ9W9a0vt0zay932vWF1kf6ka0sBDaqLykeXd-vfrI9gjvmi3cK1JUHvupF7_s8dcgSb4aEDSNNq8ury5VOU8nbaGyJoGS39NBlw8viWXPdfC9L7-0TCppNNSQunspdTQyes2s19fdoE91Cf2Ouz37g1O1nA==&ref=10518696",
     "size": 2305850
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZdipahLNfYqIUy-aKnLmwACQUHKaVVy8WXjikWUQqGynWJ-_y2MnLrf8l5bNZWwWTwJikuyol8pzzHHUvDscMVbhmTdKnzSgecN9Qj4cPrk29d1pwQ7FmPF6zhS4BALklIrszWBCkzq6Km6IslxKACg_p9cXJT0C8lxsXA==&ref=10828590"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=il_ApWW6eDa1meooj6knAQ-1XaGXb0Gocsf40Hbbu5jwvSGSMn5NJepbl-kndMjqV7OCYDEZd-_0lfbMITI0YsKr4-QJLCBLENlgW3TOwlKVTFeTS1nAkHTBmnYGqSJwvanNDmifZaqTcc0pUGlgxQHqgvTwnX6wrpHZ-A==&ref=10828590"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=R4KE4zh3Wd8IcsoG8_M"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=9mgcX4mQiUVbNMfaMAw"
    }
   ],
   "media": {},
@@ -1031,25 +1089,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0TJ-ST7pS7gRtpntp_KgU86mLg1zQ4aRKQ3kbyUXg5V7bVQYs0iiEaf0AiBYcvj_ds8pgVZd54VOGKvmbVO1UISnRwwSyKxLnWZgyYkHTboSMdV08um7RbJRH7Jo-6-7yF5X-pe6992me-Vt3lxxCjKq2CM1AeThmRf7PA==&ref=10214740",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dbmBrYRlFRvu2eZrGyIFVqQc4FyWAIfCSGHke9t0wNqkCz6rX7B9FzMUBYXZD5AxPpy1VikneeregAMNZTbZago4HN2Rflk45YRN9LRDuBkTKoRriNFZ-y77eWhe8MrM5puvc8NCtcb6JOA2x5UuGnjHtKk-N2FpzsK3wQ==&ref=10214740",
     "size": 109278
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lW1_G5Hlbuy1no6sb4EoBgMcuSV1TMrK5PEKTJMbMlZ7dltlIPWy7KXuRx2guqI8L17-RDk-xS6qE687s5PNyHCU8KkJ4ZWv5GModPBOTLiwrEx2no4nrxc7L7J7IdU1_QqspkX_mzqejUsfjMAzuT79yQdOoKhY83on6A==&ref=10271465"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PBLGlJyvyJpyzHIzrBO8P1uc-rPFQSVFwgHpk4xyLRSCQPDmO7WbsE4fWyLIt9D1KPSEmJAh6Pe7C0eH7EANevqk593jW_7zwd5IHvCs6tz7VAj-_ck23GYwWzQRTKQdImprNId_0dKthsrxy3j9EOOTghfK2dNvBUVxVA==&ref=10271465"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KkMomFUhU1Becr7LVFitiwsH8uBAsOryBdTqXH5x5pol7h5xEFtMJlosgfqpYjOwTiuG9xcC3_BUuwNAfNW8PM4fIOjYgXB9V3MDz52p8SSMar33On41nDRk-lRuLyYPV-0zhZ-MKijcV7bpj11ltZohLYSyD6EaxPLUnw==&ref=10518695",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=prgRS4UzhoLzB18gYyrXN8CwUCwkh6CckkbBXTW4Kh2Av2JDI6g9UWMlGgsaCb9_lcDrzTafrhegCaez7mKyn5s2HI09LP9IqqZ-UcQOj-NZI-MtWh8ybHp80WUJsjy4KUVL43zJaEA_k9G_7AhfgpurpkZKl6K9lbTrOw==&ref=10518695",
     "size": 2798823
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=uhdCi6YhPhOk1jsffWSdwHdHbfIaryuytsnfdqRI0q7MuuW_UG101_TuybmTlzOS8pjMRf-tkS7TggxyDH7S0Vl9OjENfSTEnzQzzOgdtCQZlr8lHDIdLG3S8LEDPIfdhaoqkj4St3PMrplmWiKq_DugHs2RvPzYCwK7Ww==&ref=10836685"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=-a-ESU8ZIgfGxTKLTSwATWxuZR-Pem0GW3o9BX9jS8y5JYGWRHxb2k-ni-nwzVaKVUze6m5lAH2HfpaCjedULRnqa7j34A-E_wOuuiJRUZiN_njBuYoGWJg9esKX-g9_-xpA1lim4Ob4sMYhraqGcx66s2gfDYsne9vFwg==&ref=10836685"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=jDy6ToaklpOwkUhLRCo"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1ZIXimOZHdwqsURvIHg"
    }
   ],
   "media": {},
@@ -1099,25 +1157,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bR0OtTL-qmxy9j6HWx80iQyPA4UuBJPOTBl1QAaaLoEFxEybA-lb5yJtQe4DEv0a1xVthil3PdRG53CIaxYjE9pzRrzSDOMRH2Zm1xBLsZEn4eZlH-yUOm4-FIi6P1ixDaLq6e5guGdREG12osVJT4fExpDK0M9ocfadAg==&ref=10164051",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lzel_QNXgOLV_A8sjMmzYokGBLqp836SPS1pMdxZOz4JfKhGrWL62yoIImVndLAH64lMLtj_ueIixh3Xa1KGTeXLcklRaSCXYnaDx1UaZdhQackIT8H3Oo0f70_4zL4ktyAKgbCBxnOt-O73gmfgfojzaI0buqHJPVcByg==&ref=10164051",
     "size": 105725
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Bbhuj_PP6S43JFgfNdE_2QS_kBsMIjK_GgEaNJ4g44yYoxoLzLRrYfiUAdXzbJpkV3FxSkPjW5RsIFNAK2D6aV1VeZs3b4qPndzeOvmYqYA9xdOzcIDtNWOPaR1TYbgQe0B5pLvfx475jL7ZLriOa9-yqw47nT4DPdoF-A==&ref=10518694",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qPBeCUrf5OHkJOk2VsLumcgbH49osqmk-_CfzygtrIuQgRQx7J7z0XeG0_RXY5o2Gfc_MdIO-QxAe5JWADD76ftgbgHlHA4QXRUgUjr5a1RxvhTHTTmXlSAD3_NhXxnCI-86c2TcBFUeqL1b9PXh0qD-W3Zhsn57m_ZJ-g==&ref=10518694",
     "size": 1533424
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wY1N3n0CyMSelqaTdXg20XJ2Gb39OTacMIqD5KH90WMgANuxC-SQX950A8n_7bHadcxuaI5EwvcObUNUQx-uVnuV6TXFKXPQis0LW9pdqi4qWqW2ExPmK-D9xMeOt0glK6IatIflPx_OWx9zfbub_CxlcIYwhhAQUwTPUw==&ref=10828315"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hYK4ZKQPLgBRcaT_qTeH707Mm6vdCnuck1PYYukbXsoNDbU-cKFSLkZH4NOMY6-Ak95WP1z07L-07hKvNPpYIRg1txoN_rmKOG7PdU3rXV_29tfR9ekt4_KvEwykUvIubu0qlY_CUp4422bC_7Odd09pUCcB7tFyhTK4kQ==&ref=10828315"
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iOwnoB0b5_0d4HJs_imAX6rQIagcj2eq-aycDY-kqqTbHQo9OnJs5PyWp3-pUK6sw9T10JiuXgupBWrHxo1jd4KnxBL_9lkJubV-uh41R2Y19BJE50_r23w86KyH4qw8Xj4T-4sLyh03SyhpTme57huGsAMzCnspucquPw==&ref=10828331"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aqBhxROxpCHyYkbo_oyUvuGNsyG1kObcgBKeXsd6DtoPkb_A8T4RWkxeB0Ck5NVSu4x4W9RnGqonwJvv4i0kMuK64OVHc_PT79bECtmyc-WYUAQt5GOzEkxvxQMJ5JBVSrhSDnptaqhvWKsE5M9GR6X_uiCNnJGcKELdTA==&ref=10828331"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tSNpe5rW-KumvlyRUA8"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=2zbAogwp-p-vI4INzAA"
    }
   ],
   "media": {},
@@ -1158,26 +1216,26 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5I6t7Q_J2MdibLel_fSsbJ1QV_camBWUFWhxq25gmrh-2gorB-Pp-vvWzWIy_dMcKujG5kcUX1cV9TLrLuY06qvlhukKIxNnkoET5CzDf-f3XWS8OFFB20664iq7bifZ7YbZMWfzZB3extNhT6F6WTCWU4OdTtpM5YDesQ==&ref=10091269",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=b6tQSm0oQbcquRTwRNwm5qcSrq7szVibqLyyAmf5mEOWBD21MiekLS9D0GhZ4uOt-vUs27I9irNEcwmxN5ljYx0iGwZKJsTlU612FmYbhPROWJd8ygcTRv_mPb4CZ1ULZKf0_5rkvgOcmIhQUerRYqL1ZFgBT38L_9qxqw==&ref=10091269",
     "size": 114312
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MBXuSfZwNMZwwgNxuwd1OqhpMIiHwjzpGTGl2yaczKRGYmnYl-QMOCDGprdlxHFiR8rp_DdQYsOy6iGPNMW2y2EnB5y0oJd2nLG2uQqHrJfhFYW7_RVqVjkcNkmCrx1X7HijtmLiLL6yyJMmfMwZ1vHLup35M73fFCZ7fw==&ref=10100327",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pD01DkbGOZa_TV7ILJtNNqJ-dAYzT-ZpQ9pbgSvKBdouXDNKC78jyYBRL6qXQy7l_vqSdcgVpRtbMSur6nTwbllCBR8zEFOTkB8i3dB7vgmECdk-nLwwBhsvUXoe-usRhTdf-fGN924Oe-b389O_4xuuvcwxWI9Jg-Fd9w==&ref=10100327",
     "size": 114312
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tswLj4hMa8F3eOL3KO0BwbqcR-P9reb3J5Q-kH8XgbYC4Pkr33DX-r2oqKIshSWZgbNI8QckrGah0_em2gz-COfrfIsAu-IS2bRB68ggdFQ4ZcNtd5ZY_VRtPzbnrwTPyJxT61ZxVQ58DYszeDNiHdp5Sp3rXhwGjSAjLw==&ref=10518690"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZAenR3IshPOwMTWE_hRjFlOwjdXYc0UUoQ545_KXJJF9qG6sDp8QeacUk4R1eWyHUAgQifwjQULftsdKz1Pe9-SxIh_5h7Ru_uX7RgrlFtSu_QjU4nwMlF3J54FKrRcjaiTWGKmHGqIcqnU5_P8IJsIYMrsU0Zn7zpQ27w==&ref=10518690"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BWu0YHYXk3VsH2awBDU5dxOoQEhRgBR3pbsD1Dv5SJ2oF5JZnSW6rUYwUzZOXv1ejoWhmq1fwsv26VbsX_8KWhKVjtKGyGnwuI9ucKe7OQ7XZQSoF5lrBCGZgXfvEbJsaaVLLMyyAkti-Ufq9IvunJk1YyBymSy5tzIOPA==&ref=10518693",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GoNnhkw-qGHrMhydSUx2NvPLANboUkVsGaejAAJ-aEg_xrQ2bei1BOxH-QlQuID5osm2sfJdaPTwdoXCKtQOFrtIfCGA2GRa3A_0FWbIw0dDCMsphEk0VxhJLzCgGAHcccSYgOTVD-VWkfsGzCg5hVEfSNSOThD2KojlMA==&ref=10518693",
     "size": 1962357
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=r1T2HAP7fW-X9BtqITM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=EImQ3_n74XDca7v4Q2o"
    }
   ],
   "media": {},
@@ -1224,25 +1282,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=AKQ_0FYFS4oC7cgLEPFGjNxWRkgvjR3r8PXgZUsaPapNQUZiq891R2ZOfFjoFIZfWREnAioZKPqdaZrZ4_fA_dc-Fv-NI4x3ePM53E5_6Fk5HeYLZ0nScUW4FODwJyv5EfWNptLXx_meaXynDOtc6SsOBXjGwfs2eb8toQ==&ref=10062063",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lriYo60OWQzIpelFXJArTQXckLVAKapympHCNd4JME1tQufgY4Qgani5KxZ-GbIGZSn3s5CzTFbR0-HYWATdhuOsHyI7vmc_5AKCGRxSqIOns4XVIy0jLGk8IzZKyvY2Z0vG7z8HxYcGhcKbqAAJCPkp3AovypnCwgoQIw==&ref=10062063",
     "size": 108544
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oyRKhg0PlzCTY3CIhIAQVR6xGgEUFPpE2G32KBBsbErBa7pj_kNjtxiz8CbLNfb9F9nMVzjUgvV1J-M4VCp9k3ldieSunBuHVVXd72it-AcEuKLt14yKWUmvVu9IohjUNFZCwAjzhy2N7380bXmR70E4MNP_8MWEpXkBqw==&ref=10146011"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0zIaVpwuq1dl39eJiO5SrhVpcCeoi4uUCoDWSDzP6H3opxH2jXelYY2fOJb_sX2Cdke-qQ-3IETW8RYmOnHSW6ozxJ9DqEkA2Xg6czVGvz8uYaR8N0ri-LunseOBY8hJyIGx4oj9pNGXdXVoREmwSA0KrE8fNz4MRkl18A==&ref=10146011"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0m56apKY2ks1zrL9DMgLHCc1oi89xjG4ybSQYJ27EBzE_mpJ1G1P3yI5MWjkKjlMXzwlPgvlxO3oVEVXI4bMsePsNuj8nJ9WM1ZDFiQtYGSEGz209jW8EtCrA_vGp2M_8mkGvt7tePNezk4TNJde-bmj4m4Po2ps8-9dFw==&ref=10518691",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Bfy1rYqc9TRIZB47PCEl3sWVbKm51uOoAS8AWzLCQ8zxESKPa2icOyru0EYuWQA1A6rO1Xdp-eQSogMNnkJGaThlQzrx7FY85jrURUHugnrm60_j7yErGLFPJkyrK62F9a678v25namglj6Cni7S6NdXhqncjHs-RUM5pg==&ref=10518691",
     "size": 1630110
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kAeF3-ExJys48H_xX9SfBj0FEIVOkrKvix9iEjxRIl4j9BFCf__iYxxdnmc6Ia2rkVvuhtfQ9SEX0JEWYeP16NOCk7SiqWoDfwjldnyPAjTVnuenAor3qPM2s6fUknzrAq2NG1dpSaAuoBlA6LkrqgvhmWzF2S_GOP4Fnw==&ref=10828244"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Na5lflH5TgjNwqTpbBDt2NHvHxlvZFsjxhPueJXJ3jfv9I-Q68K7F_yYL02_u2LT4MYRbtZuWbNoKvY4goSU-OTVwFYV84VRhxp-6B2SdaVQHjaQg9KZKssSCo2wfCdQP72E-RxaitKiT2I8Wqeqv0PlUZnxKvyY4tuBwg==&ref=10828244"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=foK3mKwwdbyag4QSNE0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=RDZhyUfCYLuzmiFnYtY"
    }
   ],
   "media": {},
@@ -1295,25 +1353,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iJDZIBegDgBmBs1h4nslWBSoX1YVkP4P9QIxeicRaHVo3_qjsiRYMMwdo6sTLIw97rkL3P6qNa7f8f9tmTQgG4L_bWFPHyezDnjouk-xQKNa3dS-VhCNfD8I_k9X3BE4WbbOw8R58QsZcxGtx2p3VUo8QGQ62OY-RUDuzw==&ref=10016223",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FK76Yt0Dw8fJLjGGcv2k1VBU8sg4GpX8tPbUUuXcuEkJZsXlOwgz1FjB0hKMawWglkC77Ddsy71oxu1jxCqYtHowVO9iTwGvvuA5golENoCoC3UPRpYSHRZB6sK71uemFu9P9Ru0o12Daq3s8uXA-VH4rTNquCiU_5pBKg==&ref=10016223",
     "size": 101901
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wsK9d6oeBELIoTndAZ5ziayrTdCjJWB6nAxIWxHZfEPdMZNTY0ckRf4DFCWUiC7R5x6Mr57zp5rwcVhAzO3AS8qLNzmR5u6H4Vu8i3bV4uxsI9n-UVwEA2y1zAxiYLchdpGbItZ77wiY72Jt3faCGGHO0AC97N1W36JrZQ==&ref=10145921"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xmraCeF9FMwPzXNLDSurCoxmGKc3aTkdruQzk2EvsRyQW9m-9a6hxadctIo0MS0bqhZbWlS1-9USWpMJzYyOfNviwfaZ9x6wDKixASgIOob8dfKUWxiekpL5C7pxOtEZnXE-fNfZwZ_t8WzABnE0TqGjtiVgxT63ZQMsOw==&ref=10145921"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lTSnxNnGWnej9afSeeDGbEEjkj-eCLrPDKYWGqntvcD-QCZEpdG8XEbdC41jgkTNT0AJ-q_-uDlRRAHLlvylMuTlsYRhwMXdD_AFxpcqtcMQcjN6eJQ-LbSxC10yaLd9iYAKbopbdPfFrnLAau2JjAWyrD57hLygTPsXgQ==&ref=10146002",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sli1ASfrUYisCA_fGiKAhJH6pCvnqqB3mGddQiKCEB0-ySIeVlKtvT9AzFhaW6ZOrXaYeFuGJntHdIX8Mr2-6Gny8RYEC8IT3ZkT3tRGS92cWgMc6GPhFTUkEGBUjJAAtToiHezVo12jwhoObeEY09huWh00ksGvsPWJ1Q==&ref=10146002",
     "size": 2431399
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wFseoRpVNh6EwsSBqiTNXvcEa6hbdxKEcR0XuEHsnGmuXrr8zN3p0aaMxFW_fDjUD9Z3h_DlpqRkDYJdm3toV0i0TCU72Jru06MbtGXGisZXfuzC9kPMTRbbIgAF1lxoW1WXfPmVoKmnLGH-bJ_7Dc7bjWf1YOcjPMYdkA==&ref=11079791"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=va596PZoOlEvrEGg4OX_VBozsDRUywHruTkUdeQLESakn5bmUuIank4n66VFd0TlCzr7gVDaMHPitgpEl5tdr9E-5FJT4PHy6Zx7uDllVFSz-dOENasJNJ6C7lvZQvEQnGElutebkPlkB7JuZcit9RCC1d2pOC8dkWm8dw==&ref=11079791"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=UBPLjJiRRtIXW478EWA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0et5p9iNW03SRkzL64I"
    }
   ],
   "media": {},
@@ -1361,29 +1419,29 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Z3Rp9AA5hZUPlWLURwpCOEil1DO-OS17OiIpXCSIHB-deMR--TlMxCFIL0bLTK_jAAWv4ntVibiTFDaQzBJ0-JKrRnS2vasn9VQldBRGwYoszs8_PxfcfAttTNgLorIu_ke3NsTh936cXuXSA5fEV5hhLCtgFJ2IhXk=&ref=9970965",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4aO5XnuDy6gXs-2Tjg3C7fq_P8ziMFgpXR8JjAu9snqFqCT2Ju7Mz_dQweWtT4KaxmVqY4-CAGZlTjLnPjah9Pyfh8cMrwt0-23JkorAyq8m6KYmYfTOGjugSpVg1KFkxWOTTEXJ3RmXNzxd5ZVYt0mFFe0z3jGpJvE=&ref=9970965",
     "size": 108716
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ORqmEsFA-SOgcn8nEg6xIxsl3IG-Ie7usfdkTlqoeCDacJ36bmLoaPzfv4DRHDDaPS35vHfGrfMFxeltciJORMVLZgATJg0g_5X-LpTJu9wtkDd3WMTCrtT0PAT3qyFdbqQgc3fHmyXlSwfvv2dwF_6AXBXONci9qhTMnA==&ref=10117772"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qxs9jmGSNr59KGRtrRV9AEimi-iuaYnlz0uFWN8yLu5bdNMuqjJGVZDeduN6EtMlXbD6ELw7cstDT3siRNouf4sBSpTUVRGmSv9k-Z3U6wHf4YQRIzxLP68e7qvyOzK1jqi3kOLx8En46oNxsQ5by195z5DSrOx8eI2VoA==&ref=10117772"
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lK3rChRchNWJvUXLiGsbnOCImrZGUvcgKrrgBcCaBFbMblGCnWGij6aFilN46QMFZ9yHm1kwcPr4cNyiushWoj6D_36IX0fZHyht8RM2miLcv01wQW1yHurmybaqzsjR-PMs_mSqSZRsUGK0kHOusJJp-VuSMXhQ2MtvmA==&ref=10145904"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nsYSoaNqJyQ0oMVm5VIASNBQ1MZW5Pko6ShqAK8QHRkpZhytCcvuoL9kZ3iT5K57oFazXgGWpR_jc5JHXCemsKcJhNYvQZn-1b_WTdFqpnZyahftT-uCTvdjdVEOEPxxpBcCsers55bkTgGWxmFVRQAcA8i0cmDF0_Imsw==&ref=10145904"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=07u28b03hiXezw2pY0beFTG1IoAQMB77yaOBvn9VvVbijTGnQGhM601xkmke12ESEX5dy4-ZU2O4wmfnoNkOkuvWSO8MrMYYDkjqgWK4HZ_Iz1hpsnFSfTumwvm4-5-Am84Buw6U2xqpbxIEwbrOz9VNxCaWEBD1xhuUqA==&ref=10145907",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dCUviyFClW24_g8TSBFwLwqBDlGBPUsXAppUWvkyWOMZ-rWMrWQVmnigl1Ywe72eCbHo3n2N8oMRDCp6YpJ9oshZNBZ5oNI71wsMQQr_gcPvNs26Kf46P_2_TInzha3UbaDIZyeV4MBgUpCFAlMuNOPsVGfGV1ZlxUNmxw==&ref=10145907",
     "size": 2779226
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ByPTpMFM1mCbRAxwpv_6mDGa_Nr1dAnAAZDJnKlyxlOOxI11kq4lYAsqtD75ccA6nmeaxAthaI-BPnrYUp2w9Jd8l9jOpjui-jPfDeMUen_uCisPreXKd0aycpGE3BI7G1Zv4dCGZnNFgrSzcdy7RSaI10ygbXodVF3WRw==&ref=10518678"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TJqbNT6-RJG2-ujCmOgp0opAxqKXylgaUgX2bn08GGOY_13RxNykAuSsiiriKWjaieqAIEvoe4Vkvj0IK1uSbpyey8eC1xIA5fY65vrWh9AlxHHa07wQ4jSl96BVCge__YDodifTvDAMLh40RfWpncWGZWjWpSScSHYKug==&ref=10518678"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=vvc8H9SsUThUsFkbnGQ"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=o9DH04nIFZU4vfucwT0"
    }
   ],
   "media": {},
@@ -1431,25 +1489,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mxRnVlax20ucIC-O1jmcLz98DKh35DtuvVOzU2jqzxrWRHvrywStFnHWprWhhmX-AxBXdIo41nIKyATphIspxM-Ti0CrIocvczdaTwDLO9y3insdBoYkGhGjCQku0T1wpmD6aepixsP9rxmNX5gys4GwieSjSVc-m24=&ref=9930129",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=O1p_9ez2Cf40p6mHd_cpVH7yG23TCazDF7ZQfsZ0ToZu3-ufnky11rxr9Lc9C7Xtjr5sedVYGsOWuo0Z5EQNYfAFQ1M1tUkvF6ueEJIzSeSqcufdIw77EvJewIcBeBSJSqga6j-r0TlSocDb25_n_4uXGFX4h1sioNk=&ref=9930129",
     "size": 110814
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ekhwkTq0MbiSk3MS_or5ABMA3OzVkTPUctfU7rACRWOpgZCgDonL-i1gQ_tAzzugVH6phMlsynp4nvFBAI-usRAkLszbB19K9zVPt9eafGUsapv8GqJB54cVaYHyLvbggf2fr_p_wT-LLBJttndMR2Rul-iH7prbAMM=&ref=9947074"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=uhi4RlPi5aiiYL-7Dk1od7duddF65bOoxtdwzHAxT4e79rj6exwFCXYXgdOKdWP55ioFsuFZ9jsBI96t2gmHdKF8xHrHsvXTuO0jVKbI6ah5viDPta-QL0rERBkqgLv5tD8QYbQwEQPxJ9g8Dk_vFuKwzk-_rvviVNc=&ref=9947074"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KNDmkIy44V7p7qZ9pHR_RTWwJUQ7DQ6Y2zg5rVcyLwMT4rXu6AMAyCfbqafFu2Ci2H6Bf7T3AQH-xRQ9UzT6oyU52izEUvh_30ihv1L05hgRO4Dlfv0odj8dcLdCs1ghYUmrf6Rl38tMI5NiN1j4ATN7OKCiT-EQP6Q=&ref=9965712",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ukcdwr1I8qgmy0jrwyoxFgmbGq53wPq-qndDEJvwYrylFGTR5OIyN17L_WYPkmcN9yLYGg-QhEJWZXpO_AsFwL3w4o7E5B75O8GL2P_Ca3vZZsMx38car_-Jg1IHgFykKvSayjqUp1TvENhqU9OwE1l1wNk_N7_ZTyY=&ref=9965712",
     "size": 2475915
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=m2818uomsPh3ES2-o5WczeJXIhOAkAALWZQEGMdH2pkHOv-S2kou82J8ZnzgT_H3sBRDYL_nwSnXMK5gyJwwx91ZghEyiI_2Kjp8vxGJy4pjvU_CPizYowsnSfVXKrnKMOXTqv28J5fvPFxRvxjeoy0lFAPKR5T6rlv9tg==&ref=10828213"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EgIB4Qg19EHGRfQYYvkCspHRvWNEfKxideIyBMrN57BQLAMPoE5Ovexu85l3R1EDiKTKtoqMy-Su5Thg9ZOA6zKkwNnYZz8I9vtpc3UmiIq2m3wkWg1uCAz2TE8ymZs1eZvR2_yQrr-XtQljpE7dFbr9veiIbh2TqXckPw==&ref=10828213"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=xbrqhaMAXrkC80OaaaI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=B37dx8cyZB57TrN0u-Q"
    }
   ],
   "media": {},
@@ -1495,25 +1553,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lzoirpIL4l3nqhKGen_9rshYjOukvhIrz8a4UNGgnMaSC4BbsWhbBX5SNCcSqgbHWSndl4fJkl4IP8hCEspy9Pv9p34bWkFfquwq9oDuUEQ9EwcZS9sjlx0aMJouwgEIVoUSEfQJtsJ4ZKndCcLak7QoiwO64qt4pD4=&ref=9879815",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MB6qi5r7aMs7IM1hgGANgNM8d6rVdK3YNXMQMYZMcFU1S8CPBC5VjSHdFCmTakYxTNFt6KpWJtc8grpBk7FmfKVzUN9wJO1nitnjh_9BWdrgBlzE1xLE4-m5U29cnH1RsKbqDOuucNc06A4noYyQ0yoBwqxoz3rpIGM=&ref=9879815",
     "size": 104525
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=j0lPiZNICUsZX0sTA-kA3N2Z4WUu9OpqAl7Iu1KJonyLgAjaoClidOj7BghShErN3ChR9vFqd2OoOGhBGa6habKQgA02nu-mlXqE31QFd38r5fu5MWIiyQRID-yAxjysDIgGrrZko7nfcU0dfotmSXpQvN0IDxffmGY=&ref=9910085"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YfUD0MDQntfkLKflmbX9LScq_ISZAB_-B_3fb3n490I88b1P_ge5bAmW35PEfqc9q3C73Uy3dbT1RYLHWaFxUaD2g9dJr5Qo4_kehZBEhYFRBGGpsXPw9dsoG_yvw7qw6am0igRGapjKua89oe05E2jcnXMCfJDn3-A=&ref=9910085"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BU9juPK-pUVKcRyIPQXnKST2q_Dtigsu1WImG9xqRdEtL01QarRekor9BAT1i4cmPtxeC8_EEBLRJvvgfMhwoEbFqGdta-xbf_DYPyXqBD_7K0OTRU6qT_CPgnTUMD6nTn-VTu1n_99A17BCkQTsNXa93R_ejhpwR8g=&ref=9930277",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gLIufe_XmAbgzb24PQGfChk1ez2111Z2PUqqcZyzUdXK6B0UzHZzn1PBj66BzDpdg2a-fs8S4M1i4XoNq4Dt6ZzW2_mIPglIdlhXGAc7j2HptQ_gAi326_DymdSHvZlnIM_2oFqdCGtPNEaA1L3R7OAa6jDr_nJ5igs=&ref=9930277",
     "size": 1930123
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=r_S5guVYE0XqTUt1WDbOLnTQNPJqkz1NnHqLIh4sh8UBdfSgOOcHaEE5AH6XnJjfyudAfHF60A9oHjRvfO9gb9ElPWcMTAljxcS_kdcib78FVsbtfLcCDqlYfqKulbpLxU5dXE79xRYjxcuEZ26g6ZH35ULUWpfyZoWnNw==&ref=10518671"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XbK2egMypDn9r5FHWPX72xdtuLN1fRGNvv_u7r6gc6F7cVkdSpQkKbfA0zQBvD0L0SgljGmOgdPN03oWypkWvSvzDgvi0FxYvsgxcZku_rhACe84me_qPfuCY4lEIDekZjyyd1Y_aRgQL_cWKCoB1LR375N5wENRIvakog==&ref=10518671"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7VAMIVA6UMxPOJ-vcfE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=uIYPKbz59G2wI0XC2F0"
    }
   ],
   "media": {},
@@ -1571,25 +1629,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TAEIhTlLdTH9VVDGhN12H3OgOmmCqqWw19PJsTgEbqEkvkcRQj20eMa0l2Nic-OuQylsEmnZcy1KaGu5GNNRfvLZ3JQ-JxvorDDmg0N70InuABD4YS1t35XXzy1cd-BFVx5GitBbjLoHf27QjhVVcDPp1_NAEmAuaLM=&ref=9860334",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=10qjoSlAffinjNU04nv0xVQoEiCUWKGPYUV-_7PQZ7n3v2Ts2C5kWh_-5jgGZNyW1qO51-57N5ETovXyHecXBAHwToa9Hm_7sCTEJ3SdrfG3prJjtcDGIXqaAKD0533F75yNmGshBczEDbViRtaKYxYoU1j5eb6oWHY=&ref=9860334",
     "size": 132992
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tUuQL6tmqMaN_jMRWtfCbGge3lrSY-tHTJWMEgXm3A-1t5r7yeB-DYs7ix2SPhoOCyPIznXtdQVFKbbzDGzteG7WwfbyxVmVwaXsMn9ak9mDhWc1SqEzmjmoICtvV0coMwHG0fhfql_SAAF1AHxDVnIBDOGyhPTL5ew=&ref=9871189",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CnqtkQYcQlDczDS2mjZQ2ecLt01La0GNUp18lIjcuc2IIHT5C2LZ2Qe5eh1x9253FLg2dPoEGJoRlYLib0vGSh_loFxkgb67yzS_YpFVEDBKCnw-d22enlSvFgC0d2Xc1sHrvXe3Mg9Vxywj-HCCt-dyCbrWqmSQPG4=&ref=9871189",
     "size": 2347187
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MoxcqnXgWxvbKuJ9B6HVJW6plX0BZCnKXfxYUWngrj239EulZNuoCIUMX3ubo1yNtlpKMiQgamCsfDxXWnks8KFSAXRsQDtpTp-AkEv8g3b-pZ7T2NSXNpAyL5CXPkuQdwwgvHvQX9bTmFCXH4PHr1oHBtzZa8TEYJw=&ref=9871316"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=O_tlVUvp8AXEMXqPPeuJPt2xi_9NqzaLYfQ4308etfUwtQfFR9sJbL81OYx9bAcxnvz0KFV8dO_UnS3zo9ONnH-sq_zlB9gDjP9rtO5b9nOYKzON7HZILqHe9yn3L_56f_zJKn3EVzuC2htcUXmo6VVGAqoXu--yCdY=&ref=9871316"
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KyJ0bt6JBDbOk4O2Xm_E8vccz0u_35dk8AEbUSrE--QSPYUrq8_IUJgPKzfVF0Wn3RVa8nJcSX__t-zGqKIHwvVQWBLI15n2rxOq0kpDLfcVPXEox2Ay1qmIalP3lE1bwsbu2T6qPtm_CAXqUwWZjFfK_s8UTEmvm9yagw==&ref=11079788"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5mGyC8JiJFv0tMwmt6GvBDdJm8ETtAPRhqTIjqtqJUC0Wr-NcEyawOEhdyaBrAF1nw6gfPAPoRMQHgfvFiqpmpxZIyQwV3hK6Of1dp6vMDSeglCLDAekcVkVOKm53EAx_89z-pyIgTZmxpBO1tuBRyE-vtIMdiyj0kUPHA==&ref=11079788"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=OPp3ZE2b1IFcSbUV900"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=R27iBPQT7zIRg3PUoz4"
    }
   ],
   "media": {},
@@ -1646,25 +1704,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sha7ZRdCu6-C5jW7fmnqoqymp0suu6InRhOUV5Vo14icHUQRCjIzadR4iau7cwV4esvqUDQQit3qie-_2OY2Pai_BjUKBjMbfJjXL7KAuMzXHXEXOAc6Aw9LIG8ALD0iUiaMhQMum1q7SC9FEyDXo6iOcGvJoL5nHAM=&ref=9788855",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IMy_4Dqq1VwORAPeIyvQOmIzEvIc3RNbxiBeSoDpk6_3hpB3Y_SoDv8o9UKFlLTWMsnXitpPmBpKOwsSJLfIzSIUZ5rM4eziYPbukFYNwL76ucDyIQfsOEEVCo8Wu8kcRjPtGW5esO1bC3fazKMMLw2WJXsEuoQvqdY=&ref=9788855",
     "size": 96038
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Us7EAxv_IlvKM4Cs4F2wPkwQsmj1_gLu68muVfehtEDvYhRPVn2Cjv8klh4T2nhBg4J1gpYvQJwv6PoGrL8lMk1PzhDGWyp2RGvDks794RhJhrxyWbkiMuYwdc80eabF1YM7TBT8csZaqDlrMItDBUlvBrk3lc1xMmo=&ref=9834995"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7QHzY0nLQlL7Tqi9Tl4BfehE_S0R0LNK6BbZl__XfT96PwoJB0XqfbdvFaiGUk4Az790MXd5qP3eW3mJTWc91gcE8or5CPNOa6Om6uYsGspCR2NR-NOL6nOl1L3U0ZpLxjC7zMNis8cqStfTDs24oEOlccUCB6Z_CVw=&ref=9834995"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YiA9D8swBRIbcc_RoZOlFCA8bcST9ByD843ZIoBrcx9B70tQDMDF8VWySUc1OgiQ7eKsvC2EbS_yMsIpP7ko3ApAOmbxMmeNZGbbZnMQvxLr8LzzydBge063lX-s0N1nP1r41mX2UZv7ylKACegczkxhZ6R3lHX5cB4=&ref=9846909",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=70lk-PAsjuEXkLYFlewYz9Aj4ulwYAxogvzhbxuyOzoKS0bxui4aQsfex-KPmQHPro0CejAlIZ_XIOC313tgUBao-VdLR9orJNofWdYErhWz6f5HAYc9FsSbDAg-_G3iIz9EKiGGwlYa2d9axiKXUGy9i0qUFOOd70U=&ref=9846909",
     "size": 2200926
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=A_n-Gqb9E2XZQyeaz-d5bVQ1VRnBBYrjPfrJZ0O2Nlc0zbMQ3tgkiCjEH_9nLqJ16_jaCDM0S8G8YrWy5Wuk7_igHyZNd-2YGUTYKjCHMVZCSyRvyd3uxeHYyNqmwGcCAgILWOrODxcJyMacHlz1GojSRtN0ttpZ6Zh_eA==&ref=10518653"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4s5_-8Wp751DeiETmdIJh_XuNFkqgLfcNG_0WjlUiSQwxYwkvUGxiL1isPibsWFf99SFXpqAMai8mnpcmyFDhOsSduUJZExgq2jcFnP9XkUcoR_gDJBKaa4XtZK7rrmY6ahRsgEs25pP4OdnxBqtgxgCqGJ-fFxSTe10mA==&ref=10518653"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=sxg4tu8pwfXQP9PUPmA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8QmLuuhxxwKdMqtW5JY"
    }
   ],
   "media": {},
@@ -1726,25 +1784,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MPlPCVQVlMCbVaptPyXGAGS9EW4RmV90XQz6LQxobiCdvkOKp-qEiLCgn9RU-GOCb_9KLRhycoHZ0DkK8BmEHHS1l1WlbMKdj0IvoGY-zsStdCPEKTXlEFMotrH3VL3NVOvnzLLyTJeDgRGLdVNY71ki_rl7cr5E4Hs=&ref=9756887",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dhI6M9wq_RcOq1K5XLmxIXMonCDAb__P1dZBxqqy7vKdc2hMpJrC1XbqP0hCyZBpad59RJNn9cvZGFBQ_F1lJm4vKG3LLvjCpROthHjbxKhkGhXiImeOs7iYDsl3DKPKTCvNzsd3J4j1o8ixXIiTo6lOtVPXDjXTQJ0=&ref=9756887",
     "size": 109017
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sk0NYx4NNvsjBL1kEXa4ecVUILErlYDeIViRB0ZPAu7EJfGFPIj6PS9Y_dYbxV8Y_14W-K27mimwKwG10PSxNm5AaQALCaU7fsPw-Csv8AxIkOJ_mwl63ligZhN6tcPmKkDRtIBfdYCkmkVhiY4CqCa8cPd2MmTclI4=&ref=9801283"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=uDnK0Tph9xkOXEXTbFjLZWJRONp0m4V2U2GFS6X0ZzlZS7-CnIGIAZEsyjujFV4nhB53G8aj96eXT91FJCNksmi3X9Mn7wJ4xF8_eqRKNN8d3M2WJw9lbs5ogqaInrDcG6aXSrTkj3ZppHOY3AZY8sOXW07lXzkwSqQ=&ref=9801283"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8SYm8X7xXWaXmIyOw64_8e0n4mqO80s4UGvoSMS8-7HSjmXKDAf3eF9tzBlHmahJDBnuJQdIBaZ1VZz2o5UHpa2q_ddbwiOK_55I5NonQXLHJdi9_Dbe8DoZxMNPX8VV6MP1Y3jDWYOCvCbhCYbvqkvm3uvhfpe5CGQ=&ref=9801294",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=-J-c5JWzLSHfJOs8qjMCO5Qq9MxcqF87_sCggz6T62VFSrQM-_-SeATqsccWaOjQYeFfpMuXX5SfZGRIPCfPzIwlJcuXFse5LYDFWESAHj1EhNvikBlX-oDebYcs-Z9jhlUzdCUORXqEm0ybHtt345mX2bb7OIEt6MM=&ref=9801294",
     "size": 1626843
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=x_eKmIVjvShVB_6VW3c2n5IW0lfMZa4QIyODA6VnowTv-4hEvwa3ZFWgXbm90JIXOXC7rVvlIp9JSjkBR31tLZtuPSLLxdOq9yQKJNU00RXPIzeLcczSTwxbni4OnrXOpn3mA8nGlkQQT4OKVYSxQZYeRs73nJ2grq9zCg==&ref=10518651"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DgQ3nEnANFEWUSr3AMef8BisSOI4Sf6q3bmtZVr14cZpfqJG_IkpZ9verkXVIdtkha87no9ej5rUjymnzvLKvy_eY-zLDLsyepI7ofdQ0qixGn3Aj8kxOgaQqkRBmQ1wNr1vSDVp2405xiziqjKWgP7EyZiXzQd5VQFI_A==&ref=10518651"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=sikdPcGkXD-F6EpRYbY"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=pvBVFqkuFwy-cQ4GGD8"
    }
   ],
   "media": {},
@@ -1787,25 +1845,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DRHzTAiPVGA_TcZmOlu3-fDYlKGxBPrHoaProGyem4jHNntSrzu-c9PujtZg6dvegFiNLLyT_KZbNG89L8RIGhdRvv9xreWgcEy_atYqxCyR7XybxOB2DzSC-qkgWO8ySbvmbi9noYX_VwRYVWSht-E1KLfNgC8Mh_o=&ref=9696389",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=b1Dl1UVYjnYvG3Ce02VFrrj9wROJAGMr3SnCQTWd1X803L6iC4F3uKkpPE61yWnpI5ylyDeeS5ArCrnyhteYCe-e7qOcM0w24hXMJ-DIrJ-MQj0w1yvns69pzlbDVpiu2g3Ucd9nFqruX75i4M8F_z9eDjanXkS4mdQ=&ref=9696389",
     "size": 101641
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gamPJvKWeN5udbUTbxXAtQw-ry_M4ZQx94fBmZsMrf5QM7yoHngjjXWOWgX0FC2nnSscfQAceokyZ8chHU3F1eLzh9U65hbZ4692cPl780YpEpQiQtqOWZ4obmGutmxaWPdjKZsNVs5NiDQG_Hbwsx5cMz0q1cQd_f4=&ref=9801205"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Z7M_dWqT8_34DV1242Ik1cOWROshNveqjAFtwvJFBHBZd8_84IFtYYSvDGt0QEz171AT6XF04m0WBppDULK2-8iWA9L8Vwwmx1lBZAHe-DjDFcG27lamTPOUkj2dvPGmh49eEhs_LkJ-Jah4L1iEnYbytq4i-FzHwUM=&ref=9801205"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4XFbi3U-v_9AwCQL02E9-cSar0-G5fJ2nxvXrX0uxUhFLXDZSymqxxcEwvrRmCuuRlYei7Ehe33AEmxW4ujpqi-E90m7MbCEK075hP8PjRAqFgsyFKlp-q_00Qgbcy9sPzlDpKg4l0ZPla7aFPO_BFhiLExx4AM5OwU=&ref=9801217",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=h6FZdhE8DRmrFPVWCedSif1k3nniCmKZaicxYJwd4b8onKJsnJas5knhvLc45nw8tGL65aT48L5ETmb3obUQZ4N9CvKAZmPvVY2BGWwIV6EohY4uiKQwGSSu2tcHIB96n9Rmjn8LJRhNwxWaBFobsU_fto20a2hwMOM=&ref=9801217",
     "size": 2073485
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=n73CrFY-_2nSMffptHw-8D_Jwtvkvbrr_48IQUBBMCMVpciNN5IkNPdT20dDo6tucgbL5jsON1M-yyRBX0x1-BUkw8CJEmbWW8WtXPJUxvqvHYxvcUgAT4uVSAMeLQlLg3VVrOWQhu8p2fMqB-wjQAAMbqbyaOzS1Bw=&ref=9801218"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=K4I1e_7r6ZkLV8xOQM45ZUx890rChTIVqI2rDNvzQzEAJum07W-qJwf5BQ7S9mPrP_-isZKfPKuyayz0qkGiOjwI3P51q7Faqv2CyncxfVzcwcUXyv3xhF0gjs2zIUb_T2QfIzwj6ioSGHXgzV-hA1dhRzTqxwNKMlc=&ref=9801218"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=F_g8ExzRqfjCLbDM5xg"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6yfXyFybW-KmbSxpwnw"
    }
   ],
   "media": {},
@@ -1856,25 +1914,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WoMmiJlBPWFzugwjbHtk62H1IFDuWTw98ZBKG_KYNQSbD84zmAklNy-sGDzUsr6d_M3Ss2vgcLZX9ijQcwzPKECbvR3wCPxuBNuXK42hdTSJeDalhRVWkBr3yMp62opPWDRZAfnbyDisuTUyYWLMrgwCUYW92Id4pWg=&ref=9676233",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hi5cCuzcSaZ4gxDy9pbpmDX7nwALj0ccPf3iG--LlHhJ-FssfTCslbtwlVl8W47S2sbeXMOenyCNlFCgH7RuDN31VzNQLRjzT9SYsd7CBRWMGZwMuP3DjhZYdfVr-VgGGGABjkW4Qm2rlfWH4knmoqy5A3m2C1XXBHg=&ref=9676233",
     "size": 115485
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=a4cyHBZSABIS7Hh7_BDClbv4-ICH6TfmfyaIR4AwTw713F5EWp9N-S7lFAoav_9eeFSijxxdfg3QhsayUSHyiuzGgaGFNczUIq1DlQMVPLvGsh1VxwlTW7I_zANon3gPj-MtfbEZlIEbpyUMBYVjVub487dJhE50lHk=&ref=9801071"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BVlrg204SdOJ4K7t3SbZO-I3NpL9wqneYNVI--_Tf3Pr56g9VbDrW0ehk4xoDpl4mumvRXRfZwAUvYJXdcBhP1VnBQBOIIKuYdqlJ7RYXT17Qf4MxlZzWXH8AW03eAepLVb4yRy_EVB7RCOFhH6K8fJsTta7MA4eFK8=&ref=9801071"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dqGkQX3l_r8WXAeLjac77ZhIP2owTzUW7LcpfaHMX8vB0YIGkfuDVd_RawTaH8i-38ncqNjX7WVevytxSMDgOd_UNaZWvksmA46d4lZqDjKS0xtWW1kw1LjkFIbPi3eo6SunfFyyQT5E1ZzaETbCBIeuZXS51Mi-eek=&ref=9801107",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=D5AyVZyYD92NYUCDnkauMGHkKI6IFOM0qs-F1XPG2sD15XiH1HRXSlD5bQ9L2PtVvNg7RmKfquy_KGgN4BIqD8s4kwvnBVqHuIA6oQ8IlDjWxVQhaI_uzI0vT4NaJr2V7fvspO8yVBzhKZVz6GGvEVbAcioNlsyd6o4=&ref=9801107",
     "size": 1178681
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=J4dd1nkVcX293MzPvwAQwhn9SKJnosyJ-EEOFIDtzhWzevrcuVFbfE9cHJnC7hnOgnsP5F4XObjiMNcxgz2DosuDf5hmh5oT20MyTFprUALD4CHfBPHzgfLYy01zuP-3vp7PAZAVtgM9M4Jw9BOzQwfUfjKoSyvLh18=&ref=9801108"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8fwUFMMr3Vze7PPHtpQtA8iULsbvAPg_aKG27EbbOEqaq2YjujhSgHSex3BcM6j-A-iTX0nmlqPfIK4QyXIGxosvZvZcuya6drwKmOKjK0Dw2ij0l3fPWh-9LfcpWai-Nl1Tw7yR5fBa-b1zPgvQ_yRDEygZGojutFQ=&ref=9801108"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=iZ10xLjgbdnqkF8SIio"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=byGzDGTmuLiU3_Tqvys"
    }
   ],
   "media": {},
@@ -1911,25 +1969,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dQggf1P9Pfuy5XwsGNRvF3fUWvy78LG9XV_l51usd1OSYAn_r9u4myTv47FTSK2LJ7FQUE_HRdVAQChgLCqPADbpoXt5DpfX64q92CN5GXePiYMb2_g409ZkVjaUF-LoOj1SDp5k3DunwhV7auwbRREu4tl7JGwSHY8=&ref=9623708",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jIz8dEaGi2uGz7AB_dT7cjfOtwLbkP2bOUB9RSGVz7--NxeH1nbzSEaBLbpGoeaBUtgTevEm88_6L3zEH8v70PKEPCiaok79njr4U3tp4T3eovEvaciFJ9JEgi4iTYWqbKm10RpfbpIK8LvQ-ODezHIGqhx-yYorBxg=&ref=9623708",
     "size": 105527
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OFIu5ahG0k8uEln0F14fiEukcpFMg6UiSeg7XePJ2C1WsDziN_2pbNjgsyDL1tVkeOPym6zPgxaf9TI2XRwzwjFdXnEfIt4yM0PabtLB4d_4iM659EblnQglaWYE9UAFQely4rCFyU8_e-LHWCTHZRV7TmNUDZZwWp4=&ref=9801018"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5Jtx1P9AaunCVRx1oD43ME1oU7A0hodM4xU-V8hoDaJQn1Py2aCaJdM90jQNliR663L9AEYRkcxvgmPsYezC0hKSh5A88kCtOUZK1NYenUQ121jfy6VxCeUx77okrUY7dxN6axHgGM6fpf0IGkrVwyhZTlUUf5ptGIM=&ref=9801018"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=fRFIc-vGmoqARiXIUE2lFAXCesXckjqgAWtW3j6U_47NJ7y5d3vR7H-PdKcnC0a63NvWXM9xpvCpXa4cSEasnsIoFedeCB9GFDEeWFmzURtVcsZRhO9-AEMu4QXkYuvYtCrYWSkFV3ZKqjdh7p609Fv-Wz6EkFrwgB4=&ref=9801139",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Zdl0EusTMIdHJls89-3UPM11HGYaK0el8RQohsFEP7DUC-7ElCRJhEVK36OLXCpfxqnkY5c7v0dHls42s9TII_h40O4VBbNpix_W7qFOkEQHWMzI4p63IxcUrx6Mq2Ph8prRTWJinPkUSUFn2et8ei9v5ArfODHCjxQ=&ref=9801139",
     "size": 2325407
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=x6B2CJ3EtrfDreikntMa4rTclLidu1DKHZblGo3SXCv_f5JT66UzsiZvqRa8Z5JSIT0tV88RrW6X1n9tjnsDF5ykR1eaK48B_EKTrxAbC8f3JGwj5g-pgQSnIo97GIsCOEBaumaPA2mRIlyFArFS9Qyr7CvLNbEnOA0=&ref=9805719"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2l8rxEl658ZU-6aSOz2WFMg2WeaCJng1m3KzQOU-l-LysnhJA8YNwyYdDg8jnVM3azSBQE6RmzztN_pCsYw2aHE5YRQuBPYlr2r7NESOc7zmLzQcG32CmWzmnJoeU3E0oaVNzi4ZcebP2S_kR5KtHEtCMXfWPNeqn1U=&ref=9805719"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6PHCEBQA82wjVKT7Lxg"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=bi7zSxOU5u6QmUKckFQ"
    }
   ],
   "media": {},
@@ -1979,25 +2037,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KU45BCSxEAMN23N0ap2w84qhecjHOiaZeiFg3q37KqTp0kAoOsbwj0r6KBk76DpGAwEMNhcIzxPl8Alkilsf3TbVVJ6p1KjgrFwXr4Kjegekd6AIDG4mXKhCj9_zFkajRPnNQ7HdXX5EZ_VSOsav-L2g4Zyvf9rkiqM=&ref=9581421",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cAcdIzavM4LqAfkQVEkwzg77tWtHC0Jky7ITEryv82TeO314VSRgSTXg3TJJUIwrT10VyGwruRqCY98MQAAowsd2o5E1wEz5Uc8hB7vT4wKVaG2eA_mpaRcK1zmQsqI9FrsU4YOvJUg9IVDL6QpUgRu5srSmlYih4Z4=&ref=9581421",
     "size": 118008
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7D2yrqixlbKn_l6npm5wYkolo1Oi3r26JuwF80FzSHbnJqBQY_qbYrfkvgtifOI4T4X1K14nIVOvxzmqLZ77On79Yq_kmL-8E8s3CpyLjvFVajXCq50o5I4fX1RFC1LjV1ogesKzNM0NsqO2mr39U0mVuHIT5DYLD08=&ref=9800413"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wYAE2sBUY2nETHmdCus4Tc12z7Jt6HUVExr4ypJvK8FXiyUd3n5wio5V36raCrCe1gqtM7eamQPj5EIgFIS7lnYtTN6RGjFQcqIFCGsU5flM2cuA8hVdZbmxFz20u3H7ufwHVUMWB0zpBfKqaHJZzdGSoVOGOquwlyo=&ref=9800413"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=o1wxPEBYep97RRpQK4_GVh0JyjpGXmUyJixwRl7NRpI2K8pn5Z4inA1QqTDIMi3Op7VLjpmQxsfYqKg9MG2YEyI_CMecS2dGQajXx5PoTQm9vZX5N-1bNou_K8Qzl1yCknH6hpWPvZhSIwXovvK9dDbi2Z80MM1v_Ck=&ref=9800841",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3AwXg1wKUN8DJG4JuRfCNABEncSyBEeh_KaxP1xld7L7O6OKQGjblTwuwTExm7pdR86qlVZn_g_0lm-iUQkivacartWTK31FYIUB8mSMl4HYu5RY-Dgb4l1T8pQRqL7zz3z94vrw-vhvmUBfDapiFMD1hcP6_JZiFDs=&ref=9800841",
     "size": 1686076
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Leto2X9isqRhbB-bf7FdFhbmzYp0bgZ-T_Q54reJQf1RkuWZHEApiET7rbX6SxD8I9_ac-17yxguzGnCTTFtFkCmtrMrwxkQobOlniNWbh_fH-uATIgbIB_pC0kaKH96eRPc0GwmLyDIuYp6erb12JB1JCe-WyCo_cU=&ref=9805713"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PZ02eOnDi7jVwGMgo34g3mYLlO5ZWpQblpcDdSk9lWSQqofFLDoDtTtrgqwNF-sDE8MSeqt15ESNW4ori7MUwcTO204z7_b76CmWUSHqMbZJzjQ_ZDhJoPD-FI-hgZ9vXXlarocWWXQjkvPr7NEhUr81L9NCMNH8Dc4=&ref=9805713"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=MtYHRUJXcfraNm_hW6c"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zAPoPoBe1L8_X5l2LCM"
    }
   ],
   "media": {},
@@ -2050,25 +2108,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7vHwvHWrYnS_JLIl_LJDIFCJFAQKkjbtf9LjzBXNqUW5a60L2Iygf0lP1hIYEqq98RSMg40L6n7IdeA2_3GlT5khZ6feVG5advJRCjHm5ZzMJtWii0P5LLgqTkVvFUsRBkh2J7gO2j1xxzKSKFiyUMXnK5b6rbbwa20=&ref=9515888",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VXO2YNRowQphvWueuEXuy46Ev1-waAWxEyWtvkt3gR6RlTso_2_82XBggUb8pHHH5R22rBJG1PKr0pHOoQIlYlYmes70EKGamQ2sD9qcabYB6kyQBnKyGGu_LHb5brxUf9gx2lsXu5B3-6MbCnHeDNFatVBLMU0IXkA=&ref=9515888",
     "size": 114364
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=t4fheghCvxTcjK7Wwe-mJ_vaF_8CpS8XD9FvQ65OU4F4L7CHcYqJRpkqJuL-VMaK1jzhjbotiRGnks9NWdURHIeGFJwGOZzR7OiVNoh401Wnm9ppfgUdcH3EzRFunB_bRFY6Jlbm7BhaXjtG_yBoAipEsbWo-l7xbvM=&ref=9634708"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Iwk0TqSse5ilrc4d8kyiBKcpuZsYxDlpRjjhspVG_MAlOfP0cESwSzaAjy4Huyo3kKXbriOckrujOsFO65g5VPZQ-0UE3KC_nGETkfi8MEzA9yZAsOQRBnIemr7TFMwM9_NxII3FiM4RcFPKwGFzFazDrHuPYwW4w6g=&ref=9634708"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EsK5_Cc2MPP1b186ewmZPbdWX7Nw90yU-AJ5VLgSqTS_d9PMkP4sW2lIweG7eez7Ml2aaTRF3PsftxqNjPhxrtgseYOyx1CHXfxPOS0s7HiVa8ucD37NWdv-jiSritEJ-zGmZC6xqeUJSCxrsek9k_1rF9HEZnNbEs4=&ref=9634778",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=HoYOqBZAFu85_q5ZItUaV6c14FmA26H-nIkEc5COMoBMVVJVuQCiXYNjMZfsuwe9NyrFHTyF8QDC9WzGpc_yiRFVs8VBWUnEHnZZiECKiWcWMYn1aLW4UKrKVwBWNFzm-jPTICi7ZW6jXLJXG6B_DAWjjtd26WAydZc=&ref=9634778",
     "size": 1690303
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JlgFZvxCqrNE10VU6ynvwR2sm8ISlJo0AM59PYSfjICH5YwGmsCO4dgcSclrrl4LKqbdB50SwNjiTlVwrGqM92k67R-UxTRG-K3wNg61RLbnWzjzKSZ-gjPuzLvThEnLWexjpZh9Y4SESirW2MqmFqefj24F0KePgcY=&ref=9805699"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TlDdjXEfi5wo2pYHa1g3WgMHNOJGHFTJRNNSBI1x-Vx6K5qgvwtvYD1-F1qxUxlCx96H_y9ep48HOqkIzPb4lWu68Tpa6W2GF-x99N0p7OqXftslNnZrFRZXS2LEGUz212CY1zaAw1B6h0PRCfXady2OF-T5WEH-a6A=&ref=9805699"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=4bm46uL_s6s794eWK70"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=G-MmtGRRCe1PLtm8-T4"
    }
   ],
   "media": {},
@@ -2137,21 +2195,21 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pEPgMoYETNjMIj5h9BDotesGIgXSFt2J1hMtNJeXxf8_Kq3g2vivAmaoVod2PAzd26kFs_d4gCBRhYwT6syAsgmPEOetXM_oFtHNJgrKFkTq-h0Fd2KENkYg_MwlqG2f4kMGWEkt_Wp6lF32rxVzwC18W3Fuc_Jl_cg=&ref=9443557",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3DM2OTkQEUsc2sgNVN9rk373KrYmAn0C14iNY5JTq3ZXNQddC-39krk48dnbB8hwWK3wFhOw0WLKUlWfEB122rntvgmo4d9mFNTrF0pcn7pNM574NXEa1aYvdODOfYVUWiI_n1MuYF2v1N0gj5j554BdjvLlfYE04as=&ref=9443557",
     "size": 108593
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GpCiJosklUYcErUHI3tapwj-QMswoSw6Z3IQuYA1dKQo5W3KppWgLlecXSZENt0JsJo5aqhuhYZsC2QWbZarqn_Va6Des05Axs2ZgmkIcQp83ZKew1WpLUQeAW93RBjRKBFgUgnoJFykdD7g_Pr3ZYuNCJMuJnca46k=&ref=9634477",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dMXFgONpWUbkB7XWX3bQJP1hCvOzJocFfvn4eivr2nO48NNT5kJAK9CXAWFg2PHf-LApoe0v1HP_Qf1f9FP6J7UY3NX1Lr2Oy7MOdhF3bvqaYE0_yK12cmDEdtem_19-C9bP38a2GoTHTezJ-Y4mR4PWF8bW959VsSs=&ref=9634477",
     "size": 2508989
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Z3-x1DYcB_6XNGO5qzn9KXnwac82NCU8tDBSgyDTFa38E9jCFi7r1iPzFyObSFIYYTOCB1KMf5DuJq3vaIq5-8gUKGPlJm8VgnS2sNS-RrExWpzZYm6jyNSTSU5_PHMmdHmLDo8-eWPbDZh1mbEzzV3-A8aF9h_CJp8=&ref=9800252"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dViM-IvvqLY4PuLXulFgZaJje3ljxr59Zon1S8alVKmOOlG4MvnQ-WSF3C5offJAmvgovihiLipeOzuUDoTOyfJnVQqmoI0x7AlEE1tQrevS5bIiBB6xT0AUuZXOWrYTAVkXCmgkDSJfALkDJEoOhC_7a7ulGeGFT-s=&ref=9800252"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3xBXhypA-Vj5OKPDNNk"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6dwNKepycQlxw37zwIY"
    }
   ],
   "media": {},
@@ -2194,25 +2252,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UT46asGDH6oMb7Yigj768YGX9NxOjicPtYNaywWW18wOrwUXsAb1iLZQnudS-sRtcoMWp5XN_JZ1JgVd27t8B0KjUzL7_ZSlvrFFGQwCeMZMqWYjsNd3kYypv8JbXpP_CkWtziYKpmYLIxN2phcLUYL1XZGdO1pwHHs=&ref=9385665",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=p30avNn_mbQVkjWstG0Qwu8gOGTMMcioLzoQA7rdfB2jRkrCMhACnS39FVUGL2rIdjDqGL06vkDQYbFDY6V9Q8syMaW30jcmdlxUP5-R8KygOwr-3HcY32LNHNTBkbILzlTv_v-BqUmw4b1aX-Jjmbwy-ZliwePkk2Y=&ref=9385665",
     "size": 98583
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=d6jXh8NrodASuYAIHDn7PH0qK-gVGB3UhtA5YAmbol3hrrp-VJI54xU7eEtEmYVF1YbGG4zNRY-LyqhqPC_iwFav5hMLKCgxCWbcL4GO6rrWwBKOcpM8_K97QmRBrwGJbFhNZtktzm-CRFihL5d42iLVb2ls9T6Louw=&ref=9443634",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lwri-uwtGKJqWXI12Cgl3WDiotjxHua-q_1EuNX3iMvNf26FfpBk0uUoFZouvfdmC52kpWhFYWcGhnUYALqrlbEIqgtyLfhkFkok1OC2Tr-Arv69WeHcy7TIJpE2Zbe0IERsOkiYKKvcQuaeK_QsS6EI5Vp2LiSFF4w=&ref=9443634",
     "size": 1747212
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5uzUKaG1xT9dAIaByjbogaxj5cLx3_kkwf7gPvaIqvoMkN4k0oH8NyMLPpN5JpFGsR3S8NN9nyp3WBAUrRQPmr9GFetkaPSwnW71yq-2f2BgmkPm5nDxcWf-D1doea4uZ9ncsn743lRJLkaZr5ehZ1xa7epbkGQlg5Y=&ref=9443638"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YpNcszHDaog6hD-piavWL8Upz6PQn5vOMRFA2ugY-Df2SogfG6d0ct_HAuZ7YF8Hln_vo5GI8kkNmVCcSHtG4nUTXKBOA8OoH37gmP-N8h3vMTAmSaHHw5YrQVAhU3YRs7WUEDukSsng62MVxOmnwqFgXocwtEn8njo=&ref=9443638"
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Rs6mFMtSzVFw2bMah8wh9vm4WnS2h7JM4klQRP72-oofbNSQAazqN5rR-wOVAacVYmVBWksjzenfDISO3QANoJoRGrE5QmNDFzoGEYkmQZpW2QwJI8xUwUhg7ucAwMDYtYXVkDrAFwTBdB58kz2WP_wthWBoBh8EnX0=&ref=9801387"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IOYPLjYevZiCdbrb6Z7L5-e208pzxSQLX2LPqVPFYOZY3rgpqidpAItChZEXiQii0UkhxzRe_CvSksTyZ1deSpWGDULCMcp--6F94oGR1DdQA2ePigWovd0yZfRfyfm2_HST_OA8cBI-L8gHn81yEn_q-htj54M_wQ4=&ref=9801387"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=RtfemdR_x9L8NLLfczE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ElB9OTXiFLFaCb6REz8"
    }
   ],
   "media": {},
@@ -2264,25 +2322,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hpTo2y-lr4YgIBO81JbQdA1lCVXbVF0JhwIkl9QDQNk_PyqiMA6TcywDJFk2dIJ673faDndMxr_w_DxC35nJbrcDderNnFzW6RzDHQeoZvLGlcF8JPbGpGk0WI90sJ7BBiiD1enVB9aX8N6Rg2GAIjE5TxF2txwcP6s=&ref=9309908",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=h_HoTkimH94VWiKa_pnRktmFlL2vlAQK4wqm9vm5i0ypWhaihOpvOFH7NKGkRVBUrwTHvE9re5DjowFCbiLP7yOUE--oiA4d72Rqbaf8djsOkI2EtZXiUrWzyyi9RlayZ2wc2adH8iHrkb95NGdE63o43F0V4-S-XBY=&ref=9309908",
     "size": 94002
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=izP1X0FyNQ79e79bQfBOwOflW-Y_Wr94y1p3hsfEb0p1oVDPeFdKb49gKYvkg6JNJcUYhfPLP1bfTQTROa4y1s9jtU3ocuLbFrzd6tBmGc2OM_WLq1kbxFfQ-t0lXmjvo92Eexv0jxzSiIRjwOY6xiRH1LFuEQU9Zp4=&ref=9395250"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wfp9Jv1JIr5zr9zaPsIb32dU9SLq5rI1UMVI8V9Z0qVpSxi04qx6wclP_qcFWQzHWv2j7tAjYig5y6Xsk2fnntz8nu_pynNqXYzfep0953DOb6_FiIGMZbgM3eIqYp9QMr-2me8bBjiM2JSbkjS-HAAh_6XjphUZTjc=&ref=9395250"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jjzl4fRMLlMhmRUefe7Pp6usUb80BCyZ__EYL5_1sDf1v38M6OnmOi_1OruppArR1NrgGBj6sQb0MjfYEhgMz6-31SrRho8dZGGj35hi9FamNYSG0lP3EumsaCKvkpU7sIdJZtr9_EpSCsbXKnZ-X2F6CPAGQJ6yND4=&ref=9395251",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_gx4FRyS4UdqR6FJwHSU_8YXm2fSFAzxUx4xucgSXKWZedoLGZUpFWgbHc2o4BGYNv0tCzxIPN87MZGmuuvSTc2NZLtBA0JbnxQKrB6Rz0nI8HC2xoPFbsiPsUwqc0V9_5FpROfzTSi5CwJKUutZoy7y4Br1_o8KZDE=&ref=9395251",
     "size": 1935473
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1YHHNrOglCw5JaE65YbXVCWP00egD9gDxRKYQBD3NX7ObQc5nAroecBu1ptbR-WXN-0MipxhbHuHGAhAgXIPsAeQjB_kTJia1-Jy5He6Is8wGA2a8-txJSHueerWNhnv9SV9efrT4w7Nufq8WyM4m58wqOA-GcqzwFQ=&ref=9801385"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mFdRBIpBpLyiGfQwUyr3DNwvcMyJldh-5YrbvtQ0bYa02hRghRwGkP97LGnR9xLWhR-lOkE9fuY2pKZuAxZopJabVz9SABAIJ66riu8s-mtMXVOqlRmoOx5QHx0sKABo9s_HQFWUwA1SG0X9MzXD_eW06hxoktXSuOI=&ref=9801385"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=l0kcATFiYjDXXAMwKnc"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Zbr74elr2SJ-KW18kbo"
    }
   ],
   "media": {},
@@ -2334,30 +2392,30 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hZLMG7lWJzQ-X1W5eLLW_EoR83Wh9HJBmlflv8RSS08r9XOZLCQY5HZn714HOLBAnvCyExundXzIqNgRnc2OSDXqnmwSAKjas9EQrPFY2TTnxwyXpIufl6tanvIjE1wGvin90kL1LU-fltQF5w2Drz0kLCCiIPjyfcY=&ref=9251315",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YEiebi_P5JczK_XQD0HjDevnNalNTWhW5v0sKSiLLm0w9bYinKVirBeZtwPIN5SPBoWovy13fQoqbu7eersNMcIJ00EWkcrSqe1gx5gEkQDHUrfbO10KKyTA1AM_VS31YKlgaevwYjhm8jfkoZD-ln5ZdHeg6xEg0Z4=&ref=9251315",
     "size": 89786
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=biGN-q2IVyqz7r-FXrsz2MShTKHNgBURix_wBV5AgUy_wKOdGjATKk6D9PUOz3hT1Aah53_bFV46aGjy-pI8QKN4Lw0a7Ny6nbwEiXN7ZvrQF4Eo-Mb8mTNDCu-bkbLukObCPTaduUDRDVkDLpMAtrPK9GmLuBt1jEc=&ref=9395149",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3TBXY1md3fFFBUgfIl7LNS8eM2Qdd_gKoahWSCb0jAwM_0rn-pHT1kBq0dJa5iBf_lVM_UbbUYh23h-JYXCySWvNWZcP7cz7b0B5LpJsoF5VpCs5KyhM53CD5UD6cefuWYDjD1_E6S5B7hJmdEEOgK_SExdRuRAUefA=&ref=9395149",
     "size": 89786
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DXae05Me6i7aR2aBiq_z7S1RvQ2e5GeYjwyn3a5MCxxusotjxz43xKupzVQYOotSuXs7N4U1IheJZw5HTl3N4Ec0qf8zk3PRhGqWNv7_3lFTdjkegUQ9LlIDe84hvn28tgl-wWxiNq4-FzIp4CgW7Ad73wLEfwnVY7Y=&ref=9395153"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gdzGplctABj6-Z-n-4PN2YxtJ0to5clL-i_YnP6QMWkDbBu0i-2NJlq0m9KiMIMQNGKsG3oEM9wsdK8t2GRvqdclH3duWq0OJxw3y6J_m7Lm0rsx9y7un8fnlVNuGAtkjj-j4uJBDWUmlQTJlLqDEVZJ3MyzUqUHsmA=&ref=9395153"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_mgOtHXA9f-XruIaJjT3JVKIGe_tqwybwJGf8Onzny84CxNYgb2RPadBekdrCr21d0QPi_D3IhD9Oz2T9VLLYwl-nsIOrIOyDdbn-T8vntYKje_Mc0xamS8WVn8BF4uGYCh7ggG6cFfF8YQsruDC3jHvkk2vkin3wsk=&ref=9395156",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iVh_hOOLP-1sEEkoBOFpq0qZKR-gtKMjZBDAb6pUMSMH6tfc5j8KXtGeUa3MzcndLrUAP5W7_-nvkB_gajBv4BJniQrfWCADUBFZVLYLTRuA0eEpnUVsj5_GThJhPezQwMyH6oUrpZMVkhOCdSJRzyeLnvlxxEYPZnk=&ref=9395156",
     "size": 2559706
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=833EZdn3DhB5tijTqATcCAz9PdaO4tHY0Sz6pV_848nnEClvMNWon2Q3we5_Zoa6-4QoQ_WkboMB4TnosDDC9ABZZTjIZhfR_TAM_67cSFICAAdExJ2aZtXsVQ9YozaqG5NBWUhmC3dFX98JWqqlOWpkqMpRZ8etWAQ=&ref=9801378"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UJn-Zh_2zL-Wcqc_ocR9ZEGwXIZzPUiOISJCQHn0zxZbEw6Fhywo12bFrlZJI3wNRYm7MpnIuu5gTFEakkvaEMD9s-CaT0fWWyyWKAgs-C_-2KWrjx6Z0pQVoRMKMgqjuju2iBy4yuvMMjnwe1D20zuHBV1t7JoEyt8=&ref=9801378"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lFweOtUxc4plEx7CoAE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=RtiJAbqczMxaq8ukivg"
    }
   ],
   "media": {},
@@ -2417,25 +2475,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=umiDli1IhTwjvhEn7sBdfcJfLF6RHxbaeLriZ1mBJJrq3h4JXg8JM9rMOMBfktaO60R7O17unWp8tODl_y4akmIPRBP9reX41lhKfM0mn-GiPKTEQlYtLWNjGWMjFyQjOTJlAJxsnXMVITDM5UPEc5dvzjCH230O--U=&ref=9217240",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0858me_ca0hdDZB95uijFK9ETOMXciHuzeipPCTOUukKAuFKr2CFZCD5zVkd8mZ2tUy_G2vs-WS5xjiR4MO65XRwhnMyoSk2YAxqdefdXcuUg6S7MOni3YbQYROQKjp9LJpElZUinkzcFhNrATqUE_YF76L1W-bH0-8=&ref=9217240",
     "size": 99202
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1LwTxNf33IjJryiVbxLHjzShU9idsfVZ1aUOH1pZZ2PvU1oeVKtHzs2Tl05MBBmzy54hSdi3cn_eETs5fg1EIYJ5x2vJgVyldKnCVTaGT6D7d46JKDNgpbBfGhPkhch0XY4RWA4w6vID-yMAHQFptXjIL0o4VnC80O4=&ref=9395088"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=01rW2WYCHXiYdzX0S9Kaxfs-hlZ4xzLQFjAc5XOLhyXPU56_xtQGt3rB4tJChHwmuje3H_DiKIMh8xKLea9OTm7xutaTXy6xY6uss3EuTymjVNBT_nPp-qkWLUT9aNbwVmANVHqrUfMG8mfU07kjOk2nV6p_j6trgFw=&ref=9395088"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wSYoBkGb461u3tCdcUh6bK2QK3KQMlvnM9iFep97Xw5IVR8Wf1Etoh3iPZaQO_yXyKBW2l1ks0MXSKIMPjqj6ayGi1RvOBSTClrdXwbfzb4cD0DOFn_WKBeDEtRXO4rtBOetMBUqZsX-RUk1Q0VT70hfwv1pt9CUFMM=&ref=9395090",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kqIIZba6nfXJUENiT-UGEkIlDNsGeXOFXoGPU7OJpuaxpx3HkiV1mKRRh2Jm2fT-1n4Kxsh8ux4WzgsT_5iFAGkb2cStWVr7XPDH5nwd1UEuX_3EiKs-p3bHsis7TIcD2ZcwsyAjtXE68wjcok_C3gFhkVlI5ewNob0=&ref=9395090",
     "size": 1383010
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Mj5rjHuQcCfG_0AWNbZTSq5ayAUkrtf0AD0YvmJBxZDru7_mNfwPpqOyqUkVNzIuaD2pecvF-IknlUwcZkHGZATZwmDWFNK5PbyXZKCUGinUawjsaoAB0NZk8kLQ8twDbPaSItIcUiQeAXAKlYIAPLPKxsRaywvvDW0=&ref=9801370"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UygpoNRsc-PdcP4gxFA2FyXjmMcbo5fRJGt2iyR7KV7PjICfsXtkLQdmqMjhV-QVb0mNSB1MPXz9SBESe-7NlHs4-cSkcS0TXz6_vbuFsix0XjaEjSo4cthUh5OegcxiqDcPCn7wOcUsSvVwZcEKHXx63JSK5Vxidys=&ref=9801370"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=S1mVYM1VrCNWJGtSYSg"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ptmuWbghUD1yDa9D0tw"
    }
   ],
   "media": {},
@@ -2490,25 +2548,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dmot8y9ktaaeynULWts9Q8mukMH7kVI-5GIBiPugDUOWR-dvjfK6NCLMiW2PGZVgpmFU16v0AJdmro2BtgVQVfTzJKH98B4I-EcMP-Zki_mOjrwhMKY-zaCE2oiw7yOfDoneEAUcOI33mdLlk0PQVe4Ck6UWtPDhu_o=&ref=9163402",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Ug2ZYfOy9AmvIyNOiFrYzF02rU6G2kGQsDyEQ-pWdWQ9pQK30vHBsMYSHfqgkYKAWfl9K1F3nFIv1JOlq9m16-g5wO_3Eh329d0hxZG0rAlPecxxP_KndeED_X3JyLcNua5nBmHjnz2J5AwT6DzDjDxNLgrMB69rMqw=&ref=9163402",
     "size": 89494
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=L-K_7XkJLPkPPeYUbxwksaXp9XR0g-neMS6GVqRSbNJ_lrRdHuSJ0hfV8CcGhAP26x51vAd5OfzJ08k3DuPsONgk68MIlSTSZ6UXncGpO5QwT3NPYo0XW_cC8oBwBV3-Mdu-ioJOrVyIUHzvGZ6_l2L61nKz7OAK_SU=&ref=9394726"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KKKQ4WntIDQYNjDgv_X7LDckVG2g3yaCiLDMTqKaQ-XyD2OuZUKJ6SQMxvJxuPqBp2JagPfWyE6mGMSu7fsLoxyqvjX3KqSAhEoulc_Z-lqufWGxqPPBBcrSaoj2SRfYs8VbOc50j9MHGoPgqfmf869p-WYVSJIqYXo=&ref=9394726"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=g0kwWed2PDcP_SiQ2tp-wDbaBdi6p4x0K2pgb4wfTHsxI1Gz372PylL9LK7ZvmZiLjfGtT4_ckuI_lf3ZuylTcgZkjK8h379f0A0pXusKbD9-KCCeO5ZrTBbIO5IFf4iuqzbnwCi4cGcOrukz3eTUty0ohmJt5vVoIU=&ref=9394765",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6n9sQQRyt10eq_pCshTCCdswBtlNKVL9kyDoCnDVcyyVPpjX5MLJPHbI2eb4u9aYoevrFze81OrAnxTRGH7SEdTr2L6T-xQCrHROSRMfZcF8WHI5dNAW2BmCQm6TkUSNi5Zn30DikKpNx5iY3gWV7McCdreJCghAxwY=&ref=9394765",
     "size": 6709224
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RKEdZZEzBRPrHadD6qRYbC8Yl7XjG5xPbgwl6bxMuMhrCbfJiI1p4s8r0RyObKpnd6T-LwPLrKYzfSuzutwUXAXGMY-OZkfXIDCTagdykQ3CKTADZi_3n84Dhe0CtIFaI3cv3ePavDXfIVO69MMosUS9ZSC0M9wWku4=&ref=9801361"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Pkyy_2a2p6sNVyLY51qg1YX652Wn-MAQwClCrqoWGgGuil-Dja8ikNEbBcZZ759iwZYCU_jmHGN0UxBhJrjPcebVZ6cBSibOLhnOfZ1shnlYJnIrRJCvtISXhCFGUAjxLMWhe9HuC5a0TsnecFzC2kh52DUJePBnQZw=&ref=9801361"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qtNc92jG37TWod4cinM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=mlcnGELbUUlMll0MJEk"
    }
   ],
   "media": {},
