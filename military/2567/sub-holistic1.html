@@ -400,8 +400,8 @@ dialog::backdrop{background:rgba(24,10,8,.6)} /* literal colour: older Safari an
 .agenda li:last-child{border-bottom:0}
 .agenda .cat{width:36px;height:36px}
 .agenda .k{font-size:.88rem;color:var(--muted)}
-.agenda .res{display:inline-flex;gap:6px;align-items:flex-start;font-size:.95rem;background:var(--teal-soft);border-radius:6px;padding:3px 8px;margin-top:4px}
-.agenda .res b{font-weight:600;color:var(--teal);white-space:nowrap}
+.agenda .res{display:inline-block;font-size:.95rem;background:var(--teal-soft);border-radius:6px;padding:3px 8px;margin-top:4px}
+.agenda .res b{margin-right:6px;font-weight:600;color:var(--teal);white-space:nowrap}
 .caution{font-size:.95rem;background:var(--warn-soft);border-radius:8px;padding:10px 12px;display:flex;gap:8px}
 .caution .ico{color:var(--warn);margin-top:3px}
 .docs{display:grid;gap:8px}
@@ -1960,7 +1960,7 @@ function openTerms(){
  const dlg=$("#detail");if(!dlg.open){try{dlg.showModal()}catch(e){dlg.setAttribute("open","")}}
  $(".sheet-body").scrollTop=0;dFocus();
 }
-function closeDetail(){const dlg=$("#detail");if(!dlg.open)return;dlg.querySelectorAll("video").forEach(v=>v.pause());dlg.close();const n=(location.hash.match(/^#(?:read|dl)-(\d+)/)||[])[1];try{if(n)history.replaceState(null,"","#m-"+n);else if(location.hash==="#timeline"||location.hash==="#terms"||location.hash.startsWith("#subs"))history.replaceState(null,"","#quick")}catch(e){}}
+function closeDetail(){const dlg=$("#detail");if(!dlg.open)return;dlg.querySelectorAll("video").forEach(v=>v.pause());dlg.close();const n=(location.hash.match(/^#(?:read|dl)-(\d+)/)||[])[1];try{if(n){history.replaceState(null,"","#m-"+n);/*rc2card*/const c=document.getElementById("m-"+n),r=c&&c.getBoundingClientRect();if(r&&(r.bottom<0||r.top>innerHeight))c.scrollIntoView({block:"start"})}else if(location.hash==="#timeline"||location.hash==="#terms"||location.hash.startsWith("#subs"))history.replaceState(null,"","#quick")}catch(e){}}
 
 /* reels */
 let reelsBuilt=false,muted=true;
