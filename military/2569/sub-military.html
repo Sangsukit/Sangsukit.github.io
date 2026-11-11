@@ -1740,7 +1740,24 @@ function openDetail(n,sec){
  $(".sheet-body").scrollTop=0;dFocus();
  if(sec){const el=document.getElementById(sec);if(el)el.scrollIntoView({block:"start"})}
 }
-function openTimeline(){
+/*tl-auto v2*/
+/* tl-auto (11 Nov 2569): the timeline is never empty. A hand-written list (TL) with 3 or more own events is shown as it is;
+   otherwise every meeting of this page's year is added from the page's own published data: date, headline, link. */
+function tlAll(){
+ const own=TL.filter(e=>!/^นัดประชุมครั้งที่/.test(e[3]));
+ if(own.length>=3)return TL;
+ const have=new Set(TL.map(e=>e[6]+"@"+e[0]));
+ const PRI=["visit","seminar","bill","law","disaster","water","appoint","sub","complaint"];
+ const ic=m=>{const c=(m.items||[]).map(i=>i&&i[2]);return PRI.find(k=>c.includes(k))||"cal"};
+ const auto=(typeof DATA!=="undefined"?DATA:[]).filter(m=>m&&m.date&&m.headline&&!m.cancelled&&!have.has(m.n+"@"+m.date))
+  .map(m=>[m.date,null,ic(m),m.headline,"",m.upcoming?"plan":"done",m.n]);
+ return TL.concat(auto).sort((a,b)=>a[0]<b[0]?-1:a[0]>b[0]?1:(a[6]||0)-(b[6]||0));
+}
+/* a page with nothing at all for its year (e.g. a subcommittee that did not meet this year) shows no timeline button,
+   and a #timeline link to it lands on the page itself instead of an empty sheet */
+function tlHideIfEmpty(){try{if(!tlAll().length)document.querySelectorAll('a[href="#timeline"]').forEach(a=>{a.hidden=true;a.style.display="none"})}catch(e){}}
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",()=>setTimeout(tlHideIfEmpty,0));else setTimeout(tlHideIfEmpty,0);
+function openTimeline(){const TL=tlAll();if(!TL.length){try{history.replaceState(null,"","#quick")}catch(e){}return}
  let nowDone=false,lastMo="";const rows=[];
  TL.forEach(e=>{
   const key=e[0].slice(0,7);
