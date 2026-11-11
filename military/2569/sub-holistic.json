@@ -7,27 +7,43 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9XxRiX2qyFI6UaEArcM29R21CuRh76Uz4X5tdzpTG5VZsX0k5aMoLZnbqwZhY4IUpPwBXVOIQQDZimJ6wmm-BIdBKn71Wkpk6DonMWL0gXSOpdkq64aqu6y0V1MhE0L_IYVZMkqY5VRJ28C_klWVHqznWbdkt_-bJVuvyQ==&ref=11127112",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CEOEgNc_IR9HzV0fHV6bFhscRl9BbbzIJuZgTU4hB-JSr-39rc9yxOLzFf-62AhKC6n29Fcx0kQLXGRFfG7r2JHAFNaehOrXuDMhAe6BxM1Y1FFcE93nBYJDJBSCKluzAOGGXjokg9dz19OA9F3RPQsdgaYjVc3Sw8oLww==&ref=11127112",
     "size": 214991
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KawNuzabh5I8YIVx-sOHM7kFz6kYwj9wK1ic1RRp56R_C7_zr_sNXOSa9gm4u6iHZFQznWVZ-NwmzVmxoriRRAKtps-Je2qMchTZ9If2oPAiFBRGTe_tIxm6hdRVB7F5hR7f-AL9jMxfIPpmsUsAkvgcjsUGh75KidilNA==&ref=11156860",
+    "size": 10646633
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JC5heR_iRv65PAZ5X4w"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=U4htTGhbqH6wRTyd6s4"
    }
   ],
   "media": {
    "video": {
-    "src": "media/sub-holistic-v20pre.mp4",
-    "poster": "img/poster-sub-holistic-20pre.jpg",
-    "vtt": "media/sub-holistic-v20pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:36",
+    "src": "media/sub-holistic-v20.mp4",
+    "poster": "img/poster-sub-holistic-20.jpg",
+    "vtt": "media/sub-holistic-v20.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:00",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "holistic-20p",
-    "size": 3957468
+    "ck": "holistic-20",
+    "size": 7211937
    },
    "videos": [
+    {
+     "src": "media/sub-holistic-v20.mp4",
+     "poster": "img/poster-sub-holistic-20.jpg",
+     "vtt": "media/sub-holistic-v20.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:00",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "holistic-20",
+     "size": 7211937
+    },
     {
      "src": "media/sub-holistic-v20pre.mp4",
      "poster": "img/poster-sub-holistic-20pre.jpg",
@@ -41,14 +57,34 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 20/2569",
-  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้จากหนังสือนัดประชุมในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": false,
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รับฟังกองกำลังสุรศักดิ์มนตรีและกองกำลังสุรนารี เรื่องชายแดนริมโขงและชายแดนอีสาน",
+  "summary": "ที่ประชุมเชิญผู้บัญชาการกองกำลังสุรศักดิ์มนตรีและผู้บัญชาการกองกำลังสุรนารีมาให้ข้อมูล เช่น ชายแดนไทย–ลาวริมแม่น้ำโขง 5 จังหวัด ที่ระดับน้ำผันผวนจากการบริหารเขื่อนตอนบน ทำให้ตลิ่งถูกกัดเซาะและการลาดตระเวนทางน้ำทำได้ยากในฤดูแล้ง รวมทั้งการปราบปรามยาเสพติดและอาชญากรรม ที่ประชุมรับทราบ",
+  "items": [
+   [
+    "สถานการณ์ชายแดนไทย–ลาว ริมแม่น้ำโขง (กองกำลังสุรศักดิ์มนตรี)",
+    "รับทราบ",
+    "other"
+   ],
+   [
+    "สถานการณ์ชายแดนในความรับผิดชอบของกองกำลังสุรนารี",
+    "รับทราบ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "แม่น้ำโขง",
+   "ชายแดนไทย–ลาว",
+   "ยาเสพติด"
+  ],
+  "places": [
+   "เลย",
+   "หนองคาย",
+   "บึงกาฬ",
+   "นครพนม",
+   "มุกดาหาร"
+  ],
   "upcoming": true,
   "map": {
    "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
@@ -65,23 +101,62 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Bm8ZFpmjg8yU2tfjN05TFgl1Yh8N-4ArnbmAIOKz-8pW00EFNNfLArNJvxbz8L-PpzUESjwru76vAm5IJoZ_NeXQGme76xEuUYR2RJqxvsp17LyBJvW1dl8eoCl3q9giwkLQfQW63aca-EzaME1HgyU3HMvKqotmB6WnKQ==&ref=11078668",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WSVukmsZyEoqcgJYsT9PHzfHVe5hO4GJ2p4hHLUVtlksOCedGjmQcvxGLUm3Kb1KVKh5c021ESpUlDKWlSnKitT3ob3xETrgdNR9AJCpaMOj_6CQqMe_Qx_6aQmdBXf17l59zYHhZUiJVdtMrLoxgeHUQJleYlJwWM6NGw==&ref=11078668",
     "size": 223675
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XXn_89OxEkpn--7V-0ABFbukFAOlCmka0mT1MfZxgQ5JNtQMea70aIzYZdU4Bk8Snyz4778_Ttvqol1jNFt7RsPfRTQCc93QK9vyfLllQwt3jO2oy-ncZ9rJjkcS1ovctaMkJCTGNcEEcCnOEXuiJhzW0-MIgWpHQLmrNQ==&ref=11156855",
+    "size": 13286323
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0kd64W4JzqHEt0Z9H5U"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=B94dC9O12XqajhhO-pM"
    }
   ],
-  "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 19/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "media": {
+   "video": {
+    "src": "media/sub-holistic-v19.mp4",
+    "poster": "img/poster-sub-holistic-19.jpg",
+    "vtt": "media/sub-holistic-v19.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:31",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "holistic-19",
+    "size": 6302724
+   },
+   "videos": [
+    {
+     "src": "media/sub-holistic-v19.mp4",
+     "poster": "img/poster-sub-holistic-19.jpg",
+     "vtt": "media/sub-holistic-v19.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:31",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "holistic-19",
+     "size": 6302724
+    }
+   ]
+  },
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รับฟังกองกำลังบูรพาและกองกำลังสุรสีห์ เรื่องสถานการณ์ชายแดน",
+  "summary": "ที่ประชุมเชิญผู้บัญชาการกองกำลังบูรพาและผู้บัญชาการกองกำลังสุรสีห์มาให้ข้อมูลสถานการณ์ความมั่นคงตามแนวชายแดน เช่น สถานการณ์ชายแดนไทย–กัมพูชา การดูแลหลักเขตแดน การลักลอบนำพาแรงงานและสินค้าผิดกฎหมาย ภัยจากแก๊งคอลเซ็นเตอร์ และที่ดินทำกินของประชาชน ที่ประชุมรับทราบ",
+  "items": [
+   [
+    "สถานการณ์ความมั่นคงตามแนวชายแดน (กองกำลังบูรพา และกองกำลังสุรสีห์)",
+    "รับทราบ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ชายแดนไทย–กัมพูชา",
+   "ชายแดนไทย–เมียนมา",
+   "ความมั่นคง"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -92,23 +167,67 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZiXKJqLHBPb8DvcsEajLSKBh8ovBCJEUhg_ngn1JzSrnEZv6x5r8H8BoYfP-oVXhS9iAfuDyuX_XiTjGE1gfNjWpaCkQxuGaGoRPLKBuHKpMHSXUX9GjX-Or0ZPDLtDZOZeIgD1vZ7B3ylMB2b9IMPjJ7FQJI6ZFHCkH_A==&ref=10993908",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=G8tnHblwi-tT4sg1-a5fOv0ExC74MQtqowcFyS2ea5PScbFyn6npy1XUUbsrf089edhzH1B6FNQ9Kw5DWeX0IXIA67EnXcGaXRLRR6ekgrb_rDcFqitw0_wNqZNR2Xx1QSvzKyA8LXml2FzvrPNPePbpff_9GLmUJ_5toA==&ref=10993908",
     "size": 196502
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vscfIZzhoaxPNgG0ZGaoVzvSzhVlo3R3AbYh2aVXkz11cpDpxa0i5snEuv3H8KpJUdMBYKpv4gWy2SXqmahnanrEBRIAnA7iFWqocb32vNsGnd5CbkV_PPifycgATLME9fhWY0dbEbRaVcvZiYRRfIZaJ4s6L3RMuIMR5w==&ref=11156849",
+    "size": 11505139
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AMFGzxLDjCT7qs4gRGA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=uMrNEZs8rpD-xr57-VA"
    }
   ],
-  "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 18/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "media": {
+   "video": {
+    "src": "media/sub-holistic-v18.mp4",
+    "poster": "img/poster-sub-holistic-18.jpg",
+    "vtt": "media/sub-holistic-v18.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:04",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "holistic-18",
+    "size": 7419258
+   },
+   "videos": [
+    {
+     "src": "media/sub-holistic-v18.mp4",
+     "poster": "img/poster-sub-holistic-18.jpg",
+     "vtt": "media/sub-holistic-v18.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:04",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "holistic-18",
+     "size": 7419258
+    }
+   ]
+  },
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "วางกรอบศึกษา 6 ด้าน เรื่องชาวต่างชาติที่อาจกระทบความมั่นคง",
+  "summary": "ที่ประชุมเห็นชอบกรอบการศึกษาเรื่องการบังคับใช้กฎหมายกับชาวต่างชาติที่เสี่ยงต่อการทำผิดกฎหมายอันกระทบความมั่นคงภายใน 6 ด้าน ได้แก่ ภูมิรัฐศาสตร์ การถือครองที่ดินผ่านตัวแทน การควบคุมอาคารและสถานที่ประกอบพิธีกรรม การเข้าเมืองและการอยู่เกินกำหนด และความขัดแย้งทางสังคมและวัฒนธรรม และเพิ่มมิติการศึกษาและช่องทางผ่านแดน โดยฝ่ายเลขานุการวางแผนเชิญหน่วยงาน 13 แห่งมาชี้แจงในวันที่ 12 และ 19 พ.ย. 2569 และเตรียมแผนลงพื้นที่ในเดือนมกราคม",
+  "items": [
+   [
+    "กรอบการศึกษาเรื่องชาวต่างชาติที่อาจกระทบความมั่นคงภายใน 6 ด้าน",
+    "เห็นชอบ และเพิ่มมิติการศึกษาและช่องทางผ่านแดน",
+    "other"
+   ],
+   [
+    "แผนเชิญหน่วยงาน 13 แห่งมาชี้แจง 12 และ 19 พ.ย. 2569 และแผนลงพื้นที่",
+    "รับทราบ เสนอคณะกรรมาธิการพิจารณา",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "ชาวต่างชาติ",
+   "การบังคับใช้กฎหมาย",
+   "ความมั่นคงภายใน"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -119,23 +238,72 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=r0Dxxq-fpKCIzS78hrJqs71k8L3QzOctImWVI7knK2JB6KLm2QPEbV66ufugD6UgyyhKY_gjtPU2nhTKZrWVvoWdUri9l98uUIi3gQ2JOSb95UpQ-_U9Y3Px0A5j0Zps9eqk6UryeGdzf0iegZKd3bPLqxey6OrpcXO4jg==&ref=10922817",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=eBpLdOCQJK0napM9VIvxeHQicuZLc5-Q1jNjnjkj5_WSzJ2MQzbnhriHshS7uVnyrXTiOkvwhf2_oQ7WTM_CKq03Qh8axaiIQ3NVaysnJubNP8o5r2IxnRLXm5QiAOKCbh33dHTu1vuNeLRb33nx722_gJRr3QvVwsP4eQ==&ref=10922817",
     "size": 231990
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=orREdMcYIHYaELIbfZpDoG2r3ok2OoJ5Dp9_r-Pb2HxD24Q8UaKxWzS1mE7E4H5lyRpjw-gyIOdTQcDxJuL9EYLehvr825ZK3fG6FQsbHtGuz4yjaqPah7itdIMttKV4JcjfIE0UpBhYuqnK1Iq_XyC9nH8wBPJsDNd_7Q==&ref=11156846",
+    "size": 4787715
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8wYaA58QrAHjatRBB0Y"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=b5Vp8xEWzx-nYwXeUfI"
    }
   ],
-  "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 17/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "media": {
+   "video": {
+    "src": "media/sub-holistic-v17.mp4",
+    "poster": "img/poster-sub-holistic-17.jpg",
+    "vtt": "media/sub-holistic-v17.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:57",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "holistic-17",
+    "size": 4849546
+   },
+   "videos": [
+    {
+     "src": "media/sub-holistic-v17.mp4",
+     "poster": "img/poster-sub-holistic-17.jpg",
+     "vtt": "media/sub-holistic-v17.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:57",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "holistic-17",
+     "size": 4849546
+    }
+   ]
+  },
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "แผนงานปีงบประมาณ 2570: รับงาน 7 เรื่อง เตรียมเชิญกองกำลังชายแดน 8 หน่วย",
+  "summary": "ที่ประชุมพิจารณาแผนการดำเนินงานประจำปีงบประมาณ 2570 รวมงานต่อเนื่องและงานที่คณะกรรมาธิการมอบหมาย 7 เรื่อง เห็นชอบเชิญผู้บัญชาการกองกำลังตามแนวชายแดน เช่น กองกำลังบูรพา สุรสีห์ สุรศักดิ์มนตรี สุรนารี ผาเมือง นเรศวร เทพสตรี และกองบัญชาการป้องกันชายแดนจันทบุรีและตราด มาให้ข้อมูล และแต่งตั้งที่ปรึกษาประจำปีงบประมาณ 2570 จำนวน 28 ท่าน",
+  "items": [
+   [
+    "แผนการดำเนินงานประจำปีงบประมาณ 2570 และงานที่คณะกรรมาธิการมอบหมาย",
+    "เห็นชอบ รับมอบหมายงาน 7 เรื่อง",
+    "other"
+   ],
+   [
+    "เชิญผู้บัญชาการกองกำลังตามแนวชายแดนมาให้ข้อมูลเรื่องความมั่นคงชายแดน",
+    "เห็นชอบ",
+    "other"
+   ],
+   [
+    "แต่งตั้งที่ปรึกษาคณะอนุกรรมาธิการ ประจำปีงบประมาณ 2570",
+    "เห็นชอบ 28 ท่าน",
+    "appoint"
+   ]
+  ],
+  "tags": [
+   "แผนงาน",
+   "ชายแดน",
+   "ที่ปรึกษา"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -146,28 +314,47 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tuyQBWfwmk4DiManKq5FzyCagAffKgYuFEFl0UEvJO3Eov662cV_jp1aqhJFzCJbI2pbeuLqixrFRn27nA60ZY-3iGM6BhyvCa26OcuBKhdnWYHwHb0gP1C34YV9tgMF6G6XM7xzvJya5Mz2rAKRlhBIOgd2754BAPtr5g==&ref=10852669",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1ozTKgdjh20H6aAe5Z8jlZahaNIp4Cv3rvpryPKTElrtoNqM4HDC5ouCvvRawLVVWPsEFQrHW4xg3dd3yNeg1_PGZtGWufmwCc98uasDmfGWhYakxb3pnaQOf_i2z5yv4getXzmSsI5UMmmqcBRccO9d4hC1LvXNHKea4g==&ref=10852669",
     "size": 141428
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mj8tTznBLJa5liNElPXxc4arA9Zw5sVRLLQeYpTYn2kaRM3o1O55aF72Tfc_dhF7cIeO7Ta1DnDde5FnCIJFBooNI4rCeJQ_GOjIxPfTn40ZzvyjvKpvfyjJuVZRW_83TosbCE1fNUW3-h4s1Ox05Q85mNI68IK44qoZPA==&ref=10953762",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=g5hDiLN3jJuiSxfLjmzHLZXWJ5irh07g3WJ4qyOwhnjbgMdav5K3GAvowVP9wFqEZ-ibwd3rwlMpHKaiLN5XJbkESdMnldwlJ_ms6jUFvvouPL5K8iiYXVpJTzdy7MAX1ylNTA19xTA9pj10InfHjctbGG--09ee0tIYVg==&ref=10953762",
     "size": 6390013
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TIvFOU98R8NZhMuDSOY"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8tzRcyiTLtDqFMrXibI"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 16/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เห็นชอบร่างรายงานศึกษากฎหมายความมั่นคงภายใน เพื่อเสนอคณะกรรมาธิการและวุฒิสภา",
+  "summary": "ที่ประชุมเห็นชอบร่างรายงานการพิจารณาศึกษาพระราชบัญญัติการรักษาความมั่นคงภายในราชอาณาจักร พ.ศ. 2551 เพื่อเสนอคณะกรรมาธิการและวุฒิสภาต่อไป เห็นชอบวีดิทัศน์และคำแถลงผลการดำเนินงานประจำปีงบประมาณ 2569 และรับเรื่องสถานการณ์การเข้ามาของชาวต่างชาติบางกลุ่มที่อาจกระทบความมั่นคงและความสงบเรียบร้อยไว้พิจารณาศึกษา",
+  "items": [
+   [
+    "ร่างรายงานการพิจารณาศึกษาพระราชบัญญัติการรักษาความมั่นคงภายในราชอาณาจักร พ.ศ. 2551",
+    "เห็นชอบ เสนอคณะกรรมาธิการและวุฒิสภา",
+    "report"
+   ],
+   [
+    "วีดิทัศน์และคำแถลงผลการดำเนินงานประจำปีงบประมาณ 2569",
+    "เห็นชอบ",
+    "report"
+   ],
+   [
+    "สถานการณ์การเข้ามาของชาวต่างชาติบางกลุ่มที่อาจกระทบความมั่นคง",
+    "รับไว้พิจารณาศึกษา",
+    "other"
+   ]
+  ],
+  "tags": [
+   "กฎหมายความมั่นคงภายใน",
+   "รายงานการศึกษา",
+   "ชาวต่างชาติ"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -178,28 +365,41 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=V2eTG87PskLVfBhDrSMhgNSBsvfBsAI1gk7LcADOoF-mAu4wqW8b8MhMk2ofYhMguzKpMtbB8XRCCpWmadt8Nq6_yDg_j-r7JrBKiBT_oVQH87hTY0r80tKwQvYIskM1seYalPm5SE33R-JOH7OE8gkwAT2FwvKbCO_tBQ==&ref=10756904",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vCANXx3VarPHOszIKo60XhH9_SUvsD4kPPUSU-_xMrj1FZBmTbXJE8sVkqcqlruOxVUD0XTCwO4mLlGKCfarha-XRbNRujeQIb55hCaAI9kOGSc0lecTVBNk7uWWPPRwnyMXnr2FCHG3dkzuYwYzg6YJ__BI48HPRqa3fg==&ref=10756904",
     "size": 179245
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=i17p6obFQcUe1GsdzB1zOXwVODfec2zBE3H9lML3aIVXZutLcp53UqTHRlnPBmxFIt2ywBV8aB8LXyR1Fm-wC-jxaII8prkWv4s4V1yytaRaJc7PX6uUJqbHDnjTgFntj0WErPmxp3G-j0BvDnuwgvOId8GdqJ_NvnsEGA==&ref=10953761",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1Eja81wquLak0DEGk0TH0d9r-TF7Oy74Jh7QJAskdeOxuonnJuThSvJkPvecazMM6sOmWHAOIxzr6WqV-WQFN1b35CWBiKiPS22QxpQoS30M_V1RXjtX9_aNNWsyUfXY5X15KY3L1d139v4xPBeh81gN2toD62E1sl3ksQ==&ref=10953761",
     "size": 11829791
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=66ow4_wOKlHBwVVvekw"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3x5_wISAhkxZSzLlMtg"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 15/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เห็นชอบรายงานผลการเสวนา และเตรียมรายงานผลงานประจำปี 2569",
+  "summary": "ที่ประชุมเห็นชอบรายงานสรุปผลการเสวนาวิชาการเรื่อง \"การบริหารความมั่นคงภายในอย่างยั่งยืน: บทบาทและทิศทางของกองอำนวยการรักษาความมั่นคงภายใน ในมิติบูรณาการ\" ที่จัดเมื่อวันที่ 26 ส.ค. 2569 และมอบหมายอนุกรรมาธิการกับเลขานุการจัดทำรายงานสรุปผลประจำปี 2569 เสนอที่ประชุมวันที่ 22 ก.ย. 2569",
+  "items": [
+   [
+    "รายงานสรุปผลการเสวนาวิชาการ 26 ส.ค. 2569",
+    "เห็นชอบ",
+    "seminar"
+   ],
+   [
+    "การจัดทำรายงานสรุปผลประจำปี 2569",
+    "มอบหมายอนุกรรมาธิการและเลขานุการดำเนินการ",
+    "report"
+   ]
+  ],
+  "tags": [
+   "เสวนา",
+   "รายงานประจำปี"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -210,28 +410,44 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6Rlk5HIp9cEetWSqJEso_sRhby7JktCA-9YJhpeX6Dm2mGzcS8uSJYIzEyPrsTk3xKJThumjEO1gAAAw4zOG-peZj2f3VCyu2S970Ng17af5UCw34b_uFhmJzrLhg_Gu7GtTTclPlmoiCm7A3b2v5YMmzhUElApdzq_Aew==&ref=10602282",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=I-CV0PFuAEep8ZKpqoDaoMrzAGJBhvWscuH1R1gdiLT7gL5-Ht-BjQZDFCU-OmtUjo2W1Nbqp3vaCHLqPS6zfp-aVA4OFPKnoLltUbbn54mc_9m0Sb-2R_MiUfnYMJaXx41jrF5uWrkzMt3AiEpU2pgUun2FmnwbkZhLFw==&ref=10602282",
     "size": 217313
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gPvzPtIfZjhOjezR1RTh_gPGwo-oj_GRe95wrrBh-ccFsRbJknCxczKqR8lizt95oAvebPzS42MKGxvfEJ0sFpnRpsPKhJ7YkrKoyxSA6qiSdirKvyKPm87GTnyrszbBuU0Cj496TwuDQgved2rOEHVSXzD_gfToVnHGbg==&ref=10953759",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vTV1qVgtH7_AHNjU--83Uh1jKHyJQPH_43HRq3CRtWV2S6aZvyeR4D0aZYMSDkEPn7X8mOgsIVfbAqacqMFaj6BAfHPkO_IEFOU_9efNStsORdNRfGmAouDXZDq5qofjE-JC7wTjcCXfFtzW9zmC1uIFhBEPJIiB9wSLdg==&ref=10953759",
     "size": 1124481
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=aNMCYo4mIxnzQEyooC0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=L9WVq4dNZF9acmND5bc"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 14/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เตรียมงานเสวนาบทบาท กอ.รมน. 26 ส.ค. และรับทราบการหารือกับกรมแผนที่ทหาร",
+  "summary": "ที่ประชุมรับทราบความพร้อมในการจัดเสวนาวิชาการเรื่อง \"การบริหารความมั่นคงภายในอย่างยั่งยืน: บทบาทและทิศทางของกองอำนวยการรักษาความมั่นคงภายใน ในมิติบูรณาการ\" วันที่ 26 ส.ค. 2569 ณ ห้องประชุม 402–403 อาคารรัฐสภา และรับทราบผลการหารือกับเจ้ากรมแผนที่ทหาร เรื่องแนวทางการช่วยเหลือประชาชน 40 ครอบครัวที่ทำการเกษตรบริเวณชายแดนไทย–เมียนมา ตำบลจ.ป.ร. อำเภอกระบุรี จังหวัดระนอง",
+  "items": [
+   [
+    "เตรียมการเสวนาวิชาการ \"การบริหารความมั่นคงภายในอย่างยั่งยืน: บทบาทและทิศทางของกองอำนวยการรักษาความมั่นคงภายใน ในมิติบูรณาการ\" 26 ส.ค. 2569",
+    "รับทราบ",
+    "seminar"
+   ],
+   [
+    "ผลการหารือกับกรมแผนที่ทหาร เรื่องการช่วยเหลือประชาชน 40 ครอบครัว อำเภอกระบุรี จังหวัดระนอง",
+    "รับทราบ",
+    "complaint"
+   ]
+  ],
+  "tags": [
+   "เสวนา",
+   "กอ.รมน.",
+   "เส้นเขตแดน"
+  ],
+  "places": [
+   "ระนอง"
+  ],
   "upcoming": false
  },
  {
@@ -242,28 +458,37 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2nIoFQj137keVO35n8SWGZuIBagqKPCnswQ9fvSV7_PlorAJ2IpTqt8jzQbuGRzgRH1_sL9-sZDUnm7q0STGMfcOwhsysWu3LGzoW7cYh9ZRfFIumau9m-6Aq_aJpBXpYtqPqekHbOw6dIqyCfbtRqYh91rLnBdxlUHT6w==&ref=10533464",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=LkAXh1ZjayfNWGyf0xvaNVF6NQ7Boz7UH4elQoPS4TlrI_0HIa3ffzy4hI4tanD-f6frIAtaWkEs0L4ChUg3zudXo2LKk-KfqCeUAFZ3giW7P2OfVDf4AyXdhEVwVUGibbX4JVnfWJqDTKvqnTCxs-2sU0B86NLEZLa9xg==&ref=10533464",
     "size": 200448
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZS81_jRwQ0lbpSn-8rUN_FVV4DeSHV_-W1wh65WWlkwvQlG_6QrYvZWR_iMZpRTA9EkACq5L3TnHiwZ8GEjm-Frc22V9xHHkOJD-4vqzxeB_-e8Y6fKyAX-YzZPcXkOFO6dI-9Tqomn9oawfzUAyH9QlauLxNMo41c6C7Q==&ref=10638490",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=skLdj1ggjFIMQrFUfcqqZIjn2Ay4TJFk7fAb-gdeUne9hcgkP55afFsuHaqiCozMiS1bY6tsTwwixgJ-aBrI9uE0SFHklztVhQyij4z6qJQyA0yp8uz2pYofA__vkYK0qbjCFE_oF04T_I3BaajzgSXxBRhhCV76adl8Mg==&ref=10638490",
     "size": 921986
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lAVogA5j8tYmkMNKDeY"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=vpZPacn_NYoL3ZwiNME"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 13/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "ว่าที่พันตรี กรพด รุ่งหิรัญวัฒน์",
+  "chair_role": "รองประธานคณะอนุกรรมาธิการ คนที่หนึ่ง เป็นประธานในที่ประชุม",
+  "headline": "ความพร้อมของกองอาสารักษาดินแดนในการรับมือภัยความมั่นคงและภัยพิบัติ",
+  "summary": "ที่ประชุมพิจารณาบทบาทของกองอาสารักษาดินแดนในการรักษาความสงบและรับมือภัยคุกคามและภัยพิบัติในพื้นที่ เช่น กรอบอัตรากำลังที่ยังไม่สอดคล้องกับพื้นที่ โดยเฉพาะจังหวัดชายแดน ความพร้อมด้านอุปกรณ์และเทคโนโลยี การฝึกอบรม และสวัสดิการของอาสาสมัครรักษาดินแดน และรับทราบประเด็นสำหรับการหารือกับผู้อำนวยการกองอาสารักษาดินแดนและการเดินทางไปศึกษาดูงาน",
+  "items": [
+   [
+    "บทบาทและความพร้อมของกองอาสารักษาดินแดนในการรับมือภัยคุกคามความมั่นคงและภัยพิบัติ",
+    "รับทราบประเด็นและข้อสังเกต",
+    "disaster"
+   ]
+  ],
+  "tags": [
+   "อาสารักษาดินแดน",
+   "ภัยพิบัติ",
+   "กำลังพล"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -274,28 +499,44 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=V1HeasPYLOu2HXnW1tveghIP2GY5NYenEt7d-fQyXS0uL4bFSAaFjARPDwPOx-PTqeT0aASqvPyhZZv--tn1pad0EjXlYn9qx5KXrCRB8H_Q-GavM5jUdy3QeLB-PrW-2YhNrloOTZzBmtsbWh_oorEL-aJnJZPtMHRfxw==&ref=10430662",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=O3E9prFAaCe4pmKrve-rBcRBMLjIrDaMpxSEJwDWyOlILSt2WZp93w22X4luTDaJcKwt0NvuENRXqXOC4Dsmg4hsUNIUxocuuVD63EDihmGC95NOfp2PhrAgLiN3b7e93diN1_KiJ5dgXTLNVr1EAEKTzdTW4A5Qek5CrQ==&ref=10430662",
     "size": 157062
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=e7YKN2Ch94M2Z-Td8mCQ5M4jC-ELBJpRN3THka5MHfPzsQGrhE-O82LFCsQae1SW2-BTiTv5HamUMZwl-wm_n3t5mJxccyqCNuHkRVtg8IGZ8lpKTmjImjVyPrlsWzJadcbLLcSwz4HNioiQcw8a0e6VexTgei3wKCvrXw==&ref=10638440",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YSQKdBuCuclDgL3WJBauPqcuWcekL43yrADp16V9jK6mBECDLrC-gNraWhjiEPOCXf7T_qKyPnQ4Gyy3aaFAeR_97Cw6fNxB1j_j3Pe8dcx4yBzew8nEDOLRKZpy9uvy9ZeREmzN8GeyKva7FzqVOT7ODde4c0hqkx6qew==&ref=10638440",
     "size": 2492243
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8UHUdggGGBTRpojBvkM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=G7Rwo9Skf0SUAbfyXA4"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 12/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ยืนยันคำถามถึงฝ่ายบริหารเรื่องชายแดนระนอง–ชุมพร และเตรียมวิทยากรเสวนา",
+  "summary": "ที่ประชุมเห็นชอบประเด็นคำถามถึงรัฐมนตรีว่าการกระทรวงกลาโหม ปลัดกระทรวงมหาดไทย เลขาธิการสภาความมั่นคงแห่งชาติ และอธิบดีกรมสนธิสัญญาและกฎหมาย เรื่องแนวปฏิบัติบริเวณชายแดนไทย–เมียนมา โดยให้อนุกรรมาธิการทุกท่านเข้าร่วมประชุมกับคณะกรรมาธิการ และเห็นชอบประเด็นของวิทยากร 5 ท่านในงานสัมมนาเรื่องกฎหมายความมั่นคงภายใน",
+  "items": [
+   [
+    "ประเด็นคำถามถึงหน่วยงานระดับนโยบาย เรื่องชายแดนไทย–เมียนมา จังหวัดระนองและชุมพร",
+    "เห็นชอบ ให้อนุกรรมาธิการเข้าร่วมประชุมกับคณะกรรมาธิการ",
+    "other"
+   ],
+   [
+    "การสัมมนารับฟังความเห็นต่อร่างรายงานการศึกษาพระราชบัญญัติการรักษาความมั่นคงภายในราชอาณาจักร พ.ศ. 2551",
+    "เห็นชอบประเด็นของวิทยากร 5 ท่าน มอบฝ่ายเลขานุการดำเนินการ",
+    "seminar"
+   ]
+  ],
+  "tags": [
+   "ชายแดนไทย–เมียนมา",
+   "เสวนา"
+  ],
+  "places": [
+   "ระนอง",
+   "ชุมพร"
+  ],
   "upcoming": false
  },
  {
@@ -306,28 +547,51 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OHg26lfHq5z5a4eMy00uyXRpYL9dln9bEJ_fpiGoRPXcFi6qzu5OqNVQwtCR0r8YhFPbFHesoIiGgApGljs-8DwckwvDLpTUKJK2eyj5nptrxlmxeiPHFmi7pP0tdIHdd8pwNs5O-4uuLH6ac5pyY1hnlPAqPcLuLuU2hg==&ref=10372088",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ldQdZbqvDjjVsmnb-ZtrfXvOUba4JD1cOkjqd2Loh32LiJqLVlafEU0owCbDrdLQ5ibknyz_p2S-TF0FYoypWWbKGJvMJ5KrnPKyHDKfoGUaD7a04z6dhkxMKn5v01KlXiRD07CvwiS5HEk03pBqElvQalEQNy76ziYc5w==&ref=10372088",
     "size": 179040
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CXtVtr913yYfWlePGx263pnqlSNerfqIEFhPqAMMyLgZvk2oy2FhC4RF-8QjeMoNQ3KEJAgFU3pmQFSDZ6nGLrAyuvgJ4QhzOWKWxoXzVG64U0IDBlv2S9u1Zaa-W1YJ9RruBlv-gH6bCPOFrdO-CVzwG9NON_aqAyPROA==&ref=10421411",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4zdgt9O6AuH68TBS-OsyP4KRNiSo1PfpnF1sd9UxSMpUYcqKrdTEQBipF3EaE8Wa_JHYPo3QTCuN1yGXQVgLdti0nOC97xBofiH0jNAjMurNZCfoE1CzNYuxIWXw0FLzQC12yNccbrk3qhZmCzBOF9tCQXMoZPQs7jdGKQ==&ref=10421411",
     "size": 2034681
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=pp7ydhSRc15uB4rjMXI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cQBRqdQwKdImBliLsqo"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 11/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เห็นชอบคำถามเรื่องแนวปฏิบัติชายแดนระนอง–ชุมพร โครงการเสวนา และกรอบศึกษาชาวต่างชาติที่ปาย",
+  "summary": "ที่ประชุมเห็นชอบประเด็นคำถามถึงฝ่ายบริหารเรื่องจุดยืนและแนวปฏิบัติบริเวณชายแดนไทย–เมียนมา ในจังหวัดระนองและชุมพร โดยเสนอให้แก้ไขระยะสั้นเพื่อบรรเทาความเดือดร้อนของประชาชน 40 ครอบครัว และระยะยาวคือการปักปันเขตแดนให้ชัดเจน เห็นชอบร่างโครงการเสวนาเรื่องกฎหมายความมั่นคงภายใน และเห็นชอบกรอบการศึกษาการบริหารจัดการความมั่นคงกรณีชาวต่างชาติในอำเภอปาย จังหวัดแม่ฮ่องสอน",
+  "items": [
+   [
+    "ประเด็นคำถามเรื่องแนวปฏิบัติบริเวณชายแดนไทย–เมียนมา จังหวัดระนองและชุมพร",
+    "เห็นชอบ เสนอแนวทางแก้ไขทั้งระยะสั้นและระยะยาว",
+    "complaint"
+   ],
+   [
+    "ร่างโครงการและกำหนดการสัมมนารับฟังความเห็นต่อร่างรายงานการศึกษาพระราชบัญญัติการรักษาความมั่นคงภายในราชอาณาจักร พ.ศ. 2551",
+    "เห็นชอบ",
+    "seminar"
+   ],
+   [
+    "การบริหารจัดการความมั่นคงกรณีชาวต่างชาติในอำเภอปาย จังหวัดแม่ฮ่องสอน",
+    "เห็นชอบกรอบการพิจารณาศึกษา",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ชายแดนไทย–เมียนมา",
+   "เสวนา",
+   "ชาวต่างชาติ"
+  ],
+  "places": [
+   "ระนอง",
+   "ชุมพร",
+   "แม่ฮ่องสอน"
+  ],
   "upcoming": false
  },
  {
@@ -338,28 +602,44 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WDl-cdLFEnBxUsJ8j3Jf4JRGxbZn_Ib5egyPvH879rqAfdJIjQRWji6iKnf7q7SHAH53DzvU3ibUKtYe6M0tobgbrL1AjLkBRKeDn0cg1kRSOHourbsAbqKaq593mKdc46nm-P363Op9Eups4t7NbTGV581ofB7hlWa3Tg==&ref=10315063",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=D9jT7l3ybXnvuMhXpp5wiu2psFIdcCm4F7LQanm3l7SsORAeTeMHQz_45Fx8_8Is0CQNipSpMPl7_rQMdmYZGgzAbEcVyI9v9-nUCc7YJiSkX1tPfPj8ChsnXvqnc-EZ6-U_wvGmuxpH8HwZzZIhtcfO5FuNUt2wo5NbpQ==&ref=10315063",
     "size": 167568
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8NK6abYDr1hsAuVVTdxyxFDWrPHgy_gcJCjo17EMvwt2Vcdnp4ZC1xLntMp6yS16Og99wW-g3e7pXxn5nHNf7keC1qn_hMxqSCjyaMQtqwN2xJrYsUWmlIZAJwZ6qBHBdIUEvE9ehMuHTls1OpXa6IJC11qhJ5fSB0OggA==&ref=10344068",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FpmwjgEGBT8gGnXf5sJcMvuCDan5pNZpDkQ9SCpE9Oo-5FwlzIOBwI0Dy_H7wU4rQ22Inhn-oeuzHocrSG-G4RdYIc0XGANjJF8QZCN0ls5EX44ZRgVZnw_ckUti3IvBZORteZvdwlETxSZ9Bm991gA-g20AmbaITqO0NA==&ref=10344068",
     "size": 3966421
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=_U472CLZJcSESeVr1l4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0at73Kzq0XcwQto8pQc"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 10/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เห็นชอบโครงการเสวนาบทบาท กอ.รมน. และเตรียมคำถามถึงฝ่ายบริหารเรื่องชาวบ้านระนอง",
+  "summary": "ที่ประชุมเห็นชอบโครงการเสวนาวิชาการประจำปีงบประมาณ 2569 เรื่อง \"การบริหารความมั่นคงภายในอย่างยั่งยืน: บทบาทและทิศทางของกองอำนวยการรักษาความมั่นคงภายใน ในมิติบูรณาการ\" และเรื่องที่คณะกรรมาธิการมอบหมายเกี่ยวกับประชาชน 40 ครอบครัวที่ทำการเกษตรบริเวณชายแดนไทย–เมียนมา ตำบลจ.ป.ร. อำเภอกระบุรี จังหวัดระนอง โดยให้จัดทำประเด็นคำถามเชิงลึกเพื่อขอข้อมูลจากรัฐมนตรีว่าการกระทรวงกลาโหม ปลัดกระทรวงมหาดไทย อธิบดีกรมสนธิสัญญาและกฎหมาย และเลขาธิการสภาความมั่นคงแห่งชาติ ในวันที่ 20 ก.ค. 2569",
+  "items": [
+   [
+    "โครงการเสวนาวิชาการ \"การบริหารความมั่นคงภายในอย่างยั่งยืน: บทบาทและทิศทางของกองอำนวยการรักษาความมั่นคงภายใน ในมิติบูรณาการ\"",
+    "เห็นชอบ",
+    "seminar"
+   ],
+   [
+    "เรื่องที่คณะกรรมาธิการมอบหมาย: ประชาชน 40 ครอบครัวที่ทำการเกษตรบริเวณชายแดนไทย–เมียนมา ตำบลจ.ป.ร. อำเภอกระบุรี จังหวัดระนอง",
+    "จัดทำประเด็นคำถามเพื่อขอข้อมูลจากหน่วยงานระดับนโยบาย",
+    "complaint"
+   ]
+  ],
+  "tags": [
+   "เสวนา",
+   "กอ.รมน.",
+   "ชายแดนไทย–เมียนมา"
+  ],
+  "places": [
+   "ระนอง"
+  ],
   "upcoming": false
  },
  {
@@ -370,28 +650,38 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dsqf6eQMfXTO4eOP2euaq9nqJJdWWxSMwJB2yh2JJ-i9deZm-G-XvTQbWLHvqixbBBGHmyCa5-r7S9vvz8Ql4plOi8Ms9Q7C26GAnvWROBRAVrsvU4v1HC1NYLn7sbCfvv58gzwuxrANETHJS3eqGyCmY96dCaZ8FDpqkA==&ref=10232606",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=x0KlsufQq5CMeWY1m4idroxySowANAYLezBfOzN-FabMVQzugttA6JcKKTRsrEHa64IlXahsyZ4_so7k3ultMqsIzcAJgYQBhpGp2pKG9IAfcRLzkgcuahZXR8LLMVfwcDUZR3cCu1nNRYDAVWF_se0-h_uO5FG6GNKntg==&ref=10232606",
     "size": 170632
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4P02CGWJ-8kjlj92Jfwpp0wyAWB-0n6OPXHd8_UjNmbC4s55l3fhc60EdI9cai_rKCK1qKrS88C3hhMuXu8SYb4K0JkmN-HormnpciGntKg3rz8DwR4B2W7dwdXd8lyMPPdoKC_D23DKbZcr9tpIskRU4P29dadN5N38_A==&ref=10344064",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4Sz15oRuS3kvZBec119h3LYQFWbCCiHgNRDciok4vCUBnBKjrAMX26lOZ6qPx9mBYM1KJH0lLqp9pn0Imr2mVZCNx1kju8yNhPBKMFB3PC9nBMzSJKjYN4up8TBtiKave5ZoI1p--_DPwj47AdNLn-66Y7TegZFB1Yqhww==&ref=10344064",
     "size": 2740260
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=21VU3PMNlTZzKlism8E"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=E9GX3GECQ9J6MPaEgAs"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 9/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ตั้งประเด็นคำถามก่อนประชุมร่วมกับหน่วยงานเรื่องชายแดนระนอง",
+  "summary": "ที่ประชุมพิจารณาประเด็นคำถามเรื่องการรักษาความมั่นคงชายแดนควบคู่กับการช่วยเหลือประชาชนที่ทำการเกษตรในพื้นที่ชายแดน ก่อนประชุมร่วมกับหน่วยงาน 12 แห่งในบ่ายวันเดียวกัน เช่น กรมแผนที่ทหาร กรมที่ดิน กองทัพภาคที่ 4 ผู้ว่าราชการจังหวัดระนอง ด่านศุลกากรระนอง และเกษตรจังหวัดระนอง และมีมติให้อนุกรรมาธิการเข้าร่วม",
+  "items": [
+   [
+    "ประเด็นคำถามเรื่องความมั่นคงชายแดนและการช่วยเหลือเกษตรกรในพื้นที่ชายแดน",
+    "รับทราบ ให้อนุกรรมาธิการเข้าร่วมประชุมกับหน่วยงาน",
+    "other"
+   ]
+  ],
+  "tags": [
+   "เส้นเขตแดน",
+   "เกษตรกรชายแดน"
+  ],
+  "places": [
+   "ระนอง"
+  ],
   "upcoming": false
  },
  {
@@ -402,28 +692,42 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2XHHxa3Q2tSpiD4O4Mp2Wh1TZK9GTEboC1X-k1SChqUcxm0mktsM4alCQQgWebmzSWKgGtLg9iZ9Io-vi2iopU9SkgGAmiuOP0pfPVfwEkkzpxkm0vBEOZE2jdAxgzszkuMVhKa_EhDFw70_VtXd8iR5xrrwvkgmRggbGA==&ref=10173265",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EQsQQaJ4RyaIxWhTgbCmFAaTWX-CgUnMj3DcXuhiz6maNucrCM7Qwa3b-NtcLjy1be_UTavZNWa76zXOjuTqwVeYxH5mzBPPWlN_XErTivywauvbq-H8162A7WpKK1HOlXfI473-5y-9FWHMbb60QbaLw8lmi7LsWf3-aQ==&ref=10173265",
     "size": 180926
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hmf4FaExM-n5E1SEuwGfc470GCfC1OD2iBRUchhNuhz-nmU17YBkLrvDznSwhfR49lWBqGD9R2pz_38X3YK4_QlZgY1wZKYnIuJa56bsf3RCHxseP0mLmbCLvTVvWtl2GXAkM9f-oup4rfS71QgdZwugDNiaRb_zBoRCjQ==&ref=10344058",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NMa5PlXsBtpdsRz7x3LI7XPYWe2ttljnBW0mWXb315TCie7vyC42RcXC6LQsvlbpzxVTmUKrMccVmgEiNxREwgUuxxscRqnmbKch7Z-UTNYpI-zFYNuu4D7Ok8OnhT_gRTvvxU06-IlDFC2XSfQXqt75SJObewXRlJALQw==&ref=10344058",
     "size": 700565
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3DKtQ8l8SvI1P1uLpBQ"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=HTVnc-jg0sPnymDa8yI"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 8/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายสมบูรณ์ หนูนวล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เตรียมหารือหน่วยงานเรื่องเส้นเขตแดนและการช่วยเหลือเกษตรกรชายแดน",
+  "summary": "ที่ประชุมเตรียมการประชุมร่วมกับหน่วยงานที่เกี่ยวข้องในวันที่ 16 มิ.ย. 2569 เช่น กรมแผนที่ทหาร กรมที่ดิน กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช กรมสนธิสัญญาและกฎหมาย GISTDA และหน่วยทหารในพื้นที่ เรื่องการรักษาความมั่นคงชายแดนควบคู่กับการช่วยเหลือประชาชนที่ทำการเกษตรและได้รับความเดือดร้อนจากความไม่ชัดเจนของเส้นเขตแดน และรับทราบความคืบหน้าของคณะทำงาน",
+  "items": [
+   [
+    "เตรียมการประชุมร่วมกับหน่วยงานด้านแผนที่ ที่ดิน และความมั่นคง 16 มิ.ย. 2569",
+    "เห็นชอบ",
+    "other"
+   ],
+   [
+    "ความคืบหน้าของคณะทำงาน: ยุทธศาสตร์การจัดระเบียบพื้นที่ชายแดน และการจัดสัมมนาวิชาการ",
+    "รับทราบ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "เส้นเขตแดน",
+   "เกษตรกรชายแดน",
+   "ความมั่นคง"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -434,28 +738,44 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=si02qSFEjMKsq3onPZxMw1wOncdIHE04jTBpqB9ieFnPiTIiM_0JrlXJF8ErI4IqIoQGolmREKPsYXlXXO7Z12L8biC0oi4eWPH9Y9oFIq1klz8fXQ1RRsFdoH4IskrVpwODGpwk-eJ4NVz0TppXKvez_MzthQ5Es5JBeQ==&ref=10110096",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nr5-NQ2NvllQf8yqffXcxCS0e8IoXcqA2PiWbBe3r9FltJe7YZJAufl6OjvtQI9MXD1vk5YRRraHzDqAvxYSBr0m93NQjIlHPA5sNQZnf_f6nXG529ohhl9vkltRkNjrg4C7ncocy82dkajKns1DnLb8BCgbhvIUqINFmg==&ref=10110096",
     "size": 180440
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pFTDLRlj2ock-gLP__A0-plg8Hez-18oVJvbrD_zcnn5FA-pBNEvhX9lk3n0lnkb5jMUIE4AnjBb66aj24kuuhij2xJ6DAz2XmwSS8BIhIWfKhsJYdbLKWtzJjGoAVCm2s8Rmnbym7LC0koRhRb3AT1p50V5qcgJj6taIw==&ref=10344043",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Ep6uxkZxRDtvIqp7BxeE0-BIg8vH-_gbyf4UQHnhRvYbghfXEa1mscgZife4xHsR8gonxhyFEFxR30wviTRqWOvqo_ZTajakKmTU6Msn9CjgDLkufwvim9Qc8MZWOlGNlAnR2SwaKwMncEU8X4IiUqVFlUG6esiZNSFfFg==&ref=10344043",
     "size": 1106949
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=iIr6mdCNZbseAJZBz-c"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=64oYpx71sIoANZmEe2w"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 7/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายธณัชญ์พงศ์ วงศ์มุลาลี",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "วางแผนงานของคณะทำงานทั้ง 4 กลุ่ม และติดตามเรื่องชาวบ้านกระบุรี",
+  "summary": "ที่ประชุมพิจารณาแผนปฏิบัติการของคณะทำงาน ได้แก่ การศึกษาระบบการบริหารจัดการ กอ.รมน. และยุทธศาสตร์การจัดระเบียบพื้นที่ชายแดน การจัดเสวนาทางวิชาการเรื่องกฎหมายความมั่นคงภายใน และงานรับเรื่องจากผู้ได้รับผลกระทบ โดยมอบหมายเรื่องการนำผลผลิตของชาวบ้าน 40 ครอบครัวเข้ามาจำหน่ายที่ตำบล จ.ป.ร. อำเภอกระบุรี จังหวัดระนอง และรับทราบเรื่องการสำรวจหลักเขตแดนไทย–เมียนมา",
+  "items": [
+   [
+    "แผนปฏิบัติการของคณะทำงาน (การศึกษา กอ.รมน. และการจัดระเบียบชายแดน, การเสวนาวิชาการ, งานรับเรื่องร้องเรียน)",
+    "เห็นชอบและมอบหมายงาน",
+    "other"
+   ],
+   [
+    "การสำรวจหลักเขตแดนไทย–เมียนมา และเรื่องผลผลิตของชาวบ้าน 40 ครอบครัว อำเภอกระบุรี จังหวัดระนอง",
+    "รับทราบ ดำเนินการตามแผน",
+    "complaint"
+   ]
+  ],
+  "tags": [
+   "คณะทำงาน",
+   "ชายแดนไทย–เมียนมา",
+   "กอ.รมน."
+  ],
+  "places": [
+   "ระนอง"
+  ],
   "upcoming": false
  },
  {
@@ -466,28 +786,56 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EGbaa6JEPD5AbdfmScBt2BjgkNpT1EcMA0ecWHip7Wj1oyrnBK45LObzOMl8Qc27bfic-h8vMuFE28VFB4hbEk0LwOFnoYXJ_gqMBVk__P7iOhuJWFTwKkwjzP8iVAmbNteIYhfLj-NjtGBfxSdFV6iVcRO0cU9JOzg=&ref=9664992",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kSOEmRbIEMnNrRpQ1QMcbdLxrdgGj5HmnwWvrZ3vOr8Pyy3mHdIQkQy5kG4zkge8kPHq774D3A0H677MtuEUMTn_cThPDb9J9bsKd-p_ERQhZb9UiX1qCddCh9KBAZBKnR8iBd_2V5-MlAcS4y-HjN1CCaS1KqQLbRI=&ref=9664992",
     "size": 183386
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=j1cwbXJuO7r-wVy9Giu-HdztUr6372cNVwDiqBMPxWynO4bzgxpC-fyTE3ziQKjWfe6KXlpn4qXaa5wxEowO2mGzCH8SLY4y5NHITnBis41QdkhrJK7pq-JQ6PB7J8PWk0S5bnLmjun9tVCANHlHvHW82d9pd7o--9LKdQ==&ref=10344040",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=N2N1wefhrmpbgVvtBO5zeJ8jkxNkAm87QAIhzU9GqtXAlRQCGroWd33mDTlX89lyod_wV-sjGl-4K9TFwDYrhUxEvB7s76VJCL4yniRuBpobYCCCL-R43MmwBpybw8B39VIL5d-m8SJyGVYrPqskq-HiG0cc2zWA_8ChFA==&ref=10344040",
     "size": 1615856
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=c14I9zGoyJu0DcnsXRE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zaCM9zEGQk_Cd78ZbLc"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 6/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายสมบูรณ์ หนูนวล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เห็นชอบกรอบงาน ยุทธศาสตร์จัดระเบียบชายแดน และกำหนดการดูงานสระแก้ว ระนอง ชุมพร",
+  "summary": "ที่ประชุมเห็นชอบกรอบการดำเนินงานของคณะอนุกรรมาธิการ เห็นชอบในหลักการการศึกษายุทธศาสตร์การจัดระเบียบพื้นที่ชายแดน และเห็นชอบกำหนดการศึกษาดูงานปัญหาที่ดินชายแดนไทย–กัมพูชาที่จังหวัดสระแก้ว และพื้นที่ทับซ้อนชายแดนไทย–เมียนมาที่จังหวัดระนองและชุมพร",
+  "items": [
+   [
+    "กรอบการดำเนินงานของคณะอนุกรรมาธิการ",
+    "เห็นชอบ",
+    "other"
+   ],
+   [
+    "การศึกษายุทธศาสตร์การจัดระเบียบพื้นที่ชายแดน",
+    "เห็นชอบในหลักการ",
+    "other"
+   ],
+   [
+    "กำหนดการศึกษาดูงาน จังหวัดสระแก้ว",
+    "เห็นชอบ",
+    "visit"
+   ],
+   [
+    "กำหนดการศึกษาดูงานพื้นที่ทับซ้อนชายแดนไทย–เมียนมา จังหวัดระนองและชุมพร",
+    "เห็นชอบ",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "ชายแดน",
+   "ยุทธศาสตร์",
+   "ดูงาน"
+  ],
+  "places": [
+   "สระแก้ว",
+   "ระนอง",
+   "ชุมพร"
+  ],
   "upcoming": false
  },
  {
@@ -498,28 +846,50 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UAEvcnmy0s8UiPoh-mwNXeqEZRK5Og3_Et-YxU8kDXg7wo8f1qAZBT2jcetI5thsgG-UohlxoYBA5BDFg_zYa86LeRimU1GyAoXOL8D5SomHamMqLzRks5ZoPIP7sWShpX6iXy4HKvKbDFZ2GIowa9Q66EeHsJAJTPw=&ref=9612768",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lD9Lr9JtuLSAyjxfFhcPc6s_0IaLu6ePJ19hv3krNA1nBkoPf0eCYEMn65k1NVrkyNHfgya7ALUbnpWlmuNnPFPxBy-rWER2YTsmVNpnpIERbn6HJy1iewjd6ib__4FKe5qNyjhO5CHYVX_pC49vtX-eENVsy70bTDg=&ref=9612768",
     "size": 194831
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Dbdfej6RO72IwrOwvXt9COz3fVWoBnWg6H0PeFQX03tpS6ZK8P-o_giZCOLAC93Hd53irET6rX6nO_Cz_pRH6aoxOnHSRtpuIjC5FcC9RuMMjZ2vbaunsYDhrRC6UPCRT3xGShkSpBnaSsOu1MuJc_3Ep76qVWT3QdU=&ref=9655583",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=65wjNzy-6knpo6hY771IRV7LoP0iA2-UIOuIihs4Yq_SjjPf7EpLTNW9FwiBtNMtlIdpPh64ZCTPnpeYZuUMqpO69fgZQqtxvAoeO7LzKCbeviG0p2f-TxXR6TYR92mDr_e07W4sIUph0IS3hSBvOzjZWaNOXpupyHQ=&ref=9655583",
     "size": 7597997
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WRxi2J4a7880tZMJl4A"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=kEBDuFRhZQq_91QrM_U"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 5/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายสมบูรณ์ หนูนวล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รายงานกฎหมายความมั่นคงภายใน และเตรียมดูงานปัญหาที่ดินชายแดนที่สระแก้วและระนอง",
+  "summary": "ที่ประชุมเห็นชอบร่างรายงานการพิจารณาศึกษาพระราชบัญญัติการรักษาความมั่นคงภายในราชอาณาจักร พ.ศ. 2551 และให้รับฟังความเห็นจากหน่วยงานระดับนโยบายและปฏิบัติ พร้อมมีมติเดินทางไปศึกษาปัญหาที่ดินของราษฎรตามแนวชายแดนไทย–กัมพูชา ตำบลทัพไทย อำเภอตาพระยา และบ้านหนองจาน จังหวัดสระแก้ว ตามที่คณะกรรมาธิการมอบหมาย และปัญหาพื้นที่ทับซ้อนในอำเภอกระบุรี จังหวัดระนอง",
+  "items": [
+   [
+    "ร่างรายงานการพิจารณาศึกษาพระราชบัญญัติการรักษาความมั่นคงภายในราชอาณาจักร พ.ศ. 2551",
+    "เห็นชอบ และรับฟังความเห็นจากหน่วยงานที่เกี่ยวข้อง",
+    "report"
+   ],
+   [
+    "ปัญหาที่ดินของราษฎรตามแนวชายแดนไทย–กัมพูชา จังหวัดสระแก้ว (คณะกรรมาธิการมอบหมาย)",
+    "เดินทางไปศึกษาดูงานในพื้นที่",
+    "visit"
+   ],
+   [
+    "ปัญหาพื้นที่ทับซ้อนและความมั่นคง อำเภอกระบุรี จังหวัดระนอง",
+    "เดินทางไปศึกษาดูงานในพื้นที่",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "กฎหมายความมั่นคงภายใน",
+   "ชายแดนไทย–กัมพูชา",
+   "ที่ดินทำกิน"
+  ],
+  "places": [
+   "สระแก้ว",
+   "ระนอง"
+  ],
   "upcoming": false
  },
  {
@@ -530,28 +900,37 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nqdROlpI5HLyVT5ba5nMU6FymYpS_RSxRZ6Olkr4IGcLvz0ZVJkT0jgykPVPFbpDFQ-HSNySISoOe62_OUwHyf-s9oYKUZyPdDirRrukhhp4rEv8s--SOF8yp_rwWWyGnP3w2NzlOVU7fAkB8y5D5QfhFElfuSXeL7I=&ref=9516299",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Pt3icG6ut5t7b0QcoJxzJ22fAJLsRyUr8GMfng5gid475q33iZVJwQBbuGfF1p6NfgRXncwPKkQJR4seDzStCD0g6CvBUx5zbureZV2CoyDqPhnWpjg5BZnbFi1vKIfxJ0CCYAKKyLh0_CTwoAooXhXawzDnnzqtpuM=&ref=9516299",
     "size": 180651
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QMA45bNuw0sdL2c95gKz41TNgVPNBWrOHL3HXZU29uDAAw2X8WSLAsQLgk0VfQVkC-mA4fXkYfVLS80vTZc7N5SFwlxDzScVURfO4mDflXUnLGJEj1Ywb424_4dyj-1-5ry5n8VvdaE9Ft-vuAphKZ0gui2OkXduXF0=&ref=9560502",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=khfVRYeb4a2PF8-FUQgeImTF7UX4KQHQi5-_b3HZDiotARS58N0xh_Qn_4jJt3AcBcvpmrhMoo1_WCKQmUJSXLLadAS0sTBdxrnsQ9Sa_CFjZdv3c1oextyECWah5sboEBjuplcxcvXskF31olVfnIUjzHykLDfFf9o=&ref=9560502",
     "size": 7761032
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=I72hpuXBY8z0KZ-M7gQ"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=wNpifQCgMUjXllO2T0U"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 4/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายสมบูรณ์ หนูนวล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เห็นชอบร่างรายงานศึกษากฎหมายการรักษาความมั่นคงภายในราชอาณาจักร",
+  "summary": "ที่ประชุมติดตามความคืบหน้าการจัดทำรายงานการพิจารณาศึกษาพระราชบัญญัติการรักษาความมั่นคงภายในราชอาณาจักร พ.ศ. 2551 และเห็นชอบร่างรายงานเพื่อเสนอคณะกรรมาธิการต่อไป",
+  "items": [
+   [
+    "ร่างรายงานการพิจารณาศึกษาพระราชบัญญัติการรักษาความมั่นคงภายในราชอาณาจักร พ.ศ. 2551",
+    "เห็นชอบ เพื่อเสนอคณะกรรมาธิการ",
+    "report"
+   ]
+  ],
+  "tags": [
+   "กฎหมายความมั่นคงภายใน",
+   "รายงานการศึกษา",
+   "กอ.รมน."
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -562,28 +941,41 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JLN8gbq-o61bV05ZNCSmzUGLnJGoM9arWzfloxXiYf80DD8FD9N4A7Hv_ZQ52E87Eo3UJ4OISpidNU_xyWZ1KOiRjASMU7ajGxKCwDK5v92457tE0rJSaumTGy3xs2z7bWBYFtp_jcxNxv8SuDDDk6YzjBrneXqq0k4=&ref=9263197",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Nlb8W0x-u8zSsc_zf0gpmCn8NxYrAkwJTAThmfR88gtY2RE_WEwOGiJKBc8sokOOe2pU5_q2eigP2hfOdTvj3xHj3C0GHTfJXyWTNEin5vnXgyQvcM2NsBBP4JjDI6XdlOo82CefSvlOQ5K8njB4RouVxaOYPVWQ3-8=&ref=9263197",
     "size": 145394
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=set8IBHZ0PLMjXPpKaXNC1ZtHcCw4YxCXgL8JO3NYIfEK3lpx4HaJpf-OCiGNbvqptmENmVrmjDYeE983q9nlxN7ecRpU2JaffbZuA8bW98ZFrQB_Z83g62A1bgqC3hDH1PYaNtPceMnnBbWpk2DkpbqXlCwh19fX38=&ref=9364825",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dfT7HYOKf1f5O9M-4Eh2ZGFRdVQb6aE1b7_Rw8mtsIkbgN9PpTY6zQdrC7iarDDeYBl241m-73MbBkVsJ6obRxT2f7UXtQHQkdbQYuKO3M6q3onXSX_N-P4QhFnBLkC0TuEv02qkrdLQ4K8TV0wzH4l2eJ7LLSX5reg=&ref=9364825",
     "size": 959322
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rsqzMgq3tazlDc7uHLI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ClE0n0fYEhER2_hawFo"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 3/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายสมบูรณ์ หนูนวล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ร่วมรับฟังหน่วยงานความมั่นคงเรื่องชายแดนไทย–เมียนมากับคณะกรรมาธิการ",
+  "summary": "ที่ประชุมพิจารณาประเด็นปัญหาและผลกระทบต่อประเทศไทยจากการประกาศจัดตั้งสาธารณรัฐกอทูเล และเห็นชอบให้อนุกรรมาธิการและที่ปรึกษาทุกท่านร่วมประชุมกับคณะกรรมาธิการการทหารและความมั่นคงของรัฐในวันเดียวกัน ซึ่งเชิญผู้แทนหน่วยงานความมั่นคงมาชี้แจง",
+  "items": [
+   [
+    "ประเด็นปัญหาและผลกระทบต่อประเทศไทย กรณีชายแดนไทย–เมียนมา",
+    "ให้อนุกรรมาธิการและที่ปรึกษาร่วมประชุมกับคณะกรรมาธิการ",
+    "other"
+   ],
+   [
+    "นัดประชุมครั้งต่อไป",
+    "วันพุธที่ 4 ก.พ. 2569",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ชายแดนไทย–เมียนมา",
+   "ความมั่นคง"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -594,28 +986,36 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wR8Iz652tm4txHFdqfbsr_auAPXgT1WTxHJEs-lC5yMmNZukVyyzPPkpX_uI4lgoET5u_kMhVqUDHreBtmsFCCl3Dys49hLR1cvgXSBQYCE0OqS3_Zmd-_5I5yOvflRMdJkEh68MSGbIH80frJJm6uTqx-b4oH_-qUw=&ref=9239337",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IRGSt_dGWyQCC8_jKIz8pqo0weVGUmZGdkfmCDNymLrS5upPwHu3DMTvvPKVea0o1vUb-sY_pvvSBk9V-eJ0xbwYmT0Z-YCt2s8kDsgbLFDGjH2xyL8wqI0dPVfYSlSqOTWlgkKsRYG55I3Ulf-JYqmdVO_l9Cjxv5w=&ref=9239337",
     "size": 133769
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nab-fCRF7glkmRiUKwyI2NVWeQALQWJEg0bIAu96ZW-rlL5OlztRluKCwkSevy_uX3l4uAi-7uazosfyRQuU4IrCDh7V8LAShF9tm0ZO1A9Wq5IHTd2NSc4gAqBKRhNnhgaKFHf8LccWKTdbRa02uNmJOSspbzXkaWk=&ref=9364823",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZfYH3H15u9iGG-oNYEzX4AmVCQ3y12FyemurX96F8lcrkqJMmfQyZn9qjPi6f8rScLiBO4b7KcNl87CxnWX49VYHMD2SLHzs3xjislP16JdXqkqJ9M6XZ1yXMDg5W6jz98sp1BTyh4dU-VwSiBdq3Dy79dte_fkVccg=&ref=9364823",
     "size": 1484149
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7dOjqlr-y8wkfJvTyV4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=GVIjv7mdwBXj0kDpOfk"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 2/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายสมบูรณ์ หนูนวล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เตรียมเชิญหน่วยงานความมั่นคงชี้แจงสถานการณ์ชายแดนไทย–เมียนมา",
+  "summary": "ที่ประชุมพิจารณาสถานการณ์ความมั่นคงชายแดนไทย–เมียนมา กรณีการประกาศจัดตั้งสาธารณรัฐกอทูเลหรือกลุ่มอื่น ๆ และความพร้อมของหน่วยงานรัฐ แล้วเห็นชอบเชิญผู้แทน สมช. สขช. กระทรวงกลาโหม กระทรวงการต่างประเทศ กระทรวงมหาดไทย สำนักงานตำรวจแห่งชาติ กองทัพบก และกองบัญชาการกองทัพไทย มาชี้แจงต่อคณะกรรมาธิการในวันที่ 19 ม.ค. 2569",
+  "items": [
+   [
+    "สถานการณ์ความมั่นคงชายแดนไทย–เมียนมา และความพร้อมรับมือของหน่วยงานรัฐ",
+    "เห็นชอบเชิญหน่วยงานที่เกี่ยวข้องมาชี้แจงต่อคณะกรรมาธิการ 19 ม.ค. 2569",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ชายแดนไทย–เมียนมา",
+   "ความมั่นคง"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -626,28 +1026,50 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pU8nQOxwIt-LaHUMjzVzMJuY55LeeB_YMHzH7RtbG5dV-YkcAvkFtMAO-bGLOAznUaqIfWn1KLNYDlkQX3_OfC0JpvfLbeY0avNH73nxfKlbFLKtkemS_eFtgI_16iiIxFI2U12isLojN6lETyGVcmNTBy4QCz2LUWQ=&ref=9192318",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WBK1ZMB268aVx3IUGw4CJUVmHLtsGt2fgRfU6dur1dbL3RZ4eu6hqUQlbDerXFyRpGkrKtWahC16Vi5wQ9NUGSRc2QP15CabINrJePO-rfRJHIgMkOBJfPgjobmJK2vkcMcSLAy7iOW9KfZgdX7MsxTnAdWKGKgCO9A=&ref=9192318",
     "size": 158919
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RIKHTm4khxO1LaU14KBB0_8o0vz0aohZ2GpMouXNZ1uMXqg4OcXtxbwbPGn8-bsfYCAqTLYGODGoHnvUO6nqZc7M30JnusX-sI4-CrLaxGDIlsRFLVY-yvfJXhuIpONm9OP4C5A-YylOP49SyMm-mm_UsQAysnihjpk=&ref=9364821",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Yewy54anJhwAWdMAqMCpQUwFwxkcgJybEWSVkJniqAuNdFPyaZPjVk57rLt6k240eQbROaq-nf7hL05NtuRi0sytTNUPqpeCOORJ1qwoDDNWvOiD9m_5Qh-edCBoyok01F15A6o0hRBZW52oO8MEk_oBW-2-gT7hpAg=&ref=9364821",
     "size": 1590688
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=YaS-4a5zDB7pb9i_1Y8"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=LtH-ZINVPj6PRzNOmhY"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 1/2569",
-  "summary": "บทสรุปของการประชุมครั้งนี้อยู่ระหว่างจัดทำ ระหว่างนี้เปิดอ่านสรุปผลการประชุมฉบับทางการได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นายสมบูรณ์ หนูนวล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เห็นชอบแผนงานปี 2569 และเตรียมดูงานที่เบตงและปัตตานี",
+  "summary": "ที่ประชุมเห็นชอบแผนการดำเนินงานประจำปี 2569 โดยรอข้อสังเกตจากคณะทำงานเพื่อปรับปรุงอีกครั้ง เห็นชอบกำหนดการศึกษาดูงานที่อำเภอเบตง จังหวัดยะลา และจังหวัดปัตตานี 14–17 ม.ค. 2569 และแต่งตั้งที่ปรึกษาเพิ่มเติม",
+  "items": [
+   [
+    "แผนการดำเนินงานของคณะอนุกรรมาธิการ ประจำปี 2569",
+    "เห็นชอบ รอข้อสังเกตจากคณะทำงานเพื่อปรับปรุง",
+    "other"
+   ],
+   [
+    "กำหนดการศึกษาดูงาน อำเภอเบตง จังหวัดยะลา และจังหวัดปัตตานี 14–17 ม.ค. 2569",
+    "เห็นชอบ และเพิ่มประเด็นคำถามให้ครบถ้วน",
+    "visit"
+   ],
+   [
+    "แต่งตั้งที่ปรึกษาคณะอนุกรรมาธิการ (เพิ่มเติม)",
+    "เห็นชอบ ให้ที่ปรึกษาเลือกคณะทำงานตามความเชี่ยวชาญ",
+    "appoint"
+   ]
+  ],
+  "tags": [
+   "แผนงาน",
+   "ชายแดนใต้",
+   "ดูงาน"
+  ],
+  "places": [
+   "ยะลา",
+   "ปัตตานี"
+  ],
   "upcoming": false
  }
 ]
