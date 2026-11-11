@@ -1,8 +1,66 @@
 {
- "updated": "2026-11-11T16:25:05Z",
- "feeds_ok": 8,
+ "updated": "2026-11-11T17:58:18Z",
+ "feeds_ok": 12,
  "window_h": 72,
  "topics": [
+  {
+   "id": "cyber",
+   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
+   "en": "Cyber and defence industry",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/cyber",
+    "credit": "Christopher Bowns",
+    "lic": "CC BY-SA 2.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
+    "alt_en": "An aisle between server racks in a data centre"
+   },
+   "outlets": 3,
+   "count": 7,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
+    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
+    "url": "military/2569/sub-cyber.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 22,
+    "date": "2026-10-07",
+    "url": "military/2569/sub-cyber.html#read-22"
+   },
+   "items": [
+    {
+     "title": "อินโดนีเซียเผชิญภัยคุกคามทางไซเบอร์ พบถูกโจมตีกว่า 2 ล้านครั้งใน 24 ชั่วโมง",
+     "url": "https://www.infoquest.co.th/2026/678108",
+     "lang": "th",
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-11T17:52:35Z"
+    },
+    {
+     "title": "รัฐบาลเร่งเครื่อง! คุมเข้มภัยไซเบอร์ ‘ไชยชนก’ จ่อเข้าคลัง แถลงใหญ่ กำหนดแนวทางป้องกัน 12 พ.ย.นี้",
+     "url": "https://www.matichon.co.th/economy/news_5971710",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-11T15:49:39Z"
+    },
+    {
+     "title": "สมาคมบล. เฝ้าระวังภัยไซเบอร์ถี่ขึ้น คุมเข้มระบบเทรด-ข้อมูลนักลงทุน 3 ล้านบัญชี",
+     "url": "https://www.prachachat.net/finance/news-2095112",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-11T13:42:52Z"
+    }
+   ]
+  },
   {
    "id": "disaster",
    "th": "น้ำท่วมและภัยพิบัติ",
@@ -17,8 +75,8 @@
     "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
     "alt_en": "A flooded street and houses"
    },
-   "outlets": 3,
-   "count": 6,
+   "outlets": 2,
+   "count": 3,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
     "en": "Subcommittee on National Disaster Management",
@@ -44,78 +102,20 @@
      "date": "2026-11-11T15:47:08Z"
     },
     {
-     "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
-     "url": "https://www.thairath.co.th/news/society/2971928",
-     "lang": "th",
-     "outlet_th": "ไทยรัฐ",
-     "outlet_en": "Thairath",
-     "date": "2026-11-11T13:15:00Z"
-    },
-    {
      "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
      "url": "https://www.matichon.co.th/local/news_5971600",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-11T12:36:41Z"
-    }
-   ]
-  },
-  {
-   "id": "cyber",
-   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
-   "en": "Cyber and defence industry",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/cyber",
-    "credit": "Christopher Bowns",
-    "lic": "CC BY-SA 2.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
-    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
-    "alt_en": "An aisle between server racks in a data centre"
-   },
-   "outlets": 2,
-   "count": 5,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
-    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
-    "url": "military/2569/sub-cyber.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 22,
-    "date": "2026-10-07",
-    "url": "military/2569/sub-cyber.html#read-22"
-   },
-   "items": [
+    },
     {
-     "title": "รัฐบาลเร่งเครื่อง! คุมเข้มภัยไซเบอร์ ‘ไชยชนก’ จ่อเข้าคลัง แถลงใหญ่ กำหนดแนวทางป้องกัน 12 พ.ย.นี้",
-     "url": "https://www.matichon.co.th/economy/news_5971710",
+     "title": "ทส. ร่วมภาคเอกชน เปิดแคมเปญ ‘โปรสู้ฝุ่น ลด PM2.5 Together’",
+     "url": "https://www.matichon.co.th/economy/news_5969430",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-11T15:49:39Z"
-    },
-    {
-     "title": "ก.ล.ต. จับตาภัยไซเบอร์ ย้ำผู้ประกอบธุรกิจตลาดทุน-สินทรัพย์ดิจิทัล เร่งยกระดับระบบป้องกัน",
-     "url": "https://www.thairath.co.th/money/investment/stocks/2971506",
-     "lang": "th",
-     "outlet_th": "ไทยรัฐ",
-     "outlet_en": "Thairath",
-     "date": "2026-11-10T03:36:17Z"
-    },
-    {
-     "title": "ธปท.ยันระบบธนาคารยังปกติ ไม่จำเป็นต้องถอนเงินสดเก็บไว้ กำชับทุกแบงก์เพิ่มความปลอดภัยไซเบอร์",
-     "url": "https://www.matichon.co.th/economy/news_5970346",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-11T03:39:57Z"
+     "date": "2026-11-10T07:51:14Z"
     }
    ]
   },
@@ -133,8 +133,8 @@
     "alt_th": "กระบุงใส่ข้าวเปลือกในพิพิธภัณฑ์ชาวนาไทย",
     "alt_en": "Baskets of rice in the Thai Rice Farmers museum"
    },
-   "outlets": 1,
-   "count": 1,
+   "outlets": 2,
+   "count": 2,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -148,54 +148,20 @@
    },
    "items": [
     {
+     "title": "ธ.ก.ส. เร่งโอนเงิน ‘ไร่ละ 1,000 บาท’ วันนี้ (11 พ.ย.) กว่า 835 ล้านบาท",
+     "url": "https://www.prachachat.net/economic/news-2095072",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-11T11:31:29Z"
+    },
+    {
      "title": "เช็กบัญชีเลย! ธ.ก.ส. เริ่ม โอนเงินไร่ละ 1,000 วันนี้ ช่วยชาวนา 1.35 แสนครัวเรือน",
      "url": "https://www.matichon.co.th/economy/news_5971042",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-11T08:40:11Z"
-    }
-   ]
-  },
-  {
-   "id": "jobs",
-   "th": "การหางานและแรงงานต่างชาติ",
-   "en": "Jobs and migrant workers",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/jobs",
-    "credit": "Bigcitydata",
-    "lic": "CC BY 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
-    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
-    "alt_en": "Office towers in Silom, Bangkok"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
-    "en": "Subcommittee on Employment and Skills",
-    "url": "labour/2569/sub-employment.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 21,
-    "date": "2026-09-23",
-    "url": "labour/2569/sub-employment.html#read-21"
-   },
-   "items": [
-    {
-     "title": "10 ความจริง คนทำงานไทยกำลังเผชิญ มีงานทำใช่ว่าจะ “มั่นคง” คนวัย 40+ ตกงานเพิ่ม",
-     "url": "https://www.thairath.co.th/money/economics/thai_economics/2971760",
-     "lang": "th",
-     "outlet_th": "ไทยรัฐ",
-     "outlet_en": "Thairath",
-     "date": "2026-11-11T05:51:03Z"
     }
    ]
   },
