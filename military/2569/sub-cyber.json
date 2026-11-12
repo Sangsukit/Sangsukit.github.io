@@ -22,17 +22,28 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-cyber-v25pre.mp4",
-    "poster": "img/poster-sub-cyber-25pre.jpg",
-    "vtt": "media/sub-cyber-v25pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:55",
+    "src": "media/sub-cyber-v25.mp4",
+    "poster": "img/poster-sub-cyber-25.jpg",
+    "vtt": "media/sub-cyber-v25.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:07",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "cyber-25p",
-    "size": 4265877
+    "ck": "cyber-25",
+    "size": 7782001
    },
    "videos": [
+    {
+     "src": "media/sub-cyber-v25.mp4",
+     "poster": "img/poster-sub-cyber-25.jpg",
+     "vtt": "media/sub-cyber-v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:07",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-25",
+     "size": 7782001
+    },
     {
      "src": "media/sub-cyber-v25pre.mp4",
      "poster": "img/poster-sub-cyber-25pre.jpg",
@@ -96,7 +107,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=dzxH581fLbA5Ffy_Or0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-cyber-v24.mp4",
+    "poster": "img/poster-sub-cyber-24.jpg",
+    "vtt": "media/sub-cyber-v24.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "cyber-24",
+    "size": 7498580
+   },
+   "videos": [
+    {
+     "src": "media/sub-cyber-v24.mp4",
+     "poster": "img/poster-sub-cyber-24.jpg",
+     "vtt": "media/sub-cyber-v24.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-24",
+     "size": 7498580
+    }
+   ]
+  },
   "chair": "นายไชยยงค์ มณีรุ่งสกุล",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
   "headline": "เห็นชอบรายงานการศึกษา 2 เรื่อง: ระบบต่อต้านโดรน และการใช้มิติอวกาศของกองทัพ",
@@ -124,7 +160,7 @@
  {
   "n": 23,
   "date": "2026-10-21",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -142,7 +178,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Xx9td7jU60DX54E-eos"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-cyber-v23.mp4",
+    "poster": "img/poster-sub-cyber-23.jpg",
+    "vtt": "media/sub-cyber-v23.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:27",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "cyber-23",
+    "size": 8690515
+   },
+   "videos": [
+    {
+     "src": "media/sub-cyber-v23.mp4",
+     "poster": "img/poster-sub-cyber-23.jpg",
+     "vtt": "media/sub-cyber-v23.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:27",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-23",
+     "size": 8690515
+    }
+   ]
+  },
   "chair": "นายไชยยงค์ มณีรุ่งสกุล",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
   "headline": "ความจำเป็นในการจัดหาเรือฟริเกต และความคืบหน้าการซ่อมบำรุงเรือหลวงภูมิพลอดุลยเดช",
@@ -175,7 +236,7 @@
  {
   "n": 22,
   "date": "2026-10-07",
-  "time": "",
+  "time": "13.30",
   "room": "",
   "docs": [
    {
@@ -291,7 +352,7 @@
  {
   "n": 20,
   "date": "2026-09-16",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -337,7 +398,7 @@
  {
   "n": 19,
   "date": "2026-09-02",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -377,7 +438,7 @@
  {
   "n": 18,
   "date": "2026-08-19",
-  "time": "",
+  "time": "13.30",
   "room": "",
   "docs": [
    {
@@ -513,7 +574,7 @@
  {
   "n": 15,
   "date": "2026-07-08",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -564,7 +625,7 @@
  {
   "n": 14,
   "date": "2026-07-01",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -609,7 +670,7 @@
  {
   "n": 13,
   "date": "2026-06-17",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -651,7 +712,7 @@
  {
   "n": 12,
   "date": "2026-06-10",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -785,7 +846,7 @@
  {
   "n": 9,
   "date": "2026-05-06",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -832,7 +893,7 @@
  {
   "n": 8,
   "date": "2026-04-22",
-  "time": "",
+  "time": "13.30",
   "room": "",
   "docs": [
    {
@@ -873,7 +934,7 @@
  {
   "n": 7,
   "date": "2026-04-01",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
@@ -914,7 +975,7 @@
  {
   "n": 6,
   "date": "2026-03-25",
-  "time": "",
+  "time": "13.30",
   "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {

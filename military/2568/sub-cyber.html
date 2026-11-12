@@ -1585,7 +1585,7 @@ const P={
  wutthiphong:{img:"img/p_wutthiphong.jpg",name:"นาวาตรี วุฒิพงศ์ พงศ์สุวรรณ",role:"อดีตประธานคณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ (ชุด พ.ศ. 2567–2568)"},
  chalong:{img:"img/p_chalong.jpg",name:"ร้อยตำรวจเอก ฉลอง ทองนะ",role:""}
 };
-const CHAIR_IMG={"นายไชยยงค์ มณีรุ่งสกุล": "chaiyong", "พลเอก สวัสดิ์ ทัศนา": "sawat", "นายสมบูรณ์ หนูนวล": "somboon", "ผู้ช่วยศาสตราจารย์นิฟาริด ระเด่นอาหมัด": "nifarid", "นายธณัชญ์พงศ์ วงศ์มุลาลี": "thanatphong", "นาวาตรี วุฒิพงศ์ พงศ์สุวรรณ": "wutthiphong"};
+const CHAIR_IMG={"ร้อยตำรวจเอก ฉลอง ทองนะ": "chalong", "นายไชยยงค์ มณีรุ่งสกุล": "chaiyong", "พลเอก สวัสดิ์ ทัศนา": "sawat", "นายสมบูรณ์ หนูนวล": "somboon", "ผู้ช่วยศาสตราจารย์นิฟาริด ระเด่นอาหมัด": "nifarid", "นายธณัชญ์พงศ์ วงศ์มุลาลี": "thanatphong", "นาวาตรี วุฒิพงศ์ พงศ์สุวรรณ": "wutthiphong"};
 const SYN=[["น้ำท่วม","อุทกภัย","ท่วม"],["ไฟไหม้","เพลิงไหม้"],["ร้องเรียน","ข้อร้องเรียน","ร้องทุกข์"],["ดูงาน","ลงพื้นที่","ศึกษาดูงาน"],["โฉนด","ที่ดิน"]];
 
 const id=m=>m.cancelled?`m-${m.n}c`:`m-${m.n}`;
@@ -1659,7 +1659,7 @@ function renderOverview(){
   [provinces.size,"จังหวัดที่ปรากฏในวาระ"],
   [live.reduce((a,m)=>a+(m.items||[]).length,0),"เรื่องที่พิจารณาตามบทสรุป"]
  ].map(([v,l])=>`<div class="stat"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
- $("#era").innerHTML=`<div class="era-seg b" style="grid-column:1/-1">${((Object.values(P).find(p=>p.name==="ร้อยตำรวจเอก ฉลอง ทองนะ")||{}).img)?`<img src="${Object.values(P).find(p=>p.name==="ร้อยตำรวจเอก ฉลอง ทองนะ").img}" alt="ร้อยตำรวจเอก ฉลอง ทองนะ" loading="lazy">`:""}<div><b>ร้อยตำรวจเอก ฉลอง ทองนะ</b><span>ประธานในที่ประชุม ครั้งที่ 1, 3</span></div></div><div class="era-seg b" style="grid-column:1/-1"><img src="${P.chaiyong.img}" alt="นายไชยยงค์ มณีรุ่งสกุล" loading="lazy"><div><b>นายไชยยงค์ มณีรุ่งสกุล</b><span>ประธานคณะอนุกรรมาธิการในปี 2568</span></div></div>`;
+ $("#era").innerHTML=`<div class="era-seg b" style="grid-column:1/-1"><img src="${P.chalong.img}" alt="ร้อยตำรวจเอก ฉลอง ทองนะ" loading="lazy"><div><b>ร้อยตำรวจเอก ฉลอง ทองนะ</b><span>ประธานคณะอนุกรรมาธิการในปี 2568 · ตามสรุปผลการประชุมของวุฒิสภา</span></div></div>`;
  const byN=[...live].sort((a,b)=>a.n-b.n);
  $("#ticks").style.setProperty("--nt",byN.length);const lastM=byN[byN.length-1];if(lastM)$("#tick-last").textContent=`${lastM.n} · ${MOS[dt(lastM).getUTCMonth()]}`;
  if(UPDATED)$("#updated").textContent=isoTh(UPDATED,null,1);
@@ -1668,7 +1668,7 @@ function renderOverview(){
  const top=Object.entries(cnt).filter(([t])=>t!=="วาระการประชุม").sort((a,b)=>b[1]-a[1]).slice(0,9);
  const max=top.length?top[0][1]:1;
  $("#bars").innerHTML=top.map(([t,n])=>`<button class="bar" type="button" data-tag="${esc(t)}" aria-pressed="false"><span>${esc(t)}</span><span class="track"><span class="fill" style="width:${(n/max*100).toFixed(1)}%"></span></span><span class="n">${n}</span></button>`).join("");
- $("#people").innerHTML=["chaiyong"].map(k=>{const p=P[k];return `<div class="person"><img src="${p.img}" alt="${esc(p.name)}" loading="lazy"><div><b>${esc(p.name)}</b><span>${esc(p.role)}</span></div></div>`}).join("");
+ $("#people").innerHTML=["chalong"].map(k=>{const p=P[k];return `<div class="person"><img src="${p.img}" alt="${esc(p.name)}" loading="lazy"><div><b>${esc(p.name)}</b><span>${esc(p.role)}</span></div></div>`}).join("");
  const chips=Object.entries(cnt).filter(([t])=>t!=="วาระการประชุม").sort((a,b)=>b[1]-a[1]).slice(0,12).map(x=>x[0]);
  $("#chips").innerHTML=`<button class="chip" type="button" data-tag="" aria-pressed="true">ทั้งหมด</button>`+chips.map(t=>`<button class="chip" type="button" data-tag="${esc(t)}" aria-pressed="false">${esc(t)}</button>`).join("");
  $("#tag-f").innerHTML=`<option value="">ทุกประเด็น</option>`+chips.map(t=>`<option value="${esc(t)}">${esc(t)}</option>`).join("");
