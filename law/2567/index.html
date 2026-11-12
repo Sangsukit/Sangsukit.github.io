@@ -1284,6 +1284,55 @@ html.tp-glide .whereami{opacity:0!important;transition:none!important}
 @media (max-width:719px){.hero .eyebrow.bn-on{flex-wrap:wrap;row-gap:8px;padding:10px 16px 12px 10px}.hero .eyebrow .bn-t{flex:1 1 100%;padding-left:6px}.hero .eyebrow .bn-n{font-size:1.18rem}}
 @media (min-width:720px){.hero .eyebrow .bn-n{font-size:1.45rem}.hero .eyebrow .bn-s{font-size:.95rem}}
 </style>
+<!--ALERTS_CTA--><style id="acta-css">
+.acta{--a-bg:linear-gradient(180deg,#FFFAEE 0%,#FBF0D8 100%);--a-bd:#DDBF7E;--a-h:#6E1A16;--a-tx:#3D2E22;--a-chip:#FFFFFF;--a-chipbd:#E8D7B4;--a-tk:#2E6B3A;--a-btn:#6E1A16;--a-on:#FFFFFF;--a-ic:#6E1A16;--a-icon:#F6E7C1;
+ display:block;box-sizing:border-box;max-width:760px;margin:20px 0 8px;padding:20px 20px 22px;border-radius:24px;background:var(--a-bg);border:1.5px solid var(--a-bd);color:var(--a-tx);
+ box-shadow:0 1px 2px rgba(60,20,10,.06),0 10px 26px rgba(110,26,22,.08);text-align:left}
+.acta .acta-top{display:flex;align-items:center;gap:14px;margin:0 0 10px}
+.acta .acta-ic{flex:none;display:grid;place-items:center;width:56px;height:56px;border-radius:50%;background:var(--a-ic);color:var(--a-icon);box-shadow:inset 0 0 0 2px rgba(233,201,135,.55)}
+.acta svg{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.acta .acta-bell{width:30px;height:30px}
+.acta .acta-h{margin:0;padding:0;background:none;border:0;font-size:1.32rem;line-height:1.35;font-weight:700;color:var(--a-h);letter-spacing:0;text-wrap:balance}
+.acta .acta-h::before,.acta .acta-h::after{content:none}
+.acta .acta-p{margin:0 0 14px;font-size:1.125rem;line-height:1.65;color:var(--a-tx);text-wrap:pretty}
+.acta .acta-ok{list-style:none;display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px;padding:0}
+.acta .acta-ok li{display:inline-flex;align-items:center;gap:6px;margin:0;padding:6px 14px 6px 10px;border-radius:999px;background:var(--a-chip);border:1px solid var(--a-chipbd);font-size:1rem;line-height:1.4;font-weight:600;color:var(--a-tx)}
+.acta .acta-ok li::before{content:none}
+.acta .acta-tk{width:20px;height:20px;color:var(--a-tk);stroke-width:2.6}
+.acta .acta-go{display:flex;align-items:center;justify-content:center;gap:10px;box-sizing:border-box;width:100%;max-width:480px;min-height:58px;padding:12px 22px;border-radius:999px;
+ background:var(--a-btn);color:var(--a-on);font-size:1.18rem;line-height:1.35;font-weight:700;text-decoration:none;text-align:center;box-shadow:0 2px 0 rgba(0,0,0,.12),0 8px 18px rgba(110,26,22,.22);
+ transition:transform .45s var(--spring,cubic-bezier(.34,1.4,.64,1)),box-shadow .3s var(--ease-out,cubic-bezier(.16,1,.3,1))}
+.acta .acta-go:visited{color:var(--a-on)}
+.acta .acta-go span{text-wrap:balance}
+.acta .acta-bi{width:26px;height:26px;flex:none}.acta .acta-ar{width:22px;height:22px;flex:none}
+.acta-go:active,.acta-rb:active{transform:scale(.97);transition:transform .12s var(--ease-in,cubic-bezier(.5,0,.75,0))}
+.acta-go:focus-visible,.acta-rb:focus-visible{outline:3px solid #C9A55A;outline-offset:3px}
+@media (hover:hover) and (pointer:fine){.acta .acta-go:hover{transform:translateY(-2px);box-shadow:0 2px 0 rgba(0,0,0,.12),0 12px 24px rgba(110,26,22,.28)}}
+.acta-row{--a-bd:#E2C88E;--a-bg:#FFF8E9;--a-tx:#3D2E22;--a-h:#6E1A16;
+ display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;box-sizing:border-box;margin:16px 0 4px;padding:14px 16px;border-radius:18px;background:var(--a-bg);border:1.5px dashed var(--a-bd);color:var(--a-tx);text-align:left}
+.acta-row svg{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.acta-row .acta-ri{flex:none;display:grid;place-items:center;width:40px;height:40px;border-radius:50%;background:#F1DFB4;color:#6E1A16}
+.acta-row .acta-bell{width:24px;height:24px}
+.acta-row .acta-rt{flex:1 1 220px;min-width:0;font-size:1.1rem;line-height:1.5;font-weight:600;color:var(--a-tx)}
+.acta-row .acta-rb{display:inline-flex;align-items:center;justify-content:center;gap:8px;box-sizing:border-box;min-height:52px;padding:10px 20px;border-radius:999px;border:2px solid var(--a-h);
+ background:#fff;color:var(--a-h);font-size:1.08rem;line-height:1.3;font-weight:700;text-decoration:none;transition:transform .45s var(--spring,cubic-bezier(.34,1.4,.64,1))}
+.acta-row .acta-ar{width:20px;height:20px}
+@media (max-width:719px){.acta{padding:18px 16px 20px;border-radius:22px}.acta .acta-go{max-width:none}.acta-row .acta-rb{flex:1 1 100%}}
+.lvb a.acta-tab .lvb-i svg{width:28px;height:28px}
+.lvb.acta-5{padding-left:max(2px,env(safe-area-inset-left,0px));padding-right:max(2px,env(safe-area-inset-right,0px))}
+.lvb.acta-5 a{font-size:.95rem;white-space:nowrap;letter-spacing:-.01em;min-width:0}
+@media (max-width:370px){.lvb.acta-5 a{font-size:.88rem}}
+:root[data-theme="dark"] .acta{--a-bg:linear-gradient(180deg,rgba(233,201,135,.12),rgba(233,201,135,.06));--a-bd:rgba(233,201,135,.42);--a-h:#E9C987;--a-tx:#F1E6DA;--a-chip:rgba(255,255,255,.06);--a-chipbd:rgba(233,201,135,.3);--a-tk:#9BD3A6;--a-btn:#E9C987;--a-on:#2A0D0A;--a-ic:#E9C987;--a-icon:#2A0D0A}
+:root[data-theme="dark"] .acta-row{--a-bg:rgba(233,201,135,.08);--a-bd:rgba(233,201,135,.42);--a-tx:#F1E6DA;--a-h:#E9C987}
+:root[data-theme="dark"] .acta-row .acta-rb{background:transparent}
+:root[data-theme="dark"] .acta-row .acta-ri{background:rgba(233,201,135,.18);color:#E9C987}
+@media (prefers-color-scheme:dark){
+ :root:not([data-theme="light"]) .acta{--a-bg:linear-gradient(180deg,rgba(233,201,135,.12),rgba(233,201,135,.06));--a-bd:rgba(233,201,135,.42);--a-h:#E9C987;--a-tx:#F1E6DA;--a-chip:rgba(255,255,255,.06);--a-chipbd:rgba(233,201,135,.3);--a-tk:#9BD3A6;--a-btn:#E9C987;--a-on:#2A0D0A;--a-ic:#E9C987;--a-icon:#2A0D0A}
+ :root:not([data-theme="light"]) .acta-row{--a-bg:rgba(233,201,135,.08);--a-bd:rgba(233,201,135,.42);--a-tx:#F1E6DA;--a-h:#E9C987}
+ :root:not([data-theme="light"]) .acta-row .acta-rb{background:transparent}
+ :root:not([data-theme="light"]) .acta-row .acta-ri{background:rgba(233,201,135,.18);color:#E9C987}}
+@media (prefers-reduced-motion:reduce){.acta-go,.acta-rb,.acta-go:active,.acta-rb:active{transition:none!important;transform:none!important}}
+</style>
 </head>
 <body>
 <a class="dk-skip" href="#feed">ข้ามไปที่รายการการประชุม</a>
@@ -1348,6 +1397,7 @@ html.tp-glide .whereami{opacity:0!important;transition:none!important}
   <p class="eyebrow cs-eye bn-on"><span class="cs" aria-hidden="true"><svg class="csv" viewBox="0 0 48 48"><use href="#cs-law"/></svg></span><span class="bn-t"><b class="bn-n">คณะกรรมาธิการ<wbr><span class="nw" style="white-space:nowrap">การกฎหมาย และการยุติธรรม</span></b><span class="bn-s">คลังสรุปการประชุม · ปี พ.ศ. 2567</span></span></p>
   <h1>ทุกการประชุม ตั้งแต่ <em>ครั้งที่ 1/2567</em> ในที่เดียว</h1>
   <p class="lede">สรุปการประชุมคณะกรรมาธิการการกฎหมาย และการยุติธรรม วุฒิสภา ปี 2567 ทุกครั้ง พร้อมเอกสารต้นฉบับ การประชุมครั้งแรกของปีนี้คือวันที่ 24 กันยายน 2567 ซึ่งเป็นการประชุมครั้งแรกของคณะกรรมาธิการชุดนี้</p><nav class="yearnav" aria-label="คลังการประชุมปีอื่น" style="display:flex;flex-wrap:wrap;gap:10px;margin-top:4px"><a class="hublink" href="../2569/"><svg class="ico" aria-hidden="true"><use href="#i-right"/></svg>คลังการประชุมปี 2569</a><a class="hublink" href="../2568/"><svg class="ico" aria-hidden="true"><use href="#i-right"/></svg>คลังการประชุมปี 2568</a></nav>
+  <aside class="acta solid-ok" data-solid data-i18n-skip aria-labelledby="acta-h"><div class="acta-top"><span class="acta-ic"><svg class="acta-bell" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16.5V11a6 6 0 0 1 12 0v5.5l1.6 2H4.4z"/><path d="M10 20.6a2.1 2.1 0 0 0 4 0"/></svg></span><h2 class="acta-h" id="acta-h" data-en="Get email alerts">รับแจ้งเตือนทางอีเมล</h2></div><p class="acta-p" data-en="If you would like to know when this committee has a new meeting notice, meeting summary or video, we will gladly email you, with a link to the Senate&#x27;s original documents.">หากท่านประสงค์จะทราบเมื่อคณะนี้มีหนังสือนัดประชุม สรุปการประชุม หรือวิดีโอใหม่ เรายินดีส่งอีเมลแจ้งท่าน พร้อมลิงก์ไปยังเอกสารต้นฉบับของวุฒิสภา</p><ul class="acta-ok"><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg><span data-en="Free">ไม่มีค่าใช้จ่าย</span></li><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg><span data-en="Stop any time">เลิกรับได้ทุกเมื่อ</span></li><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg><span data-en="Only when there is something new">ส่งเฉพาะเมื่อมีเรื่องใหม่</span></li></ul><a class="acta-go" data-acta-c="s412" href="/alerts/?c=s412"><svg class="acta-bi" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16.5V11a6 6 0 0 1 12 0v5.5l1.6 2H4.4z"/><path d="M10 20.6a2.1 2.1 0 0 0 4 0"/></svg><span data-en="Get alerts for this committee">รับแจ้งเตือนของคณะนี้</span><svg class="acta-ar" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></aside>
   <nav class="quick" id="quick" aria-label="เลือกสิ่งที่ต้องการ">
    <a class="qbtn" href="#controls"><span class="qi"><svg class="ico" aria-hidden="true"><use href="#i-search"/></svg></span><span><b>ดูและค้นหาการประชุม</b><span class="qt">ทุกครั้ง เรียงจากครั้งล่าสุด</span></span><svg class="ico go" aria-hidden="true"><use href="#i-right"/></svg></a>
    <a class="qbtn gold" href="../2567/"><span class="qi"><svg class="ico" aria-hidden="true"><use href="#i-time"/></svg></span><span><b>คลังการประชุมปีล่าสุด (2569)</b><span class="qt">การประชุมปัจจุบัน พร้อมวิดีโอสรุป</span></span><svg class="ico go" aria-hidden="true"><use href="#i-right"/></svg></a>
@@ -4357,5 +4407,38 @@ W.__tapGlide=function(el){if(el)go(el,location.hash,false)};
 })();
 </script>
 <script id="novdl-js">(function(){function f(v){if(v.getAttribute("controlslist")!=="nodownload")v.setAttribute("controlslist","nodownload")}function a(r){if(r&&r.querySelectorAll)r.querySelectorAll("video").forEach(f)}function isV(t){return t&&t.tagName==="VIDEO"}document.addEventListener("contextmenu",function(e){if(isV(e.target))e.preventDefault()},true);document.addEventListener("dragstart",function(e){if(isV(e.target))e.preventDefault()},true);document.addEventListener("play",function(e){if(isV(e.target))f(e.target)},true);a(document);if(window.MutationObserver)new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType!==1)return;if(isV(n))f(n);else a(n)})})}).observe(document.documentElement,{childList:true,subtree:true})})();</script>
+<script id="acta-js" data-c="s412" data-home="0">
+(function(){
+var S=document.getElementById("acta-js"),C=S.getAttribute("data-c")||"",HOME=S.getAttribute("data-home")==="1",D=document;
+var ROWS={"up": ["หากท่านต้องการทราบเมื่อมีนัดประชุมครั้งถัดไป", "Would you like to know when the next meeting is set?"], "read": ["หากท่านต้องการทราบเมื่อคณะนี้มีการประชุมครั้งถัดไป", "Would you like to know when this committee meets next?"], "video": ["หากท่านต้องการทราบเมื่อมีวิดีโอสรุปใหม่", "Would you like to know when a new summary video is out?"], "btn": ["รับแจ้งเตือนทางอีเมล", "Get email alerts"]},BELL='<path d="M6 16.5V11a6 6 0 0 1 12 0v5.5l1.6 2H4.4z"/><path d="M10 20.6a2.1 2.1 0 0 0 4 0"/>',ARROW='<path d="M5 12h14M13 6l6 6-6 6"/>';
+function EN(){return D.documentElement.lang==="en"}
+function url(){return "/alerts/"+(C?"?c="+encodeURIComponent(C):"")+(EN()?(C?"&":"?")+"lang=en":"")}
+function lang(root){var en=EN();(root||D).querySelectorAll("[data-en]").forEach(function(e){if(!e.closest("[data-i18n-skip]"))return;
+  if(!e.hasAttribute("data-th"))e.setAttribute("data-th",e.textContent);e.textContent=en?e.getAttribute("data-en"):e.getAttribute("data-th")});
+ (root||D).querySelectorAll("a[data-acta-c]").forEach(function(a){a.href=url()})}
+function row(k){var d=D.createElement("div");d.className="acta-row solid-ok";d.setAttribute("data-solid","");d.setAttribute("data-i18n-skip","");d.setAttribute("data-acta",k);
+ d.innerHTML='<span class="acta-ri"><svg class="acta-bell" viewBox="0 0 24 24" aria-hidden="true">'+BELL+'</svg></span><span class="acta-rt" data-en=""></span><a class="acta-rb" data-acta-c="'+C+'" href="#"><span data-en=""></span><svg class="acta-ar" viewBox="0 0 24 24" aria-hidden="true">'+ARROW+'</svg></a>';
+ var t=d.querySelectorAll("[data-en]");t[0].textContent=ROWS[k][0];t[0].setAttribute("data-en",ROWS[k][1]);t[1].textContent=ROWS.btn[0];t[1].setAttribute("data-en",ROWS.btn[1]);
+ lang(d);return d}
+/* end-of-box lines on the boxes the page draws itself (committee pages) */
+var SPOTS=HOME?[]:[["#upnext","up"],["#lv","video"],["#sheet .sheet-body","read"]];
+function spots(){SPOTS.forEach(function(s){var b=D.querySelector(s[0]);if(!b||!b.firstElementChild)return;
+  var last=b.lastElementChild;if(last&&last.classList.contains("acta-row"))return;
+  var old=b.querySelector(":scope>.acta-row");if(old)old.remove();b.appendChild(row(s[1]))})}
+/* fifth tab in the phone bottom bar */
+function tab(){var bar=D.querySelector("nav.lvb");if(!bar)return;var a=bar.querySelector("a.acta-tab");
+ if(!a){a=D.createElement("a");a.className="acta-tab";a.setAttribute("data-acta-c",C);
+  a.innerHTML='<span class="lvb-i"><svg viewBox="0 0 24 24" aria-hidden="true">'+BELL+'</svg></span><span data-en="Alerts">แจ้งเตือน</span>';
+  a.setAttribute("data-i18n-skip","");bar.appendChild(a)}
+ bar.classList.toggle("acta-5",bar.children.length>=5);
+ var s=a.querySelector("[data-en]");s.textContent=EN()?"Alerts":"แจ้งเตือน";a.href=url()}
+var raf=0;function all(){raf=0;try{spots();tab()}catch(e){}}
+function soon(){if(!raf)raf=requestAnimationFrame(all)}
+function start(){lang();all();
+ new MutationObserver(function(rs){for(var i=0;i<rs.length;i++){var n=rs[i].target;if(n.closest&&n.closest(".acta-row,.acta-tab"))continue;soon();return}}).observe(D.body,{childList:true,subtree:true});
+ new MutationObserver(function(){lang();all()}).observe(D.documentElement,{attributes:true,attributeFilter:["lang"]})}
+if(D.readyState==="loading")D.addEventListener("DOMContentLoaded",start);else start();
+})();
+</script>
 </body>
 </html>

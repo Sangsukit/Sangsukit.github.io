@@ -66,6 +66,23 @@ footer{max-width:560px;margin:0 auto;padding:0 16px max(28px,env(safe-area-inset
 <!--NOVDL-->
 <style id="novdl-css">video{-webkit-touch-callout:none}a[download][href*=".mp4"],a[href$=".mp4"][download],a.dlrow[href$=".mp4"]{display:none!important}</style>
 <!--/NOVDL-->
+<!--ALERTS_CTA--><style id="acta-css">
+.acta{margin:4px 0 22px;padding:18px 16px 20px;border-radius:18px;background:rgba(226,190,118,.10);border:1.5px solid rgba(226,190,118,.5)}
+.acta svg{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.acta .acta-top{display:flex;align-items:center;gap:12px;margin:0 0 8px}
+.acta .acta-ic{flex:none;display:grid;place-items:center;width:52px;height:52px;border-radius:50%;background:#E2BE76;color:#1A110E}
+.acta .acta-bell{width:28px;height:28px}
+.acta .acta-h{margin:0;font-size:1.2rem;line-height:1.4;color:#E2BE76}
+.acta .acta-p{margin:0 0 12px;font-size:1rem;line-height:1.6;color:#F3EBE3}
+.acta .acta-ok{list-style:none;display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px;padding:0}
+.acta .acta-ok li{display:inline-flex;align-items:center;gap:6px;padding:4px 12px 4px 8px;border-radius:99px;border:1px solid rgba(226,190,118,.4);font-size:.9rem;font-weight:600;color:#F3EBE3}
+.acta .acta-tk{width:18px;height:18px;color:#9BD3A6;stroke-width:2.6}
+.acta .acta-go{display:flex;align-items:center;justify-content:center;gap:10px;min-height:60px;padding:8px 16px;border-radius:14px;background:#E2BE76;color:#1A110E;font-weight:700;font-size:1.1rem;line-height:1.35;text-decoration:none;text-align:center;transition:transform .45s cubic-bezier(.34,1.4,.64,1)}
+.acta .acta-bi{width:24px;height:24px;flex:none}.acta .acta-ar{width:20px;height:20px;flex:none}
+.acta .acta-go:active{transform:scale(.97);transition:transform .12s cubic-bezier(.5,0,.75,0)}
+.acta .acta-go:focus-visible{outline:3px solid #fff;outline-offset:3px}
+@media (prefers-reduced-motion:reduce){.acta .acta-go,.acta .acta-go:active{transition:none;transform:none}}
+</style>
 </head>
 <body>
 <main>
@@ -83,6 +100,7 @@ footer{max-width:560px;margin:0 auto;padding:0 16px max(28px,env(safe-area-inset
 <button class="s" type="button" id="cp">คัดลอกลิงก์วิดีโอนี้</button>
 <a class="s" href="../sub-smegov.html#reel-13">ดูวิดีโออื่น ๆ</a>
 </div>
+<aside class="acta" aria-labelledby="acta-h"><div class="acta-top"><span class="acta-ic"><svg class="acta-bell" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16.5V11a6 6 0 0 1 12 0v5.5l1.6 2H4.4z"/><path d="M10 20.6a2.1 2.1 0 0 0 4 0"/></svg></span><h2 class="acta-h" id="acta-h">รับแจ้งเตือนทางอีเมล</h2></div><p class="acta-p">หากท่านประสงค์จะทราบเมื่อคณะนี้มีหนังสือนัดประชุม สรุปการประชุม หรือวิดีโอใหม่ เรายินดีส่งอีเมลแจ้งท่าน พร้อมลิงก์ไปยังเอกสารต้นฉบับของวุฒิสภา</p><ul class="acta-ok"><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg>ไม่มีค่าใช้จ่าย</li><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg>เลิกรับได้ทุกเมื่อ</li><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg>ส่งเฉพาะเมื่อมีเรื่องใหม่</li></ul><a class="acta-go" href="/alerts/?c=s426-smegov"><svg class="acta-bi" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16.5V11a6 6 0 0 1 12 0v5.5l1.6 2H4.4z"/><path d="M10 20.6a2.1 2.1 0 0 0 4 0"/></svg><span>รับแจ้งเตือนของคณะนี้</span><svg class="acta-ar" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></aside>
 <div id="gate" hidden role="dialog" aria-modal="true" aria-labelledby="gt"><div class="gs">
 <h2 id="gt">ก่อนดูวิดีโอ โปรดอ่านข้อตกลงสั้น ๆ</h2>
 <ul><li><b>ใช้เพื่อการอ้างอิงเท่านั้น</b>หากข้อความต่างจากเอกสารต้นฉบับของรัฐสภา ให้ถือตามเอกสารต้นฉบับ</li>
