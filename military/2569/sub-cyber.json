@@ -22,17 +22,28 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-cyber-v25pre.mp4",
-    "poster": "img/poster-sub-cyber-25pre.jpg",
-    "vtt": "media/sub-cyber-v25pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:55",
+    "src": "media/sub-cyber-v25.mp4",
+    "poster": "img/poster-sub-cyber-25.jpg",
+    "vtt": "media/sub-cyber-v25.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:07",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "cyber-25p",
-    "size": 4265877
+    "ck": "cyber-25",
+    "size": 7782001
    },
    "videos": [
+    {
+     "src": "media/sub-cyber-v25.mp4",
+     "poster": "img/poster-sub-cyber-25.jpg",
+     "vtt": "media/sub-cyber-v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:07",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-25",
+     "size": 7782001
+    },
     {
      "src": "media/sub-cyber-v25pre.mp4",
      "poster": "img/poster-sub-cyber-25pre.jpg",
@@ -96,7 +107,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=dzxH581fLbA5Ffy_Or0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-cyber-v24.mp4",
+    "poster": "img/poster-sub-cyber-24.jpg",
+    "vtt": "media/sub-cyber-v24.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "cyber-24",
+    "size": 7498580
+   },
+   "videos": [
+    {
+     "src": "media/sub-cyber-v24.mp4",
+     "poster": "img/poster-sub-cyber-24.jpg",
+     "vtt": "media/sub-cyber-v24.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-24",
+     "size": 7498580
+    }
+   ]
+  },
   "chair": "นายไชยยงค์ มณีรุ่งสกุล",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
   "headline": "เห็นชอบรายงานการศึกษา 2 เรื่อง: ระบบต่อต้านโดรน และการใช้มิติอวกาศของกองทัพ",
@@ -142,7 +178,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Xx9td7jU60DX54E-eos"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-cyber-v23.mp4",
+    "poster": "img/poster-sub-cyber-23.jpg",
+    "vtt": "media/sub-cyber-v23.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:27",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "cyber-23",
+    "size": 8690515
+   },
+   "videos": [
+    {
+     "src": "media/sub-cyber-v23.mp4",
+     "poster": "img/poster-sub-cyber-23.jpg",
+     "vtt": "media/sub-cyber-v23.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:27",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-23",
+     "size": 8690515
+    }
+   ]
+  },
   "chair": "นายไชยยงค์ มณีรุ่งสกุล",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
   "headline": "ความจำเป็นในการจัดหาเรือฟริเกต และความคืบหน้าการซ่อมบำรุงเรือหลวงภูมิพลอดุลยเดช",
