@@ -1,5 +1,71 @@
 [
  {
+  "n": 32,
+  "date": "2026-11-18",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 321 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZpHDbuqxHQXphPDVUz1ApNDws5hWqbbQvGuYlrUIMsaQyPDj0LVksy89quLKC1a_Rz38BcdtnF6j64v0IvBdvybGElzTcQJ6W4c1H9uUJvEvkTRcszFmmJaS7Y8DjY9bTYz7Z7_7GqapTv01GYylXgrO3zYKZGIbFfT2OQ==&ref=11168023",
+    "size": 174351
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=dfLFU552FwdR0Eheljg"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "ติดตามข้อเสนอจากประชาชนชายแดนใต้ แผนงานคณะทำงานปี 2570 และเตรียมดูงานลพบุรี–สระบุรี",
+  "summary": "ประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 09.00–15.30 นาฬิกา ณ ห้องประชุมกรรมาธิการ CA 321 ชั้น 3 อาคารรัฐสภา ระเบียบวาระ: พิจารณาข้อเสนอแก้ปัญหาความไม่สงบ ยาเสพติด และรั้วชายแดนไทย–มาเลเซีย จากโครงการสมาชิกวุฒิสภาพบประชาชน กลุ่มภาคใต้ (ตอนล่าง) ที่ลงพื้นที่จังหวัดนราธิวาส ปัตตานี และยะลา เมื่อวันที่ 10–11 มิถุนายน 2569 แผนและผลการดำเนินงานของคณะทำงาน 4 คณะ ปีงบประมาณ 2570 การเตรียมดูงานจังหวัดลพบุรีและสระบุรี 25–26 พฤศจิกายน 2569 การเตรียมสัมมนาเรื่อง \"การเปลี่ยนผ่านระบบการพัฒนากำลังสำรองยุคใหม่\" วันที่ 19 มกราคม 2570 และความคืบหน้าข้อเสนอเชิงนโยบายเรื่องสันติสุขและการพัฒนาจังหวัดชายแดนภาคใต้ (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "ข้อเสนอจากโครงการสมาชิกวุฒิสภาพบประชาชน กลุ่มภาคใต้ (ตอนล่าง)",
+    "พิจารณาตามระเบียบวาระ",
+    "complaint"
+   ],
+   [
+    "แผนและผลการดำเนินงานของคณะทำงาน 4 คณะ ปีงบประมาณ 2570 (โครงสร้างกองทัพ กำลังสำรอง ทหารผ่านศึก และกฎหมายและกิจการพิเศษ)",
+    "พิจารณาตามระเบียบวาระ",
+    "other"
+   ],
+   [
+    "เตรียมการดูงานจังหวัดลพบุรีและสระบุรี 25–26 พ.ย. 2569",
+    "พิจารณาตามระเบียบวาระ",
+    "visit"
+   ],
+   [
+    "เตรียมการสัมมนา \"การเปลี่ยนผ่านระบบการพัฒนากำลังสำรองยุคใหม่\" 19 ม.ค. 2570",
+    "พิจารณาตามระเบียบวาระ",
+    "seminar"
+   ],
+   [
+    "ความคืบหน้าข้อเสนอเชิงนโยบายเรื่องสันติสุขและการพัฒนาจังหวัดชายแดนภาคใต้",
+    "พิจารณาตามระเบียบวาระ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ชายแดนใต้",
+   "แผนงาน",
+   "กำลังสำรอง"
+  ],
+  "places": [
+   "ลพบุรี",
+   "สระบุรี"
+  ],
+  "agenda_only": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 321 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 31,
   "date": "2026-11-11",
   "time": "",
@@ -7,12 +73,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lJ0YHhjcSqub4x9oWzLQw7ppRFTTrURxMeNWJHNp06c2gKEMEpcI_294ZwLVQUlvZkzpZxWr6_miQORTK_qo_ITxzNDBsgKHbUGrgiKwKVx_8FDR0JpKezCXbmMQGtamYVI3fc-invOMoJd8u9SSxdJSdDgFpkf0qE2R5A==&ref=11127069",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cxUH-8YD8Tw_WLUOocGGkHTvASLI0YL1D63rJGJH7G9ILfbXk1Kx-PTjvYRV2eMTEgSFJ9jGn9HwAFHCCk7icSojjBeUEbpeEh8o3n-7hNCWgy_107yVv_qxJOGgyMZw5sCIvLQ0ap3kCoxCPWYgp0EYEXTnk0BZPKh_iQ==&ref=11127069",
     "size": 174565
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=_6-EzlkMwkSNditLWRs"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1NOTxz7q9dB3h1g7SyA"
    }
   ],
   "media": {
@@ -71,13 +137,7 @@
    "สระบุรี"
   ],
   "agenda_only": true,
-  "upcoming": false,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 321 ชั้น 3 อาคารรัฐสภา"
-  }
+  "upcoming": false
  },
  {
   "n": 30,

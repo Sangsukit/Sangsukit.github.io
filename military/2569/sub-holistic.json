@@ -7,17 +7,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CEOEgNc_IR9HzV0fHV6bFhscRl9BbbzIJuZgTU4hB-JSr-39rc9yxOLzFf-62AhKC6n29Fcx0kQLXGRFfG7r2JHAFNaehOrXuDMhAe6BxM1Y1FFcE93nBYJDJBSCKluzAOGGXjokg9dz19OA9F3RPQsdgaYjVc3Sw8oLww==&ref=11127112",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=k-4edDGoGAfU3JE8t8AdF6NtT8xzdQXev9fUnsdQTMGza9uwZeyF0uR8X43GSKe-_lRPsrFa6IzIL_ijOM_kee17gCEGs3t7KXVMdUUwJLGeqij9gIx2ZCCmqiB_Ya9iKHAXjEkttfk6xtsWbqTIzKRkdPtaHP2qyY0Hfw==&ref=11127112",
     "size": 214991
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KawNuzabh5I8YIVx-sOHM7kFz6kYwj9wK1ic1RRp56R_C7_zr_sNXOSa9gm4u6iHZFQznWVZ-NwmzVmxoriRRAKtps-Je2qMchTZ9If2oPAiFBRGTe_tIxm6hdRVB7F5hR7f-AL9jMxfIPpmsUsAkvgcjsUGh75KidilNA==&ref=11156860",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lWx4wpLN5x562QHZZ7gKPnLsbgXKEOK6b7DmON7UX9xjVuU26Q5DHDUgMXy95PR5QwCiXuyj8F5vf6E7PX0m-zj5Kyj91y756y0x4hXQi2X5te3_Pj828RRBjKRiF5EdINLoshLnmkbOSvO8qCykFnvns8hIA7A-6TFpAA==&ref=11156860",
     "size": 10646633
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=U4htTGhbqH6wRTyd6s4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3nxByPWTySEgqrSuN5U"
    }
   ],
   "media": {
@@ -85,13 +85,7 @@
    "นครพนม",
    "มุกดาหาร"
   ],
-  "upcoming": false,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา"
-  }
+  "upcoming": false
  },
  {
   "n": 19,

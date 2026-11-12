@@ -7,12 +7,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JEsvzPDsMfqfpNaHs6D9ADTTYom5QRakPDhU0EuA8mP9nNa67ZpFMs8E6hzfiv_YRj4GPf8v23rTDSDqHpRCLgkVgbEutEfCzCJOo39m9M1q6YKZkhM2UP8BOa1CKMAx_mNPZNNz3i5GtOhFdWywhYpIWablpNPsjb_SXg==&ref=11128018",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0_oEiPRpFPM0p0IKdHs8mvIW8_7D8icwX69KtPXqnP_giWyRe5h18vqyaAJpJr1c43zlKxWYKAtXPnpTrLOxLP7u2-8G3Jp60Cqb2MnT3bG_KlbTOc6sYeuaZSej58zxA_ZGz11x964eq3LKSamsP9whrTPWUtr_2EXycg==&ref=11128018",
     "size": 116946
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=c-qGI6Xf-au0w7Q-kRtoL_6e7kRPdqPQmy1H1gi2M5g30bzZ-XwhgMSxc1aoFtlmeBPj3e_gtHCTt1nvbZPeUccotdHT1BAk3A3NyEf7Be8aA6zpb3itWu8wb4V4qegiBTELbTyAMEnDMHyt2ADIeedgzocX8zmw1uLGjw==&ref=11166465",
+    "size": 379377
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=4O4QO9Dx9fACfJOmPns"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=PyiVglXr_ThQRgzXiKQ"
    }
   ],
   "media": {
@@ -41,35 +46,34 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "รับฟังภาคอุตสาหกรรมป้องกันประเทศ: เรื่องเร่งด่วนและข้อขัดข้องด้านกฎหมาย",
-  "summary": "ระเบียบวาระ: ข้อมูลและข้อคิดเห็นเรื่องภาพรวมอุตสาหกรรมป้องกันประเทศ เรื่องเร่งด่วนที่ต้องการให้รัฐบาลส่งเสริม และข้อขัดข้องด้านกฎหมาย โดยเชิญนายกสมาคมอุตสาหกรรมเพื่อการป้องกันประเทศ ประธานกลุ่มอุตสาหกรรมป้องกันประเทศ สภาอุตสาหกรรมแห่งประเทศไทย และผู้ประกอบการ (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "chair": "นายไชยยงค์ มณีรุ่งสกุล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รับฟังภาคอุตสาหกรรมป้องกันประเทศ และเริ่มหารือการรับมือภัยไซเบอร์ต่อโครงสร้างพื้นฐานสำคัญ",
+  "summary": "ที่ประชุมรับฟังนายกสมาคมอุตสาหกรรมเพื่อการป้องกันประเทศ ประธานกลุ่มอุตสาหกรรมป้องกันประเทศ สภาอุตสาหกรรมแห่งประเทศไทย และผู้ประกอบการ ให้ข้อมูลภาพรวมอุตสาหกรรม เรื่องเร่งด่วนที่ต้องการให้รัฐส่งเสริม และข้อขัดข้องด้านกฎหมาย เช่น ขั้นตอนการขออนุญาตที่ใช้เวลานานและซ้ำซ้อน โดยมีข้อเสนอให้ปรับปรุงกฎหมายด้วยการจัดระดับยุทโธปกรณ์ในการควบคุม และส่งเสริมการวิจัยและพัฒนาของภาคเอกชน คณะอนุกรรมาธิการจะรวบรวมประเด็นไปหารือกับหน่วยงานที่เกี่ยวข้อง นอกจากนี้ที่ประชุมเห็นชอบรายงานการศึกษา 2 เรื่องเพื่อเสนอคณะกรรมาธิการ และหารือเบื้องต้นเรื่องการศึกษาการป้องกัน รับมือ และฟื้นฟูจากภัยคุกคามทางไซเบอร์ต่อโครงสร้างพื้นฐานสำคัญทางสารสนเทศของประเทศ",
   "items": [
    [
-    "ข้อมูลและข้อคิดเห็นเรื่องภาพรวมอุตสาหกรรมป้องกันประเทศ เรื่องเร่งด่วนที่ต้องการให้รัฐบาลส่งเสริม และข้อขัดข้องด้านกฎหมาย",
-    "เชิญ นายกสมาคมอุตสาหกรรมเพื่อการป้องกันประเทศ ประธานกลุ่มอุตสาหกรรมป้องกันประเทศ สภาอุตสาหกรรมแห่งประเทศไทย และผู้ประกอบการ",
+    "ภาพรวมอุตสาหกรรมป้องกันประเทศ เรื่องเร่งด่วน และข้อขัดข้องด้านกฎหมาย",
+    "รับฟังข้อมูล รวบรวมประเด็นไปหารือกับหน่วยงานที่เกี่ยวข้อง",
     "other"
    ],
    [
-    "ความคืบหน้าการดำเนินงานของคณะทำงาน",
-    "พิจารณาตามระเบียบวาระ",
+    "รายงานการศึกษา 2 เรื่อง (ระบบต่อต้านอากาศยานไร้คนขับ และการใช้มิติอวกาศของกองทัพ)",
+    "เห็นชอบ เสนอคณะกรรมาธิการ",
+    "other"
+   ],
+   [
+    "การศึกษาการป้องกัน รับมือ และฟื้นฟูจากภัยคุกคามทางไซเบอร์ต่อโครงสร้างพื้นฐานสำคัญของประเทศ",
+    "หารือเบื้องต้น",
     "other"
    ]
   ],
   "tags": [
    "อุตสาหกรรมป้องกันประเทศ",
+   "ไซเบอร์",
    "กฎหมาย"
   ],
   "places": [],
-  "agenda_only": true,
-  "upcoming": false,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา"
-  }
+  "upcoming": false
  },
  {
   "n": 24,
@@ -79,28 +83,33 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RYw7Kyyl6sETPzvb3-sFHjCaxsk6qy4iPzPVzteCLUkzz8Jj0lLadwmhbYGKY47Fh2fsIPaBu_XLcLg2ZtDMo-Zw-vS8MbSvwJ5o7ivzaLUwnFN-OB2fDK9_zuUX14QrtrFiFMT3NVWWBhGuKfwK70kGyUH515TIb7JKoQ==&ref=11078561",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xUwNU4f3JBbq1LkUem577jU1CBv7p-YrLoJquunAELR8gAwF9Fu5Yr2oLlSzb-oVONZcngpO8FaTPnaTKS4CsmdLc5wVftFAQSnP0XfltE3VlpqTJhB1ENpRp5mj3acPsQmqK3ROc8lXwmMkutYtY5Wypklhqo90rDMYzA==&ref=11078561",
     "size": 182846
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DFjpMGWumjBDyr2-PgEMUrJ9W0tPzwGxsEoElWNoSpfFSl0u_sT1AgW8jl5ZlbF7Fh00I6N0zXmHXtKymXV1Y6Q3NLSis-jn8Ry6_Uglp5m_0JD1pPxVqPcrgL9MZmu64rrln9ZO9tVWYkEt9-Q_IgIbDC5VnvJxWQ_CCQ==&ref=11166461",
+    "size": 6278295
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=IMunZGSUNYDfXtOioy4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=dzxH581fLbA5Ffy_Or0"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "หน่วยงานให้ความเห็นต่อผลการศึกษาเรื่องต่อต้านโดรนและการใช้มิติอวกาศ",
-  "summary": "ระเบียบวาระ: ข้อสังเกตและข้อเสนอแนะต่อรายงานผลการศึกษา เรื่อง การวิเคราะห์ความต้องการระบบต่อต้านอากาศยานไร้คนขับ และ เรื่อง การใช้มิติอวกาศเพื่อปฏิบัติการทางยุทธการของกองทัพ โดยเชิญผู้แทนหน่วยงาน 14 แห่ง เช่น กรมเทคโนโลยีสารสนเทศและอวกาศกลาโหม กรมยุทธการของสามเหล่าทัพ GISTDA กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม และสภาอุตสาหกรรมแห่งประเทศไทย (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "chair": "นายไชยยงค์ มณีรุ่งสกุล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เห็นชอบรายงานการศึกษา 2 เรื่อง: ระบบต่อต้านโดรน และการใช้มิติอวกาศของกองทัพ",
+  "summary": "ที่ประชุมรับฟังความเห็นจากผู้แทนหน่วยงานด้านความมั่นคง เหล่าทัพ สถาบันการศึกษา และภาคอุตสาหกรรมป้องกันประเทศ รวม 14 หน่วยงาน ต่อรายงานการศึกษา 2 เรื่อง คือ การวิเคราะห์ความต้องการระบบต่อต้านอากาศยานไร้คนขับ (C-UAS) และการใช้มิติอวกาศเพื่อปฏิบัติการทางยุทธการของกองทัพ แล้วเห็นชอบทั้ง 2 เรื่อง พร้อมข้อเสนอให้บูรณาการความร่วมมือระหว่างหน่วยงาน ส่งเสริมการวิจัยและพัฒนาในประเทศ และทบทวนกฎหมายที่เป็นอุปสรรค เพื่อลดการพึ่งพาเทคโนโลยีจากต่างประเทศ โดยจะเสนอคณะกรรมาธิการต่อไป",
   "items": [
    [
-    "ข้อสังเกตและข้อเสนอแนะต่อรายงานผลการศึกษา เรื่อง การวิเคราะห์ความต้องการระบบต่อต้านอากาศยานไร้คนขับ และ เรื่อง การใช้มิติอวกาศเพื่อปฏิบัติการทางยุทธการของกองทัพ",
-    "เชิญ ผู้แทนหน่วยงาน 14 แห่ง เช่น กรมเทคโนโลยีสารสนเทศและอวกาศกลาโหม กรมยุทธการของสามเหล่าทัพ GISTDA กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม และสภาอุตสาหกรรมแห่งประเทศไทย",
+    "รายงานการศึกษา เรื่อง การวิเคราะห์ความต้องการระบบต่อต้านอากาศยานไร้คนขับ (C-UAS)",
+    "เห็นชอบ เสนอคณะกรรมาธิการ",
     "other"
    ],
    [
-    "ความคืบหน้าการดำเนินงานของคณะทำงาน",
-    "พิจารณาตามระเบียบวาระ",
+    "รายงานการศึกษา เรื่อง การใช้มิติอวกาศเพื่อปฏิบัติการทางยุทธการของกองทัพ",
+    "เห็นชอบ เสนอคณะกรรมาธิการ",
     "other"
    ]
   ],
@@ -110,48 +119,57 @@
    "รายงานการศึกษา"
   ],
   "places": [],
-  "agenda_only": true,
   "upcoming": false
  },
  {
   "n": 23,
   "date": "2026-10-21",
   "time": "",
-  "room": "",
+  "room": "ห้องประชุม 405 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gK-0IxamzONtxPdDYBE8551UvS825OMBK3lqlL-cDNTSh4ibvb_wpIGUozonilLYvkf4_ki_wgwyeev2WiezPwy7l7F-5A6HlA8G_atBroekLxpjCcO2WbxpVreRzKvW6h6wwvVgajyIFk0mWJ-xcIjt_sjFumQsZjuMtg==&ref=10981485",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=i5yNiiUhrUvsCMus_oRWW9gSREYqHKrLoWceh83opiulx1GaeiD-D_MQZoqhGYZAaluSjuFwQwuQtWrdYindXzEaG_2z0rEmxzpvp-ewAb0QgBR7dKsZToxqqxZfDcYqAsDmWebcLinNu8F7bFjvDRhO1kl2VwxxnyFHGA==&ref=10981485",
     "size": 196972
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=miwySsPlhL9Uc_ms5GW5E6Nr8a7BwtrO7Pg-o9nNzbT-J7l5QuBY6asT8yqQLzQvfUWaj_J-57I170MCmg7g8hKGTpC5DBgQJdvyfoY7v4iWb1J9Jx2Y2i1xGz4Yc0LLmm0eYDm9jryaN1z9kl8xOp6JgASQ4LGMFIa-Cg==&ref=11166456",
+    "size": 7543292
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=exBDFUctNkpQA7kYTzs"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Xx9td7jU60DX54E-eos"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "ความจำเป็นและแนวทางการจัดหาเรือฟริเกตของกองทัพเรือ",
-  "summary": "ระเบียบวาระ: รับทราบความจำเป็น แนวทางการจัดหา และการจัดการเรือฟริเกตของกองทัพเรือ โดยเชิญผู้แทนกองทัพเรือ (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "chair": "นายไชยยงค์ มณีรุ่งสกุล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ความจำเป็นในการจัดหาเรือฟริเกต และความคืบหน้าการซ่อมบำรุงเรือหลวงภูมิพลอดุลยเดช",
+  "summary": "ที่ประชุมรับฟังผู้แทนสำนักงานจัดหายุทโธปกรณ์ทหารเรือ กองทัพเรือ ชี้แจงความจำเป็น แนวทางการจัดหา และการจัดการเรือฟริเกต รวมถึงแนวทางการชดเชยทางอุตสาหกรรม (Offset Policy) ร่วมกับสำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ ที่มุ่งให้มีการสร้างในประเทศอย่างน้อยร้อยละ 20 ของมูลค่าเรือ และรับทราบความคืบหน้าการซ่อมบำรุงเรือหลวงภูมิพลอดุลยเดช ที่ประชุมให้ข้อสังเกตให้พิจารณาทางเลือกการจัดหาที่เหมาะสมกับงบประมาณ ดูแลกำลังพลสายช่าง และกำหนดตัวชี้วัดการถ่ายทอดเทคโนโลยีที่ชัดเจนและตรวจสอบได้ ส่วนการเชิญหน่วยงานมาให้ความเห็นต่อรายงานการศึกษา 2 เรื่อง เลื่อนไปเป็นวันที่ 4 พฤศจิกายน 2569",
   "items": [
    [
-    "รับทราบความจำเป็น แนวทางการจัดหา และการจัดการเรือฟริเกตของกองทัพเรือ",
-    "เชิญ ผู้แทนกองทัพเรือ",
+    "ความจำเป็น แนวทางการจัดหา และการจัดการเรือฟริเกตของกองทัพเรือ",
+    "รับทราบ และให้ข้อสังเกตเรื่องทางเลือกการจัดหา กำลังพลสายช่าง และตัวชี้วัดการถ่ายทอดเทคโนโลยี",
     "other"
    ],
    [
-    "ความคืบหน้าการดำเนินงานของคณะทำงาน",
-    "พิจารณาตามระเบียบวาระ",
+    "ความคืบหน้าการซ่อมบำรุงเรือหลวงภูมิพลอดุลยเดช",
+    "รับทราบ",
+    "other"
+   ],
+   [
+    "การเชิญหน่วยงานมาให้ความเห็นต่อรายงานการศึกษา 2 เรื่อง",
+    "เลื่อนเป็นวันที่ 4 พ.ย. 2569",
     "other"
    ]
   ],
   "tags": [
    "กองทัพเรือ",
-   "เรือฟริเกต"
+   "เรือฟริเกต",
+   "Offset Policy"
   ],
   "places": [],
-  "agenda_only": true,
   "upcoming": false
  },
  {
