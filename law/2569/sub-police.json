@@ -122,7 +122,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qeCDjusa6TCnRoN_qao"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-police-v18.mp4",
+    "poster": "img/poster-sub-police-18.jpg",
+    "vtt": "media/sub-police-v18.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:13",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "police-18",
+    "size": 9411123
+   },
+   "videos": [
+    {
+     "src": "media/sub-police-v18.mp4",
+     "poster": "img/poster-sub-police-18.jpg",
+     "vtt": "media/sub-police-v18.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:13",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "police-18",
+     "size": 9411123
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 18/2569",

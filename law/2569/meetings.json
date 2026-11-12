@@ -130,7 +130,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=2jPcXzVvESgKY4JOqjI"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v27.mp4",
+    "poster": "img/poster27.jpg",
+    "vtt": "media/v27.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:20",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "27",
+    "size": 10177051
+   },
+   "videos": [
+    {
+     "src": "media/v27.mp4",
+     "poster": "img/poster27.jpg",
+     "vtt": "media/v27.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:20",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "27",
+     "size": 10177051
+    }
+   ]
+  },
   "chair": "พลตำรวจโท บุญจันทร์ นวลสาย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "agenda_only": true,
@@ -179,7 +204,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=2u0kyeD8MkMo3IhayM8"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v26.mp4",
+    "poster": "img/poster26.jpg",
+    "vtt": "media/v26.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:08",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "26",
+    "size": 9399222
+   },
+   "videos": [
+    {
+     "src": "media/v26.mp4",
+     "poster": "img/poster26.jpg",
+     "vtt": "media/v26.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:08",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "26",
+     "size": 9399222
+    }
+   ]
+  },
   "chair": "พลตำรวจโท บุญจันทร์ นวลสาย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "agenda_only": true,

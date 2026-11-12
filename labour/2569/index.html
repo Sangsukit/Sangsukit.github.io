@@ -4531,6 +4531,8 @@ dialog#qrbox{border:0;border-radius:18px;padding:22px 20px;max-width:420px;width
 .pp-note .ico{flex:none;margin-top:3px;color:var(--gold)}
 .pp-go{display:inline-flex;align-items:center;gap:8px;min-height:48px;margin:10px 16px 0;padding:8px 16px;border-radius:99px;border:2px solid var(--st-up,#2D2A4A);color:var(--st-up,#2D2A4A);font-weight:700;text-decoration:none;background:var(--paper)}
 .pp-go .ico{width:1.25em;height:1.25em}
+.card>.pp-go{grid-column:1/-1;justify-self:start;align-self:start;width:auto;max-width:calc(100% - 32px);box-sizing:border-box;line-height:1.35}
+@media (min-width:600px){.card>.pp-go{white-space:nowrap}}
 @media (prefers-reduced-motion:no-preference){.pp-chips button{transition:background-color .18s cubic-bezier(.2,.8,.2,1),color .18s cubic-bezier(.2,.8,.2,1)}}
 </style>
 <script>
