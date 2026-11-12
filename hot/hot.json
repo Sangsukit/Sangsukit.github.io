@@ -1,62 +1,8 @@
 {
- "updated": "2026-11-12T11:30:26Z",
- "feeds_ok": 12,
+ "updated": "2026-11-12T20:08:35Z",
+ "feeds_ok": 14,
  "window_h": 72,
  "topics": [
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 2,
-   "count": 3,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 33,
-    "date": "2026-09-21",
-    "url": "agriculture/2569/#read-33"
-   },
-   "items": [
-    {
-     "title": "พณ. ผนึก ไปรษณีย์ไทย เปิดพรีออเดอร์ลำไยตะวันออก พยุงราคาชาวสวน ตั้งเป้ารอบแรก 3 หมื่นตัน",
-     "url": "https://www.matichon.co.th/politics/news_5973081",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-12T11:14:32Z"
-    },
-    {
-     "title": "พาณิชย์เปิดพรีออร์เดอร์ลำไยตะวันออก ส่งฟรีทั่วไทย ตั้งเป้าระบาย 3 หมื่นตัน",
-     "url": "https://www.prachachat.net/economic/news-2095563",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-12T10:30:54Z"
-    },
-    {
-     "title": "ยังไม่เลิกโซฮอล์ 91/95 ชู E20 ใช้ราคาจูงใจประชาชน ลดนำเข้าน้ำมันกว่า 4 หมื่นล้านบาทต่อปี หนุนเกษตรกรไทย",
-     "url": "https://www.prachachat.net/economic/news-2095442",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-12T09:06:03Z"
-    }
-   ]
-  },
   {
    "id": "disaster",
    "th": "น้ำท่วมและภัยพิบัติ",
@@ -71,8 +17,8 @@
     "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
     "alt_en": "A flooded street and houses"
    },
-   "outlets": 2,
-   "count": 2,
+   "outlets": 4,
+   "count": 8,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
     "en": "Subcommittee on National Disaster Management",
@@ -90,43 +36,51 @@
    },
    "items": [
     {
-     "title": "‘ฝนสุดขั้ว เมืองขยาย’ โจทย์ใหญ่น้ำท่วมกรุง ‘ชัชชาติ’ ย้ำต้องบูรณาการรับมืออนาคต",
-     "url": "https://www.prachachat.net/economic/news-2095451",
+     "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 10 จังหวัด-กทม. รวม 21,755 ครัวเรือน 136.64 ล้านบาท",
+     "url": "https://www.thairath.co.th/news/local/2972175",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-12T09:11:29Z"
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-12T14:55:00Z"
     },
     {
-     "title": "สันติธาร ชี้ 3 จุดเปราะบางเศรษฐกิจโลก ‘กันชนบาง-พายุซ้อน-AI แบกขาเดียว’ แนะไทยเร่งเปลี่ยนผ่าน",
-     "url": "https://www.matichon.co.th/economy/news_5972030",
+     "title": "ไตรมาส 3 “การบินไทย” ขาดทุน 418 ล้าน เจอผลกระทบน้ำท่วม-อัตราแลกเปลี่ยน ยันสภาพคล่องยังแกร่ง",
+     "url": "https://www.dailynews.co.th/news/6355280/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-12T14:45:05Z"
+    },
+    {
+     "title": "ปภ.ประสาน 10 จว.กลาง และ กทม.เฝ้าระวังและติดตามสถานการณ์ระดับน้ำเจ้าพระยาเพิ่มสูงขึ้น",
+     "url": "https://www.matichon.co.th/local/news_5973187",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-12T04:59:55Z"
+     "date": "2026-11-12T12:44:34Z"
     }
    ]
   },
   {
-   "id": "cyber",
-   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
-   "en": "Cyber and defence industry",
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
    "icon": "cs-security",
    "photo": {
-    "src": "hot/img/cyber",
-    "credit": "Christopher Bowns",
-    "lic": "CC BY-SA 2.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
-    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
-    "alt_en": "An aisle between server racks in a data centre"
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
    },
-   "outlets": 1,
-   "count": 3,
+   "outlets": 4,
+   "count": 5,
    "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
-    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
-    "url": "military/2569/sub-cyber.html"
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
    },
    "parent": {
     "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
@@ -134,57 +88,57 @@
     "url": "military/2569/"
    },
    "meeting": {
-    "n": 25,
+    "n": 20,
     "date": "2026-11-11",
-    "url": "military/2569/sub-cyber.html#read-25"
+    "url": "military/2569/sub-holistic.html#read-20"
    },
    "items": [
     {
-     "title": "‘หลี่เฉียง’มา13พย. ไทยชวนลงทุนเอไอ-อีวี สีหศักดิ์ชี้ปิดจ๊อบภาษีมะกัน ไชยชนกหารือแอปเปิลปมภัยไซเบอร์",
-     "url": "https://www.matichon.co.th/economy/news_5971397",
+     "title": "ไทย-เมียนมาเคาะนัดถกคณะทำงานร่วมแก้มลพิษแม่น้ำ 25-26 พ.ย. เตรียมประชุม RBC สมัยพิเศษวางมาตรการดูแลชายแดน",
+     "url": "https://www.dailynews.co.th/news/6355333/",
      "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-11T23:40:19Z"
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-12T15:57:40Z"
     },
     {
-     "title": "รัฐบาลเร่งเครื่อง! คุมเข้มภัยไซเบอร์ ‘ไชยชนก’ จ่อเข้าคลัง แถลงใหญ่ กำหนดแนวทางป้องกัน 12 พ.ย.นี้",
-     "url": "https://www.matichon.co.th/economy/news_5971710",
+     "title": "สีหศักดิ์ เผยเมียนมาแสดงความเสียใจ ปฏิบัติการทหารกระทบชายแดนไทย ร่วมมือแก้มลพิษ นัดถก 25 พ.ย.",
+     "url": "https://www.matichon.co.th/foreign/news_5973226",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-11T15:49:39Z"
+     "date": "2026-11-12T13:50:32Z"
     },
     {
-     "title": "ธปท.ยันระบบธนาคารยังปกติ ไม่จำเป็นต้องถอนเงินสดเก็บไว้ กำชับทุกแบงก์เพิ่มความปลอดภัยไซเบอร์",
-     "url": "https://www.matichon.co.th/economy/news_5970346",
+     "title": "‘สีหศักดิ์’ คุย ‘ผู้นำเมียนมา’ ถก 4 ประเด็น พร้อมร่วมมือการค้าชายแดน เร่งแก้ไขมลพิษแม่น้ำ",
+     "url": "https://www.prachachat.net/world/news-2095633",
      "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-11T03:39:57Z"
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-12T12:37:26Z"
     }
    ]
   },
   {
-   "id": "wage",
-   "th": "ค่าแรงและการคุ้มครองแรงงาน",
-   "en": "Wages and worker protection",
+   "id": "jobs",
+   "th": "การหางานและแรงงานต่างชาติ",
+   "en": "Jobs and migrant workers",
    "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/wage",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:002_Production_line_-_car_assembly_line_in_General_Motors_Manufacturing_Poland_-_Gliwice,_Poland.jpg",
-    "alt_th": "สายการผลิตในโรงงาน",
-    "alt_en": "A factory production line"
+    "src": "hot/img/jobs",
+    "credit": "Bigcitydata",
+    "lic": "CC BY 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
+    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
+    "alt_en": "Office towers in Silom, Bangkok"
    },
-   "outlets": 1,
-   "count": 1,
+   "outlets": 3,
+   "count": 3,
    "body": {
-    "th": "คณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน",
-    "en": "Subcommittee on Labour Welfare and Protection",
-    "url": "labour/2569/sub-welfare.html"
+    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
+    "en": "Subcommittee on Employment and Skills",
+    "url": "labour/2569/sub-employment.html"
    },
    "parent": {
     "th": "คณะกรรมาธิการการแรงงาน",
@@ -193,55 +147,137 @@
    },
    "meeting": {
     "n": 21,
-    "date": "2026-10-07",
-    "url": "labour/2569/sub-welfare.html#read-21"
+    "date": "2026-09-23",
+    "url": "labour/2569/sub-employment.html#read-21"
    },
    "items": [
     {
-     "title": "สหภาพแรงงานเยอรมนีเตรียมนัดสไตรก์ 24 ชม. หลังไร้ความคืบหน้าเจรจาขึ้นค่าแรง",
-     "url": "https://www.dailynews.co.th/news/6354837/",
+     "title": "สหรัฐเผยตัวเลขผู้ขอสวัสดิการว่างงานสูงกว่าคาด",
+     "url": "https://www.infoquest.co.th/2026/678823",
+     "lang": "th",
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-12T18:06:18Z"
+    },
+    {
+     "title": "ตกงานอีกหนึ่ง! “พาเลซ” ตะเพิด “ซาช” ตกเก้าอี้",
+     "url": "https://www.dailynews.co.th/news/6355299/",
      "lang": "th",
      "outlet_th": "เดลินิวส์",
      "outlet_en": "Daily News",
-     "date": "2026-11-12T11:05:09Z"
+     "date": "2026-11-12T15:23:52Z"
+    },
+    {
+     "title": "10 ความจริง คนทำงานไทยกำลังเผชิญ มีงานทำใช่ว่าจะ “มั่นคง” คนวัย 40+ ตกงานเพิ่ม",
+     "url": "https://www.thairath.co.th/money/economics/thai_economics/2971760",
+     "lang": "th",
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-11T05:51:03Z"
     }
    ]
   },
   {
-   "id": "labour",
-   "th": "แรงงาน",
-   "en": "Labour",
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 2,
+   "count": 4,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 33,
+    "date": "2026-09-21",
+    "url": "agriculture/2569/#read-33"
+   },
+   "items": [
+    {
+     "title": "จีนชะลอซื้อลำไย พาณิชย์ระดมรัฐ-เอกชน เปิดตลาด 3 หมื่นตัน",
+     "url": "https://www.prachachat.net/economic/news-2095623",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-12T12:09:11Z"
+    },
+    {
+     "title": "พณ. ผนึก ไปรษณีย์ไทย เปิดพรีออเดอร์ลำไยตะวันออก พยุงราคาชาวสวน ตั้งเป้ารอบแรก 3 หมื่นตัน",
+     "url": "https://www.matichon.co.th/politics/news_5973081",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-12T11:14:32Z"
+    },
+    {
+     "title": "พาณิชย์เปิดพรีออร์เดอร์ลำไยตะวันออก ส่งฟรีทั่วไทย ตั้งเป้าระบาย 3 หมื่นตัน",
+     "url": "https://www.prachachat.net/economic/news-2095563",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-12T10:30:54Z"
+    }
+   ]
+  },
+  {
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
    "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/labour",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
-    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
-    "alt_en": "A car assembly line"
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
    },
-   "outlets": 1,
-   "count": 1,
+   "outlets": 2,
+   "count": 2,
    "body": {
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
+   },
+   "parent": {
     "th": "คณะกรรมาธิการการแรงงาน",
     "en": "Committee on Labour",
     "url": "labour/2569/"
    },
-   "parent": null,
    "meeting": {
-    "n": 29,
-    "date": "2026-11-05",
-    "url": "labour/2569/#read-29"
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "labour/2569/sub-socialsec.html#read-20"
    },
    "items": [
     {
-     "title": "นายกฯ ถก Amazon ต่อยอดลงทุนดาต้าเซ็นเตอร์ในไทย เร่งปั้นแรงงานดิจิทัล ดันสู่ฮับ ศก. ภูมิภาค",
-     "url": "https://www.infoquest.co.th/2026/678680",
+     "title": "‘ประกันสังคมก้าวหน้า’ ยื่นถอนร่าง พ.ร.บ.ประกันสังคม ฉบับ ครม. ชี้ล้าหลัง-กระทบวาระบอร์ด",
+     "url": "https://www.prachachat.net/politics/news-2095670",
      "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-12T10:57:55Z"
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-12T13:45:00Z"
+    },
+    {
+     "title": "ทีมประกันสังคมก้าวหน้า จี้ถอนร่าง พ.ร.บ.ประกันสังคม หลัง ครม.เห็นชอบ ชี้เนื้อหาเน้นปรับโครงสร้างอำนาจ",
+     "url": "https://www.matichon.co.th/local/quality-life/news_5972985",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-12T10:31:15Z"
     }
    ]
   }
