@@ -843,7 +843,7 @@ function card(c){
   const y0 = c.years[0], st = stats(y0.snap);
   const ylinks = c.years.map((y,i) => `<a class="ybtn${i ? "" : " main"}" href="${esc(y.url)}">${i ? "" : "เปิดคลังปี "}${i ? "คลังปี " : ""}${y.year} ${i ? "" : ic("arrow")}</a>`).join("");
   return `<article class="cmte" id="c-${esc(c.id)}">
-   <div class="c-head"><span class="c-badge cs"><svg class="ico" aria-hidden="true"><use href="#${({"agriculture": "cs-agri", "military": "cs-security", "public-admin": "cs-admin", "labour": "cs-labour"})[c.id] || "i-cols"}"/></svg></span><div><h3>${esc(c.name)}</h3><p class="c-house">${esc(c.house)}${c.subs ? " · " + nb("คณะอนุกรรมาธิการ " + c.subs + " คณะ") : ""}</p></div></div>
+   <div class="c-head"><span class="c-badge cs"><svg class="ico" aria-hidden="true"><use href="#${({"law": "cs-law", "agriculture": "cs-agri", "military": "cs-security", "public-admin": "cs-admin", "commerce": "cs-commerce", "labour": "cs-labour"})[c.id] || "i-cols"}"/></svg></span><div><h3>${esc(c.name)}</h3><p class="c-house">${esc(c.house)}${c.subs ? " · " + nb("คณะอนุกรรมาธิการ " + c.subs + " คณะ") : ""}</p></div></div>
    <p class="c-chair">${ic("person")}<span>ประธานคณะกรรมาธิการ <b class="nb">${esc(c.chair)}</b><small>ข้อมูล ณ ${nb(esc(c.chair_asof))}</small></span></p>
    <div class="facts">
     <div class="fact">${ic("cal")}<span><small>ประชุมแล้วในปี ${y0.year}</small><b>${st.held} ครั้ง</b></span></div>
