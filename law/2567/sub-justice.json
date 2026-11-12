@@ -1,0 +1,118 @@
+[
+ {
+  "n": 4,
+  "date": "2024-12-24",
+  "time": "14.00",
+  "room": "ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jRyFnPsW-eV44gYYRNvYV4j0cTKCENydyKUE_wSXrxkbnhOkU2dY8vb8_sYQBfael6Sg_R3_xzsKGMW2rmelgoXzsBrBBJQ2j8gjQhMbwgSwvY8NRnyxgA5FOactoz7CA4iMiJn0Y9XQPR5p6_HKdRVNKS2KXSspCfk=&ref=6676773",
+    "size": 140352
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lsixI_T44LqP2j9My1H6d_d8TiP_hFLn18lGZYoBheiZoLsTRN37A3mMA6iJVo2KACVaWZI5Iy_VrsTMmGK5NLLVJha-jbBOVb-M7-loBWCQrqOqQDIF4lIflcy6GvGb5laKuw56iUwTM9ECBBqzhB-J-pl-GodLJTI=&ref=6951085"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=HmqQ469M31AqxAYDJvk"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 4/2567",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 3,
+  "date": "2024-12-03",
+  "time": "14.00",
+  "room": "ห้องประชุม 203 ชั้น 2 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UBTUksGofmR-XquyTSGV6VYPCQVYImJX16QkEj_g5Z8oZzO-p9Dd4jiB0lwkJLOv8CfLg4cBnJQxepsmnD8WcH_WEZsKE3VEEN91bSrLdD3fpZGl8nRV8KiwXALDnjPsOovR2b8_QlH5VnY62psu3RHsgjiKa0XAWbI=&ref=6951061",
+    "size": 137830
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kYhD-ipykghW5NFlmeSmMISiNdlXurZswEMnbO43So0dmg9z2xbccAfFl2pveF_bSjrG7NjfzdiV0i4BH03nnxsrC15FFwvIhdgIq8lNuiqScb56XQK70dO5qFQmP8FLc8we6u1chmT2sGSpSCwIqlx0kWL5Zx6_6qA=&ref=6951062"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=UVGqYil6o5CJDdavkUw"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 3/2567",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 2,
+  "date": "2024-11-20",
+  "time": "10.00",
+  "room": "ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zcsefFySsXE3Rd1iKh7gng6o_koDdAAuPlm2oD5YLxlLZFG1eoe8BHAylFeaCUm1vRK3XwcIh9Cx0WZyhwYvQohKVMKtam66YcaMO1ndVaDX2KYcqC6j_XS0lsNHBeKe-ukDJGgwJNWHcQ3P682WVVsJC2gjw0EaXYY=&ref=6487442",
+    "size": 140442
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=t8dcNldvlSDTSrXV5_s"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2567",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2024-11-13",
+  "time": "14.00",
+  "room": "ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wup0kEnTFdv0qjA8nOSLJWzSe6nBJVGDmuapcfkSJtDWWzQhFkIkdxARkFwsXJbI5ICaI5j1miPIEsPDd_Pdgdr8-_RYwMp82cfQvbwK1lPufVKq5RvVLMUA9x8BYO3WQS2NzKJ9FWtxcxIqm0aZGGXeeUmnbSby594=&ref=6487456",
+    "size": 652954
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=CGBZeEF1-3yzxsi6o6o"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2567",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]

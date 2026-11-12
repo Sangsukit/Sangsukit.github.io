@@ -1,0 +1,51 @@
+[
+ {
+  "n": 1,
+  "date": "2024-12-17",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BJv_5_MCln008MqZ81hhXzrNc-dO3xUfSDp8pG5k46hPDZWvfhgPnSPJwVaEB0mHAPwCGHdxn2lUbqIBsACYaavfanJL5WQPjHt1hhAPh7LtKZda30sDuORI1b9qDOFJOFFl6GNltTmm0siZDXrmI7-O3FoP3vBg_eA=&ref=6648076",
+    "size": 159561
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=c-6MBCMsfljXDBCBLyI"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2567",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2024-12-13",
+  "cancelled": true,
+  "docs": [],
+  "time": "",
+  "room": ""
+ },
+ {
+  "n": 1,
+  "date": "2024-12-04",
+  "cancelled": true,
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MYdHGWD2PMUsH06tFz4QgiJgx1doLg3G0_kREosWyYEOiShQVRDWPcnTQciiukAB1KWEIdIbvDpZDFFj8pfiSfz83QCiCfhkv8OwY7Eviv_GEb8_fEwSQYTNkOp32rap05QwnA39BVHgv9ssaiD2IjdjSmHX4tr_JHg=&ref=6609926",
+    "size": 268672
+   }
+  ],
+  "time": "",
+  "room": ""
+ }
+]

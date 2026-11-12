@@ -1,0 +1,37 @@
+[
+ {
+  "n": 1,
+  "date": "2025-12-17",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3vFz1uEf5xNzqayAwNrfnoFhdDmSRljXw6bFwqeJah4iZMpDj3kLy7hR3W217Bj-wfau-j5qY1kk8wFD5hUbsJvoqyaPk5DhX9GfbdeFrv1uyzvgMzuS8T0XHbl-d6LMA19tJj_2izy2SzNylthFlc0n2r_Lp5WRlsA=&ref=9090526",
+    "size": 250980
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MaF1w4YYrrxoEY2Hv0DKtmKDGgK98Td5V1ub_YPbMwJnS-AeeIFHynCHl9TDukpVBkBogJpAjUw4DzH2alPPN1_nwx_fX0QcJJLA4heJv_dA8p8_ogNxf1z0Chd6wLvnHkqF3PN2Iib5sPSc2B4hBzXKfSZ0HCyukVQ=&ref=9090541"
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MEiNCCnZd9F5LCadIpiSoTxtKrM_ft2k9kODxPJimUeoCRIeZleAueChtnkwQO6lsl9LLCx8CI6vtIqVyILjW1-EvuqoNLmX1IrGzqZOAZBnGIiKYsX9lQfeNRTCM-Z7gKm1v7R3cMFq9amS6Ss6TeuqZl5fMLwbtp0=&ref=9204966"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=KUgrplFVag4OqzhvMtM"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2568",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]
