@@ -1,5 +1,27 @@
 [
  {
+  "n": 17,
+  "date": "2026-11-17",
+  "time": "10.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 330",
+  "docs": [
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zCMHH_AJVTDlDGcuwTU"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 17/2569",
+  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้ในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": false,
+  "upcoming": true
+ },
+ {
   "n": 16,
   "date": "2026-11-10",
   "time": "",

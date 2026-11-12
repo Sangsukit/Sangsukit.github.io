@@ -1,5 +1,81 @@
 [
  {
+  "n": 20,
+  "date": "2026-11-18",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 329 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mlhU_BRtlFdaVnalk3Rob-pm1kyJBlHkB49EcVJK8R6OAbtCtmvbPn3P9MVaQTCDL18rVamjFW2145g433phwjxP91LqZa1hUhjhxJPM-yfkdwq9L5nSUYWMIEe-zhk3uHf_RHdSciXzTjANRiS9e9ZL4xlLgCv1zfQyuA==&ref=11165971",
+    "size": 152690
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YA6ZgurQSRLcywFSCf31XJAeZCKI2A0RF44x5-aW0fr4ckZtujk_F3BFs7Ko_vw-LDqXCnIAfDmXDQ2by7R2aVj0Yu_2cV-QERFXs6rezaYPq3cnfBTBWKUKaBq3fVWl9Z1IaZaEcU2VRdlGgf6Ko7Aa6btIHKoQyOfcmg==&ref=11165994"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=xOMzJyr6KKvOtsKYH9w"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "media/sub-water-v20pre.mp4",
+    "poster": "img/poster-sub-water-20pre.jpg",
+    "vtt": "media/sub-water-v20pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-20p",
+    "size": 5090643
+   },
+   "videos": [
+    {
+     "src": "media/sub-water-v20pre.mp4",
+     "poster": "img/poster-sub-water-20pre.jpg",
+     "vtt": "media/sub-water-v20pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-20p",
+     "size": 5090643
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "ปรับปรุงร่างรายงานการศึกษาเรื่องน้ำนอกเขตชลประทาน ตามข้อคิดเห็นของคณะกรรมาธิการ",
+  "summary": "ระเบียบวาระ: พิจารณาปรับปรุงแก้ไข (ร่าง) รายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ตามข้อคิดเห็นและข้อเสนอแนะของที่ประชุมคณะกรรมาธิการการเกษตรและสหกรณ์ วุฒิสภา เมื่อวันจันทร์ที่ 16 พฤศจิกายน 2569 (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "พิจารณาปรับปรุงแก้ไข (ร่าง) รายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ตามข้อคิดเห็นและข้อเสนอแนะของที่ประชุมคณะกรรมาธิการการเกษตรและสหกรณ์ วุฒิสภา เมื่อวันจันทร์ที่ 16 พฤศจิกายน 2569",
+    "พิจารณาตามระเบียบวาระ",
+    "other"
+   ],
+   [
+    "รับรองบันทึกการประชุม ครั้งที่ 18/2569 (วันพุธที่ 28 ตุลาคม 2569)",
+    "พิจารณาตามระเบียบวาระ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "นอกเขตชลประทาน"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 329 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 19,
   "date": "2026-11-11",
   "time": "",
