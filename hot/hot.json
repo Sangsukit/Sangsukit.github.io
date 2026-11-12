@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:58:18Z",
+ "updated": "2026-11-12T00:51:20Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
@@ -18,7 +18,7 @@
     "alt_en": "An aisle between server racks in a data centre"
    },
    "outlets": 3,
-   "count": 7,
+   "count": 9,
    "body": {
     "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
     "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
@@ -30,92 +30,34 @@
     "url": "military/2569/"
    },
    "meeting": {
-    "n": 22,
-    "date": "2026-10-07",
-    "url": "military/2569/sub-cyber.html#read-22"
+    "n": 25,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-cyber.html#read-25"
    },
    "items": [
     {
-     "title": "อินโดนีเซียเผชิญภัยคุกคามทางไซเบอร์ พบถูกโจมตีกว่า 2 ล้านครั้งใน 24 ชั่วโมง",
-     "url": "https://www.infoquest.co.th/2026/678108",
-     "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-11T17:52:35Z"
-    },
-    {
-     "title": "รัฐบาลเร่งเครื่อง! คุมเข้มภัยไซเบอร์ ‘ไชยชนก’ จ่อเข้าคลัง แถลงใหญ่ กำหนดแนวทางป้องกัน 12 พ.ย.นี้",
-     "url": "https://www.matichon.co.th/economy/news_5971710",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-11T15:49:39Z"
-    },
-    {
-     "title": "สมาคมบล. เฝ้าระวังภัยไซเบอร์ถี่ขึ้น คุมเข้มระบบเทรด-ข้อมูลนักลงทุน 3 ล้านบัญชี",
-     "url": "https://www.prachachat.net/finance/news-2095112",
+     "title": "รับมือภัยไซเบอร์ อย่าหยุดแค่สร้างความมั่นใจ",
+     "url": "https://www.prachachat.net/finance/news-2094285",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-11T13:42:52Z"
-    }
-   ]
-  },
-  {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 2,
-   "count": 3,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 8,
-    "date": "2026-10-08",
-    "url": "committee-archive-2569/sub-disaster.html#read-8"
-   },
-   "items": [
+     "date": "2026-11-12T00:22:00Z"
+    },
     {
-     "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
-     "url": "https://www.dailynews.co.th/news/6352136/",
+     "title": "จับตาวันนี้ ประชุมใหญ่รับมือภัยไซเบอร์ ‘ไชยชนก’ เรียกหน่วยงานรัฐ-เอกชน ถกด่วน",
+     "url": "https://www.dailynews.co.th/news/6352095/",
      "lang": "th",
      "outlet_th": "เดลินิวส์",
      "outlet_en": "Daily News",
-     "date": "2026-11-11T15:47:08Z"
+     "date": "2026-11-12T00:15:00Z"
     },
     {
-     "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
-     "url": "https://www.matichon.co.th/local/news_5971600",
+     "title": "‘หลี่เฉียง’มา13พย. ไทยชวนลงทุนเอไอ-อีวี สีหศักดิ์ชี้ปิดจ๊อบภาษีมะกัน ไชยชนกหารือแอปเปิลปมภัยไซเบอร์",
+     "url": "https://www.matichon.co.th/economy/news_5971397",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-11T12:36:41Z"
-    },
-    {
-     "title": "ทส. ร่วมภาคเอกชน เปิดแคมเปญ ‘โปรสู้ฝุ่น ลด PM2.5 Together’",
-     "url": "https://www.matichon.co.th/economy/news_5969430",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-10T07:51:14Z"
+     "date": "2026-11-11T23:40:19Z"
     }
    ]
   },
@@ -162,6 +104,98 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-11T08:40:11Z"
+    }
+   ]
+  },
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 1,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 8,
+    "date": "2026-10-08",
+    "url": "committee-archive-2569/sub-disaster.html#read-8"
+   },
+   "items": [
+    {
+     "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
+     "url": "https://www.matichon.co.th/local/news_5971600",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-11T12:36:41Z"
+    },
+    {
+     "title": "ทส. ร่วมภาคเอกชน เปิดแคมเปญ ‘โปรสู้ฝุ่น ลด PM2.5 Together’",
+     "url": "https://www.matichon.co.th/economy/news_5969430",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-10T07:51:14Z"
+    }
+   ]
+  },
+  {
+   "id": "armed",
+   "th": "กองทัพและกิจการทหาร",
+   "en": "Armed forces and military affairs",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/armed",
+    "credit": "Mobius1TH",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Thai_Air_Force_S-70i,_Childrens_Day_2025.png",
+    "alt_th": "เฮลิคอปเตอร์ของกองทัพอากาศไทยจอดบนลานบิน",
+    "alt_en": "A Thai air force helicopter on the apron"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านกิจการทหาร",
+    "en": "Subcommittee on Military Affairs",
+    "url": "military/2569/sub-military.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 28,
+    "date": "2026-10-21",
+    "url": "military/2569/sub-military.html#read-28"
+   },
+   "items": [
+    {
+     "title": "สกร. จับมือกองทัพภาคที่ 2 ขับเคลื่อน “1 ปี 1 วุฒิ” เพิ่มโอกาสการศึกษาทหารกองประจำการ",
+     "url": "https://www.dailynews.co.th/news/6352220/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-11T22:45:25Z"
     }
    ]
   },
