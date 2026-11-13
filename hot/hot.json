@@ -1,8 +1,66 @@
 {
- "updated": "2026-11-13T01:57:43Z",
+ "updated": "2026-11-13T11:16:16Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
+  {
+   "id": "cyber",
+   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
+   "en": "Cyber and defence industry",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/cyber",
+    "credit": "Christopher Bowns",
+    "lic": "CC BY-SA 2.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
+    "alt_en": "An aisle between server racks in a data centre"
+   },
+   "outlets": 2,
+   "count": 4,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
+    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
+    "url": "military/2569/sub-cyber.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 25,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-cyber.html#read-25"
+   },
+   "items": [
+    {
+     "title": "ออมสิน คุมเข้มภัยไซเบอร์ สกัด AI เจาะระบบการเงินโลก งัดแผนรับมือ ตรวจ 24 ชม.",
+     "url": "https://www.matichon.co.th/economy/news_5974407",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T09:49:35Z"
+    },
+    {
+     "title": "ดีอี – ภาคสื่อสาร ชูแผน “National Roaming” รับวิกฤตโจมตีไซเบอร์ด้วย AI",
+     "url": "https://www.prachachat.net/tech/news-2096124",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-13T09:02:53Z"
+    },
+    {
+     "title": "อนุทิน รับนายกฯจีนเยือนไทย คาด Microsoft 365 ล่มไม่เกี่ยวโจมตีไซเบอร์​",
+     "url": "https://www.matichon.co.th/politics/news_5974296",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T09:01:21Z"
+    }
+   ]
+  },
   {
    "id": "border",
    "th": "ชายแดนและความมั่นคง",
@@ -18,7 +76,7 @@
     "alt_en": "A border checkpoint building"
    },
    "outlets": 2,
-   "count": 4,
+   "count": 2,
    "body": {
     "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
     "en": "Subcommittee on Holistic Security",
@@ -36,28 +94,112 @@
    },
    "items": [
     {
-     "title": "‘ไทย-เมียนมา’ นัดคุยวางมาตรการคุมชายแดน-แก้มลพิษแม่น้ำ 25 พ.ย. เดินหน้าคุยสัมปทานแก๊ส",
-     "url": "https://www.prachachat.net/world/news-2095739",
+     "title": "กพร. คุมเข้มนำเข้าแร่ชายแดน จ่อชงประกาศกระทรวงฯ สกัดต้นตอมลพิษข้ามชาติ",
+     "url": "https://www.matichon.co.th/economy/news_5974373",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T09:42:23Z"
+    },
+    {
+     "title": "กพร.คุมเข้มนำเข้าแร่ชายแดน จ่อชงประกาศกระทรวง สกัดต้นตอมลพิษข้ามชาติ",
+     "url": "https://www.prachachat.net/economic/news-2096160",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-12T22:27:05Z"
+     "date": "2026-11-13T09:06:15Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 33,
+    "date": "2026-09-21",
+    "url": "agriculture/2569/#read-33"
+   },
+   "items": [
+    {
+     "title": "พืชผลราคาดีขึ้นยกแผง “ข้าวปทุม” พุ่ง 55% พาณิชย์ชี้ข้าว-มัน-ข้าวโพด-ปาล์มขายเหนือทุน",
+     "url": "https://www.prachachat.net/economic/news-2096183",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-13T09:29:44Z"
     },
     {
-     "title": "สีหศักดิ์ เผยเมียนมาแสดงความเสียใจ ปฏิบัติการทหารกระทบชายแดนไทย ร่วมมือแก้มลพิษ นัดถก 25 พ.ย.",
-     "url": "https://www.matichon.co.th/foreign/news_5973226",
+     "title": "‘ธีระชัย – เบญจพล’ ถกเครือข่ายสถาบันเกษตรกรชาวสวนยาง",
+     "url": "https://www.matichon.co.th/economy/news_5973932",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-12T13:50:32Z"
-    },
+     "date": "2026-11-12T12:48:42Z"
+    }
+   ]
+  },
+  {
+   "id": "rice",
+   "th": "ข้าวและชาวนา",
+   "en": "Rice and rice farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/rice",
+    "credit": "Eerin25",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
+    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
+    "alt_en": "Green rice paddies with a bamboo walkway"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 3,
+    "date": "2026-01-14",
+    "url": "agriculture/2569/#read-3"
+   },
+   "items": [
     {
-     "title": "พระบุญสิน ธุดงค์เยี่ยมทหารชายแดนไทย–กัมพูชา มอบปัจจัย วัตถุมงคล เสริมขวัญกำลังใจผู้พิทักษ์แผ่นดิน",
-     "url": "https://www.matichon.co.th/politics/news_5973192",
+     "title": "ศุภจี เปิดห้องหารือชาวนา โรงสี ผู้ส่งออก ยันราคาดี หอมมะลิตันละหมื่นเจ็ด แต่ยังกังวลต้นทุน",
+     "url": "https://www.matichon.co.th/economy/news_5974103",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-12T13:08:07Z"
+     "date": "2026-11-13T08:40:24Z"
+    },
+    {
+     "title": "“ศุภจี” ส่งข่าวดีชาวนา ราคาข้าวขยับ หอมมะลิแตะ 17,000 บาท จี้ลดต้นทุน ชง นบข.ชุดใหญ่พิจารณา",
+     "url": "https://www.prachachat.net/economic/news-2096111",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-13T08:24:16Z"
     }
    ]
   },
@@ -76,7 +218,7 @@
     "alt_en": "A flooded street and houses"
    },
    "outlets": 1,
-   "count": 3,
+   "count": 4,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
     "en": "Subcommittee on National Disaster Management",
@@ -94,166 +236,28 @@
    },
    "items": [
     {
-     "title": "ปภ.ประสาน 10 จว.กลาง และ กทม.เฝ้าระวังและติดตามสถานการณ์ระดับน้ำเจ้าพระยาเพิ่มสูงขึ้น",
-     "url": "https://www.matichon.co.th/local/news_5973187",
+     "title": "สุชาติ ขอบคุณ-ชื่นชมจนท.อุทยานเกาะลันตา เสี่ยงชีวิต ช่วย7ผู้ประสบภัยเรืออับปาง ยกเป็นที่พึ่งปชช.ยามวิกฤต",
+     "url": "https://www.matichon.co.th/local/news_5974414",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-12T12:44:34Z"
+     "date": "2026-11-13T10:00:58Z"
     },
     {
-     "title": "กรมอุตุ เตือนฉบับที่ 9 ภาคใต้ตกหนัก ระวังฝนสะสม ท่วมฉับพลัน-น้ำป่าไหลหลาก",
-     "url": "https://www.matichon.co.th/local/news_5973141",
+     "title": "ยศชนัน นำทีมรับมือเอลนีโญ-PM2.5 ชู กล้อง-โดรนไทย สกัดไฟป่าเรียลไทม์ครั้งแรกของประเทศ",
+     "url": "https://www.matichon.co.th/politics/news_5974337",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-12T12:17:33Z"
+     "date": "2026-11-13T09:15:59Z"
     },
     {
-     "title": "สันติธาร ชี้ 3 จุดเปราะบางเศรษฐกิจโลก ‘กันชนบาง-พายุซ้อน-AI แบกขาเดียว’ แนะไทยเร่งเปลี่ยนผ่าน",
-     "url": "https://www.matichon.co.th/economy/news_5972030",
+     "title": "สธ.เตือน PM2.5 จ่อพุ่ง พ.ย.นี้ ชี้ กทม.-ปริมณฑลเสี่ยงสูง เร่งรับมือกลุ่มเปราะบาง",
+     "url": "https://www.matichon.co.th/local/quality-life/news_5974251",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-12T04:59:55Z"
-    }
-   ]
-  },
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 1,
-   "count": 2,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 33,
-    "date": "2026-09-21",
-    "url": "agriculture/2569/#read-33"
-   },
-   "items": [
-    {
-     "title": "จีนชะลอซื้อลำไย พาณิชย์ระดมรัฐ-เอกชน เปิดตลาด 3 หมื่นตัน",
-     "url": "https://www.prachachat.net/economic/news-2095623",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-12T12:09:11Z"
-    },
-    {
-     "title": "พาณิชย์เปิดพรีออร์เดอร์ลำไยตะวันออก ส่งฟรีทั่วไทย ตั้งเป้าระบาย 3 หมื่นตัน",
-     "url": "https://www.prachachat.net/economic/news-2095563",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-12T10:30:54Z"
-    }
-   ]
-  },
-  {
-   "id": "cyber",
-   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
-   "en": "Cyber and defence industry",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/cyber",
-    "credit": "Christopher Bowns",
-    "lic": "CC BY-SA 2.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
-    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
-    "alt_en": "An aisle between server racks in a data centre"
-   },
-   "outlets": 1,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
-    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
-    "url": "military/2569/sub-cyber.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 25,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-cyber.html#read-25"
-   },
-   "items": [
-    {
-     "title": "‘หลี่เฉียง’มา13พย. ไทยชวนลงทุนเอไอ-อีวี สีหศักดิ์ชี้ปิดจ๊อบภาษีมะกัน ไชยชนกหารือแอปเปิลปมภัยไซเบอร์",
-     "url": "https://www.matichon.co.th/economy/news_5971397",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-11T23:40:19Z"
-    },
-    {
-     "title": "รัฐบาลเร่งเครื่อง! คุมเข้มภัยไซเบอร์ ‘ไชยชนก’ จ่อเข้าคลัง แถลงใหญ่ กำหนดแนวทางป้องกัน 12 พ.ย.นี้",
-     "url": "https://www.matichon.co.th/economy/news_5971710",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-11T15:49:39Z"
-    }
-   ]
-  },
-  {
-   "id": "wage",
-   "th": "ค่าแรงและการคุ้มครองแรงงาน",
-   "en": "Wages and worker protection",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/wage",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:002_Production_line_-_car_assembly_line_in_General_Motors_Manufacturing_Poland_-_Gliwice,_Poland.jpg",
-    "alt_th": "สายการผลิตในโรงงาน",
-    "alt_en": "A factory production line"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน",
-    "en": "Subcommittee on Labour Welfare and Protection",
-    "url": "labour/2569/sub-welfare.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 21,
-    "date": "2026-10-07",
-    "url": "labour/2569/sub-welfare.html#read-21"
-   },
-   "items": [
-    {
-     "title": "ปรับค่าแรงขั้นต่ำปี 70 อืด รอแต่งตั้งบอร์ดค่าจ้างชุดใหม่ ลุ้น! เคาะตัวเลข ธ.ค. ทันใช้ 1 พ.ค.",
-     "url": "https://www.matichon.co.th/local/quality-life/news_5970058",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T01:30:57Z"
+     "date": "2026-11-13T08:36:28Z"
     }
    ]
   }
