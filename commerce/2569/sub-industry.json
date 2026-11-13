@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QK5Pb-euMrlMN8c1z-U"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-industry-v18pre.mp4",
+    "poster": "img/poster-sub-industry-18pre.jpg",
+    "vtt": "media/sub-industry-v18pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:45",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "industry-18p",
+    "size": 4316004
+   },
+   "videos": [
+    {
+     "src": "media/sub-industry-v18pre.mp4",
+     "poster": "img/poster-sub-industry-18pre.jpg",
+     "vtt": "media/sub-industry-v18pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:45",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "industry-18p",
+     "size": 4316004
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "ความคืบหน้ารายงานการพิจารณาศึกษา และการเตรียมจัดเสวนา",

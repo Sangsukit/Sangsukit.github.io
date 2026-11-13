@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=-8F1sdxjbsejQgjpYFY"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-smegov-v17pre.mp4",
+    "poster": "img/poster-sub-smegov-17pre.jpg",
+    "vtt": "media/sub-smegov-v17pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "smegov-17p",
+    "size": 4716280
+   },
+   "videos": [
+    {
+     "src": "media/sub-smegov-v17pre.mp4",
+     "poster": "img/poster-sub-smegov-17pre.jpg",
+     "vtt": "media/sub-smegov-v17pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "smegov-17p",
+     "size": 4716280
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "ช่วยให้ SMEs เข้าถึงตลาดภาครัฐอย่างโปร่งใส: แนวทางป้องกันการทุจริตในการจัดซื้อจัดจ้างภาครัฐ",
