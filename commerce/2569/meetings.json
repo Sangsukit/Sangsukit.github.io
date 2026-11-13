@@ -1,5 +1,46 @@
 [
  {
+  "n": 34,
+  "date": "2026-11-18",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jS57xdjc258qR_ktk8Lwn32im9wlILFjZS4n35BJLDu4qCqM0Q2N7RbQqR_vsp4oN6rzyEWXLjgTkiuW_R9unvajyh6RRJGtBY6Wy3hBwKyNEgXmY3uGeN2Hfuo0lwdr20YgakJGYNo9Ywmj4Z0uWaPZmhEXECDl-W4ZMQ==&ref=11174633",
+    "size": 119979
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=SyMmM70NvgsTuK_t9R0"
+   }
+  ],
+  "media": {},
+  "chair": "นายวิวรรธน์ ไกรพิสิทธิ์กุล",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "ติดตามความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน",
+  "summary": "การประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงานคณะต่าง ๆ ในคณะกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงานคณะต่าง ๆ",
+    "วาระที่ 3",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "SMEs",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 33,
   "date": "2026-11-11",
   "time": "14.00",
@@ -7,42 +48,63 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ht2OhwLgoQp6RhBqllhMoO40JDXdgsdwuVcy-5_mZz6K2wt9TO7WTWzP_mWJ3lqzuYH62VBYJvLfjCP4YZpQ1hmL0DK8NG-Rdw85CUnUN5JdgEq85EUGdOTa-0Oai8SI8DIBcuhcECeZzH4YB4_sfFJS-MzQ_dQ1fEnZUA==&ref=11137799",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8P8512aHA2CZowChu463SXG7XJ9DblC_dwB1Kxjs9atMYNz6yXlbfObX6-WTicIuDCUqj3Lb6lQbQ3VrNYvViQ4FQpNMwnqw3lu-k-brRZckavRKeB7mpw5gP4q1Y3r0L-2CYVGPfA201miPmNPCz9c5paoJqbY1cF0g7A==&ref=11137799",
     "size": 119406
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aLVRGgArjXc-pjb6mUq79tifgD4z9QkqKJYZNE3mFN21ajT9MVX-mW7cQY4nK5ciHGWXGDWvALpoGpTRoTarRqRk-o538vt4t28LJ6HKg8x6cEX-dvqz7cVsPqdL3Jtvq0Y98HurrRykomW992LpNIcnf2toDeQbJSrkzw==&ref=11147054"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=azzkZQ0jE64QC5sINoKr4PSq-mwAqiuhnQ1MzvY3lWWBv4HcsilVGgiRN27g5CEdLKd4-fpJkT_gkAU39FPY7pn_fQqt-eS6luKdR7sraLZmLa5BFBbbfxYZY6HiwWg2ur3mJcZKE2rojOIReu9kc70xWVis4Lqf4BtFqg==&ref=11147054"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VnICNaPXusgpVaKG6S5e-7tVvTKSsU8CqSQTVtcYqNRBkwAmmpb3cedkqmUz_zkv5Hm3EsFsDCEw1jjwJSyAxKhfoPDQYxiHE6dJqz9AR19R0wERG5oFS8li8BWEkdVA7yFrkPrmuxzBNOCyaqOvRRl8w_onHbru_I2CLQ==&ref=11174492",
+    "size": 1920505
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ghmfd6yYyY1xMlhfVk4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JMCq1xWze65yGEoCH-c"
    }
   ],
   "media": {},
   "chair": "นายวิวรรธน์ ไกรพิสิทธิ์กุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "agenda_only": true,
-  "headline": "เรื่องร้องเรียนปัญหาสถานที่กำจัดขยะ: เชิญกระทรวงมหาดไทย กรมควบคุมมลพิษ และกรมโรงงานอุตสาหกรรม",
-  "summary": "การประชุมวันพุธที่ 11 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการติดตามงานของคณะอนุกรรมาธิการและคณะทำงาน และพิจารณาเรื่องร้องเรียนขอให้เร่งใช้มาตรการทางกฎหมายและทางวิชาการแก้ไขปัญหาสถานที่กำจัดขยะของบริษัทแห่งหนึ่ง โดยเชิญปลัดกระทรวงมหาดไทย อธิบดีกรมควบคุมมลพิษ และอธิบดีกรมโรงงานอุตสาหกรรม หรือผู้แทน มาให้ข้อมูล สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "รายงานเซมิคอนดักเตอร์ สินค้า GI ค่าธรรมเนียมแพลตฟอร์มออนไลน์ การลงพื้นที่ภาคใต้ และกากอุตสาหกรรม",
+  "summary": "ที่ประชุมพิจารณาความคืบหน้าของคณะอนุกรรมาธิการ 3 คณะและคณะทำงาน 1 คณะ คณะอนุกรรมาธิการอุตสาหกรรมจัดทำรายงานการพิจารณาศึกษาเรื่องการยกระดับอุตสาหกรรมเซมิคอนดักเตอร์ครบทั้ง 5 บทแล้ว เตรียมศึกษาดูงานที่บริษัทเอกชนด้านเซมิคอนดักเตอร์แห่งหนึ่งในกรุงเทพมหานคร (20 พ.ย. 2569) และจัดเสวนาเผยแพร่ผลการศึกษา “การขับเคลื่อนอุตสาหกรรมอิเล็กทรอนิกส์แห่งอนาคต” (27 พ.ย. 2569) คณะอนุกรรมาธิการช่วยเหลือ SMEs ระยะเร่งด่วนฯ รายงานเรื่องการยกระดับสินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) การลดค่าธรรมเนียมแพลตฟอร์มออนไลน์ หลักเกณฑ์ระยะเวลาการให้สินเชื่อทางการค้า (Credit Term) และแนวคิด “สุราษฎร์มหานคร” และเห็นควรตั้งคณะทำงานด้านการประยุกต์ใช้ปัญญาประดิษฐ์ (AI) เพื่อสนับสนุน SMEs และชุมชน คณะอนุกรรมาธิการส่งเสริมเอสเอ็มอีฯ สรุปผลการศึกษาดูงานจังหวัดสงขลาและปัตตานี (6–8 พ.ย. 2569) เช่น ศักยภาพการเป็นประตูการค้า ต้นทุนในนิคมอุตสาหกรรม และผลกระทบจากมาตรการควบคุมการทำประมง ส่วนคณะทำงานศึกษาและติดตามการบริหารจัดการกากอุตสาหกรรมรายงานข้อสังเกตจากการลงพื้นที่โรงงาน 3 แห่งในจังหวัดสมุทรสาคร ซึ่งอยู่ระหว่างขอข้อมูลจากหน่วยงานเพื่อตรวจสอบข้อเท็จจริง และคณะกรรมาธิการจะลงพื้นที่จังหวัดชลบุรีเพื่อติดตามเรื่องร้องเรียนเกี่ยวกับโรงงานอุตสาหกรรม",
   "items": [
    [
-    "ผลการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงาน",
-    "วาระที่ 3.1",
+    "คณะอนุกรรมาธิการอุตสาหกรรม: รายงานเรื่องการยกระดับอุตสาหกรรมเซมิคอนดักเตอร์ครบ 5 บท ศึกษาดูงานภาคเอกชน (20 พ.ย. 2569) และเสวนา “การขับเคลื่อนอุตสาหกรรมอิเล็กทรอนิกส์แห่งอนาคต” (27 พ.ย. 2569)",
+    "พิจารณา",
     "sub"
    ],
    [
-    "เรื่องร้องเรียนขอให้แก้ไขปัญหาสถานที่กำจัดขยะของบริษัทแห่งหนึ่ง (เชิญกระทรวงมหาดไทย กรมควบคุมมลพิษ กรมโรงงานอุตสาหกรรม)",
-    "วาระที่ 3.2",
-    "complaint"
+    "คณะอนุกรรมาธิการช่วยเหลือ SMEs ระยะเร่งด่วนฯ: สินค้า GI ค่าธรรมเนียมแพลตฟอร์มออนไลน์ Credit Term แนวคิดสุราษฎร์มหานคร และข้อเสนอตั้งคณะทำงานด้าน AI สำหรับ SMEs และชุมชน",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "คณะอนุกรรมาธิการส่งเสริมเอสเอ็มอีฯ: ผลการศึกษาดูงานจังหวัดสงขลาและปัตตานี (6–8 พ.ย. 2569)",
+    "พิจารณา",
+    "visit"
+   ],
+   [
+    "คณะทำงานศึกษาและติดตามการบริหารจัดการกากอุตสาหกรรม: ผลการลงพื้นที่จังหวัดสมุทรสาคร และการลงพื้นที่จังหวัดชลบุรีต่อไป",
+    "พิจารณา",
+    "visit"
    ]
   ],
   "tags": [
-   "ขยะ",
-   "สิ่งแวดล้อม",
-   "เรื่องร้องเรียน"
+   "เซมิคอนดักเตอร์",
+   "สิ่งบ่งชี้ทางภูมิศาสตร์",
+   "การค้าออนไลน์",
+   "ปัญญาประดิษฐ์",
+   "กากอุตสาหกรรม"
   ],
-  "places": []
+  "places": [
+   "สงขลา",
+   "ปัตตานี",
+   "สมุทรสาคร",
+   "ชลบุรี"
+  ]
  },
  {
   "n": 32,
