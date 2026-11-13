@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=5IRUGj1Cfy0U_DxI_38"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v30pre.mp4",
+    "poster": "img/poster30pre.jpg",
+    "vtt": "media/v30pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:03",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "30p",
+    "size": 4888814
+   },
+   "videos": [
+    {
+     "src": "media/v30pre.mp4",
+     "poster": "img/poster30pre.jpg",
+     "vtt": "media/v30pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:03",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "30p",
+     "size": 4888814
+    }
+   ]
+  },
   "chair": "พลตำรวจโท บุญจันทร์ นวลสาย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,

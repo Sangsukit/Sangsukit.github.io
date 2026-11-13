@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=CWDlmUFFWHKFvnTSUBk"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-police-v22pre.mp4",
+    "poster": "img/poster-sub-police-22pre.jpg",
+    "vtt": "media/sub-police-v22pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:33",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "police-22p",
+    "size": 3969201
+   },
+   "videos": [
+    {
+     "src": "media/sub-police-v22pre.mp4",
+     "poster": "img/poster-sub-police-22pre.jpg",
+     "vtt": "media/sub-police-v22pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:33",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "police-22p",
+     "size": 3969201
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "agenda_only": true,
