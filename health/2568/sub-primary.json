@@ -1,0 +1,39 @@
+[
+ {
+  "n": 1,
+  "date": "2025-12-18",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 321 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DrxzGZLUhok0eNfw3s2PnscpUtf8fZ5ysc2wNiiMPViZUeprfR-frUzvFas8RWlWKmew4ojIYaCR4SoO_6hLNqcsiLXRUdwNjRzF5Ej1XlDrw2GVAIJWi0zf9xGrYoJSHzEJYIm7rIX6FMLcgDLmGIicD_9AtDd9SUE=&ref=9115212",
+    "size": 154257
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8sDqj57jPNKcKQwdfQ1wLqYi-AfozNJc7sGcm8FtYM86Fg-RwyN_mks0UKee74O4D2Lh4_rdppEq2G9f4K4i4HamkjT0dAeA2sjRmBjARVgGnir581gq3y8DD2SVGxc3PiJ_LFtvF_pGVbudqD8Wukw_LoPjai2f9no=&ref=9115269",
+    "size": 154257
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2m-O6DXHVQhVbykbwgkIC9GRte1ULGQpJfL-vFAiP_vJCmEyHdTR8eILyw6mszsQxytsc5fQ1R_-PGnnvz-P56lq7nudjEoOH7c1vmvIPjPhGCSIECMDb6rPTvjhTn1QiFZXgYza-ZlsAnjnWCNILsNYNyAkbXerk2s=&ref=9116885",
+    "size": 1282808
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=MnJMkHSZTuHOs4NCv24"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2568",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]
