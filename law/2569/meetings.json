@@ -28,7 +28,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=nlJ2mr28vIGVhR2DwGI"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v29.mp4",
+    "poster": "img/poster29.jpg",
+    "vtt": "media/v29.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:00",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "29",
+    "size": 4781651
+   },
+   "videos": [
+    {
+     "src": "media/v29.mp4",
+     "poster": "img/poster29.jpg",
+     "vtt": "media/v29.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:00",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "29",
+     "size": 4781651
+    }
+   ]
+  },
   "chair": "พลตำรวจโท บุญจันทร์ นวลสาย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "สถานบันเทิงย่านถนนข้าวสารกับเยาวชนอายุต่ำกว่า 18 ปี: ตำรวจ กรมการปกครอง และกรุงเทพมหานครมาให้ข้อมูล",
@@ -89,7 +114,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=OBzsQzbQXcYbeq6XGEA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v28.mp4",
+    "poster": "img/poster28.jpg",
+    "vtt": "media/v28.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:55",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "28",
+    "size": 6774921
+   },
+   "videos": [
+    {
+     "src": "media/v28.mp4",
+     "poster": "img/poster28.jpg",
+     "vtt": "media/v28.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:55",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "28",
+     "size": 6774921
+    }
+   ]
+  },
   "chair": "พลตำรวจโท บุญจันทร์ นวลสาย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ข้อเสนอต่อการประชุมใหญ่สมัชชารัฐสภาอาเซียน เรื่องยาเสพติดและแรงงานย้ายถิ่น และเตรียมเชิญหน่วยงานเรื่องสถานบันเทิงย่านถนนข้าวสาร",
