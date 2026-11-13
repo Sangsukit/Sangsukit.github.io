@@ -1,8 +1,116 @@
 {
- "updated": "2026-11-13T11:16:16Z",
+ "updated": "2026-11-13T19:53:49Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
+  {
+   "id": "localgov",
+   "th": "จังหวัด อำเภอ และการกระจายอำนาจ",
+   "en": "Provinces, districts and decentralisation",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/localgov",
+    "credit": "Ahoerstemeier",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Surat_Thani_provincial_hall.jpg",
+    "alt_th": "ศาลากลางจังหวัด",
+    "alt_en": "A provincial hall"
+   },
+   "outlets": 2,
+   "count": 3,
+   "body": {
+    "th": "คณะอนุกรรมาธิการส่วนกลางและส่วนภูมิภาค",
+    "en": "Subcommittee on Central and Regional Administration",
+    "url": "committee-archive-2569/sub-central.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": null,
+   "items": [
+    {
+     "title": "ผู้ว่าฯนครนายก สั่งตั้ง กก.สอบวินัยร้ายแรง ‘กำนันศรีกะอาง’ ปมสนามวิ่งเทรล​",
+     "url": "https://www.dailynews.co.th/news/6358379/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-13T15:00:15Z"
+    },
+    {
+     "title": "ผู้ว่าฯ ลำพูน เปิดใจหลังถูกโยกนั่งผู้ตรวจมหาดไทย ยันไม่ว่าตำแหน่งไหนก็พร้อมหนุนพัฒนาลำพูน",
+     "url": "https://www.matichon.co.th/politics/news_5974608",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T11:25:01Z"
+    },
+    {
+     "title": "กำนันมะโน ลั่นเหลือคนเดียวก็สู้ นัด 16 พ.ย. เดิน 12 กม. จี้พลังงานลดน้ำมัน 10 บาท จ่อเคลื่อนอีก 20 พ.ย.",
+     "url": "https://www.matichon.co.th/politics/news_5974517",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T11:04:48Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 2,
+   "count": 3,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 33,
+    "date": "2026-09-21",
+    "url": "agriculture/2569/#read-33"
+   },
+   "items": [
+    {
+     "title": "ไทย-จีน ลงนามร่วมมือ 8 ฉบับ ดันสินค้าเกษตรไทย ยกระดับยานยนต์-เศรษฐกิจ",
+     "url": "https://www.matichon.co.th/politics/news_5974697",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T12:53:19Z"
+    },
+    {
+     "title": "พืชผลราคาดีขึ้นยกแผง “ข้าวปทุม” พุ่ง 55% พาณิชย์ชี้ข้าว-มัน-ข้าวโพด-ปาล์มขายเหนือทุน",
+     "url": "https://www.prachachat.net/economic/news-2096183",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-13T09:29:44Z"
+    },
+    {
+     "title": "‘ธีระชัย – เบญจพล’ ถกเครือข่ายสถาบันเกษตรกรชาวสวนยาง",
+     "url": "https://www.matichon.co.th/economy/news_5973932",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-12T12:48:42Z"
+    }
+   ]
+  },
   {
    "id": "cyber",
    "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
@@ -18,7 +126,7 @@
     "alt_en": "An aisle between server racks in a data centre"
    },
    "outlets": 2,
-   "count": 4,
+   "count": 2,
    "body": {
     "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
     "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
@@ -50,14 +158,6 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-13T09:02:53Z"
-    },
-    {
-     "title": "อนุทิน รับนายกฯจีนเยือนไทย คาด Microsoft 365 ล่มไม่เกี่ยวโจมตีไซเบอร์​",
-     "url": "https://www.matichon.co.th/politics/news_5974296",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T09:01:21Z"
     }
    ]
   },
@@ -112,52 +212,6 @@
    ]
   },
   {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 33,
-    "date": "2026-09-21",
-    "url": "agriculture/2569/#read-33"
-   },
-   "items": [
-    {
-     "title": "พืชผลราคาดีขึ้นยกแผง “ข้าวปทุม” พุ่ง 55% พาณิชย์ชี้ข้าว-มัน-ข้าวโพด-ปาล์มขายเหนือทุน",
-     "url": "https://www.prachachat.net/economic/news-2096183",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-13T09:29:44Z"
-    },
-    {
-     "title": "‘ธีระชัย – เบญจพล’ ถกเครือข่ายสถาบันเกษตรกรชาวสวนยาง",
-     "url": "https://www.matichon.co.th/economy/news_5973932",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-12T12:48:42Z"
-    }
-   ]
-  },
-  {
    "id": "rice",
    "th": "ข้าวและชาวนา",
    "en": "Rice and rice farmers",
@@ -171,8 +225,8 @@
     "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
     "alt_en": "Green rice paddies with a bamboo walkway"
    },
-   "outlets": 2,
-   "count": 2,
+   "outlets": 1,
+   "count": 3,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -186,78 +240,28 @@
    },
    "items": [
     {
+     "title": "พาณิชย์ ปูพรมเช็คราคาพืชเกษตร ยันขยับดีทุกตัว ข้าวเปลือกขึ้น 9-55%",
+     "url": "https://www.matichon.co.th/economy/news_5974695",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T12:29:45Z"
+    },
+    {
+     "title": "พาณิชย์ ปูพรมเช็กราคาพืชเกษตร ยันขยับดีทุกตัว ข้าวเปลือกขึ้น 9-55% มัน 65.14% ข้าวโพด36.95% ปาล์ม 16.23%",
+     "url": "https://www.matichon.co.th/economy/news_5974642",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T11:43:20Z"
+    },
+    {
      "title": "ศุภจี เปิดห้องหารือชาวนา โรงสี ผู้ส่งออก ยันราคาดี หอมมะลิตันละหมื่นเจ็ด แต่ยังกังวลต้นทุน",
      "url": "https://www.matichon.co.th/economy/news_5974103",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-13T08:40:24Z"
-    },
-    {
-     "title": "“ศุภจี” ส่งข่าวดีชาวนา ราคาข้าวขยับ หอมมะลิแตะ 17,000 บาท จี้ลดต้นทุน ชง นบข.ชุดใหญ่พิจารณา",
-     "url": "https://www.prachachat.net/economic/news-2096111",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-13T08:24:16Z"
-    }
-   ]
-  },
-  {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 1,
-   "count": 4,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 8,
-    "date": "2026-10-08",
-    "url": "committee-archive-2569/sub-disaster.html#read-8"
-   },
-   "items": [
-    {
-     "title": "สุชาติ ขอบคุณ-ชื่นชมจนท.อุทยานเกาะลันตา เสี่ยงชีวิต ช่วย7ผู้ประสบภัยเรืออับปาง ยกเป็นที่พึ่งปชช.ยามวิกฤต",
-     "url": "https://www.matichon.co.th/local/news_5974414",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T10:00:58Z"
-    },
-    {
-     "title": "ยศชนัน นำทีมรับมือเอลนีโญ-PM2.5 ชู กล้อง-โดรนไทย สกัดไฟป่าเรียลไทม์ครั้งแรกของประเทศ",
-     "url": "https://www.matichon.co.th/politics/news_5974337",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T09:15:59Z"
-    },
-    {
-     "title": "สธ.เตือน PM2.5 จ่อพุ่ง พ.ย.นี้ ชี้ กทม.-ปริมณฑลเสี่ยงสูง เร่งรับมือกลุ่มเปราะบาง",
-     "url": "https://www.matichon.co.th/local/quality-life/news_5974251",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T08:36:28Z"
     }
    ]
   }
