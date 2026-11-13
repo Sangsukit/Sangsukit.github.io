@@ -35,11 +35,11 @@
   "at": "2026-11-11"
  },
  "sub-cyber#25": {
-  "f": "audio/sub-cyber-25-94a6be6c.mp3",
-  "h": "94a6be6c",
-  "d": 137.9,
+  "f": "audio/sub-cyber-25-7c0e3e79.mp3",
+  "h": "7c0e3e79",
+  "d": 144.2,
   "v": "Nook",
-  "at": "2026-11-12"
+  "at": "2026-11-13"
  },
  "sub-military#32": {
   "f": "audio/sub-military-32-6b2bf7a5.mp3",
@@ -47,5 +47,12 @@
   "d": 171.1,
   "v": "Nook",
   "at": "2026-11-12"
+ },
+ "sub-cyber#26": {
+  "f": "audio/sub-cyber-26-2fba6f06.mp3",
+  "h": "2fba6f06",
+  "d": 118.8,
+  "v": "Nook",
+  "at": "2026-11-13"
  }
 }
