@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=SyMmM70NvgsTuK_t9R0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v34pre.mp4",
+    "poster": "img/poster34pre.jpg",
+    "vtt": "media/v34pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:57",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "34p",
+    "size": 4709846
+   },
+   "videos": [
+    {
+     "src": "media/v34pre.mp4",
+     "poster": "img/poster34pre.jpg",
+     "vtt": "media/v34pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:57",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "34p",
+     "size": 4709846
+    }
+   ]
+  },
   "chair": "นายวิวรรธน์ ไกรพิสิทธิ์กุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -65,7 +90,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JMCq1xWze65yGEoCH-c"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v33.mp4",
+    "poster": "img/poster33.jpg",
+    "vtt": "media/v33.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:58",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "33",
+    "size": 11322561
+   },
+   "videos": [
+    {
+     "src": "media/v33.mp4",
+     "poster": "img/poster33.jpg",
+     "vtt": "media/v33.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:58",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "33",
+     "size": 11322561
+    }
+   ]
+  },
   "chair": "นายวิวรรธน์ ไกรพิสิทธิ์กุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "รายงานเซมิคอนดักเตอร์ สินค้า GI ค่าธรรมเนียมแพลตฟอร์มออนไลน์ การลงพื้นที่ภาคใต้ และกากอุตสาหกรรม",
