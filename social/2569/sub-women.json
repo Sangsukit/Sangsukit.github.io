@@ -52,7 +52,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=epX7prvczpOf6gDduqY"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-women-v26.mp4",
+    "poster": "img/poster-sub-women-26.jpg",
+    "vtt": "media/sub-women-v26.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:38",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-26",
+    "size": 6073497
+   },
+   "videos": [
+    {
+     "src": "media/sub-women-v26.mp4",
+     "poster": "img/poster-sub-women-26.jpg",
+     "vtt": "media/sub-women-v26.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:38",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-26",
+     "size": 6073497
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 26/2569",
@@ -84,7 +109,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=P5HcpYd9N4gxNkmIh2Q"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-women-v25.mp4",
+    "poster": "img/poster-sub-women-25.jpg",
+    "vtt": "media/sub-women-v25.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:55",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-25",
+    "size": 4621427
+   },
+   "videos": [
+    {
+     "src": "media/sub-women-v25.mp4",
+     "poster": "img/poster-sub-women-25.jpg",
+     "vtt": "media/sub-women-v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:55",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-25",
+     "size": 4621427
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 25/2569",
@@ -121,7 +171,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=pxPk8mw8cxvh4mnMuNI"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-women-v24.mp4",
+    "poster": "img/poster-sub-women-24.jpg",
+    "vtt": "media/sub-women-v24.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:29",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-24",
+    "size": 5720579
+   },
+   "videos": [
+    {
+     "src": "media/sub-women-v24.mp4",
+     "poster": "img/poster-sub-women-24.jpg",
+     "vtt": "media/sub-women-v24.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:29",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-24",
+     "size": 5720579
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 24/2569",
@@ -153,7 +228,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hifPiuMCGpUKC4SC_3M"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-women-v23.mp4",
+    "poster": "img/poster-sub-women-23.jpg",
+    "vtt": "media/sub-women-v23.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:00",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-23",
+    "size": 5009434
+   },
+   "videos": [
+    {
+     "src": "media/sub-women-v23.mp4",
+     "poster": "img/poster-sub-women-23.jpg",
+     "vtt": "media/sub-women-v23.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:00",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-23",
+     "size": 5009434
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 23/2569",

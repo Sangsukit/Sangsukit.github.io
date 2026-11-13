@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=mQMjpBKfhPeepk8HLAc"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v36pre.mp4",
+    "poster": "img/poster36pre.jpg",
+    "vtt": "media/v36pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:25",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "36p",
+    "size": 5996568
+   },
+   "videos": [
+    {
+     "src": "media/v36pre.mp4",
+     "poster": "img/poster36pre.jpg",
+     "vtt": "media/v36pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:25",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "36p",
+     "size": 5996568
+    }
+   ]
+  },
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -78,7 +103,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=jWMX5bBV_MvmxbC4xx4"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v35.mp4",
+    "poster": "img/poster35.jpg",
+    "vtt": "media/v35.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:35",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "35",
+    "size": 8289483
+   },
+   "videos": [
+    {
+     "src": "media/v35.mp4",
+     "poster": "img/poster35.jpg",
+     "vtt": "media/v35.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:35",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "35",
+     "size": 8289483
+    }
+   ]
+  },
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "เตรียมลงพื้นที่เชียงใหม่–ลำปาง สัมมนาโครงสร้างประชากร และศึกษาร่างกฎหมายคุ้มครองผู้รับงานไปทำที่บ้าน",
@@ -151,7 +201,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=XjmAQzkxeYOucb2R6hM"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v34.mp4",
+    "poster": "img/poster34.jpg",
+    "vtt": "media/v34.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:13",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "34",
+    "size": 5275427
+   },
+   "videos": [
+    {
+     "src": "media/v34.mp4",
+     "poster": "img/poster34.jpg",
+     "vtt": "media/v34.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:13",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "34",
+     "size": 5275427
+    }
+   ]
+  },
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "agenda_only": true,
@@ -205,7 +280,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=FWpSEbbHzJoa3MPvBMU"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v33.mp4",
+    "poster": "img/poster33.jpg",
+    "vtt": "media/v33.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:43",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "33",
+    "size": 6558674
+   },
+   "videos": [
+    {
+     "src": "media/v33.mp4",
+     "poster": "img/poster33.jpg",
+     "vtt": "media/v33.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:43",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "33",
+     "size": 6558674
+    }
+   ]
+  },
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "การแจ้งเกิดอันเป็นเท็จ: รับฟังกระทรวงการต่างประเทศ กระทรวงดิจิทัลฯ และตรวจคนเข้าเมือง",
@@ -273,7 +373,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=yU_j-eKw4ybKQriVnQs"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v32.mp4",
+    "poster": "img/poster32.jpg",
+    "vtt": "media/v32.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:28",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "32",
+    "size": 8317869
+   },
+   "videos": [
+    {
+     "src": "media/v32.mp4",
+     "poster": "img/poster32.jpg",
+     "vtt": "media/v32.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:28",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "32",
+     "size": 8317869
+    }
+   ]
+  },
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "การแจ้งเกิดอันเป็นเท็จ: รับฟังแพทยสภาและราชวิทยาลัย และศึกษาร่างกฎหมายแรงงานทางทะเล",

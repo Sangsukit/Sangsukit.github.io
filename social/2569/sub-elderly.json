@@ -47,7 +47,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1IBEYkSwER18zeAonDE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-elderly-v24.mp4",
+    "poster": "img/poster-sub-elderly-24.jpg",
+    "vtt": "media/sub-elderly-v24.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:24",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "elderly-24",
+    "size": 5755104
+   },
+   "videos": [
+    {
+     "src": "media/sub-elderly-v24.mp4",
+     "poster": "img/poster-sub-elderly-24.jpg",
+     "vtt": "media/sub-elderly-v24.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:24",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "elderly-24",
+     "size": 5755104
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 24/2569",
@@ -79,7 +104,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6DQk7mqF1fk2Jnt7upk"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-elderly-v23.mp4",
+    "poster": "img/poster-sub-elderly-23.jpg",
+    "vtt": "media/sub-elderly-v23.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:13",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "elderly-23",
+    "size": 5349498
+   },
+   "videos": [
+    {
+     "src": "media/sub-elderly-v23.mp4",
+     "poster": "img/poster-sub-elderly-23.jpg",
+     "vtt": "media/sub-elderly-v23.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:13",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "elderly-23",
+     "size": 5349498
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 23/2569",
@@ -111,7 +161,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=eF8w8Kd0KBbWB-W5hyo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-elderly-v22.mp4",
+    "poster": "img/poster-sub-elderly-22.jpg",
+    "vtt": "media/sub-elderly-v22.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:18",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "elderly-22",
+    "size": 3415325
+   },
+   "videos": [
+    {
+     "src": "media/sub-elderly-v22.mp4",
+     "poster": "img/poster-sub-elderly-22.jpg",
+     "vtt": "media/sub-elderly-v22.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:18",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "elderly-22",
+     "size": 3415325
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 22/2569",
