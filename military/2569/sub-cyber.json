@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tRBK2-L7qoxkO5Lzm88"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-cyber-v26pre.mp4",
+    "poster": "img/poster-sub-cyber-26pre.jpg",
+    "vtt": "media/sub-cyber-v26pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:08",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "cyber-26p",
+    "size": 5571732
+   },
+   "videos": [
+    {
+     "src": "media/sub-cyber-v26pre.mp4",
+     "poster": "img/poster-sub-cyber-26pre.jpg",
+     "vtt": "media/sub-cyber-v26pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:08",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-26p",
+     "size": 5571732
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "รับฟังหน่วยงานภาครัฐเรื่องอุตสาหกรรมป้องกันประเทศ: เรื่องเร่งด่วน ข้อขัดข้องด้านกฎหมาย และข้อเสนอ",
