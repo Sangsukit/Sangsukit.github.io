@@ -25,7 +25,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=BX7oUMQZzL427unV8nE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-hospfin-v11.mp4",
+    "poster": "img/poster-sub-hospfin-11.jpg",
+    "vtt": "media/sub-hospfin-v11.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:57",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "hospfin-11",
+    "size": 5032312
+   },
+   "videos": [
+    {
+     "src": "media/sub-hospfin-v11.mp4",
+     "poster": "img/poster-sub-hospfin-11.jpg",
+     "vtt": "media/sub-hospfin-v11.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:57",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "hospfin-11",
+     "size": 5032312
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 11/2569",

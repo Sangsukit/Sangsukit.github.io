@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=81Bl9s0zAqsm--jK4Pk"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v32pre.mp4",
+    "poster": "img/poster32pre.jpg",
+    "vtt": "media/v32pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:06",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "32p",
+    "size": 5094370
+   },
+   "videos": [
+    {
+     "src": "media/v32pre.mp4",
+     "poster": "img/poster32pre.jpg",
+     "vtt": "media/v32pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "32p",
+     "size": 5094370
+    }
+   ]
+  },
   "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -61,7 +86,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=uW8f9r9g5jDQB901WQI"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v31.mp4",
+    "poster": "img/poster31.jpg",
+    "vtt": "media/v31.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:40",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "31",
+    "size": 6452766
+   },
+   "videos": [
+    {
+     "src": "media/v31.mp4",
+     "poster": "img/poster31.jpg",
+     "vtt": "media/v31.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:40",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "31",
+     "size": 6452766
+    }
+   ]
+  },
   "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "agenda_only": true,
@@ -108,7 +158,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=xT2wuwsp3wWvTCNUUOw"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v30.mp4",
+    "poster": "img/poster30.jpg",
+    "vtt": "media/v30.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:18",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "30",
+    "size": 7747383
+   },
+   "videos": [
+    {
+     "src": "media/v30.mp4",
+     "poster": "img/poster30.jpg",
+     "vtt": "media/v30.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:18",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "30",
+     "size": 7747383
+    }
+   ]
+  },
   "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "agenda_only": true,
@@ -155,7 +230,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zb21X7GyB77E-UaI-3g"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v29.mp4",
+    "poster": "img/poster29.jpg",
+    "vtt": "media/v29.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:24",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "29",
+    "size": 8014683
+   },
+   "videos": [
+    {
+     "src": "media/v29.mp4",
+     "poster": "img/poster29.jpg",
+     "vtt": "media/v29.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:24",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "29",
+     "size": 8014683
+    }
+   ]
+  },
   "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "การเงินโรงพยาบาลชุมชน และมาตรฐานศูนย์ดูแลผู้สูงอายุ",
@@ -212,7 +312,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=FDWs4INnFaMoEAfqNXk"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v28.mp4",
+    "poster": "img/poster28.jpg",
+    "vtt": "media/v28.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:12",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "28",
+    "size": 7416978
+   },
+   "videos": [
+    {
+     "src": "media/v28.mp4",
+     "poster": "img/poster28.jpg",
+     "vtt": "media/v28.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:12",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "28",
+     "size": 7416978
+    }
+   ]
+  },
   "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "การเงินโรงพยาบาล (ต่อ): รับฟังชมรมโรงพยาบาลศูนย์/ทั่วไป และโรงพยาบาลในพื้นที่",
@@ -263,7 +388,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZqwxDzJetXx8Qiid4-o"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v27.mp4",
+    "poster": "img/poster27.jpg",
+    "vtt": "media/v27.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:07",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "27",
+    "size": 7346273
+   },
+   "videos": [
+    {
+     "src": "media/v27.mp4",
+     "poster": "img/poster27.jpg",
+     "vtt": "media/v27.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:07",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "27",
+     "size": 7346273
+    }
+   ]
+  },
   "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "สถานะการเงินโรงพยาบาลกระทรวงสาธารณสุข ปี 2566–2568",
