@@ -119,16 +119,6 @@ html.tp-glide .whereami{opacity:0!important;transition:none!important}
  #tp-load.go{transform:scaleX(.85);transition:none}}
 </style>
 <!--/TAP-->
-<!--ALERTS_CTA--><style id="acta-css">
-.acta-pick{margin:4px 0 18px;padding:16px 18px 18px;border-radius:18px;background:#EEF6EC;border:2px solid #7FB487;color:#1F3A22;font-size:1.08rem;line-height:1.6}
-.acta-pick p{margin:0 0 6px}.acta-pick b{font-weight:700}
-.acta-pick .nm{font-weight:700}
-.acta-pick button{display:flex;align-items:center;justify-content:center;width:100%;min-height:56px;margin-top:10px;padding:10px 18px;border:0;border-radius:999px;background:#6E1A16;color:#fff;font:inherit;font-size:1.12rem;font-weight:700;cursor:pointer;transition:transform .45s cubic-bezier(.34,1.4,.64,1)}
-.acta-pick button:active{transform:scale(.97);transition:transform .12s cubic-bezier(.5,0,.75,0)}
-.acta-pick button:focus-visible{outline:3px solid #C9A55A;outline-offset:3px}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .acta-pick{background:rgba(127,180,135,.12);border-color:rgba(127,180,135,.6);color:#E3F1E4}}
-@media (prefers-reduced-motion:reduce){.acta-pick button,.acta-pick button:active{transition:none;transform:none}}
-</style>
 </head>
 <body>
 <svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
@@ -213,7 +203,7 @@ html.tp-glide .whereami{opacity:0!important;transition:none!important}
 <script>
 const API = "https://parliamentx-alerts.parliamentx.workers.dev";   // build_site.py --api https://parliamentx-alerts.parliamentx.workers.dev
 const PREVIEW = API.includes("REPLACE");                         // preview: no network calls, fake answers
-const TOPICS = [{"id": "s414", "name": "คณะกรรมาธิการการบริหารราชการแผ่นดิน", "subs": [{"id": "s414-central", "name": "คณะอนุกรรมาธิการส่วนกลางและส่วนภูมิภาค"}, {"id": "s414-dev", "name": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ"}, {"id": "s414-disaster", "name": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ"}]}, {"id": "s410", "name": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ", "subs": [{"id": "s410-military", "name": "คณะอนุกรรมาธิการด้านกิจการทหาร"}, {"id": "s410-holistic", "name": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม"}, {"id": "s410-cyber", "name": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ"}]}, {"id": "s428", "name": "คณะกรรมาธิการการเกษตรและสหกรณ์", "subs": [{"id": "s428-livestock", "name": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง"}, {"id": "s428-water", "name": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน"}, {"id": "s428-network", "name": "คณะอนุกรรมาธิการเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากล"}]}, {"id": "s423", "name": "คณะกรรมาธิการการแรงงาน", "subs": [{"id": "s423-welfare", "name": "คณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน"}, {"id": "s423-employment", "name": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน"}, {"id": "s423-socialsec", "name": "คณะอนุกรรมาธิการด้านการประกันสังคม"}]}, {"id": "s412", "name": "คณะกรรมาธิการการกฎหมาย และการยุติธรรม", "subs": [{"id": "s412-police", "name": "คณะอนุกรรมาธิการการตำรวจ"}, {"id": "s412-law", "name": "คณะอนุกรรมาธิการการกฎหมาย"}, {"id": "s412-justice", "name": "คณะอนุกรรมาธิการการยุติธรรม"}]}, {"id": "s426", "name": "คณะกรรมาธิการการพาณิชย์และการอุตสาหกรรม", "subs": [{"id": "s426-smegov", "name": "คณะอนุกรรมาธิการส่งเสริมเอสเอ็มอีและเขตเศรษฐกิจพิเศษสู่ตลาดภาครัฐและออนไลน์"}, {"id": "s426-smeurgent", "name": "คณะอนุกรรมาธิการพิจารณาศึกษาแนวทางและมาตรการช่วยเหลือ SMEs ระยะเร่งด่วนและการยกระดับสู่ผู้ประกอบการที่เข้มแข็ง แข่งขันได้ และเติบโตอย่างยั่งยืน"}, {"id": "s426-industry", "name": "คณะอนุกรรมาธิการอุตสาหกรรม"}]}];
+const TOPICS = [{"id": "s414", "name": "คณะกรรมาธิการการบริหารราชการแผ่นดิน", "subs": [{"id": "s414-central", "name": "คณะอนุกรรมาธิการส่วนกลางและส่วนภูมิภาค"}, {"id": "s414-dev", "name": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ"}, {"id": "s414-disaster", "name": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ"}]}, {"id": "s410", "name": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ", "subs": [{"id": "s410-military", "name": "คณะอนุกรรมาธิการด้านกิจการทหาร"}, {"id": "s410-holistic", "name": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม"}, {"id": "s410-cyber", "name": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ"}]}, {"id": "s428", "name": "คณะกรรมาธิการการเกษตรและสหกรณ์", "subs": [{"id": "s428-livestock", "name": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง"}, {"id": "s428-water", "name": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน"}, {"id": "s428-network", "name": "คณะอนุกรรมาธิการเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากล"}]}, {"id": "s423", "name": "คณะกรรมาธิการการแรงงาน", "subs": [{"id": "s423-welfare", "name": "คณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน"}, {"id": "s423-employment", "name": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน"}, {"id": "s423-socialsec", "name": "คณะอนุกรรมาธิการด้านการประกันสังคม"}]}, {"id": "s412", "name": "คณะกรรมาธิการการกฎหมาย และการยุติธรรม", "subs": [{"id": "s412-police", "name": "คณะอนุกรรมาธิการการตำรวจ"}, {"id": "s412-law", "name": "คณะอนุกรรมาธิการการกฎหมาย"}, {"id": "s412-justice", "name": "คณะอนุกรรมาธิการการยุติธรรม"}]}, {"id": "s426", "name": "คณะกรรมาธิการการพาณิชย์และการอุตสาหกรรม", "subs": [{"id": "s426-smegov", "name": "คณะอนุกรรมาธิการส่งเสริมเอสเอ็มอีและเขตเศรษฐกิจพิเศษสู่ตลาดภาครัฐและออนไลน์"}, {"id": "s426-smeurgent", "name": "คณะอนุกรรมาธิการพิจารณาศึกษาแนวทางและมาตรการช่วยเหลือ SMEs ระยะเร่งด่วนและการยกระดับสู่ผู้ประกอบการที่เข้มแข็ง แข่งขันได้ และเติบโตอย่างยั่งยืน"}, {"id": "s426-industry", "name": "คณะอนุกรรมาธิการอุตสาหกรรม"}]}, {"id": "s427", "name": "คณะกรรมาธิการการพัฒนาสังคม และกิจการเด็ก เยาวชน สตรี ผู้สูงอายุ คนพิการ ผู้ด้อยโอกาส และความหลากหลายทางสังคม", "subs": [{"id": "s427-children", "name": "คณะอนุกรรมาธิการกิจการเด็ก เยาวชน และกลุ่มชาติพันธุ์"}, {"id": "s427-elderly", "name": "คณะอนุกรรมาธิการกิจการผู้สูงอายุ คนพิการ และผู้ด้อยโอกาส"}, {"id": "s427-women", "name": "คณะอนุกรรมาธิการกิจการสตรี และผู้มีความหลากหลายทางเพศ"}]}, {"id": "s424", "name": "คณะกรรมาธิการการสาธารณสุข", "subs": [{"id": "s424-hospfin", "name": "คณะอนุกรรมาธิการศึกษาการพัฒนาประสิทธิภาพ และความยั่งยืนทางการเงินของโรงพยาบาลภาครัฐ"}]}];
 const SYM = {"s412": "law", "s428": "agri", "s421": "transport", "s413": "foreign", "s410": "security", "s422": "tourism", "s419": "ict", "s414": "admin", "s430": "local", "s420": "energy", "s415": "politics", "s427": "social", "s426": "commerce", "s423": "labour", "s418": "culture", "s425": "education", "s416": "economy", "s424": "health", "s411": "integrity", "s429": "budget", "s417": "environment"};   // committee id -> its symbol (build_site.py, from brand/committee-symbols); none: name only
 const $ = (s) => document.querySelector(s);
 const views = ["sign", "sent", "manage", "gone", "bad"];
@@ -577,24 +567,6 @@ D.addEventListener("click",function(e){if(e.defaultPrevented||e.button>0||e.meta
   l.classList.remove("go");void l.offsetWidth;l.classList.add("go");setTimeout(function(){l.classList.remove("go")},9000)},0)},false);
 addEventListener("pageshow",function(){var l=D.getElementById("tp-load");if(l)l.classList.remove("go")});
 W.__tapGlide=function(el){if(el)go(el,location.hash,false)};
-})();
-</script>
-<script id="acta-pick-js">
-(function(){
-var D=document,q=new URLSearchParams(location.search).getAll("c");if(!q.length)return;
-var T={th:["ท่านเลือกไว้แล้ว:","เหลือเพียงกรอกอีเมลในขั้นที่ 2 หากต้องการเลือกคณะอื่นเพิ่ม ทำได้ในขั้นที่ 1 ด้านล่าง","ไปกรอกอีเมล ↓"],
- en:["Already chosen for you:","Only your email is left, in step 2. To add other committees, use step 1 below.","Go to the email box ↓"]};
-function EN(){return D.documentElement.lang==="en"}
-function names(){var n=[];q.forEach(function(c){var i=D.querySelector('#topics input[value="'+c.replace(/"/g,"")+'"]');if(!i||!i.checked)return;
-  var l=i.closest("label")||i.parentNode;var t=(l&&l.textContent||"").replace(/\s+/g," ").trim();if(t)n.push(t)});return n}
-var box=null;
-function draw(){var n=names(),m=D.getElementById("sign-msg");if(!n.length||!m)return;var L=EN()?T.en:T.th;
- if(!box){box=D.createElement("div");box.className="acta-pick";box.setAttribute("role","status");box.setAttribute("data-i18n-skip","");m.parentNode.insertBefore(box,m.nextSibling)}
- box.innerHTML="<p><b></b> <span class=\"nm\"></span></p><p class=\"t\"></p><button type=\"button\"></button>";
- box.querySelector("b").textContent=L[0];box.querySelector(".nm").textContent=n.join(", ");box.querySelector(".t").textContent=L[1];
- var b=box.querySelector("button");b.textContent=L[2];b.addEventListener("click",function(){var g=D.getElementById("to-email");if(g)g.click()})}
-function start(){draw();new MutationObserver(function(){setTimeout(draw,80)}).observe(D.documentElement,{attributes:true,attributeFilter:["lang"]})}
-if(D.readyState==="loading")D.addEventListener("DOMContentLoaded",function(){setTimeout(start,0)});else setTimeout(start,0);
 })();
 </script>
 </body>
