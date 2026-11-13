@@ -21,11 +21,11 @@
   "at": "2026-11-11"
  },
  "sub-holistic#20": {
-  "f": "audio/sub-holistic-20-0d1c4ce6.mp3",
-  "h": "0d1c4ce6",
-  "d": 83.4,
+  "f": "audio/sub-holistic-20-2d656a18.mp3",
+  "h": "2d656a18",
+  "d": 90.0,
   "v": "Nook",
-  "at": "2026-11-11"
+  "at": "2026-11-13"
  },
  "sub-military#30": {
   "f": "audio/sub-military-30-c480386f.mp3",
@@ -52,6 +52,20 @@
   "f": "audio/sub-cyber-26-2fba6f06.mp3",
   "h": "2fba6f06",
   "d": 118.8,
+  "v": "Nook",
+  "at": "2026-11-13"
+ },
+ "index#31": {
+  "f": "audio/index-31-2952e7fe.mp3",
+  "h": "2952e7fe",
+  "d": 171.0,
+  "v": "Nook",
+  "at": "2026-11-13"
+ },
+ "sub-holistic#21": {
+  "f": "audio/sub-holistic-21-730a26a3.mp3",
+  "h": "730a26a3",
+  "d": 97.8,
   "v": "Nook",
   "at": "2026-11-13"
  }

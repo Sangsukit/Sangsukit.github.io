@@ -20,7 +20,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=xv28iOw5uVOyTuUsqVc"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-children-v25.mp4",
+    "poster": "img/poster-sub-children-25.jpg",
+    "vtt": "media/sub-children-v25.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:22",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "children-25",
+    "size": 5696531
+   },
+   "videos": [
+    {
+     "src": "media/sub-children-v25.mp4",
+     "poster": "img/poster-sub-children-25.jpg",
+     "vtt": "media/sub-children-v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:22",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "children-25",
+     "size": 5696531
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 25/2569",
@@ -52,7 +77,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=nyD1nP_6cCaDtoaWE8M"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-children-v24.mp4",
+    "poster": "img/poster-sub-children-24.jpg",
+    "vtt": "media/sub-children-v24.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:18",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "children-24",
+    "size": 5577578
+   },
+   "videos": [
+    {
+     "src": "media/sub-children-v24.mp4",
+     "poster": "img/poster-sub-children-24.jpg",
+     "vtt": "media/sub-children-v24.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:18",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "children-24",
+     "size": 5577578
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 24/2569",
@@ -84,7 +134,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fokccOsvmYqO3v-TZ0g"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-children-v23.mp4",
+    "poster": "img/poster-sub-children-23.jpg",
+    "vtt": "media/sub-children-v23.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:25",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "children-23",
+    "size": 5707512
+   },
+   "videos": [
+    {
+     "src": "media/sub-children-v23.mp4",
+     "poster": "img/poster-sub-children-23.jpg",
+     "vtt": "media/sub-children-v23.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:25",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "children-23",
+     "size": 5707512
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 23/2569",
@@ -116,7 +191,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=pj-tn609EBsHG8Ekudw"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-children-v22.mp4",
+    "poster": "img/poster-sub-children-22.jpg",
+    "vtt": "media/sub-children-v22.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:27",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "children-22",
+    "size": 5865576
+   },
+   "videos": [
+    {
+     "src": "media/sub-children-v22.mp4",
+     "poster": "img/poster-sub-children-22.jpg",
+     "vtt": "media/sub-children-v22.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:27",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "children-22",
+     "size": 5865576
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 22/2569",
