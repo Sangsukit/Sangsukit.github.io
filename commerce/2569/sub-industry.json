@@ -1,5 +1,71 @@
 [
  {
+  "n": 18,
+  "date": "2026-11-16",
+  "time": "13.00",
+  "room": "ประชุมผ่านสื่ออิเล็กทรอนิกส์ (Zoom)",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KYvxMcmh0P1Y7Z7OrxdkdtQCUgQSnEZukbk4gYMSdd6lYWiCQtk0JonUdihONypTPIVD8jmQMmoSV1iM2OK0r81jfWGDdyQGT9kv16QkpFXFVtvVKH7nA6T_PUeZhbPZNRyC9orssF4z9rF5GtNuASz_flKkP_OFs_iyxA==&ref=11175313",
+    "size": 156537
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QK5Pb-euMrlMN8c1z-U"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "media/sub-industry-v18pre.mp4",
+    "poster": "img/poster-sub-industry-18pre.jpg",
+    "vtt": "media/sub-industry-v18pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:45",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "industry-18p",
+    "size": 4316004
+   },
+   "videos": [
+    {
+     "src": "media/sub-industry-v18pre.mp4",
+     "poster": "img/poster-sub-industry-18pre.jpg",
+     "vtt": "media/sub-industry-v18pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:45",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "industry-18p",
+     "size": 4316004
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "ความคืบหน้ารายงานการพิจารณาศึกษา และการเตรียมจัดเสวนา",
+  "summary": "การประชุมวันจันทร์ที่ 16 พฤศจิกายน 2569 เวลา 13.00 น. ประชุมผ่านสื่ออิเล็กทรอนิกส์ (Zoom) ตามมาตรการประหยัดพลังงานตามมติคณะรัฐมนตรี ตามหนังสือนัดประชุม วาระคือการพิจารณาความคืบหน้าการจัดทำรายงานการพิจารณาศึกษาของคณะอนุกรรมาธิการ และการเตรียมความพร้อมในการจัดเสวนาของคณะอนุกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "ความคืบหน้าการจัดทำรายงานการพิจารณาศึกษาของคณะอนุกรรมาธิการ",
+    "วาระที่ 3.1",
+    "sub"
+   ],
+   [
+    "การเตรียมความพร้อมในการจัดเสวนาของคณะอนุกรรมาธิการ",
+    "วาระที่ 3.2",
+    "seminar"
+   ]
+  ],
+  "tags": [
+   "อุตสาหกรรม",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "pending": false,
+  "upcoming": true
+ },
+ {
   "n": 17,
   "date": "2026-11-12",
   "time": "09.00",
@@ -19,12 +85,12 @@
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 17/2569",
-  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้จากหนังสือนัดประชุมในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
   "items": [],
   "tags": [],
   "places": [],
-  "pending": false,
-  "upcoming": true,
+  "pending": true,
+  "upcoming": false,
   "map": {
    "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
    "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",

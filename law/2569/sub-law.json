@@ -1,5 +1,78 @@
 [
  {
+  "n": 20,
+  "date": "2026-11-19",
+  "time": "10.00",
+  "room": "ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lJMMFige-mxtFCOcDrkdj6AYU2rBWBbGPZx5fhob4q6PGjPQpzgt1dNVf78V9nCgfT-tm4lpnSIwteyz4XaLed3UGC_h-jamgtcRK64_Jw-DCJb5MoSKZv9LJe0qCS2xn3pn1mGgG2dKV8MxUuBFKVSUP3eTN_N_UsTwBQ==&ref=11175776",
+    "size": 131374
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Y5O9Vs1CBnXqc3C-k38"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "media/sub-law-v20pre.mp4",
+    "poster": "img/poster-sub-law-20pre.jpg",
+    "vtt": "media/sub-law-v20pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:04",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "law-20p",
+    "size": 5274613
+   },
+   "videos": [
+    {
+     "src": "media/sub-law-v20pre.mp4",
+     "poster": "img/poster-sub-law-20pre.jpg",
+     "vtt": "media/sub-law-v20pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:04",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "law-20p",
+     "size": 5274613
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "agenda_only": true,
+  "headline": "ศึกษาการแทรกแซงกระบวนการยุติธรรมผ่านสื่อสังคมออนไลน์ และศึกษาร่างกฎหมายไว้ล่วงหน้า",
+  "summary": "ระเบียบวาระ: ศึกษาเรื่องการแทรกแซงกระบวนการยุติธรรมผ่านสื่อสังคมออนไลน์ กรณีทนายความและผู้มีชื่อเสียงบนสื่อออนไลน์ (อินฟลูเอนเซอร์) แสดงความคิดเห็นและให้สัมภาษณ์เกี่ยวกับคดีความ โดยเชิญอุปนายกสมาคมคอนเทนต์ครีเอเตอร์ไทยมาร่วมประชุม และศึกษาร่างพระราชบัญญัติที่สภาผู้แทนราษฎรลงมติรับหลักการในวาระที่หนึ่งแล้ว ตามข้อบังคับการประชุมวุฒิสภา พ.ศ. 2562 ข้อ 119 (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "การแทรกแซงกระบวนการยุติธรรมผ่านสื่อสังคมออนไลน์: กรณีทนายความและอินฟลูเอนเซอร์แสดงความคิดเห็นเกี่ยวกับคดีความ",
+    "เชิญ อุปนายกสมาคมคอนเทนต์ครีเอเตอร์ไทย",
+    "law"
+   ],
+   [
+    "ร่างพระราชบัญญัติที่สภาผู้แทนราษฎรรับหลักการในวาระที่หนึ่งแล้ว (ข้อบังคับการประชุมวุฒิสภา พ.ศ. 2562 ข้อ 119)",
+    "พิจารณาตามระเบียบวาระ",
+    "law"
+   ]
+  ],
+  "tags": [
+   "สื่อสังคมออนไลน์",
+   "กระบวนการยุติธรรม",
+   "ร่างกฎหมาย"
+  ],
+  "places": [],
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 19,
   "date": "2026-11-12",
   "time": "10.00",
@@ -7,24 +80,24 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oVq6IzUisi9GgXcPaRaumzAr5RgutbGmQKQ4PvNfC-Xflvm7tRDvqcxealJCTRCEM5-lBUXkl9y9nxLvX5aF3kX4O3xodrE86ezRnqEUn_Ay8M_i5Y_L9h9nr1CGXQvHRW6rdaKramiR6nBxxto9B-ENcwe1TzyluOKpAg==&ref=11136926",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=h0zdIs7H6YNQeoCoUKBbxojirzX9DHiHTdfnV3qvSbp5Pfc4FBEtoY3l6eRwlMeFRVHxX_VjXbgpvsFoB6wTHlbr3IeRBQ5OM-_uomVU3jLdolfp_aw0MNFIpBdbgVwv0dxmn2tUw1hF1WfA2LXnRlV5sOTEUMVQ_Ksf1g==&ref=11136926",
     "size": 196301
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=_B_zE8i9PAZiPrYyHYI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=t7ghgoYwU-tJOGUifsM"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 19/2569",
-  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้จากหนังสือนัดประชุมในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
   "items": [],
   "tags": [],
   "places": [],
-  "pending": false,
-  "upcoming": true
+  "pending": true,
+  "upcoming": false
  },
  {
   "n": 18,

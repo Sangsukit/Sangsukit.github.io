@@ -1,5 +1,73 @@
 [
  {
+  "n": 21,
+  "date": "2026-11-18",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=skF8GHM4Wqf1buECKEhQE6H_Ycfrekp7v0-Rtq7XtGrKpEx0RrTn4fC6FrHp9v_sDzguFU8rSN4qvu_ceYDmhB4esxTaoV68sT_-Dd79q3VVK-JcFBrVnM9Ngo11nRwe_uyouMbyXHs4ImD3mgOjK5XeiCxRqrLavzHr9A==&ref=11175768",
+    "size": 189754
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=smOwDE6PPmNQ96rc1hE"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "media/sub-holistic-v21pre.mp4",
+    "poster": "img/poster-sub-holistic-21pre.jpg",
+    "vtt": "media/sub-holistic-v21pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:55",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "holistic-21p",
+    "size": 4702900
+   },
+   "videos": [
+    {
+     "src": "media/sub-holistic-v21pre.mp4",
+     "poster": "img/poster-sub-holistic-21pre.jpg",
+     "vtt": "media/sub-holistic-v21pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:55",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "holistic-21p",
+     "size": 4702900
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "รับฟังกองกำลังผาเมืองและกองกำลังนเรศวร เรื่องเขตแดนและความมั่นคงตามแนวชายแดน",
+  "summary": "ประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 09.00 นาฬิกา ณ ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา ระเบียบวาระ: พิจารณาสภาพปัญหาและแนวทางการแก้ไขปัญหาเขตแดนและสถานการณ์ความมั่นคงตามแนวชายแดนของประเทศไทยกับประเทศเพื่อนบ้าน โดยเชิญผู้บัญชาการกองกำลังผาเมือง และผู้บัญชาการกองกำลังนเรศวร หรือผู้แทน เข้าร่วมประชุม (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "สภาพปัญหาและแนวทางแก้ไขปัญหาเขตแดนและสถานการณ์ความมั่นคงตามแนวชายแดน",
+    "เชิญ ผู้บัญชาการกองกำลังผาเมือง และผู้บัญชาการกองกำลังนเรศวร หรือผู้แทน",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ชายแดน",
+   "เขตแดน",
+   "ความมั่นคง"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 327 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 20,
   "date": "2026-11-11",
   "time": "09.00",

@@ -1,33 +1,66 @@
 [
  {
-  "n": 21,
-  "date": "2026-11-11",
+  "n": 22,
+  "date": "2026-11-18",
   "time": "10.00",
   "room": "ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WewOwq3hyPKOLE_I5O9u8l_BI0W2FaRh-BvHVuRau0kyh9dpsKzgFa5Z0ldq3HtLkqJGuE729AulY8SQ9Lkbp26D7tOV8ovf0kcJOigq1AKZDyMocMB41QRQsvIFf0KZZlTrltyqDKtgX1KmNoTfivVzxtZn331bD1L1gQ==&ref=11137439",
-    "size": 194462
-   },
-   {
-    "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=d9xvGRA9hOnOxztiWvMstr5-TUQ4sryGe_7uvILeVoC8bTG8KzInRRIb0sBLfJ-S-N13NzP85HWTNLa6vNu01g9L2m5RbaGeahn1JD1rCWGwdWut--E2tG3DA_Vipg4wEXh6xrrHT5FmTe5IoWDQSRtwZefrPyOAB70dNw==&ref=11155821"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zSWnlHppDf01fSYN4EU5UT4dVUjHxkOQE2EcjnJy50Iju45yJgX1yuv2oWNwYcXVsA2BLBSeEjikFK5iZiWXRH-3dcJ_dDopTG97aVu-KIxCF3r6p7eM3wx6XsvFbIcKugKYmRZevM24yox5FAP-ePFJiycywEJxPHW7Aw==&ref=11175778",
+    "size": 167992
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=U5CnNi5QXkaoaM3iRFY"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=CWDlmUFFWHKFvnTSUBk"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-police-v22pre.mp4",
+    "poster": "img/poster-sub-police-22pre.jpg",
+    "vtt": "media/sub-police-v22pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:33",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "police-22p",
+    "size": 3969201
+   },
+   "videos": [
+    {
+     "src": "media/sub-police-v22pre.mp4",
+     "poster": "img/poster-sub-police-22pre.jpg",
+     "vtt": "media/sub-police-v22pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:33",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "police-22p",
+     "size": 3969201
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 21/2569",
-  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้จากหนังสือนัดประชุมในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": false,
+  "agenda_only": true,
+  "headline": "เรื่องที่มีการร้องทุกข์ว่าสารเคมีและสิ่งปฏิกูลจากโรงงานรั่วไหลในจังหวัดปราจีนบุรี: เชิญหน่วยงานที่เกี่ยวข้อง",
+  "summary": "ระเบียบวาระ: พิจารณากรณีที่มีการร้องทุกข์กล่าวโทษต่อสถานีตำรวจภูธรศรีมหาโพธิ ว่ามีสารเคมีและสิ่งปฏิกูลจากโรงงานรั่วไหลออกสู่สิ่งแวดล้อมและพื้นที่เกษตรกรรมในจังหวัดปราจีนบุรี โดยเชิญผู้แทนกรมควบคุมมลพิษ สถานีตำรวจภูธรศรีมหาโพธิ สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดปราจีนบุรี สำนักงานอุตสาหกรรมจังหวัดปราจีนบุรี และผู้แทนโรงงานที่เกี่ยวข้อง เรื่องนี้อยู่ระหว่างการตรวจสอบ ยังไม่มีข้อวินิจฉัย (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "กรณีที่มีการร้องทุกข์ว่าสารเคมีและสิ่งปฏิกูลจากโรงงานรั่วไหลสู่สิ่งแวดล้อมและพื้นที่เกษตรกรรมในจังหวัดปราจีนบุรี",
+    "เชิญ กรมควบคุมมลพิษ สภ.ศรีมหาโพธิ สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัด สำนักงานอุตสาหกรรมจังหวัด และผู้แทนโรงงานที่เกี่ยวข้อง",
+    "complaint"
+   ]
+  ],
+  "tags": [
+   "สิ่งแวดล้อม",
+   "มลพิษ",
+   "เรื่องร้องเรียน"
+  ],
+  "places": [
+   "ปราจีนบุรี"
+  ],
   "upcoming": true,
   "map": {
    "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
@@ -35,6 +68,37 @@
    "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
    "t": "ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา"
   }
+ },
+ {
+  "n": 21,
+  "date": "2026-11-11",
+  "time": "10.00",
+  "room": "ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mpCc4nfDzDpkSBDg94RBDb9MOd8h19j50Uv22lvw3NKkgVWm1lOLVFDxe5vb245berZAQFmaK5xEmq1zxoKauBx1y8KuEyozbC8vqhV6I3P7k1P8Z5aUNB582TGRQkzggVm_Q5Pw5jcsr1TcTi4MibTvTBrFsrfB4_bwMw==&ref=11137439",
+    "size": 194462
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lEBT_gQH3uDwCBQmiyFLLnfSXgvJS9S9N9lyy7UxEArDfkp9ftKpds3fyOJTxPGgmGOV8GUjhG64ai8rooyB2YPFEIf7hpvhR3m1ovDaTrDvm1aSX1QGiA5SQpCXWVo0z-imHkZliGKswR-VRxAKQITXesY3YiZSU46VHA==&ref=11155821"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=5ceIw9IFkFE_o0so79w"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 21/2569",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
  },
  {
   "n": 20,
