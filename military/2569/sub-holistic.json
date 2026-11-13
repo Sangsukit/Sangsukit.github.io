@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=smOwDE6PPmNQ96rc1hE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-holistic-v21pre.mp4",
+    "poster": "img/poster-sub-holistic-21pre.jpg",
+    "vtt": "media/sub-holistic-v21pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:55",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "holistic-21p",
+    "size": 4702900
+   },
+   "videos": [
+    {
+     "src": "media/sub-holistic-v21pre.mp4",
+     "poster": "img/poster-sub-holistic-21pre.jpg",
+     "vtt": "media/sub-holistic-v21pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:55",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "holistic-21p",
+     "size": 4702900
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "รับฟังกองกำลังผาเมืองและกองกำลังนเรศวร เรื่องเขตแดนและความมั่นคงตามแนวชายแดน",

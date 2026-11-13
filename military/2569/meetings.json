@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=YkZBABLBZU7gW_uy0vo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v31pre.mp4",
+    "poster": "img/poster31pre.jpg",
+    "vtt": "media/v31pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:50",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "31p",
+    "size": 7206956
+   },
+   "videos": [
+    {
+     "src": "media/v31pre.mp4",
+     "poster": "img/poster31pre.jpg",
+     "vtt": "media/v31pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:50",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "31p",
+     "size": 7206956
+    }
+   ]
+  },
   "chair": "นายสมบูรณ์ หนูนวล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
