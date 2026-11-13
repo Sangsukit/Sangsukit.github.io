@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//law-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:law-2569-justice-m28@sangsukit.github.io
+DTSTAMP:20261113T121510Z
+DTSTART:20261117T070000Z
+DTEND:20261117T100000Z
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รการยุติธรรม (วุฒิสภา) ครั
+ ้งที่ 28/2569
+LOCATION:ห้องประชุม 401 ชั้น 4 อาคา
+ รรัฐสภา (สัปปายะสภาสถาน 1111 
+ ถนนสามเสน เขตดุสิต กรุงเท
+ พมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/law/2569/sub-justice.h
+ tml#read-28
+URL:https://parliamentx.com/law/2569/sub-justice.html#read-28
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารการยุติธรรม (วุฒิสภา) คร
+ ั้งที่ 28/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
