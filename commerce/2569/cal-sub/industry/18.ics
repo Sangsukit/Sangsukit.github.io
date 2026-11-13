@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//commerce-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:commerce-2569-industry-m18@sangsukit.github.io
+DTSTAMP:20261113T120052Z
+DTSTART:20261116T060000Z
+DTEND:20261116T090000Z
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รอุตสาหกรรม (วุฒิสภา) ครั้
+ งที่ 18/2569
+LOCATION:ประชุมผ่านสื่ออิเล็กท
+ รอนิกส์ (Zoom)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/commerce/2569/sub-indu
+ stry.html#read-18
+URL:https://parliamentx.com/commerce/2569/sub-industry.html#read-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารอุตสาหกรรม (วุฒิสภา) ครั
+ ้งที่ 18/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
