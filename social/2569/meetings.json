@@ -201,32 +201,7 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=XjmAQzkxeYOucb2R6hM"
    }
   ],
-  "media": {
-   "video": {
-    "src": "media/v34.mp4",
-    "poster": "img/poster34.jpg",
-    "vtt": "media/v34.th.vtt",
-    "kind": "post",
-    "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "2:13",
-    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "34",
-    "size": 5275427
-   },
-   "videos": [
-    {
-     "src": "media/v34.mp4",
-     "poster": "img/poster34.jpg",
-     "vtt": "media/v34.th.vtt",
-     "kind": "post",
-     "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "2:13",
-     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-     "ck": "34",
-     "size": 5275427
-    }
-   ]
-  },
+  "media": {},
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "agenda_only": true,
