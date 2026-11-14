@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:42:19Z",
+ "updated": "2026-11-14T18:19:13Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
@@ -32,12 +32,12 @@
    },
    "items": [
     {
-     "title": "นิพนธ์-อดุลย์ สานสัมพันธ์ สงขลา-ต้าอี้ ชูความร่วมมือยางพารา-ท่องเที่ยวสองเมือง",
-     "url": "https://www.matichon.co.th/politics/news_5975360",
+     "title": "ดึงผู้ประกอบการรับซื้อพืช 3 หัวฤดูผลิตปี69/70 นำร่อง 10,950 ตัน เพิ่มมั่นใจเกษตรกรมีรายได้",
+     "url": "https://www.matichon.co.th/economy/news_5975756",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-14T07:57:43Z"
+     "date": "2026-11-14T11:30:31Z"
     },
     {
      "title": "พาณิชย์ ลุยดูดซับลำไย 4 หมื่นตัน รับมือพืช 3 หัวทะลัก ธ.ค. จับตาราคาข้าว-มันสำปะหลัง",
@@ -48,12 +48,12 @@
      "date": "2026-11-14T07:57:02Z"
     },
     {
-     "title": "“ชนินทร์” จี้กระทรวงเกษตรฯ ปรับตัว เร่งผลิตกุ้ง 5 แสนตัน รับตลาดโลก",
-     "url": "https://www.prachachat.net/economic/news-2096559",
+     "title": "ค้าภายใน เช็คราคาสินค้าตลาดเชียงใหม่ เร่งพยุง ข้าว-มัน-พืช3หัว-ลำไย",
+     "url": "https://www.matichon.co.th/economy/news_5975652",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-14T05:00:34Z"
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-14T10:58:02Z"
     }
    ]
   },
@@ -90,12 +90,12 @@
    },
    "items": [
     {
-     "title": "‘กรมควบคุมมลพิษ’ เตือนฝุ่น PM2.5 กทม.-ปริมณฑลขยับสูงขึ้น พบเกินมาตรฐาน 9 พื้นที่",
-     "url": "https://www.dailynews.co.th/news/6360335/",
+     "title": "PM2.5มาแล้วกทม.-ปริมณฑล เกินมาตรฐาน 9 พื้นที่ คาด 19–20 พ.ย. มีแนวโน้มสูงขึ้นอีก",
+     "url": "https://www.matichon.co.th/local/news_5975795",
      "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-14T10:16:22Z"
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-14T12:11:27Z"
     },
     {
      "title": "ฝุ่น PM2.5 กทม.-ปริมณฑลเริ่มพุ่ง เกินมาตรฐาน 9 พื้นที่ เตือน 19-20 พ.ย. จ่อสูงขึ้นอีก",
@@ -158,6 +158,64 @@
    ]
   },
   {
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
+   },
+   "outlets": 1,
+   "count": 3,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-holistic.html#read-20"
+   },
+   "items": [
+    {
+     "title": "เจเศรษฐ์ ลงพื้นที่ชายแดน ส่องเหมืองแร่เมียนมา จ่อประสานจีนคุมต้นตอสารพิษ",
+     "url": "https://www.matichon.co.th/politics/news_5975951",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-14T13:26:50Z"
+    },
+    {
+     "title": "กรมการค้าต่างประเทศ ปักธงเป้าการค้าชายแดน-ผ่านแดน ปี 69 นิวไฮทะลุกว่า 2 ล้านล้านบาท",
+     "url": "https://www.matichon.co.th/economy/news_5975046",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-14T04:19:27Z"
+    },
+    {
+     "title": "กพร. คุมเข้มนำเข้าแร่ชายแดน จ่อชงประกาศกระทรวงฯ สกัดต้นตอมลพิษข้ามชาติ",
+     "url": "https://www.matichon.co.th/economy/news_5974373",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T09:42:23Z"
+    }
+   ]
+  },
+  {
    "id": "rice",
    "th": "ข้าวและชาวนา",
    "en": "Rice and rice farmers",
@@ -208,56 +266,6 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-13T08:40:24Z"
-    }
-   ]
-  },
-  {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
-   },
-   "outlets": 1,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
-   },
-   "items": [
-    {
-     "title": "กรมการค้าต่างประเทศ ปักธงเป้าการค้าชายแดน-ผ่านแดน ปี 69 นิวไฮทะลุกว่า 2 ล้านล้านบาท",
-     "url": "https://www.matichon.co.th/economy/news_5975046",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-14T04:19:27Z"
-    },
-    {
-     "title": "กพร. คุมเข้มนำเข้าแร่ชายแดน จ่อชงประกาศกระทรวงฯ สกัดต้นตอมลพิษข้ามชาติ",
-     "url": "https://www.matichon.co.th/economy/news_5974373",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T09:42:23Z"
     }
    ]
   }
