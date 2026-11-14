@@ -2307,7 +2307,7 @@ function sayable(s){s=String(s||"");MOSRE.forEach(([re,f])=>s=s.replace(re,f));S
 function sayText(m){
  const L=briefLines(m),it=m.items||[];
  const parts=[`การประชุมคณะอนุกรรมาธิการการถ่ายโอน สอน. และ รพ.สต. ไปยัง อบจ. (ยุติการพิจารณา) ครั้งที่ ${m.n} ปี 2568 ${thaiDate(m)}`,m.headline,
-  `สรุปสั้น. ${L.map(x=>x[1]+". "+x[2]).join(". ")}`,m.summary,
+  ...((!m.pending&&it.length)?[`สรุปสั้น. ${L.map(x=>x[1]+". "+x[2]).join(". ")}`]:[]),m.summary,
   ...it.map((x,i)=>m.upcoming?`${x[1]}. ${x[0]}`:`เรื่องที่ ${i+1}. ${x[0]}. ${m.agenda_only?"":"มติ "}${x[1]}`),
   "จบการอ่าน. ข้อมูลนี้เป็นบทสรุป โปรดตรวจสอบกับเอกสารต้นฉบับประกอบด้วย. ขอบคุณที่รับฟัง"];
  return parts.map(sayable);
