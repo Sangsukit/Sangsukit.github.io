@@ -1,163 +1,63 @@
 {
- "updated": "2026-11-13T19:53:49Z",
+ "updated": "2026-11-14T01:31:08Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
   {
-   "id": "localgov",
-   "th": "จังหวัด อำเภอ และการกระจายอำนาจ",
-   "en": "Provinces, districts and decentralisation",
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
    "icon": "cs-admin",
    "photo": {
-    "src": "hot/img/localgov",
-    "credit": "Ahoerstemeier",
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
     "lic": "CC BY-SA 3.0",
-    "lic_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "page": "https://commons.wikimedia.org/wiki/File:Surat_Thani_provincial_hall.jpg",
-    "alt_th": "ศาลากลางจังหวัด",
-    "alt_en": "A provincial hall"
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
    },
    "outlets": 2,
    "count": 3,
    "body": {
-    "th": "คณะอนุกรรมาธิการส่วนกลางและส่วนภูมิภาค",
-    "en": "Subcommittee on Central and Regional Administration",
-    "url": "committee-archive-2569/sub-central.html"
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
    },
    "parent": {
     "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
     "en": "Committee on Public Administration",
     "url": "committee-archive-2569/"
    },
-   "meeting": null,
-   "items": [
-    {
-     "title": "ผู้ว่าฯนครนายก สั่งตั้ง กก.สอบวินัยร้ายแรง ‘กำนันศรีกะอาง’ ปมสนามวิ่งเทรล​",
-     "url": "https://www.dailynews.co.th/news/6358379/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-13T15:00:15Z"
-    },
-    {
-     "title": "ผู้ว่าฯ ลำพูน เปิดใจหลังถูกโยกนั่งผู้ตรวจมหาดไทย ยันไม่ว่าตำแหน่งไหนก็พร้อมหนุนพัฒนาลำพูน",
-     "url": "https://www.matichon.co.th/politics/news_5974608",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T11:25:01Z"
-    },
-    {
-     "title": "กำนันมะโน ลั่นเหลือคนเดียวก็สู้ นัด 16 พ.ย. เดิน 12 กม. จี้พลังงานลดน้ำมัน 10 บาท จ่อเคลื่อนอีก 20 พ.ย.",
-     "url": "https://www.matichon.co.th/politics/news_5974517",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T11:04:48Z"
-    }
-   ]
-  },
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 2,
-   "count": 3,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
    "meeting": {
-    "n": 33,
-    "date": "2026-09-21",
-    "url": "agriculture/2569/#read-33"
+    "n": 8,
+    "date": "2026-10-08",
+    "url": "committee-archive-2569/sub-disaster.html#read-8"
    },
    "items": [
     {
-     "title": "ไทย-จีน ลงนามร่วมมือ 8 ฉบับ ดันสินค้าเกษตรไทย ยกระดับยานยนต์-เศรษฐกิจ",
-     "url": "https://www.matichon.co.th/politics/news_5974697",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T12:53:19Z"
-    },
-    {
-     "title": "พืชผลราคาดีขึ้นยกแผง “ข้าวปทุม” พุ่ง 55% พาณิชย์ชี้ข้าว-มัน-ข้าวโพด-ปาล์มขายเหนือทุน",
-     "url": "https://www.prachachat.net/economic/news-2096183",
+     "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
+     "url": "https://www.prachachat.net/news/news-2096443",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-13T09:29:44Z"
+     "date": "2026-11-14T01:18:54Z"
     },
     {
-     "title": "‘ธีระชัย – เบญจพล’ ถกเครือข่ายสถาบันเกษตรกรชาวสวนยาง",
-     "url": "https://www.matichon.co.th/economy/news_5973932",
+     "title": "อัปเดตล่าสุด 13 พ.ย. 2569 ยอดจ่ายเงินช่วยเหลือผู้ประสบอุทกภัย \"น้ำท่วม กทม.\"",
+     "url": "https://www.thairath.co.th/news/local/bangkok/2972396",
      "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-12T12:48:42Z"
-    }
-   ]
-  },
-  {
-   "id": "cyber",
-   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
-   "en": "Cyber and defence industry",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/cyber",
-    "credit": "Christopher Bowns",
-    "lic": "CC BY-SA 2.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
-    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
-    "alt_en": "An aisle between server racks in a data centre"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
-    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
-    "url": "military/2569/sub-cyber.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 25,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-cyber.html#read-25"
-   },
-   "items": [
-    {
-     "title": "ออมสิน คุมเข้มภัยไซเบอร์ สกัด AI เจาะระบบการเงินโลก งัดแผนรับมือ ตรวจ 24 ชม.",
-     "url": "https://www.matichon.co.th/economy/news_5974407",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T09:49:35Z"
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-13T13:59:05Z"
     },
     {
-     "title": "ดีอี – ภาคสื่อสาร ชูแผน “National Roaming” รับวิกฤตโจมตีไซเบอร์ด้วย AI",
-     "url": "https://www.prachachat.net/tech/news-2096124",
+     "title": "พายุ ‘ดอกเบี้ยขาขึ้น’ กำลังมา ถอดรหัสปมเสี่ยงน่ากลัวกว่า AI",
+     "url": "https://www.prachachat.net/no1/news-2096336",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-13T09:02:53Z"
+     "date": "2026-11-14T00:35:00Z"
     }
    ]
   },
@@ -194,20 +94,70 @@
    },
    "items": [
     {
+     "title": "ผู้ช่วย ผบ.ตร. สั่งยกระดับคุมเข้มชายแดนใต้ เร่งป้องกันเหตุเชิงรุก",
+     "url": "https://www.dailynews.co.th/news/6358587/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-14T00:37:50Z"
+    },
+    {
      "title": "กพร. คุมเข้มนำเข้าแร่ชายแดน จ่อชงประกาศกระทรวงฯ สกัดต้นตอมลพิษข้ามชาติ",
      "url": "https://www.matichon.co.th/economy/news_5974373",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-13T09:42:23Z"
+    }
+   ]
+  },
+  {
+   "id": "livestock",
+   "th": "ปศุสัตว์และประมง",
+   "en": "Livestock and fisheries",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/livestock",
+    "credit": "Love Krittaya",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "alt_th": "วัวกินหญ้าในทุ่งนา",
+    "alt_en": "A cow grazing in a rice field"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
+    "en": "Subcommittee on Livestock and Fisheries Standards",
+    "url": "agriculture/2569/sub-livestock.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "meeting": {
+    "n": 7,
+    "date": "2026-07-15",
+    "url": "agriculture/2569/sub-livestock.html#read-7"
+   },
+   "items": [
+    {
+     "title": "ญี่ปุ่นพบไข้หวัดนก ระบาดในฟาร์มไก่จังหวัดชิบะ นับเป็นฟาร์มที่ 2 ของฤดูกาลนี้",
+     "url": "https://www.thairath.co.th/news/foreign/2972422",
+     "lang": "th",
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-13T22:59:34Z"
     },
     {
-     "title": "กพร.คุมเข้มนำเข้าแร่ชายแดน จ่อชงประกาศกระทรวง สกัดต้นตอมลพิษข้ามชาติ",
-     "url": "https://www.prachachat.net/economic/news-2096160",
+     "title": "พบโลหะหนักเกินเกณฑ์บางตัวอย่างแม่น้ำกก-โขง กรมประมงเร่งถกแผนรับมือ",
+     "url": "https://www.prachachat.net/economic/news-2096243",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-13T09:06:15Z"
+     "date": "2026-11-13T10:47:13Z"
     }
    ]
   },
@@ -262,6 +212,52 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-13T08:40:24Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 1,
+   "count": 2,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 33,
+    "date": "2026-09-21",
+    "url": "agriculture/2569/#read-33"
+   },
+   "items": [
+    {
+     "title": "ไทย-จีน ลงนามร่วมมือ 8 ฉบับ ดันสินค้าเกษตรไทย ยกระดับยานยนต์-เศรษฐกิจ",
+     "url": "https://www.matichon.co.th/politics/news_5974697",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-13T12:53:19Z"
+    },
+    {
+     "title": "‘ธีระชัย – เบญจพล’ ถกเครือข่ายสถาบันเกษตรกรชาวสวนยาง",
+     "url": "https://www.matichon.co.th/economy/news_5973932",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-12T12:48:42Z"
     }
    ]
   }
