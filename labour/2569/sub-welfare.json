@@ -3,21 +3,26 @@
   "n": 25,
   "date": "2026-11-18",
   "time": "09.00",
-  "room": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6EZi866b3NDJRR8pgZq5iUypJihroq8H0LDiNq7LMqPVOowYNhtz_Z_nRpqFZGLNmbKX83K1W6aTqFdArSpIS-JvMCeDURryF2ZsvFjqHFWEmdmRcC0jgORyEUfNgVePov35MBY4MtjdXVjVcLhzqmXRaGp7WF77DHZcSA==&ref=11146372",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6dTC6r3d-h4DqVxZm3CwRtfRwW0Q9MXqkVsPG1FtvzksJAVXR9gfYMXsAvNWDOWi2VWNYQx3uB3t32dA1i4yFCoODSTFKRqD27zsf76GOsWDnxOKttGVFFBkTZqCmtZo6NueGuLSHDZWCXzdtc5YOV86ZLBl5jtZsjDAOA==&ref=11146372",
     "size": 70548
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oJUIP4cKiSy5eeSt593TARQoKNfdS2c5Xhc36ftAeNM4pTm-RUjbq3C4kwY4fzKFBDK7xtBf0Y4Olfj6PZhxmWm4MMIeNoHxtwTa70p1gNIvzCqLEqX6INi7wQq4rG5I2UjcLiQ9iLS8yRTqeOiA1UkYst-Bu5G74PPgiA==&ref=11156957",
-    "size": 70548
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BoKWvnY9QTU18RCe3TJYSsK2e09-tHr1vXTkbjUg-qA_9M9aZ75eM-xK-qtr_UMph5m_WXXNxVsULghQrnsedP0QZat4LeyKGiBUR5QGZ4zijqNwaSiNx-zMZQjMMXInG2SxuUPJdf7u-9VJxqCjBJHD9CHoGPagnTNPfg==&ref=11175203",
+    "size": 163705
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RFzz1M0RXdPEscujCBz0XTOdaCzCQNVkeUKX4zF8EY7l65dv6K1xP0FqqlHyuWBNG6d98q4JJeG9AHHyhaFDuKgKgU-eHlCRZDuoTimUHYhaDC3B_lg6e_llvhOjni4kKIXeZsNjkAmfKivaTha_9AIULmDEwxHC2oYHtQ==&ref=11175276",
+    "size": 163705
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TdHD4fer0nmILmlbTPQ"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3IQgmpqbBH3pVgGT8DY"
    }
   ],
   "media": {
@@ -49,7 +54,7 @@
   "chair": "",
   "chair_role": "",
   "headline": "พิจารณาศึกษาร่างกฎหมายคุ้มครองผู้รับงานไปทำที่บ้าน (ต่อ)",
-  "summary": "ระเบียบวาระ: พิจารณาศึกษาร่างพระราชบัญญัติคุ้มครองผู้รับงานไปทำที่บ้าน (ฉบับที่ ..) พ.ศ. .... ต่อเนื่อง โดยเชิญหน่วยงานภาครัฐที่เกี่ยวข้อง เช่น กรมการจัดหางาน กรมสวัสดิการและคุ้มครองแรงงาน สำนักงานประกันสังคม และสำนักงานคณะกรรมการกฤษฎีกา รวมทั้งนักวิชาการและผู้แทนเครือข่ายแรงงานนอกระบบ มาให้ข้อมูล",
+  "summary": "ระเบียบวาระ: พิจารณาศึกษาร่างพระราชบัญญัติคุ้มครองผู้รับงานไปทำที่บ้าน (ฉบับที่ ..) พ.ศ. .... ต่อเนื่อง โดยเชิญหน่วยงานภาครัฐที่เกี่ยวข้อง เช่น กรมการจัดหางาน กรมสวัสดิการและคุ้มครองแรงงาน สำนักงานประกันสังคม และสำนักงานคณะกรรมการกฤษฎีกา รวมทั้งนักวิชาการและผู้แทนเครือข่ายแรงงานนอกระบบ มาให้ข้อมูล (สถานที่ประชุมเปลี่ยนจากห้องประชุมกรรมาธิการ CB 311 ชั้น 3 เป็นห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา ตามหนังสือแจ้งเปลี่ยนแปลงสถานที่ประชุม ลงวันที่ 13 พฤศจิกายน 2569 ระเบียบวาระเดิม)",
   "items": [
    [
     "ร่างพระราชบัญญัติคุ้มครองผู้รับงานไปทำที่บ้าน (ฉบับที่ ..) พ.ศ. .... (ข้อบังคับการประชุมวุฒิสภา ข้อ 119)",
@@ -63,7 +68,13 @@
   ],
   "places": [],
   "agenda_only": true,
-  "upcoming": true
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา"
+  }
  },
  {
   "n": 24,
