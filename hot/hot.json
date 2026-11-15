@@ -1,8 +1,66 @@
 {
- "updated": "2026-11-15T06:51:10Z",
- "feeds_ok": 13,
+ "updated": "2026-11-15T16:27:30Z",
+ "feeds_ok": 12,
  "window_h": 72,
  "topics": [
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 4,
+   "count": 5,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 8,
+    "date": "2026-10-08",
+    "url": "committee-archive-2569/sub-disaster.html#read-8"
+   },
+   "items": [
+    {
+     "title": "หนุ่มส่งแก๊สหวิดดับจอดรถหลบพายุฝน ลมพัดต้นมะขามเทศยักษ์ทับร่างสาหัส",
+     "url": "https://www.dailynews.co.th/news/6362409/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-15T14:25:34Z"
+    },
+    {
+     "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
+     "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-haze-indonesia-6552421",
+     "lang": "en",
+     "outlet_th": "ซีเอ็นเอ",
+     "outlet_en": "CNA",
+     "date": "2026-11-15T10:44:00Z"
+    },
+    {
+     "title": "“ชัชชาติ”ทบทวนจุดเสี่ยงฝั่งตะวันออก รับมือน้ำท่วมปีหน้า เผยอีก 5 ปีอุโมงค์บึงหนองบอนเฟส2 เสร็จ",
+     "url": "https://www.prachachat.net/news/news-2096808",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-15T09:00:56Z"
+    }
+   ]
+  },
   {
    "id": "border",
    "th": "ชายแดนและความมั่นคง",
@@ -18,7 +76,7 @@
     "alt_en": "A border checkpoint building"
    },
    "outlets": 3,
-   "count": 4,
+   "count": 5,
    "body": {
     "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
     "en": "Subcommittee on Holistic Security",
@@ -36,44 +94,102 @@
    },
    "items": [
     {
-     "title": "“อ.เชน” บุกตรวจจุดปนเปื้อนชายแดนแม่สาย ชง ศปช. ผุดโมเดลชะลอน้ำดักตะกอน",
-     "url": "https://www.thairath.co.th/news/politic/2972609",
+     "title": "อ.เชน ลุยชายแดนแม่สาย ตรวจสารหนูในน้ำ ซัพพอร์ต M-Sense 5 นาทีรู้ผล ต้นทุน 60 บาท",
+     "url": "https://www.prachachat.net/economic/news-2096841",
      "lang": "th",
-     "outlet_th": "ไทยรัฐ",
-     "outlet_en": "Thairath",
-     "date": "2026-11-15T05:56:17Z"
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-15T12:51:27Z"
     },
     {
-     "title": "Army slams temple exhibit in Cambodia",
-     "url": "https://www.bangkokpost.com/thailand/general/3354701/army-slams-temple-exhibit-in-cambodia",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-14T23:53:00Z"
-    },
-    {
-     "title": "กรมการค้าต่างประเทศ ปักธงเป้าการค้าชายแดน-ผ่านแดน ปี 69 นิวไฮทะลุกว่า 2 ล้านล้านบาท",
-     "url": "https://www.matichon.co.th/economy/news_5975046",
+     "title": "ไทย-ลาว ดันการค้าสองฝ่ายแตะ 12,000 ล้านดอลล์ในปี’70 เดินหน้าความร่วมมือความมั่นคงชายแดน",
+     "url": "https://www.matichon.co.th/politics/news_5976720",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-14T04:19:27Z"
+     "date": "2026-11-15T11:13:12Z"
+    },
+    {
+     "title": "Thailand demanding action on mining waste flowing from Myanmar",
+     "url": "https://www.bangkokpost.com/thailand/general/3355065/thailand-demanding-action-on-mining-waste-flowing-from-myanmar",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-15T09:41:00Z"
     }
    ]
   },
   {
-   "id": "rice",
-   "th": "ข้าวและชาวนา",
-   "en": "Rice and rice farmers",
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
+   },
+   "outlets": 3,
+   "count": 4,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "labour/2569/sub-socialsec.html#read-20"
+   },
+   "items": [
+    {
+     "title": "อนุสรณ์ เร่งปฏิรูปประกันสังคม ชี้ 3 ขอ หากถอนโดยไม่มีเพดานหรือถอนได้ทุกปี กองทุนชราภาพจะหมดเร็วขึ้น 6–16 ปี",
+     "url": "https://www.matichon.co.th/politics/news_5976746",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-15T11:28:08Z"
+    },
+    {
+     "title": "“อนุสรณ์” แนะเร่งปฏิรูปประกันสังคม ชี้ “3 ขอ” หากถอนแบบไร้เพดาน กองทุนชราภาพจะหมดเร็วขึ้น 6-16 ปี",
+     "url": "https://www.infoquest.co.th/2026/679661",
+     "lang": "th",
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-15T10:58:13Z"
+    },
+    {
+     "title": "Can Social Security reforms save the fund?",
+     "url": "https://www.bangkokpost.com/business/general/3354430/can-social-security-reforms-save-the-fund",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-13T23:14:00Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
    "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/rice",
-    "credit": "Eerin25",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
-    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
-    "alt_en": "Green rice paddies with a bamboo walkway"
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
    },
    "outlets": 2,
    "count": 4,
@@ -84,34 +200,34 @@
    },
    "parent": null,
    "meeting": {
-    "n": 3,
-    "date": "2026-01-14",
-    "url": "agriculture/2569/#read-3"
+    "n": 33,
+    "date": "2026-09-21",
+    "url": "agriculture/2569/#read-33"
    },
    "items": [
     {
-     "title": "‘ซินเจนทา-GIZ’ ลุยอีสาน เพิ่มมูลค่าข้าว ปั้นชาวนามืออาชีพ",
-     "url": "https://www.prachachat.net/economic/news-2095286",
+     "title": "พาณิชย์เร่งช่วยเหลือชาวสวนลำไย ดูดซับขายทั่วประเทศ 4 หมื่นตัน",
+     "url": "https://www.prachachat.net/economic/news-2096779",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-15T05:58:19Z"
+     "date": "2026-11-15T07:58:11Z"
     },
     {
-     "title": "พาณิชย์ ปูพรมเช็คราคาพืชเกษตร ยันขยับดีทุกตัว ข้าวเปลือกขึ้น 9-55%",
-     "url": "https://www.matichon.co.th/economy/news_5974695",
+     "title": "สนค. ชู กระทงกาบหมาก-เปลือกข้าวโพด ลอยรักษ์โลก กระตุ้นเศรษฐกิจชุมชน-ลดงบกำจัดขยะ",
+     "url": "https://www.matichon.co.th/economy/news_5976232",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-13T12:29:45Z"
+     "date": "2026-11-15T04:26:35Z"
     },
     {
-     "title": "พาณิชย์ ปูพรมเช็กราคาพืชเกษตร ยันขยับดีทุกตัว ข้าวเปลือกขึ้น 9-55% มัน 65.14% ข้าวโพด36.95% ปาล์ม 16.23%",
-     "url": "https://www.matichon.co.th/economy/news_5974642",
+     "title": "ดึงผู้ประกอบการรับซื้อพืช 3 หัวฤดูผลิตปี69/70 นำร่อง 10,950 ตัน เพิ่มมั่นใจเกษตรกรมีรายได้",
+     "url": "https://www.matichon.co.th/economy/news_5975756",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-13T11:43:20Z"
+     "date": "2026-11-14T11:30:31Z"
     }
    ]
   },
@@ -148,20 +264,20 @@
    },
    "items": [
     {
-     "title": "สวนดุสิตโพล ชี้ ประชาชนผวา เงินในบัญชีสูญหายจากภัยไซเบอร์ 47.73% ไม่ค่อยเชื่อมั่นรัฐบาลรับมือ",
-     "url": "https://www.matichon.co.th/politics/news_5976230",
+     "title": "สนค. ชี้ภัยไซเบอร์สะเทือนห่วงโซ่อาหารยุโรป โจทย์ใหม่ Food Security แนะพร้อม 6 เรื่องรับมือแข่งขัน",
+     "url": "https://www.matichon.co.th/economy/news_5976638",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-15T04:55:02Z"
+     "date": "2026-11-15T10:00:15Z"
     },
     {
-     "title": "ดุสิตโพล เผยคนไทยผวา! ภัยไซเบอร์โจมตีระบบธนาคาร หวั่นสูญเงินในบัญชี ไม่มั่นใจรัฐรับมือได้",
-     "url": "https://www.infoquest.co.th/2026/679599",
+     "title": "ไซเบอร์ป่วนตู้แช่ยุโรป อาหารเสียหาย สนค.ชี้ความเสี่ยงใหม่ส่งออกอาหารไทย",
+     "url": "https://www.prachachat.net/economic/news-2096803",
      "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-15T03:56:25Z"
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-15T08:13:02Z"
     },
     {
      "title": "ออมสิน คุมเข้มภัยไซเบอร์ สกัด AI เจาะระบบการเงินโลก งัดแผนรับมือ ตรวจ 24 ชม.",
@@ -170,106 +286,6 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-13T09:49:35Z"
-    }
-   ]
-  },
-  {
-   "id": "jobs",
-   "th": "การหางานและแรงงานต่างชาติ",
-   "en": "Jobs and migrant workers",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/jobs",
-    "credit": "Bigcitydata",
-    "lic": "CC BY 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
-    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
-    "alt_en": "Office towers in Silom, Bangkok"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
-    "en": "Subcommittee on Employment and Skills",
-    "url": "labour/2569/sub-employment.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 21,
-    "date": "2026-09-23",
-    "url": "labour/2569/sub-employment.html#read-21"
-   },
-   "items": [
-    {
-     "title": "กรมประมง เตือน นายจ้างเร่งต่ออายุใบอนุญาตทำงานแรงงานต่างด้าว ก่อน 11 ธ.ค. 2569 นี้",
-     "url": "https://www.thairath.co.th/news/politic/2972621",
-     "lang": "th",
-     "outlet_th": "ไทยรัฐ",
-     "outlet_en": "Thairath",
-     "date": "2026-11-15T06:42:39Z"
-    },
-    {
-     "title": "AI Generative Dynamic พลวัตเอไอการอยู่รอดของนายจ้างและมนุษย์เงินเดือน",
-     "url": "https://www.matichon.co.th/article/news_5974151",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-14T02:07:42Z"
-    }
-   ]
-  },
-  {
-   "id": "drought",
-   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
-   "en": "Drought and water for farms",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/drought",
-    "credit": "NASA image created by Jesse Allen",
-    "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
-    "alt_en": "Satellite image of drought in Southeast Asia"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
-    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
-    "url": "agriculture/2569/sub-water.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "meeting": {
-    "n": 19,
-    "date": "2026-11-11",
-    "url": "agriculture/2569/sub-water.html#read-19"
-   },
-   "items": [
-    {
-     "title": "เชียงรายวิกฤต น้ำแม่สายขุ่นเกินมาตรฐาน ทำประปาต้องหยุดผลิตหลายครั้ง นักวิชาการจี้เร่งหาแหล่งน้ำสำรอง",
-     "url": "https://www.matichon.co.th/region/news_5976227",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-15T05:33:04Z"
-    },
-    {
-     "title": "เชียงราย น้ำประปา อ.เชียงของ พบสารหนูสูง 41 เท่า สั่งห้ามใช้ดื่มกิน งดเจาะบ่อบาดาล",
-     "url": "https://www.thairath.co.th/news/local/2972570",
-     "lang": "th",
-     "outlet_th": "ไทยรัฐ",
-     "outlet_en": "Thairath",
-     "date": "2026-11-15T01:49:16Z"
     }
    ]
   }
