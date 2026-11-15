@@ -17,7 +17,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-cyber-v26pre.mp4",
+    "src": "/video-1/military/2569/media/sub-cyber-v26pre.mp4",
     "poster": "img/poster-sub-cyber-26pre.jpg",
     "vtt": "media/sub-cyber-v26pre.th.vtt",
     "kind": "pre",
@@ -29,7 +29,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-cyber-v26pre.mp4",
+     "src": "/video-1/military/2569/media/sub-cyber-v26pre.mp4",
      "poster": "img/poster-sub-cyber-26pre.jpg",
      "vtt": "media/sub-cyber-v26pre.th.vtt",
      "kind": "pre",
@@ -94,7 +94,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-cyber-v25.mp4",
+    "src": "/video-1/military/2569/media/sub-cyber-v25.mp4",
     "poster": "img/poster-sub-cyber-25.jpg",
     "vtt": "media/sub-cyber-v25.th.vtt",
     "kind": "post",
@@ -106,7 +106,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-cyber-v25.mp4",
+     "src": "/video-1/military/2569/media/sub-cyber-v25.mp4",
      "poster": "img/poster-sub-cyber-25.jpg",
      "vtt": "media/sub-cyber-v25.th.vtt",
      "kind": "post",
@@ -117,7 +117,7 @@
      "size": 7782001
     },
     {
-     "src": "media/sub-cyber-v25pre.mp4",
+     "src": "/video-1/military/2569/media/sub-cyber-v25pre.mp4",
      "poster": "img/poster-sub-cyber-25pre.jpg",
      "vtt": "media/sub-cyber-v25pre.th.vtt",
      "kind": "pre",
@@ -181,7 +181,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-cyber-v24.mp4",
+    "src": "/video-1/military/2569/media/sub-cyber-v24.mp4",
     "poster": "img/poster-sub-cyber-24.jpg",
     "vtt": "media/sub-cyber-v24.th.vtt",
     "kind": "post",
@@ -193,7 +193,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-cyber-v24.mp4",
+     "src": "/video-1/military/2569/media/sub-cyber-v24.mp4",
      "poster": "img/poster-sub-cyber-24.jpg",
      "vtt": "media/sub-cyber-v24.th.vtt",
      "kind": "post",
@@ -252,7 +252,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-cyber-v23.mp4",
+    "src": "/video-1/military/2569/media/sub-cyber-v23.mp4",
     "poster": "img/poster-sub-cyber-23.jpg",
     "vtt": "media/sub-cyber-v23.th.vtt",
     "kind": "post",
@@ -264,7 +264,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-cyber-v23.mp4",
+     "src": "/video-1/military/2569/media/sub-cyber-v23.mp4",
      "poster": "img/poster-sub-cyber-23.jpg",
      "vtt": "media/sub-cyber-v23.th.vtt",
      "kind": "post",
@@ -328,7 +328,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-cyber-v22.mp4",
+    "src": "/video-1/military/2569/media/sub-cyber-v22.mp4",
     "poster": "img/poster-sub-cyber-22.jpg",
     "vtt": "media/sub-cyber-v22.th.vtt",
     "kind": "post",
@@ -340,7 +340,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-cyber-v22.mp4",
+     "src": "/video-1/military/2569/media/sub-cyber-v22.mp4",
      "poster": "img/poster-sub-cyber-22.jpg",
      "vtt": "media/sub-cyber-v22.th.vtt",
      "kind": "post",

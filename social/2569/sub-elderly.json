@@ -49,7 +49,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-elderly-v24.mp4",
+    "src": "/video-1/social/2569/media/sub-elderly-v24.mp4",
     "poster": "img/poster-sub-elderly-24.jpg",
     "vtt": "media/sub-elderly-v24.th.vtt",
     "kind": "post",
@@ -61,7 +61,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-elderly-v24.mp4",
+     "src": "/video-1/social/2569/media/sub-elderly-v24.mp4",
      "poster": "img/poster-sub-elderly-24.jpg",
      "vtt": "media/sub-elderly-v24.th.vtt",
      "kind": "post",
@@ -131,7 +131,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-elderly-v23.mp4",
+    "src": "/video-1/social/2569/media/sub-elderly-v23.mp4",
     "poster": "img/poster-sub-elderly-23.jpg",
     "vtt": "media/sub-elderly-v23.th.vtt",
     "kind": "post",
@@ -143,7 +143,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-elderly-v23.mp4",
+     "src": "/video-1/social/2569/media/sub-elderly-v23.mp4",
      "poster": "img/poster-sub-elderly-23.jpg",
      "vtt": "media/sub-elderly-v23.th.vtt",
      "kind": "post",
@@ -213,7 +213,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-elderly-v22.mp4",
+    "src": "/video-1/social/2569/media/sub-elderly-v22.mp4",
     "poster": "img/poster-sub-elderly-22.jpg",
     "vtt": "media/sub-elderly-v22.th.vtt",
     "kind": "post",
@@ -225,7 +225,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-elderly-v22.mp4",
+     "src": "/video-1/social/2569/media/sub-elderly-v22.mp4",
      "poster": "img/poster-sub-elderly-22.jpg",
      "vtt": "media/sub-elderly-v22.th.vtt",
      "kind": "post",

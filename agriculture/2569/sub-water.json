@@ -21,7 +21,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-water-v20pre.mp4",
+    "src": "/video-1/agriculture/2569/media/sub-water-v20pre.mp4",
     "poster": "img/poster-sub-water-20pre.jpg",
     "vtt": "media/sub-water-v20pre.th.vtt",
     "kind": "pre",
@@ -33,7 +33,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-water-v20pre.mp4",
+     "src": "/video-1/agriculture/2569/media/sub-water-v20pre.mp4",
      "poster": "img/poster-sub-water-20pre.jpg",
      "vtt": "media/sub-water-v20pre.th.vtt",
      "kind": "pre",
@@ -93,7 +93,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-water-v19pre.mp4",
+    "src": "/video-1/agriculture/2569/media/sub-water-v19pre.mp4",
     "poster": "img/poster-sub-water-19pre.jpg",
     "vtt": "media/sub-water-v19pre.th.vtt",
     "kind": "pre",
@@ -105,7 +105,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-water-v19pre.mp4",
+     "src": "/video-1/agriculture/2569/media/sub-water-v19pre.mp4",
      "poster": "img/poster-sub-water-19pre.jpg",
      "vtt": "media/sub-water-v19pre.th.vtt",
      "kind": "pre",

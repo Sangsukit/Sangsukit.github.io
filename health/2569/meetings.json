@@ -17,7 +17,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v32pre.mp4",
+    "src": "/video-1/health/2569/media/v32pre.mp4",
     "poster": "img/poster32pre.jpg",
     "vtt": "media/v32pre.th.vtt",
     "kind": "pre",
@@ -29,7 +29,7 @@
    },
    "videos": [
     {
-     "src": "media/v32pre.mp4",
+     "src": "/video-1/health/2569/media/v32pre.mp4",
      "poster": "img/poster32pre.jpg",
      "vtt": "media/v32pre.th.vtt",
      "kind": "pre",
@@ -88,7 +88,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v31.mp4",
+    "src": "/video-1/health/2569/media/v31.mp4",
     "poster": "img/poster31.jpg",
     "vtt": "media/v31.th.vtt",
     "kind": "post",
@@ -100,7 +100,7 @@
    },
    "videos": [
     {
-     "src": "media/v31.mp4",
+     "src": "/video-1/health/2569/media/v31.mp4",
      "poster": "img/poster31.jpg",
      "vtt": "media/v31.th.vtt",
      "kind": "post",
@@ -160,7 +160,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v30.mp4",
+    "src": "/video-1/health/2569/media/v30.mp4",
     "poster": "img/poster30.jpg",
     "vtt": "media/v30.th.vtt",
     "kind": "post",
@@ -172,7 +172,7 @@
    },
    "videos": [
     {
-     "src": "media/v30.mp4",
+     "src": "/video-1/health/2569/media/v30.mp4",
      "poster": "img/poster30.jpg",
      "vtt": "media/v30.th.vtt",
      "kind": "post",
@@ -232,7 +232,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v29.mp4",
+    "src": "/video-1/health/2569/media/v29.mp4",
     "poster": "img/poster29.jpg",
     "vtt": "media/v29.th.vtt",
     "kind": "post",
@@ -244,7 +244,7 @@
    },
    "videos": [
     {
-     "src": "media/v29.mp4",
+     "src": "/video-1/health/2569/media/v29.mp4",
      "poster": "img/poster29.jpg",
      "vtt": "media/v29.th.vtt",
      "kind": "post",
@@ -314,7 +314,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v28.mp4",
+    "src": "/video-1/health/2569/media/v28.mp4",
     "poster": "img/poster28.jpg",
     "vtt": "media/v28.th.vtt",
     "kind": "post",
@@ -326,7 +326,7 @@
    },
    "videos": [
     {
-     "src": "media/v28.mp4",
+     "src": "/video-1/health/2569/media/v28.mp4",
      "poster": "img/poster28.jpg",
      "vtt": "media/v28.th.vtt",
      "kind": "post",
@@ -390,7 +390,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v27.mp4",
+    "src": "/video-1/health/2569/media/v27.mp4",
     "poster": "img/poster27.jpg",
     "vtt": "media/v27.th.vtt",
     "kind": "post",
@@ -402,7 +402,7 @@
    },
    "videos": [
     {
-     "src": "media/v27.mp4",
+     "src": "/video-1/health/2569/media/v27.mp4",
      "poster": "img/poster27.jpg",
      "vtt": "media/v27.th.vtt",
      "kind": "post",
