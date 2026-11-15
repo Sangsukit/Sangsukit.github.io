@@ -1,0 +1,70 @@
+[
+ {
+  "n": 2,
+  "date": "2026-01-20",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=V-8oT9HYuHSAF1SfXTN8h49kjf4GQZ8a5AzohXr5FKxApmJWGsuEhhcZHh5csUgxUtLz3yKyxSm1sEmlXJmpz2rnIW9N8TLu7Qm3y685Hhm9tHwjWPCEKdFIy4eKJ_Y0NJ5Be0iADdoAJjlp_ZTHLv4jUsNZmwqGUHE=&ref=9296812",
+    "size": 130720
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xDfWSm6fywUhPdDboNd2fnWyq8XTxDscP9ghDAS_ugG4jSiBQsB8URf1f-6PaCOLFHfIGlJlyV_TmS5pjOF_g1Z1ogmr6D8XX3Sd7THezLqL2XksrYocX19wJLM2W7XbSQ4icvQYjdmCNr9ghfwog6TH-92fys3D3cM=&ref=9330971",
+    "size": 19027219
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Mhq8LqmtrwmEj9gLxRA"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2026-01-13",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZdymsUWZ3C-OkDMPPo5guuI0uYf7WIddK_eFi6_FjIEYFWbKxkpUpS6uvRFaDTOy-3IZq9X5bcLn8smy66oNqRJwC-mADDYV-9xPU5_UC4c-SDwma5oUqAYM01crX-5om9gMdJ-xuRP2pip-aPHlxtG5f_kKXA8IMfA=&ref=9227987",
+    "size": 128785
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8l3ReiUPiN9y7DsByGI1dSYQyk_0r6mPAlRYM2akzvgKLaP7CdS6vtiCFQGX5HGdrOoAZJhTLtJOIuBvW3Hyerha_GNOWG5jGXEBLxyTG5h_7z_7kw3Br5nnHJDDt1IPsEhVk6HVnk-al4hrF1WHD48TH8pB5XZJpno=&ref=9277412",
+    "size": 20855403
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QVJAhvQgvKptV8JmdS28rvjfOiT6q8E9gVIQQlHVtbJsAKueHN803bttmO7e7bN0Ado8sUOwLvhhAbHgSFyrRiQ6fQxC5dEsFAzq7tFzVPCp4O2k4_5nop4Qjvrndh33vxOH6-_uG59ISteJrNgLvhC5F73LYdqd0I0=&ref=9395656"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=bCYxFYVFhCSTdK79pZ0"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]

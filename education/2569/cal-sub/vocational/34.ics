@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//education-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:education-2569-vocational-m34@sangsukit.github.io
+DTSTAMP:20261115T113533Z
+DTSTART:20261118T063000Z
+DTEND:20261118T093000Z
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รการศึกษาและอาชีวศึกษา (ว
+ ุฒิสภา) ครั้งที่ 34/2569
+LOCATION:ห้องประชุมกรรมาธิการ CA 
+ 328 ชั้น 3 อาคารรัฐสภา (สัปปาย
+ ะสภาสถาน 1111 ถนนสามเสน เขตด
+ ุสิต กรุงเทพมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/education/2569/sub-voc
+ ational.html#read-34
+URL:https://parliamentx.com/education/2569/sub-vocational.html#read-34
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารการศึกษาและอาชีวศึกษา (
+ วุฒิสภา) ครั้งที่ 34/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
