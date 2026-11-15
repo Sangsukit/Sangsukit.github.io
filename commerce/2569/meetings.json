@@ -17,7 +17,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v34pre.mp4",
+    "src": "/video-1/commerce/2569/media/v34pre.mp4",
     "poster": "img/poster34pre.jpg",
     "vtt": "media/v34pre.th.vtt",
     "kind": "pre",
@@ -29,7 +29,7 @@
    },
    "videos": [
     {
-     "src": "media/v34pre.mp4",
+     "src": "/video-1/commerce/2569/media/v34pre.mp4",
      "poster": "img/poster34pre.jpg",
      "vtt": "media/v34pre.th.vtt",
      "kind": "pre",
@@ -92,7 +92,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v33.mp4",
+    "src": "/video-1/commerce/2569/media/v33.mp4",
     "poster": "img/poster33.jpg",
     "vtt": "media/v33.th.vtt",
     "kind": "post",
@@ -104,7 +104,7 @@
    },
    "videos": [
     {
-     "src": "media/v33.mp4",
+     "src": "/video-1/commerce/2569/media/v33.mp4",
      "poster": "img/poster33.jpg",
      "vtt": "media/v33.th.vtt",
      "kind": "post",
@@ -187,7 +187,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v32.mp4",
+    "src": "/video-1/commerce/2569/media/v32.mp4",
     "poster": "img/poster32.jpg",
     "vtt": "media/v32.th.vtt",
     "kind": "post",
@@ -199,7 +199,7 @@
    },
    "videos": [
     {
-     "src": "media/v32.mp4",
+     "src": "/video-1/commerce/2569/media/v32.mp4",
      "poster": "img/poster32.jpg",
      "vtt": "media/v32.th.vtt",
      "kind": "post",
@@ -262,7 +262,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v31.mp4",
+    "src": "/video-1/commerce/2569/media/v31.mp4",
     "poster": "img/poster31.jpg",
     "vtt": "media/v31.th.vtt",
     "kind": "post",
@@ -274,7 +274,7 @@
    },
    "videos": [
     {
-     "src": "media/v31.mp4",
+     "src": "/video-1/commerce/2569/media/v31.mp4",
      "poster": "img/poster31.jpg",
      "vtt": "media/v31.th.vtt",
      "kind": "post",
@@ -336,7 +336,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v30.mp4",
+    "src": "/video-1/commerce/2569/media/v30.mp4",
     "poster": "img/poster30.jpg",
     "vtt": "media/v30.th.vtt",
     "kind": "post",
@@ -348,7 +348,7 @@
    },
    "videos": [
     {
-     "src": "media/v30.mp4",
+     "src": "/video-1/commerce/2569/media/v30.mp4",
      "poster": "img/poster30.jpg",
      "vtt": "media/v30.th.vtt",
      "kind": "post",

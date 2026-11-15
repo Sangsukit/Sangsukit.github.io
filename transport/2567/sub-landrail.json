@@ -1,0 +1,66 @@
+[
+ {
+  "n": 2,
+  "date": "2024-12-13",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XDOmfMIC5c3YDMBkN66nweHwQTFw0xSco4gv2TWtrNdnc-I6mg6JS79WHqSVeRJrw2IWkCA6hAYuC2ZhAJB6GTL1ljDAtHJ669JWn7myaL5MKTSLnVfUSm2Hi1QU5xgWUrvJ7y09Ib8DnE2fUT2Nr-ytGHj26RNyZz0=&ref=6602359",
+    "size": 116472
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qp2WdwoEchqM0EMR9ZkTgYdlgnbEh0Zpfx6N1qAEfANiSfpJfY03vK2qtwAlfK2hXqhdnmd4DvX9UHFBhRNX4KbzUpfWL4RTXofP0CbmITGo8PYNv_lo4gcJSCxtJ1DsF81xREkKWED72tehQ9RHtKmkgvGGQ62ZBxU=&ref=6666649",
+    "size": 1966780
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=e5mbtxeybz8_NAuYwkA"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2567",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2024-12-02",
+  "time": "13.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EwVa1TRVnaJf0iBUKO_w6kuTN3sQyNm6XtJqSq8l-YXbixMWoRRz4t4f3sdEl7BXeq2YDbN6ZUArgMT8w08FYgvMqBm6z2U-za8BDX0O3ZqU4K2e7KdmC1J3kIH38F-sMMvD0pkZz3ZafQBFYZj3fv9vRr8RyE9V4K8=&ref=6565100",
+    "size": 115127
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PUNq5ITn-Z4S3HtYVgeW5ZpjuGdw142FaXPT5d8isYmVbKpkPRBPiRY63bztTFGHvhSN5NXq7sYfTxOyPeqf274ApmRkymppYrLggaREetw0Fe-PZmouTsqiUAgP0gCB4crBe-bea7cN_Ek2DY2QbiVINBB3GECEh2c=&ref=6602508",
+    "size": 2000370
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0INEdb0k5s0e2WYZ688"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2567",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "n": 1,
+  "date": "2024-12-11",
+  "time": "10.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MV_ilSGaopNR9vFuhGvMTswR2S08ppsBfmryOk6PDZ2caLAesFsSSK73LVo7CB_676KZAMfiJ2BvelDxmd3oUA9JAMKGNlsS4QIVmPKmR-O0eSQjUeX9bfzUW_mcMJD7fzLuAp09EkF0bDV3tNYTvGDO4gKlULdE0xU=&ref=6610083",
+    "size": 116460
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tdxSdPSNUYCxucL4rl7yyWONFCA8CDj0mZYulZyhk8F3XxVMlF0qX_27I0aE_mSSzR4XxTh4nwVW1k8ZbSDnTt34Pjxgmec70aOzZafZyP4jkShfJjOV_N-leamp28smi6zUFRf1DdIr84SiLpwe5clHa4hfzpHGctI=&ref=6884869",
+    "size": 308657
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Rk-aYmL3l_Q1dm8bxD4"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2567",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]

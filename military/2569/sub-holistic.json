@@ -17,7 +17,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-holistic-v21pre.mp4",
+    "src": "/video-1/military/2569/media/sub-holistic-v21pre.mp4",
     "poster": "img/poster-sub-holistic-21pre.jpg",
     "vtt": "media/sub-holistic-v21pre.th.vtt",
     "kind": "pre",
@@ -29,7 +29,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-holistic-v21pre.mp4",
+     "src": "/video-1/military/2569/media/sub-holistic-v21pre.mp4",
      "poster": "img/poster-sub-holistic-21pre.jpg",
      "vtt": "media/sub-holistic-v21pre.th.vtt",
      "kind": "pre",
@@ -90,7 +90,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-holistic-v20.mp4",
+    "src": "/video-1/military/2569/media/sub-holistic-v20.mp4",
     "poster": "img/poster-sub-holistic-20.jpg",
     "vtt": "media/sub-holistic-v20.th.vtt",
     "kind": "post",
@@ -102,7 +102,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-holistic-v20.mp4",
+     "src": "/video-1/military/2569/media/sub-holistic-v20.mp4",
      "poster": "img/poster-sub-holistic-20.jpg",
      "vtt": "media/sub-holistic-v20.th.vtt",
      "kind": "post",
@@ -113,7 +113,7 @@
      "size": 7211937
     },
     {
-     "src": "media/sub-holistic-v20pre.mp4",
+     "src": "/video-1/military/2569/media/sub-holistic-v20pre.mp4",
      "poster": "img/poster-sub-holistic-20pre.jpg",
      "vtt": "media/sub-holistic-v20pre.th.vtt",
      "kind": "pre",
@@ -178,7 +178,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-holistic-v19.mp4",
+    "src": "/video-1/military/2569/media/sub-holistic-v19.mp4",
     "poster": "img/poster-sub-holistic-19.jpg",
     "vtt": "media/sub-holistic-v19.th.vtt",
     "kind": "post",
@@ -190,7 +190,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-holistic-v19.mp4",
+     "src": "/video-1/military/2569/media/sub-holistic-v19.mp4",
      "poster": "img/poster-sub-holistic-19.jpg",
      "vtt": "media/sub-holistic-v19.th.vtt",
      "kind": "post",
@@ -244,7 +244,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-holistic-v18.mp4",
+    "src": "/video-1/military/2569/media/sub-holistic-v18.mp4",
     "poster": "img/poster-sub-holistic-18.jpg",
     "vtt": "media/sub-holistic-v18.th.vtt",
     "kind": "post",
@@ -256,7 +256,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-holistic-v18.mp4",
+     "src": "/video-1/military/2569/media/sub-holistic-v18.mp4",
      "poster": "img/poster-sub-holistic-18.jpg",
      "vtt": "media/sub-holistic-v18.th.vtt",
      "kind": "post",
@@ -315,7 +315,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-holistic-v17.mp4",
+    "src": "/video-1/military/2569/media/sub-holistic-v17.mp4",
     "poster": "img/poster-sub-holistic-17.jpg",
     "vtt": "media/sub-holistic-v17.th.vtt",
     "kind": "post",
@@ -327,7 +327,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-holistic-v17.mp4",
+     "src": "/video-1/military/2569/media/sub-holistic-v17.mp4",
      "poster": "img/poster-sub-holistic-17.jpg",
      "vtt": "media/sub-holistic-v17.th.vtt",
      "kind": "post",

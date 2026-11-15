@@ -64,7 +64,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-socialsec-v19.mp4",
+    "src": "/video-1/labour/2569/media/sub-socialsec-v19.mp4",
     "poster": "img/poster-sub-socialsec-19.jpg",
     "vtt": "media/sub-socialsec-v19.th.vtt",
     "kind": "post",
@@ -76,7 +76,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-socialsec-v19.mp4",
+     "src": "/video-1/labour/2569/media/sub-socialsec-v19.mp4",
      "poster": "img/poster-sub-socialsec-19.jpg",
      "vtt": "media/sub-socialsec-v19.th.vtt",
      "kind": "post",

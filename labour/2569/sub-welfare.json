@@ -27,7 +27,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-welfare-v25pre.mp4",
+    "src": "/video-1/labour/2569/media/sub-welfare-v25pre.mp4",
     "poster": "img/poster-sub-welfare-25pre.jpg",
     "vtt": "media/sub-welfare-v25pre.th.vtt",
     "kind": "pre",
@@ -39,7 +39,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-welfare-v25pre.mp4",
+     "src": "/video-1/labour/2569/media/sub-welfare-v25pre.mp4",
      "poster": "img/poster-sub-welfare-25pre.jpg",
      "vtt": "media/sub-welfare-v25pre.th.vtt",
      "kind": "pre",
@@ -104,7 +104,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-welfare-v24.mp4",
+    "src": "/video-1/labour/2569/media/sub-welfare-v24.mp4",
     "poster": "img/poster-sub-welfare-24.jpg",
     "vtt": "media/sub-welfare-v24.th.vtt",
     "kind": "post",
@@ -116,7 +116,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-welfare-v24.mp4",
+     "src": "/video-1/labour/2569/media/sub-welfare-v24.mp4",
      "poster": "img/poster-sub-welfare-24.jpg",
      "vtt": "media/sub-welfare-v24.th.vtt",
      "kind": "post",
@@ -175,7 +175,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-welfare-v23.mp4",
+    "src": "/video-1/labour/2569/media/sub-welfare-v23.mp4",
     "poster": "img/poster-sub-welfare-23.jpg",
     "vtt": "media/sub-welfare-v23.th.vtt",
     "kind": "post",
@@ -187,7 +187,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-welfare-v23.mp4",
+     "src": "/video-1/labour/2569/media/sub-welfare-v23.mp4",
      "poster": "img/poster-sub-welfare-23.jpg",
      "vtt": "media/sub-welfare-v23.th.vtt",
      "kind": "post",
@@ -246,7 +246,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-welfare-v22.mp4",
+    "src": "/video-1/labour/2569/media/sub-welfare-v22.mp4",
     "poster": "img/poster-sub-welfare-22.jpg",
     "vtt": "media/sub-welfare-v22.th.vtt",
     "kind": "post",
@@ -258,7 +258,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-welfare-v22.mp4",
+     "src": "/video-1/labour/2569/media/sub-welfare-v22.mp4",
      "poster": "img/poster-sub-welfare-22.jpg",
      "vtt": "media/sub-welfare-v22.th.vtt",
      "kind": "post",
@@ -317,7 +317,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-welfare-v21.mp4",
+    "src": "/video-1/labour/2569/media/sub-welfare-v21.mp4",
     "poster": "img/poster-sub-welfare-21.jpg",
     "vtt": "media/sub-welfare-v21.th.vtt",
     "kind": "post",
@@ -329,7 +329,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-welfare-v21.mp4",
+     "src": "/video-1/labour/2569/media/sub-welfare-v21.mp4",
      "poster": "img/poster-sub-welfare-21.jpg",
      "vtt": "media/sub-welfare-v21.th.vtt",
      "kind": "post",

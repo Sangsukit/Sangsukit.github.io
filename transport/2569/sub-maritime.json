@@ -1,0 +1,38 @@
+[
+ {
+  "n": 1,
+  "date": "2026-02-04",
+  "time": "13.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kLEIMygNsXRDYye7YcRe9xSelK2s9ZHnD8yei-N0Ul78ZlGXtAP22sWskrEaDyF81qN4mftMsg9mbhD6QwXcgy6wycSGd-JjJF4hH-SXh2cXeCTKtORjB7b1mRP_Rp65EFL_HWOEQfFqZv8V7VAzx3DLXNHEWp7YGl0=&ref=9389272",
+    "size": 89319
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PiL1ef7T4XkQ1Yso_TIIEXyICLvuCT6faO4mj7hLINyug5SJEJQfDa4YkKjyxA0INHpitcob7p83E4qk2gxzQiTtaiEtvfPnc2TMwfII7BTqGAwva90RvEVsND5JVicSjKpfOji_LaVVn7ya81SNvLchuv8A4Hn5Jz4=&ref=9404951"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xaWQUOIKJxQqH8E5a1qQLoJQIdTg18q_9CfY1V2UgNld6oNKtnGJsMXEpLnmCPVZANSyOgca4xUZZClMENXN_82urrl_OqXsGHO9I2La8a0Bw5cUmIknT6OIEpuq88hmjd8zTUJC-UJ_rwBiOkgV57I1XGHCY7fbEUE=&ref=9493319",
+    "size": 1817494
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=LjpDHS5iYul_7XH-rXo"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]

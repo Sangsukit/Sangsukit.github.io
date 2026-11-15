@@ -1,0 +1,98 @@
+[
+ {
+  "n": 3,
+  "date": "2025-03-24",
+  "time": "13.30",
+  "room": "ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cy7ToxkbWqIKLhfyibihN8SMoMrMBt32oYyNaQMnK9fT9o__69X63MJU8cc2KQb_n1mUVvysNoxy6a4YPF65nMDuHyq2PWH22YgxVVyYk9Uu_F1mr7CAC5Y0HyoWSwke5lVzsEHECo2P0bWd_4wv8JKqJ-aT1tpM2fU=&ref=7286000",
+    "size": 97243
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Hwv7wZtlTvMuPmfTBF4LPlhVpg55h4cdDirgESehphN5zbe3ggjzJV3jAeh92gyRVrS5It4XJuYO_PkSPMNjG8WjmQH2rp3-Ik_JbBp2aUZQXI6O976OBTbiw_mGBoBDXJRsX8r4u8_szAJLkInVrXDf-dQwqY9pfOw=&ref=7357669",
+    "size": 273004
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=13dhU-VnMinDgZTANdY"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 3/2568",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 2,
+  "date": "2025-03-05",
+  "time": "13.30",
+  "room": "ห้องประชุมกรรมาธิการ CB411 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hvayzgr5HVN-Cgk9c403-ojO7DnvoS06v96fI_CwX24puzdFfxHi9q9tx86TZgY785ivS_X0yNOTvlzoJXDpuSSJrP9J2OWfhgSfKEoShcwNJMmOCNb3ALgfM4OY0oxdk7lU92E5KmeetWWMPoUvQG7rhpNm79l8QVo=&ref=7068326",
+    "size": 95355
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=eNl7YKgLHpQ6TyQzG8fbE_4wLSBigto7bVQ3iBl85D5RsDwQiWffFBDQG6NbAYe5khJu8o2mRLAdC3hh0WXyFKW_DqShfz1S90srlhn05asPzO-lBVFm8XZlngxWFPTQoFRVrYE5YRcrmkpq_xZC1iDreOgMcZg7iPQ=&ref=7183213",
+    "size": 256635
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=g9CH-daMFRwsqfMMX68"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2568",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2025-01-16",
+  "time": "10.00",
+  "room": "ห้องประชุม 301 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=e_njdv9NYq6zOIncfzXqWPA3gnMP3nU1Yl5YqYXHYxaYCy1KVEqT38uQ2Q0pqWVb6bJjBCCR_hqVJdQmHRHm_IJqnixoq_5y0CCgiqgSVZilohMTVd3r43CrhS_mKXRtAYVZMluqaCwXGLQVkFIKM3KleDQaWRzsK9U=&ref=6786103",
+    "size": 97753
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dtGXUUR4WEu41YaF6NUuOfvNae4Q4wCbzoq1n5vRIEp5ZywNPuOwrE8eNWDmSw275YGopVIJWCuHU64GNCtZxwhT7WT0XEM7iBml2P7-1BqUSOS5uDiYC3Tt8Sczpgv9mcqFkPoT1mJURnM8oK6P3bwXIx4vpqEH5Z0=&ref=6884872",
+    "size": 294194
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=f4C9nr-y1ERxPquw_h0"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2568",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]

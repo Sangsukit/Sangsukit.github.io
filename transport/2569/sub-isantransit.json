@@ -1,0 +1,225 @@
+[
+ {
+  "n": 4,
+  "date": "2026-11-18",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gzgYq6Arc77ymfzKsK_NLdIfW0Iy9XTdYCm7DKe5L713Bn1d00m19fx6wGPPxW_cwzqk4OZUbkhECUNVTpYIudkXoJSEADqLaZezTVI6yk-U__RJh3wUbiI_TA_yvJr1fTVmPYNw2yP6bxqkShDQ8Tm3mAgHMuuDoIUv2A==&ref=11174785",
+    "size": 106411
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1gpZluVuL7IbsI1ahTU"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-isantransit-v4pre.mp4",
+    "poster": "img/poster-sub-isantransit-4pre.jpg",
+    "vtt": "media/sub-isantransit-v4pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:02",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "isantransit-4p",
+    "size": 4875881
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-isantransit-v4pre.mp4",
+     "poster": "img/poster-sub-isantransit-4pre.jpg",
+     "vtt": "media/sub-isantransit-v4pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:02",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-4p",
+     "size": 4875881
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 4/2569",
+  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้จากหนังสือนัดประชุมในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": false,
+  "upcoming": true
+ },
+ {
+  "n": 3,
+  "date": "2026-11-11",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nt0OX4m1NnX4XNfAgQdXAlBIfwu0GoZCTdbI11Hp3Hh7hUkYR8JIW9eF3W83d9cIECk1y_P0w_SrSL_bGlppexfu9hEZCoElrcwVrOMjfJ4FLQhvTU6Xxt9nHQ4tV471fJ-XLlQT11js5-mrOtlJyNrSDrk5kCk3fmfunQ==&ref=11129552",
+    "size": 107179
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5PS9NGnrbUJDQefymsHp0v4wjcFQxgu8MNRjSTq9Xrf-fP-cWxAcrIPtVVsqrgdXOlcPOwD-9wnNlb3wrbaPA4NbwGepomTbFLz6GnwLo8irxps6toQyD_VQDDFYPFipta2B3bP_BFKP-fq4JNDEWSInybPjCN4d2qOo3A==&ref=11166395",
+    "size": 6973721
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ReBI882EXBNXRdREpOw"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-isantransit-v3.mp4",
+    "poster": "img/poster-sub-isantransit-3.jpg",
+    "vtt": "media/sub-isantransit-v3.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "isantransit-3",
+    "size": 7000886
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-isantransit-v3.mp4",
+     "poster": "img/poster-sub-isantransit-3.jpg",
+     "vtt": "media/sub-isantransit-v3.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-3",
+     "size": 7000886
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 3/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 2,
+  "date": "2026-11-04",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QRFNQ1AKL7tvhJEw5ync4G1VMO345sJQfKD8rR1lg_rwDDjID5M34dwTmmHdzPN_c82hnfyWM274HtZHLB5mAvZoDaANPwEyCUfJCpEa1J1jWkY0FKvws4TydxNpElbU1LPuRVeNa7yEpJZ81JugLeknX-i9TkIQJh871A==&ref=11088926",
+    "size": 105754
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=20p92PHc6NmmCQxvhNOwnADuZgsX2LPI9NuEH4zOiZEaeQEA8yv_rC4dsiQVr29DZ5s7elnz8tejzBtuRerAdNhSkcbvKBFMqtG5LqWJdgM-yXKMGXTNZmQLT-N6vB251NrlFQppqQSGrU9P15gu3-V9vBSKLJJ9X7glvg==&ref=11111247",
+    "size": 7982485
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=M2BDOatbflzoZng8UQU"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-isantransit-v2.mp4",
+    "poster": "img/poster-sub-isantransit-2.jpg",
+    "vtt": "media/sub-isantransit-v2.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:22",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "isantransit-2",
+    "size": 7945070
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-isantransit-v2.mp4",
+     "poster": "img/poster-sub-isantransit-2.jpg",
+     "vtt": "media/sub-isantransit-v2.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:22",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-2",
+     "size": 7945070
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2026-10-29",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TrZQUvRKWG9mP3TU_T4HIkP_0iZ58VsLbHosy93Fz5NJWc3ep3lqY3rtvWFQdPGZSAGREOYl3BjO3iwNiJJBaZIRCrJT10MM6VpuUnd2IW5yNEQcagmMAAZHjln0Z6reFX8uf9-0MMu2cqCe8gdokMQ581u1rSMq8bbmdQ==&ref=11040483",
+    "size": 101760
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zIHsFGFrqm3hVBZZNF6IymHM8Fjv3QVl5PZYHrmmBlwrCp1xM94G3sWVDOweo91aM0qcNrRGbSc90yjmAtHvlJmk5ga70gdqjibCark5F-SdhFEg-ZB8MH4r6bNN5oNFZLQeGZ5KdkBaKqoE9-mCSBl6ZbTCbrOhOjXAkw==&ref=11078624",
+    "size": 5726517
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=EIrbK2FUO_nv3wnsc10"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-isantransit-v1.mp4",
+    "poster": "img/poster-sub-isantransit-1.jpg",
+    "vtt": "media/sub-isantransit-v1.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:27",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "isantransit-1",
+    "size": 7950007
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-isantransit-v1.mp4",
+     "poster": "img/poster-sub-isantransit-1.jpg",
+     "vtt": "media/sub-isantransit-v1.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:27",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-1",
+     "size": 7950007
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]
