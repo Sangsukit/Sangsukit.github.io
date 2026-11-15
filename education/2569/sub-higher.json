@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zqcLlM8p58Fs6lpYtT0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-higher-v40pre.mp4",
+    "poster": "img/poster-sub-higher-40pre.jpg",
+    "vtt": "media/sub-higher-v40pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:18",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "higher-40p",
+    "size": 5473740
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-higher-v40pre.mp4",
+     "poster": "img/poster-sub-higher-40pre.jpg",
+     "vtt": "media/sub-higher-v40pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:18",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "higher-40p",
+     "size": 5473740
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 40/2569",
@@ -103,7 +128,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ahj-FRxZ9un5aavcv-Q"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-higher-v38.mp4",
+    "poster": "img/poster-sub-higher-38.jpg",
+    "vtt": "media/sub-higher-v38.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:37",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "higher-38",
+    "size": 6009239
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-higher-v38.mp4",
+     "poster": "img/poster-sub-higher-38.jpg",
+     "vtt": "media/sub-higher-v38.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:37",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "higher-38",
+     "size": 6009239
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 38/2569",
@@ -140,7 +190,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=B8LZsDmgyMmWhOPPqno"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-higher-v37.mp4",
+    "poster": "img/poster-sub-higher-37.jpg",
+    "vtt": "media/sub-higher-v37.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:09",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "higher-37",
+    "size": 5130911
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-higher-v37.mp4",
+     "poster": "img/poster-sub-higher-37.jpg",
+     "vtt": "media/sub-higher-v37.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:09",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "higher-37",
+     "size": 5130911
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 37/2569",
@@ -187,7 +262,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=j_Aw9jAlR7lS5M-uI-o"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-higher-v36.mp4",
+    "poster": "img/poster-sub-higher-36.jpg",
+    "vtt": "media/sub-higher-v36.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:42",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "higher-36",
+    "size": 6175644
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-higher-v36.mp4",
+     "poster": "img/poster-sub-higher-36.jpg",
+     "vtt": "media/sub-higher-v36.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:42",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "higher-36",
+     "size": 6175644
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 36/2569",

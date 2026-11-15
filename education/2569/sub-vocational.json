@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=i8jKmVvUhxK5pS2x0kI"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-vocational-v34pre.mp4",
+    "poster": "img/poster-sub-vocational-34pre.jpg",
+    "vtt": "media/sub-vocational-v34pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "vocational-34p",
+    "size": 4474624
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-vocational-v34pre.mp4",
+     "poster": "img/poster-sub-vocational-34pre.jpg",
+     "vtt": "media/sub-vocational-v34pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "vocational-34p",
+     "size": 4474624
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 34/2569",
@@ -58,7 +83,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=EHOrDhj4T_yB-uceZt8"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-vocational-v33.mp4",
+    "poster": "img/poster-sub-vocational-33.jpg",
+    "vtt": "media/sub-vocational-v33.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "vocational-33",
+    "size": 4324206
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-vocational-v33.mp4",
+     "poster": "img/poster-sub-vocational-33.jpg",
+     "vtt": "media/sub-vocational-v33.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "vocational-33",
+     "size": 4324206
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 33/2569",
@@ -95,7 +145,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=34wZuMfD0jT4zY6W8Wc"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-vocational-v32.mp4",
+    "poster": "img/poster-sub-vocational-32.jpg",
+    "vtt": "media/sub-vocational-v32.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:10",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "vocational-32",
+    "size": 4855255
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-vocational-v32.mp4",
+     "poster": "img/poster-sub-vocational-32.jpg",
+     "vtt": "media/sub-vocational-v32.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:10",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "vocational-32",
+     "size": 4855255
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 32/2569",
@@ -132,7 +207,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rPnmAxjjViRBCOTqMpE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-vocational-v31.mp4",
+    "poster": "img/poster-sub-vocational-31.jpg",
+    "vtt": "media/sub-vocational-v31.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:15",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "vocational-31",
+    "size": 3111031
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-vocational-v31.mp4",
+     "poster": "img/poster-sub-vocational-31.jpg",
+     "vtt": "media/sub-vocational-v31.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:15",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "vocational-31",
+     "size": 3111031
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 31/2569",
@@ -169,7 +269,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=p_D7-OxwPWKIiWzE6FE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-vocational-v30.mp4",
+    "poster": "img/poster-sub-vocational-30.jpg",
+    "vtt": "media/sub-vocational-v30.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:16",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "vocational-30",
+    "size": 3169795
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-vocational-v30.mp4",
+     "poster": "img/poster-sub-vocational-30.jpg",
+     "vtt": "media/sub-vocational-v30.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:16",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "vocational-30",
+     "size": 3169795
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 30/2569",

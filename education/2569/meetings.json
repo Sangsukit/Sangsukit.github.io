@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=djkcfUszWiC9D1M0BCI"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/v46pre.mp4",
+    "poster": "img/poster46pre.jpg",
+    "vtt": "media/v46pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:34",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "46p",
+    "size": 6188506
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/v46pre.mp4",
+     "poster": "img/poster46pre.jpg",
+     "vtt": "media/v46pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:34",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "46p",
+     "size": 6188506
+    }
+   ]
+  },
   "chair": "นายกมล รอดคล้าย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -76,7 +101,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WB1MBchfbNyoFqJTDwo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/v45.mp4",
+    "poster": "img/poster45.jpg",
+    "vtt": "media/v45.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:58",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "45",
+    "size": 6612169
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/v45.mp4",
+     "poster": "img/poster45.jpg",
+     "vtt": "media/v45.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:58",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "45",
+     "size": 6612169
+    }
+   ]
+  },
   "chair": "นายกมล รอดคล้าย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ขยายอาชีวศึกษาทวิภาคี: ข้อมูลจากกระทรวงแรงงานและ EEC",
@@ -128,7 +178,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Dm_EJkVpYkpxuxGyWW0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/v44.mp4",
+    "poster": "img/poster44.jpg",
+    "vtt": "media/v44.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:01",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "44",
+    "size": 8879843
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/v44.mp4",
+     "poster": "img/poster44.jpg",
+     "vtt": "media/v44.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:01",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "44",
+     "size": 8879843
+    }
+   ]
+  },
   "chair": "นายกมล รอดคล้าย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ข้อเสนอยกระดับมหาวิทยาลัยไทยสู่การจัดอันดับนานาชาติ",
@@ -182,7 +257,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=m4TeA30WvPDtLKNbRpg"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/v43.mp4",
+    "poster": "img/poster43.jpg",
+    "vtt": "media/v43.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:59",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "43",
+    "size": 4659309
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/v43.mp4",
+     "poster": "img/poster43.jpg",
+     "vtt": "media/v43.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:59",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "43",
+     "size": 4659309
+    }
+   ]
+  },
   "chair": "นายกมล รอดคล้าย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "แผนงานคณะทำงานเรื่อง กยศ. และแต่งตั้งอนุกรรมาธิการเพิ่มเติม",
@@ -235,7 +335,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=nDZ3bP8rlC02siHu6M0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/v42.mp4",
+    "poster": "img/poster42.jpg",
+    "vtt": "media/v42.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:58",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "42",
+    "size": 6326644
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/v42.mp4",
+     "poster": "img/poster42.jpg",
+     "vtt": "media/v42.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:58",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "42",
+     "size": 6326644
+    }
+   ]
+  },
   "chair": "นายกมล รอดคล้าย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "คณะรัฐมนตรีรับข้อเสนอเรื่องพัฒนาบัณฑิตให้ตรงตลาดแรงงาน",
@@ -290,7 +415,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=_aGOVI7at_ln6--BCiw"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/v41.mp4",
+    "poster": "img/poster41.jpg",
+    "vtt": "media/v41.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:25",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "41",
+    "size": 7759191
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/v41.mp4",
+     "poster": "img/poster41.jpg",
+     "vtt": "media/v41.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:25",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "41",
+     "size": 7759191
+    }
+   ]
+  },
   "chair": "นายกมล รอดคล้าย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ทำอย่างไรให้งานวิจัยด้านการแพทย์ เกษตร และอาหาร ได้ใช้ประโยชน์จริง",
