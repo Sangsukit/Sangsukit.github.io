@@ -97,6 +97,30 @@
    "published": "2026-11-13T15:59:54Z"
   },
   {
+   "id": "s421-andamanport-2569-5-video_pre",
+   "topic": "s421-andamanport",
+   "kind": "video_pre",
+   "n": 5,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 19 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 5/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-andamanport-5-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kkD88jiJH1SSbWSdwMFAx8CToluN1Gk_M8cE2GJZ5dzePkWLuqpURJs8fMdv6gvwpKVKEUnqaJQ2h39VAJmjxXqvgpWar_JUJ36LkODyr3un9ZTL35xwmCA0WRuk1_iVaJfNpCvRLGCidR6ixnpW3vHHwGMUuuus2dfM0Q==&ref=11175784",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
+   "id": "s421-andamanport-2569-5-pre",
+   "topic": "s421-andamanport",
+   "kind": "pre",
+   "n": 5,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 19 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 5/2569",
+   "page": "https://parliamentx.com/transport/2569/s/andamanport-5.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kkD88jiJH1SSbWSdwMFAx8CToluN1Gk_M8cE2GJZ5dzePkWLuqpURJs8fMdv6gvwpKVKEUnqaJQ2h39VAJmjxXqvgpWar_JUJ36LkODyr3un9ZTL35xwmCA0WRuk1_iVaJfNpCvRLGCidR6ixnpW3vHHwGMUuuus2dfM0Q==&ref=11175784",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
    "id": "s412-law-2569-20-video_pre",
    "topic": "s412-law",
    "kind": "video_pre",
@@ -201,7 +225,7 @@
    "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 09.00 น.",
    "title": "พิจารณาศึกษาร่างกฎหมายคุ้มครองผู้รับงานไปทำที่บ้าน (ต่อ)",
    "page": "https://parliamentx.com/labour/2569/s/v-welfare-25-pre.html",
-   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6EZi866b3NDJRR8pgZq5iUypJihroq8H0LDiNq7LMqPVOowYNhtz_Z_nRpqFZGLNmbKX83K1W6aTqFdArSpIS-JvMCeDURryF2ZsvFjqHFWEmdmRcC0jgORyEUfNgVePov35MBY4MtjdXVjVcLhzqmXRaGp7WF77DHZcSA==&ref=11146372",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6dTC6r3d-h4DqVxZm3CwRtfRwW0Q9MXqkVsPG1FtvzksJAVXR9gfYMXsAvNWDOWi2VWNYQx3uB3t32dA1i4yFCoODSTFKRqD27zsf76GOsWDnxOKttGVFFBkTZqCmtZo6NueGuLSHDZWCXzdtc5YOV86ZLBl5jtZsjDAOA==&ref=11146372",
    "published": "2026-11-11T19:21:52Z"
   },
   {
@@ -213,7 +237,7 @@
    "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 09.00 น.",
    "title": "พิจารณาศึกษาร่างกฎหมายคุ้มครองผู้รับงานไปทำที่บ้าน (ต่อ)",
    "page": "https://parliamentx.com/labour/2569/s/welfare-25.html",
-   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6EZi866b3NDJRR8pgZq5iUypJihroq8H0LDiNq7LMqPVOowYNhtz_Z_nRpqFZGLNmbKX83K1W6aTqFdArSpIS-JvMCeDURryF2ZsvFjqHFWEmdmRcC0jgORyEUfNgVePov35MBY4MtjdXVjVcLhzqmXRaGp7WF77DHZcSA==&ref=11146372",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6dTC6r3d-h4DqVxZm3CwRtfRwW0Q9MXqkVsPG1FtvzksJAVXR9gfYMXsAvNWDOWi2VWNYQx3uB3t32dA1i4yFCoODSTFKRqD27zsf76GOsWDnxOKttGVFFBkTZqCmtZo6NueGuLSHDZWCXzdtc5YOV86ZLBl5jtZsjDAOA==&ref=11146372",
    "published": "2026-11-11T19:21:52Z"
   },
   {
@@ -239,6 +263,54 @@
    "page": "https://parliamentx.com/labour/2569/s/employment-24.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=v8Tj5rFW8p0TZIFUGrk-egpw6ruVHvmKlgpB4Q0kFwu6QpPgZDwFypr10J3cJSXYrgwuFsi5lB4bgm8B4EzGiUlS62M30l9e9DKJQwm8WhdoMozVLBIoH8lu1OEvzpoZiz9rqr2t0UDlKdUDUwR_GhjE3bJVSW1L_TbHMw==&ref=11175182",
    "published": "2026-11-13T15:59:54Z"
+  },
+  {
+   "id": "s421-isantransit-2569-4-video_pre",
+   "topic": "s421-isantransit",
+   "kind": "video_pre",
+   "n": 4,
+   "year": 2569,
+   "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 4/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-isantransit-4-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gzgYq6Arc77ymfzKsK_NLdIfW0Iy9XTdYCm7DKe5L713Bn1d00m19fx6wGPPxW_cwzqk4OZUbkhECUNVTpYIudkXoJSEADqLaZezTVI6yk-U__RJh3wUbiI_TA_yvJr1fTVmPYNw2yP6bxqkShDQ8Tm3mAgHMuuDoIUv2A==&ref=11174785",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
+   "id": "s421-isantransit-2569-4-pre",
+   "topic": "s421-isantransit",
+   "kind": "pre",
+   "n": 4,
+   "year": 2569,
+   "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 4/2569",
+   "page": "https://parliamentx.com/transport/2569/s/isantransit-4.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gzgYq6Arc77ymfzKsK_NLdIfW0Iy9XTdYCm7DKe5L713Bn1d00m19fx6wGPPxW_cwzqk4OZUbkhECUNVTpYIudkXoJSEADqLaZezTVI6yk-U__RJh3wUbiI_TA_yvJr1fTVmPYNw2yP6bxqkShDQ8Tm3mAgHMuuDoIUv2A==&ref=11174785",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
+   "id": "s421-2569-26-video_pre",
+   "topic": "s421",
+   "kind": "video_pre",
+   "n": 26,
+   "year": 2569,
+   "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 14.00 น.",
+   "title": "ส่งเสริมสายการบินขนาดเล็ก และติดตามโครงสร้างพื้นฐานคมนาคมภูเก็ต",
+   "page": "https://parliamentx.com/transport/2569/s/v-26-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zyTr-Y3hIoTY3oThwfrednbPZJB7UDHpCJCcSlsK13VXYK0FLoSy-x5FgaVzzaPllBH-JwJqjcGsDwWToTLpLM_ftSszRc97CxVQFt8fP7noInJZZXXsRyKtlwFM_qtY1QEPlhcUtvlx1lNr1lr_jN-S23o7QFYnl7CMZQ==&ref=11165507",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
+   "id": "s421-2569-26-pre",
+   "topic": "s421",
+   "kind": "pre",
+   "n": 26,
+   "year": 2569,
+   "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 14.00 น.",
+   "title": "ส่งเสริมสายการบินขนาดเล็ก และติดตามโครงสร้างพื้นฐานคมนาคมภูเก็ต",
+   "page": "https://parliamentx.com/transport/2569/s/26.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zyTr-Y3hIoTY3oThwfrednbPZJB7UDHpCJCcSlsK13VXYK0FLoSy-x5FgaVzzaPllBH-JwJqjcGsDwWToTLpLM_ftSszRc97CxVQFt8fP7noInJZZXXsRyKtlwFM_qtY1QEPlhcUtvlx1lNr1lr_jN-S23o7QFYnl7CMZQ==&ref=11165507",
+   "published": "2026-11-15T20:08:27Z"
   },
   {
    "id": "s414-central-2569-31-video_pre",
@@ -287,6 +359,54 @@
    "page": "https://parliamentx.com/committee-archive-2569/s/37.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mOLdv3ZhCDEjNWPaMCSnAKQ3dkmaLuc-UcPfBTQDZrlZyyrAbrALPGT3ZntyaCtfG1jFyHoGih-N9GR2LyoFqQW9f5gRKDNE13NJi-w7ZmL1M9MkopQRDGzs8oKbsXtmoiYPnMVUkamUJMGc3DuNF-leamrdYUbL1ceDHQ==&ref=11165556",
    "published": "2026-11-12T13:38:14Z"
+  },
+  {
+   "id": "s413-sdg-2569-30-video_pre",
+   "topic": "s413-sdg",
+   "kind": "video_pre",
+   "n": 30,
+   "year": 2569,
+   "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 10.00 น.",
+   "title": "การประชุมครั้งที่ 30/2569",
+   "page": "https://parliamentx.com/foreign/2569/s/v-sdg-30-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=p5zVW3NGiW2a2K-rgw7x4myoo9aHFHtqq_ViHUcAEF3eqnHsgJpvZB5stHZNu3WfjrD18dvX47RuRxw7Msmdt72Ckpw1dbKor9lVz_Xzoql5nnAY-7wndbyIFriwvLitVgo8IJ4rtC73zwK5eERHVba-m3VXdhAJbNxosg==&ref=11175762",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
+   "id": "s413-sdg-2569-30-pre",
+   "topic": "s413-sdg",
+   "kind": "pre",
+   "n": 30,
+   "year": 2569,
+   "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 10.00 น.",
+   "title": "การประชุมครั้งที่ 30/2569",
+   "page": "https://parliamentx.com/foreign/2569/s/sdg-30.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=p5zVW3NGiW2a2K-rgw7x4myoo9aHFHtqq_ViHUcAEF3eqnHsgJpvZB5stHZNu3WfjrD18dvX47RuRxw7Msmdt72Ckpw1dbKor9lVz_Xzoql5nnAY-7wndbyIFriwvLitVgo8IJ4rtC73zwK5eERHVba-m3VXdhAJbNxosg==&ref=11175762",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
+   "id": "s413-2569-29-video_pre",
+   "topic": "s413",
+   "kind": "video_pre",
+   "n": 29,
+   "year": 2569,
+   "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "พิจารณากิจการด้านต่างประเทศ",
+   "page": "https://parliamentx.com/foreign/2569/s/v-29-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3xtjsIhGagY6fWEDOlZGIuEVLTNmb1NXlew_hEY1-_gzNkOlqvdt9zXxB-7Afh8IUjDMcRDsMIsTnUbmrmQhLt-Cs7PihhhMTv_gITfnBrEeRK1yh-dZWL7e6gUyimuFjBEuj38FIhuRVyCwV8hsVRt0RuXHE8ea6qYwJQ==&ref=11175752",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
+   "id": "s413-2569-29-pre",
+   "topic": "s413",
+   "kind": "pre",
+   "n": 29,
+   "year": 2569,
+   "date_th": "พุธที่ 18 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "พิจารณากิจการด้านต่างประเทศ",
+   "page": "https://parliamentx.com/foreign/2569/s/29.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3xtjsIhGagY6fWEDOlZGIuEVLTNmb1NXlew_hEY1-_gzNkOlqvdt9zXxB-7Afh8IUjDMcRDsMIsTnUbmrmQhLt-Cs7PihhhMTv_gITfnBrEeRK1yh-dZWL7e6gUyimuFjBEuj38FIhuRVyCwV8hsVRt0RuXHE8ea6qYwJQ==&ref=11175752",
+   "published": "2026-11-15T20:08:27Z"
   },
   {
    "id": "s412-police-2569-22-video_pre",
@@ -407,6 +527,30 @@
    "page": "https://parliamentx.com/military/2569/s/cyber-26.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TDOXoao1dU5Inqm-2y7SYXJ7vjr6O9cmmR_RGOT5qM2QmYDqZdIK-sggv5Kr-_0M7_5zSErlnMchRAWwpfSSrw3MxC66cLH8NOahkARg7UWc4KqB1mHY4ZpJjQG_fUQKOoZcFaNo1piB2fj2HzH86OAiQx0aT7yxYWAFEQ==&ref=11175032",
    "published": "2026-11-13T08:43:15Z"
+  },
+  {
+   "id": "s413-oecd-2569-19-video_pre",
+   "topic": "s413-oecd",
+   "kind": "video_pre",
+   "n": 19,
+   "year": 2569,
+   "date_th": "อังคารที่ 17 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "การประชุมครั้งที่ 19/2569",
+   "page": "https://parliamentx.com/foreign/2569/s/v-oecd-19-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YUhvtWP7TZ1OWwwLQVNxvC17jVqykatxm0Q7jbTDqS5rYMM9-j9HtYWipSVhA9pV8p_MupnVd3IDe4FktqGr9lmFJleOcCpSdT57bSGg2kfeLemoEWV-FR2xdOXl-bOt00Fp0q1j0GYvt3TzxgcaS1wLkS3PZD34O3MZpg==&ref=11175673",
+   "published": "2026-11-15T20:08:27Z"
+  },
+  {
+   "id": "s413-oecd-2569-19-pre",
+   "topic": "s413-oecd",
+   "kind": "pre",
+   "n": 19,
+   "year": 2569,
+   "date_th": "อังคารที่ 17 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "การประชุมครั้งที่ 19/2569",
+   "page": "https://parliamentx.com/foreign/2569/s/oecd-19.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YUhvtWP7TZ1OWwwLQVNxvC17jVqykatxm0Q7jbTDqS5rYMM9-j9HtYWipSVhA9pV8p_MupnVd3IDe4FktqGr9lmFJleOcCpSdT57bSGg2kfeLemoEWV-FR2xdOXl-bOt00Fp0q1j0GYvt3TzxgcaS1wLkS3PZD34O3MZpg==&ref=11175673",
+   "published": "2026-11-15T20:08:27Z"
   },
   {
    "id": "s412-justice-2569-28-video_pre",
@@ -623,6 +767,54 @@
    "page": "https://parliamentx.com/labour/2569/s/socialsec-20.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=LLx4-b40a9yoJrH0PJVUspb0UFx405kCjSIVL-iMjM1jmRnRDOPWuO5QW4KvduuIIzZAiMjfeN4BUyI6xHDO32BjZlEgwxPSByeWOdiRNAOXOGfIrxS0CjD3BMUenJOQYvJJ55IVQC0bPqN46BDAAogJG4HR_yVWc3w7NA==&ref=11070074",
    "published": "2026-11-11T19:21:52Z"
+  },
+  {
+   "id": "s421-isantransit-2569-3-video_post",
+   "topic": "s421-isantransit",
+   "kind": "video_post",
+   "n": 3,
+   "year": 2569,
+   "date_th": "พุธที่ 11 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 3/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-isantransit-3.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5PS9NGnrbUJDQefymsHp0v4wjcFQxgu8MNRjSTq9Xrf-fP-cWxAcrIPtVVsqrgdXOlcPOwD-9wnNlb3wrbaPA4NbwGepomTbFLz6GnwLo8irxps6toQyD_VQDDFYPFipta2B3bP_BFKP-fq4JNDEWSInybPjCN4d2qOo3A==&ref=11166395",
+   "published": "2026-11-11T00:00:00Z"
+  },
+  {
+   "id": "s421-isantransit-2569-3-post",
+   "topic": "s421-isantransit",
+   "kind": "post",
+   "n": 3,
+   "year": 2569,
+   "date_th": "พุธที่ 11 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 3/2569",
+   "page": "https://parliamentx.com/transport/2569/s/isantransit-3.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5PS9NGnrbUJDQefymsHp0v4wjcFQxgu8MNRjSTq9Xrf-fP-cWxAcrIPtVVsqrgdXOlcPOwD-9wnNlb3wrbaPA4NbwGepomTbFLz6GnwLo8irxps6toQyD_VQDDFYPFipta2B3bP_BFKP-fq4JNDEWSInybPjCN4d2qOo3A==&ref=11166395",
+   "published": "2026-11-11T00:00:00Z"
+  },
+  {
+   "id": "s421-2569-25-video_post",
+   "topic": "s421",
+   "kind": "video_post",
+   "n": 25,
+   "year": 2569,
+   "date_th": "พุธที่ 11 พฤศจิกายน 2569 เวลา 13.00 น.",
+   "title": "คณะทำงานเครื่องบินเล็กและเครื่องบินน้ำ และรายงานของคณะอนุกรรมาธิการชุดใหม่",
+   "page": "https://parliamentx.com/transport/2569/s/v-25.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iSLJABmp2EFSXeefSHOUliCAmMJwsf4gtVnGLnnYRqoyyPEmLvdeSOphAF0AvS-65kPRz3kFkiKObSb-zAdVmFKsvxvxItZFA6oZf4E9J0dm5v438p9D7QLe4fUs5zmD2vpEDbE5hkF66_bu8HYiuVXZQXhL2LshdG6RAA==&ref=11165539",
+   "published": "2026-11-11T00:00:00Z"
+  },
+  {
+   "id": "s421-2569-25-post",
+   "topic": "s421",
+   "kind": "post",
+   "n": 25,
+   "year": 2569,
+   "date_th": "พุธที่ 11 พฤศจิกายน 2569 เวลา 13.00 น.",
+   "title": "คณะทำงานเครื่องบินเล็กและเครื่องบินน้ำ และรายงานของคณะอนุกรรมาธิการชุดใหม่",
+   "page": "https://parliamentx.com/transport/2569/s/25.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iSLJABmp2EFSXeefSHOUliCAmMJwsf4gtVnGLnnYRqoyyPEmLvdeSOphAF0AvS-65kPRz3kFkiKObSb-zAdVmFKsvxvxItZFA6oZf4E9J0dm5v438p9D7QLe4fUs5zmD2vpEDbE5hkF66_bu8HYiuVXZQXhL2LshdG6RAA==&ref=11165539",
+   "published": "2026-11-11T00:00:00Z"
   },
   {
    "id": "s414-dev-2569-16-video_pre",
@@ -919,7 +1111,7 @@
    "n": 25,
    "year": 2569,
    "date_th": "พฤหัสบดีที่ 5 พฤศจิกายน 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 25/2569",
+   "title": "รับมือเด็กเกิดน้อย: เงินอุดหนุนเด็กแรกเกิด และการดูแลครอบครัว",
    "page": "https://parliamentx.com/social/2569/s/v-children-25.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5bfiK_w_WObp1Pvp8Df83aQYhg0Q9fu_gf2hyMGQ6LDFHoQ45UzUv1s_-OaTvkbmHpx7bz1T9u39LYrWq1uNlatD5kB7eMl2DTAz__ri6biOuue3cGpgTHiXC277hk7ckbCXxVn8Mc5CVsx6YtJYMCjS_9hmYxbC4-eNsQ==&ref=11136537",
    "published": "2026-11-13T17:29:52Z"
@@ -931,7 +1123,7 @@
    "n": 25,
    "year": 2569,
    "date_th": "พฤหัสบดีที่ 5 พฤศจิกายน 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 25/2569",
+   "title": "รับมือเด็กเกิดน้อย: เงินอุดหนุนเด็กแรกเกิด และการดูแลครอบครัว",
    "page": "https://parliamentx.com/social/2569/s/children-25.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5bfiK_w_WObp1Pvp8Df83aQYhg0Q9fu_gf2hyMGQ6LDFHoQ45UzUv1s_-OaTvkbmHpx7bz1T9u39LYrWq1uNlatD5kB7eMl2DTAz__ri6biOuue3cGpgTHiXC277hk7ckbCXxVn8Mc5CVsx6YtJYMCjS_9hmYxbC4-eNsQ==&ref=11136537",
    "published": "2026-11-05T00:00:00Z"
@@ -1081,6 +1273,30 @@
    "published": "2026-11-11T19:21:52Z"
   },
   {
+   "id": "s421-isantransit-2569-2-video_post",
+   "topic": "s421-isantransit",
+   "kind": "video_post",
+   "n": 2,
+   "year": 2569,
+   "date_th": "พุธที่ 4 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 2/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-isantransit-2.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=20p92PHc6NmmCQxvhNOwnADuZgsX2LPI9NuEH4zOiZEaeQEA8yv_rC4dsiQVr29DZ5s7elnz8tejzBtuRerAdNhSkcbvKBFMqtG5LqWJdgM-yXKMGXTNZmQLT-N6vB251NrlFQppqQSGrU9P15gu3-V9vBSKLJJ9X7glvg==&ref=11111247",
+   "published": "2026-11-04T00:00:00Z"
+  },
+  {
+   "id": "s421-isantransit-2569-2-post",
+   "topic": "s421-isantransit",
+   "kind": "post",
+   "n": 2,
+   "year": 2569,
+   "date_th": "พุธที่ 4 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 2/2569",
+   "page": "https://parliamentx.com/transport/2569/s/isantransit-2.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=20p92PHc6NmmCQxvhNOwnADuZgsX2LPI9NuEH4zOiZEaeQEA8yv_rC4dsiQVr29DZ5s7elnz8tejzBtuRerAdNhSkcbvKBFMqtG5LqWJdgM-yXKMGXTNZmQLT-N6vB251NrlFQppqQSGrU9P15gu3-V9vBSKLJJ9X7glvg==&ref=11111247",
+   "published": "2026-11-04T00:00:00Z"
+  },
+  {
    "id": "s414-2569-35-video_post",
    "topic": "s414",
    "kind": "video_post",
@@ -1207,7 +1423,7 @@
    "n": 11,
    "year": 2569,
    "date_th": "อังคารที่ 3 พฤศจิกายน 2569 เวลา 13.00 น.",
-   "title": "การประชุมครั้งที่ 11/2569",
+   "title": "สรุปผลสัมมนา และร่างรายงานเรื่องการเงินโรงพยาบาลภาครัฐ",
    "page": "https://parliamentx.com/health/2569/s/v-hospfin-11.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zAH9TB0z-kw0DdpyM0esbkMGL1nWrqs-uCL6xTQXZm9Yfapdudh18A2StM-CmD-7beJsKbG1Ef4upOXt7smdieALhda0zDOzTal9HGe4Sw02y4QVGVvQ80ryrJV04fH-xSZz7jlq9lq3bBGppR0RjML-MSs7_jshEKYm-w==&ref=11100996",
    "published": "2026-11-03T00:00:00Z"
@@ -1219,7 +1435,7 @@
    "n": 11,
    "year": 2569,
    "date_th": "อังคารที่ 3 พฤศจิกายน 2569 เวลา 13.00 น.",
-   "title": "การประชุมครั้งที่ 11/2569",
+   "title": "สรุปผลสัมมนา และร่างรายงานเรื่องการเงินโรงพยาบาลภาครัฐ",
    "page": "https://parliamentx.com/health/2569/s/hospfin-11.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zAH9TB0z-kw0DdpyM0esbkMGL1nWrqs-uCL6xTQXZm9Yfapdudh18A2StM-CmD-7beJsKbG1Ef4upOXt7smdieALhda0zDOzTal9HGe4Sw02y4QVGVvQ80ryrJV04fH-xSZz7jlq9lq3bBGppR0RjML-MSs7_jshEKYm-w==&ref=11100996",
    "published": "2026-11-03T00:00:00Z"
@@ -1255,7 +1471,7 @@
    "n": 34,
    "year": 2569,
    "date_th": "พฤหัสบดีที่ 29 ตุลาคม 2569 เวลา 09.00 น.",
-   "title": "กำหนดการสัมมนาของคณะกรรมาธิการ และความคืบหน้าของกรรมาธิการในคณะอื่น",
+   "title": "เห็นชอบร่างกำหนดการสัมมนาเรื่องโครงสร้างประชากร และแต่งตั้งที่ปรึกษากิตติมศักดิ์",
    "page": "https://parliamentx.com/social/2569/s/v-34.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XWE0pF_th9CmZphTIROBikQDVG9TVwx-hSMLsQkLBgMiM2fZScooFemskv-TCWwnbnTPryVv6H--EodHbK4gMD54JiAueVcsMI9CfjChxHH1H2Sied7eJkGOGtZx3F6oTkHpowSo057OL8ldTcjT-XghXG2cj_9fqEylYA==&ref=11049401",
    "published": "2026-11-14T01:45:43Z"
@@ -1283,6 +1499,54 @@
    "page": "https://parliamentx.com/labour/2569/s/28.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=unci5SRUv9xRXnYAO13juC8lxitnP7hTv8gy-uI4ebaBwARlxocrmTJ6r-GzBLRJ7-bsbzJqVgdy5nT5fwiGiBmdCe5S4INcvO7nHLvJy_z4D5V-W8p84MDIQ25Vqocy2SavvylzeFpIdDQHe4UPbS0z6Bmyg6B3bfs1DQ==&ref=11108549",
    "published": "2026-11-11T19:21:52Z"
+  },
+  {
+   "id": "s421-ridehail-2569-2-video_post",
+   "topic": "s421-ridehail",
+   "kind": "video_post",
+   "n": 2,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 29 ตุลาคม 2569 เวลา 10.00 น.",
+   "title": "การประชุมครั้งที่ 2/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-ridehail-2.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8Tit6r22Dbn0LJmsg8OPXYHjOU2YR50FKJgnQoUaqcujLikSOVQ_SGL7GTjfeYRrEfFFjphSbNCtAfOjAW_etzdwYLxbVZFguoXHN1BgRKiewSGeYJ2jpvP37hAHmOmiTDPrREOK-ywQGTh0eaOZIMl8c8egrIfNDFOWCw==&ref=11099230",
+   "published": "2026-10-29T00:00:00Z"
+  },
+  {
+   "id": "s421-ridehail-2569-2-post",
+   "topic": "s421-ridehail",
+   "kind": "post",
+   "n": 2,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 29 ตุลาคม 2569 เวลา 10.00 น.",
+   "title": "การประชุมครั้งที่ 2/2569",
+   "page": "https://parliamentx.com/transport/2569/s/ridehail-2.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8Tit6r22Dbn0LJmsg8OPXYHjOU2YR50FKJgnQoUaqcujLikSOVQ_SGL7GTjfeYRrEfFFjphSbNCtAfOjAW_etzdwYLxbVZFguoXHN1BgRKiewSGeYJ2jpvP37hAHmOmiTDPrREOK-ywQGTh0eaOZIMl8c8egrIfNDFOWCw==&ref=11099230",
+   "published": "2026-10-29T00:00:00Z"
+  },
+  {
+   "id": "s421-isantransit-2569-1-video_post",
+   "topic": "s421-isantransit",
+   "kind": "video_post",
+   "n": 1,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 29 ตุลาคม 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 1/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-isantransit-1.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zIHsFGFrqm3hVBZZNF6IymHM8Fjv3QVl5PZYHrmmBlwrCp1xM94G3sWVDOweo91aM0qcNrRGbSc90yjmAtHvlJmk5ga70gdqjibCark5F-SdhFEg-ZB8MH4r6bNN5oNFZLQeGZ5KdkBaKqoE9-mCSBl6ZbTCbrOhOjXAkw==&ref=11078624",
+   "published": "2026-10-29T00:00:00Z"
+  },
+  {
+   "id": "s421-isantransit-2569-1-post",
+   "topic": "s421-isantransit",
+   "kind": "post",
+   "n": 1,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 29 ตุลาคม 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 1/2569",
+   "page": "https://parliamentx.com/transport/2569/s/isantransit-1.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zIHsFGFrqm3hVBZZNF6IymHM8Fjv3QVl5PZYHrmmBlwrCp1xM94G3sWVDOweo91aM0qcNrRGbSc90yjmAtHvlJmk5ga70gdqjibCark5F-SdhFEg-ZB8MH4r6bNN5oNFZLQeGZ5KdkBaKqoE9-mCSBl6ZbTCbrOhOjXAkw==&ref=11078624",
+   "published": "2026-10-29T00:00:00Z"
   },
   {
    "id": "s410-2569-28-video_post",
@@ -1315,7 +1579,7 @@
    "n": 26,
    "year": 2569,
    "date_th": "พุธที่ 28 ตุลาคม 2569 เวลา 13.00 น.",
-   "title": "การประชุมครั้งที่ 26/2569",
+   "title": "ร่างข้อเสนอเรื่องการแจ้งเกิดอันเป็นเท็จ และผลสำรวจกระบี่โมเดล",
    "page": "https://parliamentx.com/social/2569/s/v-women-26.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WvEKlX8RvlD88O9o3lpEZ-nVe2eEoHQy07txeVwZpIIaOc1gz1bal-Dj-o-fflZy-GsHfodpDgU9Mncl3zcNo98k8z0CPVk3eofc054gBHJXrwSYyiMhlxiI-AETi0Fqi1KAermLBC4Iodthvwqq48-nx_QzWVtW9an7IA==&ref=11136715",
    "published": "2026-11-13T17:29:52Z"
@@ -1327,7 +1591,7 @@
    "n": 26,
    "year": 2569,
    "date_th": "พุธที่ 28 ตุลาคม 2569 เวลา 13.00 น.",
-   "title": "การประชุมครั้งที่ 26/2569",
+   "title": "ร่างข้อเสนอเรื่องการแจ้งเกิดอันเป็นเท็จ และผลสำรวจกระบี่โมเดล",
    "page": "https://parliamentx.com/social/2569/s/women-26.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WvEKlX8RvlD88O9o3lpEZ-nVe2eEoHQy07txeVwZpIIaOc1gz1bal-Dj-o-fflZy-GsHfodpDgU9Mncl3zcNo98k8z0CPVk3eofc054gBHJXrwSYyiMhlxiI-AETi0Fqi1KAermLBC4Iodthvwqq48-nx_QzWVtW9an7IA==&ref=11136715",
    "published": "2026-10-28T00:00:00Z"
@@ -1339,7 +1603,7 @@
    "n": 24,
    "year": 2569,
    "date_th": "พุธที่ 28 ตุลาคม 2569 เวลา 10.00 น.",
-   "title": "การประชุมครั้งที่ 24/2569",
+   "title": "เตรียมสัมมนา 12 พ.ย. และร่างรายงานการศึกษาเพื่อคนพิการ",
    "page": "https://parliamentx.com/social/2569/s/v-elderly-24.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=H8LHAdIa9K5RHO3CgVzOZuGwvP5FgLmgOSsxGL2trjujdg1oQ1hpM_7dK90uD2z2jwl-LYrwyc3zbXZ5W9O19hJqE_n64Bvwwbmbv2BSLY7QUFSfTW2oxPjZ3kAemag4ABjo4CB5YlNtPBKRxI0UoDt-drTBrk2cJYEJVw==&ref=11078801",
    "published": "2026-11-13T17:29:52Z"
@@ -1351,7 +1615,7 @@
    "n": 24,
    "year": 2569,
    "date_th": "พุธที่ 28 ตุลาคม 2569 เวลา 10.00 น.",
-   "title": "การประชุมครั้งที่ 24/2569",
+   "title": "เตรียมสัมมนา 12 พ.ย. และร่างรายงานการศึกษาเพื่อคนพิการ",
    "page": "https://parliamentx.com/social/2569/s/elderly-24.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=H8LHAdIa9K5RHO3CgVzOZuGwvP5FgLmgOSsxGL2trjujdg1oQ1hpM_7dK90uD2z2jwl-LYrwyc3zbXZ5W9O19hJqE_n64Bvwwbmbv2BSLY7QUFSfTW2oxPjZ3kAemag4ABjo4CB5YlNtPBKRxI0UoDt-drTBrk2cJYEJVw==&ref=11078801",
    "published": "2026-10-28T00:00:00Z"
@@ -1379,6 +1643,30 @@
    "page": "https://parliamentx.com/labour/2569/s/welfare-23.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ToNCVev78LTCVo9_mUuYJ6unbe-NtNcZB4a_y1JzZnKG9AclYJMfpnRd1OREzQ6EKGYs7uVmI4k3C7YLJVwCiLVInr7QzC5sr2g9PEUyqjph8tJSEr10K2z4W-8bRF8Nxi_H-7t3kXbOGUR_-ImxrYC9w4a9hcU49tE0tQ==&ref=11078712",
    "published": "2026-11-11T19:21:52Z"
+  },
+  {
+   "id": "s421-2569-24-video_post",
+   "topic": "s421",
+   "kind": "video_post",
+   "n": 24,
+   "year": 2569,
+   "date_th": "พุธที่ 28 ตุลาคม 2569 เวลา 13.00 น.",
+   "title": "ร่างกฎหมายการขนส่งทางบก 3 ฉบับ: กระจายอำนาจให้จังหวัดและท้องถิ่น",
+   "page": "https://parliamentx.com/transport/2569/s/v-24.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gEFxkVNeYFnIAQM2yUfBl6-9Zz-o5bp9y-BakSqhv-u7gTHY-TllimQX1HsHkZiHuf2vADNaXOXvObfbJ6N9ax5OHXAFiUmN0F8mMZ_oSLnQgsCjGPr8N9-93NgVlnymMuKTYYTZe-wuWOpf89uneSv_IY9NmKOg-OOBBg==&ref=11078046",
+   "published": "2026-10-28T00:00:00Z"
+  },
+  {
+   "id": "s421-2569-24-post",
+   "topic": "s421",
+   "kind": "post",
+   "n": 24,
+   "year": 2569,
+   "date_th": "พุธที่ 28 ตุลาคม 2569 เวลา 13.00 น.",
+   "title": "ร่างกฎหมายการขนส่งทางบก 3 ฉบับ: กระจายอำนาจให้จังหวัดและท้องถิ่น",
+   "page": "https://parliamentx.com/transport/2569/s/24.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gEFxkVNeYFnIAQM2yUfBl6-9Zz-o5bp9y-BakSqhv-u7gTHY-TllimQX1HsHkZiHuf2vADNaXOXvObfbJ6N9ax5OHXAFiUmN0F8mMZ_oSLnQgsCjGPr8N9-93NgVlnymMuKTYYTZe-wuWOpf89uneSv_IY9NmKOg-OOBBg==&ref=11078046",
+   "published": "2026-10-28T00:00:00Z"
   },
   {
    "id": "s414-dev-2569-15-video_post",
@@ -1459,7 +1747,7 @@
    "n": 24,
    "year": 2569,
    "date_th": "อังคารที่ 27 ตุลาคม 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 24/2569",
+   "title": "รับมือเด็กเกิดน้อย: ศูนย์เด็กเล็กของท้องถิ่น และสถานเลี้ยงเด็กของผู้ใช้แรงงาน",
    "page": "https://parliamentx.com/social/2569/s/v-children-24.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1GQTWVKTf52nqCgGRr_OOBrUG9iupgsjAqDONKy3mH9ul1G8ZjSN_1OK4TaeObgF5ZcJiAvgiEeaOivzptX3qHUKgT8NVttESVNN-_q2OfdTzMAb_ghXwJlWxmzDGmeW25dJyvss7d7C_lr4ddEBIzYbbGWJUStGweaRlA==&ref=11078487",
    "published": "2026-11-13T17:29:52Z"
@@ -1471,7 +1759,7 @@
    "n": 24,
    "year": 2569,
    "date_th": "อังคารที่ 27 ตุลาคม 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 24/2569",
+   "title": "รับมือเด็กเกิดน้อย: ศูนย์เด็กเล็กของท้องถิ่น และสถานเลี้ยงเด็กของผู้ใช้แรงงาน",
    "page": "https://parliamentx.com/social/2569/s/children-24.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1GQTWVKTf52nqCgGRr_OOBrUG9iupgsjAqDONKy3mH9ul1G8ZjSN_1OK4TaeObgF5ZcJiAvgiEeaOivzptX3qHUKgT8NVttESVNN-_q2OfdTzMAb_ghXwJlWxmzDGmeW25dJyvss7d7C_lr4ddEBIzYbbGWJUStGweaRlA==&ref=11078487",
    "published": "2026-10-27T00:00:00Z"
@@ -1597,6 +1885,30 @@
    "published": "2026-11-11T19:21:52Z"
   },
   {
+   "id": "s421-ridehail-2569-1-video_post",
+   "topic": "s421-ridehail",
+   "kind": "video_post",
+   "n": 1,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 22 ตุลาคม 2569 เวลา 10.00 น.",
+   "title": "การประชุมครั้งที่ 1/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-ridehail-1.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3rjyCENIqJDz82TeL10an42sVEzMzxaarT2nhquyDNgcbzamC5_9hx48IsOC14PC9ubwTZ7G-6gs3IFgUSjlURpd-IUcYLdWWNr3SewpohgRX6K02PuBjaEIcRo-ImwCvummILn_c6UmSX8yaCKeDFlWGxO5MTDrVx7_lg==&ref=11041441",
+   "published": "2026-10-22T00:00:00Z"
+  },
+  {
+   "id": "s421-ridehail-2569-1-post",
+   "topic": "s421-ridehail",
+   "kind": "post",
+   "n": 1,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 22 ตุลาคม 2569 เวลา 10.00 น.",
+   "title": "การประชุมครั้งที่ 1/2569",
+   "page": "https://parliamentx.com/transport/2569/s/ridehail-1.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3rjyCENIqJDz82TeL10an42sVEzMzxaarT2nhquyDNgcbzamC5_9hx48IsOC14PC9ubwTZ7G-6gs3IFgUSjlURpd-IUcYLdWWNr3SewpohgRX6K02PuBjaEIcRo-ImwCvummILn_c6UmSX8yaCKeDFlWGxO5MTDrVx7_lg==&ref=11041441",
+   "published": "2026-10-22T00:00:00Z"
+  },
+  {
    "id": "s410-2569-27-video_post",
    "topic": "s410",
    "kind": "video_post",
@@ -1651,7 +1963,7 @@
    "n": 25,
    "year": 2569,
    "date_th": "พุธที่ 21 ตุลาคม 2569 เวลา 14.00 น.",
-   "title": "การประชุมครั้งที่ 25/2569",
+   "title": "ติดตามความคืบหน้ากระบี่โมเดล และวางแผนงานระยะต่อไป",
    "page": "https://parliamentx.com/social/2569/s/v-women-25.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=B5UODpo86CuwVohflInA5G5tRuejVHkI-07wy_aSpZy-GscsssYk9Su6a5c4TxegXdgzQwmtktcMCBc7TwNdVgcYW12fdp5QIk4eEmT8kVZYiK3l1arXdiEnJmT9pamUVt-FWnTs_Sk8ouF83jM9ITnTMLhhBw82N3pAsg==&ref=11079119",
    "published": "2026-11-13T17:29:52Z"
@@ -1663,7 +1975,7 @@
    "n": 25,
    "year": 2569,
    "date_th": "พุธที่ 21 ตุลาคม 2569 เวลา 14.00 น.",
-   "title": "การประชุมครั้งที่ 25/2569",
+   "title": "ติดตามความคืบหน้ากระบี่โมเดล และวางแผนงานระยะต่อไป",
    "page": "https://parliamentx.com/social/2569/s/women-25.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=B5UODpo86CuwVohflInA5G5tRuejVHkI-07wy_aSpZy-GscsssYk9Su6a5c4TxegXdgzQwmtktcMCBc7TwNdVgcYW12fdp5QIk4eEmT8kVZYiK3l1arXdiEnJmT9pamUVt-FWnTs_Sk8ouF83jM9ITnTMLhhBw82N3pAsg==&ref=11079119",
    "published": "2026-10-21T00:00:00Z"
@@ -1675,7 +1987,7 @@
    "n": 23,
    "year": 2569,
    "date_th": "พุธที่ 21 ตุลาคม 2569 เวลา 10.00 น.",
-   "title": "การประชุมครั้งที่ 23/2569",
+   "title": "กำกับดูแลสถานดูแลผู้สูงอายุ และคุ้มครองผู้สูงอายุจากความรุนแรง",
    "page": "https://parliamentx.com/social/2569/s/v-elderly-23.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Fy-V4alZq8xqUD40ivgcEK3afbQ4wPphZv8oxcv4BMYmky5JszkRCiQECfIa0zIpNi2PvUEI8OrH3SzDdRUEF5zTDW_6f4azeSBRxDzHa5nzbJCmbsSJP4OXd0-ikDt1dNkmJDoKC-JYkjbFuKcubrHZpYHyM-B4_OSR4w==&ref=11078871",
    "published": "2026-11-13T17:29:52Z"
@@ -1687,7 +1999,7 @@
    "n": 23,
    "year": 2569,
    "date_th": "พุธที่ 21 ตุลาคม 2569 เวลา 10.00 น.",
-   "title": "การประชุมครั้งที่ 23/2569",
+   "title": "กำกับดูแลสถานดูแลผู้สูงอายุ และคุ้มครองผู้สูงอายุจากความรุนแรง",
    "page": "https://parliamentx.com/social/2569/s/elderly-23.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Fy-V4alZq8xqUD40ivgcEK3afbQ4wPphZv8oxcv4BMYmky5JszkRCiQECfIa0zIpNi2PvUEI8OrH3SzDdRUEF5zTDW_6f4azeSBRxDzHa5nzbJCmbsSJP4OXd0-ikDt1dNkmJDoKC-JYkjbFuKcubrHZpYHyM-B4_OSR4w==&ref=11078871",
    "published": "2026-10-21T00:00:00Z"
@@ -1787,6 +2099,54 @@
    "page": "https://parliamentx.com/labour/2569/s/employment-22.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=o7wOxZqv-MHm2tzIcCxZuJPAV9tSRYZVaB_EEBYzSMpy4VeGBL4peptJU4O_R8XHEUwEnpBiHfCnsPvbEVL8bVP1e1cYNwHzla-5Mt4ePTVrElq5-kWr8dpbEM-62fTy_iipfGEE_gTKc_yREdeuVLdznPneNnzlyeOm9g==&ref=11040055",
    "published": "2026-11-11T19:21:52Z"
+  },
+  {
+   "id": "s421-andamanport-2569-2-video_post",
+   "topic": "s421-andamanport",
+   "kind": "video_post",
+   "n": 2,
+   "year": 2569,
+   "date_th": "พุธที่ 21 ตุลาคม 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 2/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-andamanport-2.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7GIRmIjCA-IGoaMp9wUbgTzlv9PTBh8hGaU9iXuGsonIVu4o9jzSCsb2guFqoLY7tZexnuglG5OQMdX0qXXrhuX8jkJIpG4FhH9FqGrPdycv2y2ZZhkjIwKYELlnFJWTkhzixtb9387CIrOhh_TRcH2uTiemSwQbyQyvSA==&ref=11032682",
+   "published": "2026-10-21T00:00:00Z"
+  },
+  {
+   "id": "s421-andamanport-2569-2-post",
+   "topic": "s421-andamanport",
+   "kind": "post",
+   "n": 2,
+   "year": 2569,
+   "date_th": "พุธที่ 21 ตุลาคม 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 2/2569",
+   "page": "https://parliamentx.com/transport/2569/s/andamanport-2.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7GIRmIjCA-IGoaMp9wUbgTzlv9PTBh8hGaU9iXuGsonIVu4o9jzSCsb2guFqoLY7tZexnuglG5OQMdX0qXXrhuX8jkJIpG4FhH9FqGrPdycv2y2ZZhkjIwKYELlnFJWTkhzixtb9387CIrOhh_TRcH2uTiemSwQbyQyvSA==&ref=11032682",
+   "published": "2026-10-21T00:00:00Z"
+  },
+  {
+   "id": "s421-2569-23-video_post",
+   "topic": "s421",
+   "kind": "video_post",
+   "n": 23,
+   "year": 2569,
+   "date_th": "พุธที่ 21 ตุลาคม 2569 เวลา 13.00 น.",
+   "title": "ค่าธรรมเนียมการบินกับการเชื่อมเมืองรอง ตั้งคณะทำงานศึกษา",
+   "page": "https://parliamentx.com/transport/2569/s/v-23.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8upnYtJWlm1MGH3-0x5Pcnx4FMO3SDJPXFSzyPoqFxHEhg5msYgdU-DMgnwcHkxzkItssi4jJAf9GppOs-pJgrJip0gxvKHNqJv80gT1oRHGh_FDB6wNc2oximwJdKce6VeW66Dg9NOWSf_5up0CdJl8OUUjnD0wOYJyhg==&ref=11029984",
+   "published": "2026-10-21T00:00:00Z"
+  },
+  {
+   "id": "s421-2569-23-post",
+   "topic": "s421",
+   "kind": "post",
+   "n": 23,
+   "year": 2569,
+   "date_th": "พุธที่ 21 ตุลาคม 2569 เวลา 13.00 น.",
+   "title": "ค่าธรรมเนียมการบินกับการเชื่อมเมืองรอง ตั้งคณะทำงานศึกษา",
+   "page": "https://parliamentx.com/transport/2569/s/23.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8upnYtJWlm1MGH3-0x5Pcnx4FMO3SDJPXFSzyPoqFxHEhg5msYgdU-DMgnwcHkxzkItssi4jJAf9GppOs-pJgrJip0gxvKHNqJv80gT1oRHGh_FDB6wNc2oximwJdKce6VeW66Dg9NOWSf_5up0CdJl8OUUjnD0wOYJyhg==&ref=11029984",
+   "published": "2026-10-21T00:00:00Z"
   },
   {
    "id": "s414-dev-2569-14-video_post",
@@ -1939,7 +2299,7 @@
    "n": 23,
    "year": 2569,
    "date_th": "อังคารที่ 20 ตุลาคม 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 23/2569",
+   "title": "ร่างรายงานกฎหมายกลุ่มชาติพันธุ์ และแผนศึกษาเรื่องเด็กเกิดน้อย",
    "page": "https://parliamentx.com/social/2569/s/v-children-23.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_cRXzwLGeP-4m0yz_mfZbpA2tXsEvQUhos-F_Z7eX6WBrpSbF_HSQ6r8wQORiFPKme3q22KlTQXbFEo0NVhK1vWKGF_kF3r6ftFGg9oA4j9Yj1APBS_G8m3jKIlj6R8dU-EgjY4Vg4alFrIhfBTUaTU8LRPQ737Q0kzoIg==&ref=11020296",
    "published": "2026-11-13T17:29:52Z"
@@ -1951,7 +2311,7 @@
    "n": 23,
    "year": 2569,
    "date_th": "อังคารที่ 20 ตุลาคม 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 23/2569",
+   "title": "ร่างรายงานกฎหมายกลุ่มชาติพันธุ์ และแผนศึกษาเรื่องเด็กเกิดน้อย",
    "page": "https://parliamentx.com/social/2569/s/children-23.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_cRXzwLGeP-4m0yz_mfZbpA2tXsEvQUhos-F_Z7eX6WBrpSbF_HSQ6r8wQORiFPKme3q22KlTQXbFEo0NVhK1vWKGF_kF3r6ftFGg9oA4j9Yj1APBS_G8m3jKIlj6R8dU-EgjY4Vg4alFrIhfBTUaTU8LRPQ737Q0kzoIg==&ref=11020296",
    "published": "2026-10-20T00:00:00Z"
@@ -2003,6 +2363,30 @@
    "page": "https://parliamentx.com/labour/2569/s/26.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QfvB6HfRWELdBunX80t1__BWCAqBnMUx9Q0LPX5Rp1sMrKy_s1by3HjwSa1TwYNmUefxK5N6UIzSaYRLYsRR5w-qiHfUfL1rX2uk4A_Dz1_I3cp1525VYeDtUUOoXa3YjK6nhhYg2k5NiguKejynAHIM8zPnztfWMBZcpg==&ref=10987760",
    "published": "2026-11-11T19:21:52Z"
+  },
+  {
+   "id": "s421-andamanport-2569-1-video_post",
+   "topic": "s421-andamanport",
+   "kind": "video_post",
+   "n": 1,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 8 ตุลาคม 2569 เวลา 10.00 น.",
+   "title": "การประชุมครั้งที่ 1/2569",
+   "page": "https://parliamentx.com/transport/2569/s/v-andamanport-1.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mZYuk3iR-7V79n5rsxFuCIHL4nefr_jQsOmlIUs_I9pE-ZyutzrFeGAYCV1QyLQcjENqaNWnMK9299unnVq_sNcp_tVGsDLqufNSlAWrsOysi4NvCFtpdSkI6skamHv_hSexpL3UZwHbqRJXvb0nsTg6Tcd1yjta8JTCJQ==&ref=10981923",
+   "published": "2026-10-08T00:00:00Z"
+  },
+  {
+   "id": "s421-andamanport-2569-1-post",
+   "topic": "s421-andamanport",
+   "kind": "post",
+   "n": 1,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 8 ตุลาคม 2569 เวลา 10.00 น.",
+   "title": "การประชุมครั้งที่ 1/2569",
+   "page": "https://parliamentx.com/transport/2569/s/andamanport-1.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mZYuk3iR-7V79n5rsxFuCIHL4nefr_jQsOmlIUs_I9pE-ZyutzrFeGAYCV1QyLQcjENqaNWnMK9299unnVq_sNcp_tVGsDLqufNSlAWrsOysi4NvCFtpdSkI6skamHv_hSexpL3UZwHbqRJXvb0nsTg6Tcd1yjta8JTCJQ==&ref=10981923",
+   "published": "2026-10-08T00:00:00Z"
   },
   {
    "id": "s414-disaster-2569-8-video_post",
@@ -2083,7 +2467,7 @@
    "n": 22,
    "year": 2569,
    "date_th": "พุธที่ 7 ตุลาคม 2569 เวลา 10.00 น.",
-   "title": "การประชุมครั้งที่ 22/2569",
+   "title": "ส่งเสริมการมีอายุยืนอย่างมีคุณภาพด้วยวิทยาศาสตร์และนวัตกรรม",
    "page": "https://parliamentx.com/social/2569/s/v-elderly-22.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NrbWSD-tualEeczqU9yD-k1DsSnrtXKKg2AG5U5dJVFLkOGtoUsrpXduWXBsOWCsJ4q_kW8tqX32GCTfWmztpnLlKWhA4iES1Y1XeJ_YAWy-1sqsuIgNElCt6uxFraxSqyPk62al4R21asuCV3LbeOE9j2Do16cMSSUgtg==&ref=10972072",
    "published": "2026-11-13T17:29:52Z"
@@ -2095,7 +2479,7 @@
    "n": 22,
    "year": 2569,
    "date_th": "พุธที่ 7 ตุลาคม 2569 เวลา 10.00 น.",
-   "title": "การประชุมครั้งที่ 22/2569",
+   "title": "ส่งเสริมการมีอายุยืนอย่างมีคุณภาพด้วยวิทยาศาสตร์และนวัตกรรม",
    "page": "https://parliamentx.com/social/2569/s/elderly-22.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NrbWSD-tualEeczqU9yD-k1DsSnrtXKKg2AG5U5dJVFLkOGtoUsrpXduWXBsOWCsJ4q_kW8tqX32GCTfWmztpnLlKWhA4iES1Y1XeJ_YAWy-1sqsuIgNElCt6uxFraxSqyPk62al4R21asuCV3LbeOE9j2Do16cMSSUgtg==&ref=10972072",
    "published": "2026-10-07T00:00:00Z"
@@ -2171,6 +2555,30 @@
    "page": "https://parliamentx.com/labour/2569/s/welfare-21.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4pGcaQq0iT9pELy4aJ0aJHIqlI24lhNlGqPArL7sNG7Tf5DQZJZJlkIkksQ4iCEKjJvjndN_M_vpyAH2N5XBA8Mc5L0uRH9cQuJfOpmo7OJTW3VOi0hmt60fQy-MXTCFCNrKdDqhSMPYnghiYbX5bLMdx_nqNF_KHBQ68w==&ref=10992967",
    "published": "2026-11-11T19:21:52Z"
+  },
+  {
+   "id": "s421-2569-22-video_post",
+   "topic": "s421",
+   "kind": "video_post",
+   "n": 22,
+   "year": 2569,
+   "date_th": "พุธที่ 7 ตุลาคม 2569 เวลา 10.00 น.",
+   "title": "รถไฟสายท่องเที่ยวแนวทางหลวงหมายเลข 44 สุราษฎร์ธานี–กระบี่ คุ้มค่าทางเศรษฐกิจ",
+   "page": "https://parliamentx.com/transport/2569/s/v-22.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rpZXi2N-LoFZf33SQQVh72JnrDXwVKfyzKOFrImDw5Gqczt0EPthlqExuWJ3nlw4TA3JClw6Ihez32cWo3CNFl70yeDVoQXvq89X_RUJ2CcJ2eUqkVkWrnmfIU-tPTJ3YCObiEJLHPKNiDL37TpeYYmj9ikc4UtLwOiyHQ==&ref=10963047",
+   "published": "2026-10-07T00:00:00Z"
+  },
+  {
+   "id": "s421-2569-22-post",
+   "topic": "s421",
+   "kind": "post",
+   "n": 22,
+   "year": 2569,
+   "date_th": "พุธที่ 7 ตุลาคม 2569 เวลา 10.00 น.",
+   "title": "รถไฟสายท่องเที่ยวแนวทางหลวงหมายเลข 44 สุราษฎร์ธานี–กระบี่ คุ้มค่าทางเศรษฐกิจ",
+   "page": "https://parliamentx.com/transport/2569/s/22.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rpZXi2N-LoFZf33SQQVh72JnrDXwVKfyzKOFrImDw5Gqczt0EPthlqExuWJ3nlw4TA3JClw6Ihez32cWo3CNFl70yeDVoQXvq89X_RUJ2CcJ2eUqkVkWrnmfIU-tPTJ3YCObiEJLHPKNiDL37TpeYYmj9ikc4UtLwOiyHQ==&ref=10963047",
+   "published": "2026-10-07T00:00:00Z"
   },
   {
    "id": "s414-dev-2569-13-video_post",
@@ -2275,7 +2683,7 @@
    "n": 24,
    "year": 2569,
    "date_th": "อังคารที่ 6 ตุลาคม 2569 เวลา 14.00 น.",
-   "title": "การประชุมครั้งที่ 24/2569",
+   "title": "วางแผนงานปีงบประมาณ 2570 และกรณีศึกษากระบี่โมเดล",
    "page": "https://parliamentx.com/social/2569/s/v-women-24.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nDWZPbTuo94NR0Gm-I90zk6BfGCIOjRe7MW-OHczawVRp6hIvMhg-iADhURFpAQ5xK542ZGhcysnCzKdDwtgUjvd2XJ_oVdiV1cu53QAP-_lbpFAUip-Bg7mQPmUZztEbjpdL3wuCKYIYBTS7UAsj1bWHJLjnpUE5Y7cWQ==&ref=10962532",
    "published": "2026-11-13T17:29:52Z"
@@ -2287,7 +2695,7 @@
    "n": 24,
    "year": 2569,
    "date_th": "อังคารที่ 6 ตุลาคม 2569 เวลา 14.00 น.",
-   "title": "การประชุมครั้งที่ 24/2569",
+   "title": "วางแผนงานปีงบประมาณ 2570 และกรณีศึกษากระบี่โมเดล",
    "page": "https://parliamentx.com/social/2569/s/women-24.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nDWZPbTuo94NR0Gm-I90zk6BfGCIOjRe7MW-OHczawVRp6hIvMhg-iADhURFpAQ5xK542ZGhcysnCzKdDwtgUjvd2XJ_oVdiV1cu53QAP-_lbpFAUip-Bg7mQPmUZztEbjpdL3wuCKYIYBTS7UAsj1bWHJLjnpUE5Y7cWQ==&ref=10962532",
    "published": "2026-10-06T00:00:00Z"
@@ -2299,7 +2707,7 @@
    "n": 22,
    "year": 2569,
    "date_th": "อังคารที่ 6 ตุลาคม 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 22/2569",
+   "title": "ดูแลเด็กที่ถูกกระทำด้วยความรุนแรงในครอบครัว และการสอบถามเด็กในคดีอาญา",
    "page": "https://parliamentx.com/social/2569/s/v-children-22.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=E5jtWuie-NsZaTCKaftLRRPkpyEgtrP3x-XSrCte_gnG80MtEyOnIpITlmiVsV7QbdihxFLu3SaRMx0LXrlsnHdZLzcoEqYd4fqeciV2Mw-62gX0WtZETf1dBpedgvINzTAOJpLT2dBAawFCw1I_k4A7qvPe67ydnb44YQ==&ref=10962534",
    "published": "2026-11-13T17:29:52Z"
@@ -2311,7 +2719,7 @@
    "n": 22,
    "year": 2569,
    "date_th": "อังคารที่ 6 ตุลาคม 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 22/2569",
+   "title": "ดูแลเด็กที่ถูกกระทำด้วยความรุนแรงในครอบครัว และการสอบถามเด็กในคดีอาญา",
    "page": "https://parliamentx.com/social/2569/s/children-22.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=E5jtWuie-NsZaTCKaftLRRPkpyEgtrP3x-XSrCte_gnG80MtEyOnIpITlmiVsV7QbdihxFLu3SaRMx0LXrlsnHdZLzcoEqYd4fqeciV2Mw-62gX0WtZETf1dBpedgvINzTAOJpLT2dBAawFCw1I_k4A7qvPe67ydnb44YQ==&ref=10962534",
    "published": "2026-10-06T00:00:00Z"
@@ -2395,7 +2803,7 @@
    "n": 23,
    "year": 2569,
    "date_th": "พฤหัสบดีที่ 1 ตุลาคม 2569 เวลา 09.30 น.",
-   "title": "การประชุมครั้งที่ 23/2569",
+   "title": "ติดตามเป้าหมายการพัฒนาที่ยั่งยืน ข้อ 5 ความเสมอภาคระหว่างเพศ",
    "page": "https://parliamentx.com/social/2569/s/v-women-23.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EmiYf9_Csy8t7RO4VaTA2rELM1zZYcHzB9YGiPYwOPQ3IOY5IYpDlnHtD4yBvNfQunOtG87IH0jvFujvbU841C4l2Cpjls2Y1gZWXAIxR4UUIrJyKo8eKbQFceUH26Oy-lEuzltXiO4RyYVnDjrc_VUzxDXeYKxziD6OWA==&ref=11079111",
    "published": "2026-11-13T17:29:52Z"
@@ -2407,7 +2815,7 @@
    "n": 23,
    "year": 2569,
    "date_th": "พฤหัสบดีที่ 1 ตุลาคม 2569 เวลา 09.30 น.",
-   "title": "การประชุมครั้งที่ 23/2569",
+   "title": "ติดตามเป้าหมายการพัฒนาที่ยั่งยืน ข้อ 5 ความเสมอภาคระหว่างเพศ",
    "page": "https://parliamentx.com/social/2569/s/women-23.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EmiYf9_Csy8t7RO4VaTA2rELM1zZYcHzB9YGiPYwOPQ3IOY5IYpDlnHtD4yBvNfQunOtG87IH0jvFujvbU841C4l2Cpjls2Y1gZWXAIxR4UUIrJyKo8eKbQFceUH26Oy-lEuzltXiO4RyYVnDjrc_VUzxDXeYKxziD6OWA==&ref=11079111",
    "published": "2026-10-01T00:00:00Z"
@@ -2507,6 +2915,18 @@
    "page": "https://parliamentx.com/labour/2569/s/socialsec-18.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BcFxcGRSzA8mg-vqpanZLwYOuJ7NJOFfxPpqgG3lqB4q7Tulx242Gewoe7AYXwi6W3dCPJHLiPLFMysopCaO28HFus4hE4SCv6yuEX2UHJHSZm9v84yS9i7XXupqk1bUdL-hwzRfKAlKm1G_0EsRG84KK2o9OQ1ISrd7JQ==&ref=10941986",
    "published": "2026-11-11T19:21:52Z"
+  },
+  {
+   "id": "s421-2569-21-post",
+   "topic": "s421",
+   "kind": "post",
+   "n": 21,
+   "year": 2569,
+   "date_th": "พุธที่ 30 กันยายน 2569 เวลา 13.00 น.",
+   "title": "รายงานความปลอดภัยงานก่อสร้างโครงสร้างพื้นฐาน: ค่าใช้จ่ายความปลอดภัยต้องไม่ถูกตัด",
+   "page": "https://parliamentx.com/transport/2569/s/21.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0stTQR5_BxYEn3tZT0-e7c2CTSv5YKH-t2MOFNH-Iql7mChTyz8tKuyT8v3m692bxVF1IHzR67OVf-spwZ7-FemrIRAQ7PFykW1JDQ2JyNXUD7-Kpw2XwqeWMsYKd2ClOIzWQtkrSfy_xrYjo9vIQmf8Rrskjs1KC5gG5Q==&ref=10921395",
+   "published": "2026-09-30T00:00:00Z"
   },
   {
    "id": "s424-2569-26-post",
@@ -2627,6 +3047,18 @@
    "page": "https://parliamentx.com/labour/2569/s/employment-21.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FN2HPVaCPP4NlulHMVNQyCJZhUe535cildFRPf4i_slrAGVKPKatwlJJAgQItsaYFFulLugyy_43l2mKYn9JirQkJGqmRxYJII-QUq7AX-HwulpDf69pzG20Zr9WPEwCuhC_E0e2HyZrWFq5vW_4kfbPGoAg1-e_FyDrig==&ref=10907540",
    "published": "2026-11-11T19:21:52Z"
+  },
+  {
+   "id": "s421-2569-20-post",
+   "topic": "s421",
+   "kind": "post",
+   "n": 20,
+   "year": 2569,
+   "date_th": "พุธที่ 23 กันยายน 2569 เวลา 13.00 น.",
+   "title": "รายงานโลจิสติกส์ดิจิทัล: ระบบข้อมูลจุดเดียว ตั๋วร่วม และชั่งน้ำหนักรถบรรทุก",
+   "page": "https://parliamentx.com/transport/2569/s/20.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xSJRyjuaVQpr0-OTpJNzxPTZ80ofIaW2Rc6meeUpdMCa1leJkJPblo3bDi0htI5eP3gqzjG735XxmGUHY6CJE0JmVjUQfFU-LrFgPGyEEIFEpCho5rEjczkNq97eeETtSiY_TW_Key5-WYAs4qk0ybQBB-9IpZ77ggkXuA==&ref=10888876",
+   "published": "2026-09-23T00:00:00Z"
   },
   {
    "id": "s414-dev-2569-11-post",
@@ -2867,42 +3299,6 @@
    "page": "https://parliamentx.com/military/2569/s/cyber-20.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=c2CMLkBBPBDAmALulfnaz8s980Y0qTBkUMLmCoWRoQEkdy-G0Jp5q5YX5gFaWLHnsnttiG2C8KgyHPsNZcYjFP0L99zROcW20mfIMn3NJjiJ2adMmtUiYk-d4V85B6V0gMWdgCL6ZfPl7QwbGxaswLEkNViScpS6ogrmPQ==&ref=10843332",
    "published": "2026-11-11T19:21:52Z"
-  },
-  {
-   "id": "s424-hospfin-2569-10-post",
-   "topic": "s424-hospfin",
-   "kind": "post",
-   "n": 10,
-   "year": 2569,
-   "date_th": "อังคารที่ 15 กันยายน 2569",
-   "title": "การประชุมครั้งที่ 10/2569",
-   "page": "https://parliamentx.com/health/2569/s/hospfin-10.html",
-   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=E40iJofjDI6x5e-SSPH2L5NqWjrPko_AFkZcKZALzpAwV6OQ3bG-09Iwmor0UYd8CODXOXSBDREO6TdhM7VJj4yPNvCL5IicpSkiFZMPqL95gxUzNe-_U9Yf8fNBCPlBjDFAVQm_9h5udn7HyEB1Gyof6Hd2_1ruc2I3mA==&ref=10834155",
-   "published": "2026-09-15T00:00:00Z"
-  },
-  {
-   "id": "s424-2569-24-post",
-   "topic": "s424",
-   "kind": "post",
-   "n": 24,
-   "year": 2569,
-   "date_th": "อังคารที่ 15 กันยายน 2569",
-   "title": "การป้องกันการแทรกแซงนโยบายจากอุตสาหกรรมยาสูบ: รับฟังกรมควบคุมโรค",
-   "page": "https://parliamentx.com/health/2569/s/24.html",
-   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QHhPieIi4i4aVc7r9zzvFUADAj6ZUTLdDY25uINnwuo60A8t42w2DysaNFHlJhVZRkRQ9XegAVtNoDmozxziXFf2PtNDNnsDVRxzzhP8gRzfTrcYyYclOg4GcAKI7anhJbtePOMo_wnFqUl5Ph3v6r8N6XfqunVMZ9TK9A==&ref=10842644",
-   "published": "2026-09-15T00:00:00Z"
-  },
-  {
-   "id": "s410-2569-25-post",
-   "topic": "s410",
-   "kind": "post",
-   "n": 25,
-   "year": 2569,
-   "date_th": "อังคารที่ 15 กันยายน 2569 เวลา 14.30 น.",
-   "title": "รองประธานคนที่สาม ดูงานความมั่นคงภายในที่นครนายก และหารือเรื่องชาวต่างชาติที่อาจกระทบความมั่นคง",
-   "page": "https://parliamentx.com/military/2569/s/25.html",
-   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sfNotg_tQzcL0Plcr553FNqDREtWD_2CC-GlVxR1E9AWFrB7iqDQrXcGXfQ5jee_wfuUnK60e6rD7_L54S28Nd0RdlNdEydP4Ah_0GVkjKkvhip3xiP_V5bEHhqRWQOBUOvgaESFCVRAnkcIlX4cZS9-QT6diZlhw4NgUQ==&ref=10974488",
-   "published": "2026-11-11T19:21:52Z"
   }
  ],
  "topics_seen": [
@@ -2914,10 +3310,17 @@
   "s412-justice",
   "s412-law",
   "s412-police",
+  "s413",
+  "s413-oecd",
+  "s413-sdg",
   "s414",
   "s414-central",
   "s414-dev",
   "s414-disaster",
+  "s421",
+  "s421-andamanport",
+  "s421-isantransit",
+  "s421-ridehail",
   "s423",
   "s423-employment",
   "s423-socialsec",
