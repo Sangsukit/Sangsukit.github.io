@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=n8NdRd1N53ntdH41Bl0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-andamanport-v5pre.mp4",
+    "poster": "img/poster-sub-andamanport-5pre.jpg",
+    "vtt": "media/sub-andamanport-v5pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:16",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "andamanport-5p",
+    "size": 5418584
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-andamanport-v5pre.mp4",
+     "poster": "img/poster-sub-andamanport-5pre.jpg",
+     "vtt": "media/sub-andamanport-v5pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:16",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "andamanport-5p",
+     "size": 5418584
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 5/2569",
@@ -115,7 +140,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=317f94j1hnmGWvXXYks"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-andamanport-v2.mp4",
+    "poster": "img/poster-sub-andamanport-2.jpg",
+    "vtt": "media/sub-andamanport-v2.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:19",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "andamanport-2",
+    "size": 7807633
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-andamanport-v2.mp4",
+     "poster": "img/poster-sub-andamanport-2.jpg",
+     "vtt": "media/sub-andamanport-v2.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:19",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "andamanport-2",
+     "size": 7807633
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 2/2569",
@@ -147,7 +197,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cRF0dwNfStuTWOvRTYQ"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-andamanport-v1.mp4",
+    "poster": "img/poster-sub-andamanport-1.jpg",
+    "vtt": "media/sub-andamanport-v1.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:52",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "andamanport-1",
+    "size": 6723760
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-andamanport-v1.mp4",
+     "poster": "img/poster-sub-andamanport-1.jpg",
+     "vtt": "media/sub-andamanport-v1.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:52",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "andamanport-1",
+     "size": 6723760
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 1/2569",

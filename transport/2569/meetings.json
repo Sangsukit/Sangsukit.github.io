@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=jlSSbZaYflsQbzHNybY"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/v26pre.mp4",
+    "poster": "img/poster26pre.jpg",
+    "vtt": "media/v26pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:39",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "26p",
+    "size": 6405233
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/v26pre.mp4",
+     "poster": "img/poster26pre.jpg",
+     "vtt": "media/v26pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:39",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "26p",
+     "size": 6405233
+    }
+   ]
+  },
   "chair": "นายวุฒิชาติ กัลยาณมิตร",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -74,7 +99,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hHmZC7zljzFNGDehYlE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/v25.mp4",
+    "poster": "img/poster25.jpg",
+    "vtt": "media/v25.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:35",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "25",
+    "size": 8319807
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/v25.mp4",
+     "poster": "img/poster25.jpg",
+     "vtt": "media/v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:35",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "25",
+     "size": 8319807
+    }
+   ]
+  },
   "chair": "นายวุฒิชาติ กัลยาณมิตร",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "คณะทำงานเครื่องบินเล็กและเครื่องบินน้ำ และรายงานของคณะอนุกรรมาธิการชุดใหม่",
@@ -127,7 +177,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tnVSdZxqDrydH6ypFTk"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/v24.mp4",
+    "poster": "img/poster24.jpg",
+    "vtt": "media/v24.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:18",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "24",
+    "size": 9711944
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/v24.mp4",
+     "poster": "img/poster24.jpg",
+     "vtt": "media/v24.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:18",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "24",
+     "size": 9711944
+    }
+   ]
+  },
   "chair": "นายวุฒิชาติ กัลยาณมิตร",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ร่างกฎหมายการขนส่งทางบก 3 ฉบับ: กระจายอำนาจให้จังหวัดและท้องถิ่น",
@@ -182,7 +257,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lJGGS25c8WvRA7EFDFY"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/v23.mp4",
+    "poster": "img/poster23.jpg",
+    "vtt": "media/v23.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:07",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "23",
+    "size": 7061902
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/v23.mp4",
+     "poster": "img/poster23.jpg",
+     "vtt": "media/v23.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:07",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "23",
+     "size": 7061902
+    }
+   ]
+  },
   "chair": "นายวุฒิชาติ กัลยาณมิตร",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ค่าธรรมเนียมการบินกับการเชื่อมเมืองรอง ตั้งคณะทำงานศึกษา",
@@ -235,7 +335,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ai1nLRampgA9wdr4YMo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/v22.mp4",
+    "poster": "img/poster22.jpg",
+    "vtt": "media/v22.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:05",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "22",
+    "size": 7116342
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/v22.mp4",
+     "poster": "img/poster22.jpg",
+     "vtt": "media/v22.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:05",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "22",
+     "size": 7116342
+    }
+   ]
+  },
   "chair": "นายวุฒิชาติ กัลยาณมิตร",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "รถไฟสายท่องเที่ยวแนวทางหลวงหมายเลข 44 สุราษฎร์ธานี–กระบี่ คุ้มค่าทางเศรษฐกิจ",

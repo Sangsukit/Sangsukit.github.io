@@ -55,7 +55,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZGgx9vmA2s4ESNKAifo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-ridehail-v2.mp4",
+    "poster": "img/poster-sub-ridehail-2.jpg",
+    "vtt": "media/sub-ridehail-v2.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:41",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "ridehail-2",
+    "size": 10853907
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-ridehail-v2.mp4",
+     "poster": "img/poster-sub-ridehail-2.jpg",
+     "vtt": "media/sub-ridehail-v2.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:41",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "ridehail-2",
+     "size": 10853907
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 2/2569",
@@ -91,7 +116,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=F7N9P7r63_DtHZqxrRE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-ridehail-v1.mp4",
+    "poster": "img/poster-sub-ridehail-1.jpg",
+    "vtt": "media/sub-ridehail-v1.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:10",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "ridehail-1",
+    "size": 5290705
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-ridehail-v1.mp4",
+     "poster": "img/poster-sub-ridehail-1.jpg",
+     "vtt": "media/sub-ridehail-v1.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:10",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "ridehail-1",
+     "size": 5290705
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 1/2569",

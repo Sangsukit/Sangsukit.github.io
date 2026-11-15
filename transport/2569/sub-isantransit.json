@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1gpZluVuL7IbsI1ahTU"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-isantransit-v4pre.mp4",
+    "poster": "img/poster-sub-isantransit-4pre.jpg",
+    "vtt": "media/sub-isantransit-v4pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:02",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "isantransit-4p",
+    "size": 4875881
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-isantransit-v4pre.mp4",
+     "poster": "img/poster-sub-isantransit-4pre.jpg",
+     "vtt": "media/sub-isantransit-v4pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:02",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-4p",
+     "size": 4875881
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 4/2569",
@@ -47,7 +72,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ReBI882EXBNXRdREpOw"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-isantransit-v3.mp4",
+    "poster": "img/poster-sub-isantransit-3.jpg",
+    "vtt": "media/sub-isantransit-v3.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "isantransit-3",
+    "size": 7000886
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-isantransit-v3.mp4",
+     "poster": "img/poster-sub-isantransit-3.jpg",
+     "vtt": "media/sub-isantransit-v3.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-3",
+     "size": 7000886
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 3/2569",
@@ -79,7 +129,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=M2BDOatbflzoZng8UQU"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-isantransit-v2.mp4",
+    "poster": "img/poster-sub-isantransit-2.jpg",
+    "vtt": "media/sub-isantransit-v2.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:22",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "isantransit-2",
+    "size": 7945070
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-isantransit-v2.mp4",
+     "poster": "img/poster-sub-isantransit-2.jpg",
+     "vtt": "media/sub-isantransit-v2.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:22",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-2",
+     "size": 7945070
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 2/2569",
@@ -111,7 +186,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=EIrbK2FUO_nv3wnsc10"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/transport/2569/media/sub-isantransit-v1.mp4",
+    "poster": "img/poster-sub-isantransit-1.jpg",
+    "vtt": "media/sub-isantransit-v1.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:27",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "isantransit-1",
+    "size": 7950007
+   },
+   "videos": [
+    {
+     "src": "/video-1/transport/2569/media/sub-isantransit-v1.mp4",
+     "poster": "img/poster-sub-isantransit-1.jpg",
+     "vtt": "media/sub-isantransit-v1.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:27",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-1",
+     "size": 7950007
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 1/2569",
