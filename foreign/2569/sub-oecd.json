@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AoRXpT-UOA8ogebr8OE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/foreign/2569/media/sub-oecd-v19pre.mp4",
+    "poster": "img/poster-sub-oecd-19pre.jpg",
+    "vtt": "media/sub-oecd-v19pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:20",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "oecd-19p",
+    "size": 5526237
+   },
+   "videos": [
+    {
+     "src": "/video-1/foreign/2569/media/sub-oecd-v19pre.mp4",
+     "poster": "img/poster-sub-oecd-19pre.jpg",
+     "vtt": "media/sub-oecd-v19pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:20",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "oecd-19p",
+     "size": 5526237
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 19/2569",
