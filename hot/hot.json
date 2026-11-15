@@ -1,124 +1,8 @@
 {
- "updated": "2026-11-15T16:27:30Z",
+ "updated": "2026-11-15T22:58:46Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 4,
-   "count": 5,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 8,
-    "date": "2026-10-08",
-    "url": "committee-archive-2569/sub-disaster.html#read-8"
-   },
-   "items": [
-    {
-     "title": "หนุ่มส่งแก๊สหวิดดับจอดรถหลบพายุฝน ลมพัดต้นมะขามเทศยักษ์ทับร่างสาหัส",
-     "url": "https://www.dailynews.co.th/news/6362409/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-15T14:25:34Z"
-    },
-    {
-     "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
-     "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-haze-indonesia-6552421",
-     "lang": "en",
-     "outlet_th": "ซีเอ็นเอ",
-     "outlet_en": "CNA",
-     "date": "2026-11-15T10:44:00Z"
-    },
-    {
-     "title": "“ชัชชาติ”ทบทวนจุดเสี่ยงฝั่งตะวันออก รับมือน้ำท่วมปีหน้า เผยอีก 5 ปีอุโมงค์บึงหนองบอนเฟส2 เสร็จ",
-     "url": "https://www.prachachat.net/news/news-2096808",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-15T09:00:56Z"
-    }
-   ]
-  },
-  {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
-   },
-   "outlets": 3,
-   "count": 5,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
-   },
-   "items": [
-    {
-     "title": "อ.เชน ลุยชายแดนแม่สาย ตรวจสารหนูในน้ำ ซัพพอร์ต M-Sense 5 นาทีรู้ผล ต้นทุน 60 บาท",
-     "url": "https://www.prachachat.net/economic/news-2096841",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-15T12:51:27Z"
-    },
-    {
-     "title": "ไทย-ลาว ดันการค้าสองฝ่ายแตะ 12,000 ล้านดอลล์ในปี’70 เดินหน้าความร่วมมือความมั่นคงชายแดน",
-     "url": "https://www.matichon.co.th/politics/news_5976720",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-15T11:13:12Z"
-    },
-    {
-     "title": "Thailand demanding action on mining waste flowing from Myanmar",
-     "url": "https://www.bangkokpost.com/thailand/general/3355065/thailand-demanding-action-on-mining-waste-flowing-from-myanmar",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-15T09:41:00Z"
-    }
-   ]
-  },
   {
    "id": "socialsec",
    "th": "ประกันสังคม",
@@ -178,6 +62,64 @@
    ]
   },
   {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 3,
+   "count": 3,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 8,
+    "date": "2026-10-08",
+    "url": "committee-archive-2569/sub-disaster.html#read-8"
+   },
+   "items": [
+    {
+     "title": "หนุ่มส่งแก๊สหวิดดับจอดรถหลบพายุฝน ลมพัดต้นมะขามเทศยักษ์ทับร่างสาหัส",
+     "url": "https://www.dailynews.co.th/news/6362409/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-15T14:25:34Z"
+    },
+    {
+     "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
+     "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-haze-indonesia-6552421",
+     "lang": "en",
+     "outlet_th": "ซีเอ็นเอ",
+     "outlet_en": "CNA",
+     "date": "2026-11-15T10:44:00Z"
+    },
+    {
+     "title": "“ชัชชาติ”ทบทวนจุดเสี่ยงฝั่งตะวันออก รับมือน้ำท่วมปีหน้า เผยอีก 5 ปีอุโมงค์บึงหนองบอนเฟส2 เสร็จ",
+     "url": "https://www.prachachat.net/news/news-2096808",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-15T09:00:56Z"
+    }
+   ]
+  },
+  {
    "id": "crops",
    "th": "ราคาพืชผลและเกษตรกร",
    "en": "Crop prices and farmers",
@@ -228,6 +170,64 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-14T11:30:31Z"
+    }
+   ]
+  },
+  {
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
+   },
+   "outlets": 2,
+   "count": 3,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-holistic.html#read-20"
+   },
+   "items": [
+    {
+     "title": "อ.เชน ลุยชายแดนแม่สาย ตรวจสารหนูในน้ำ ซัพพอร์ต M-Sense 5 นาทีรู้ผล ต้นทุน 60 บาท",
+     "url": "https://www.prachachat.net/economic/news-2096841",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-15T12:51:27Z"
+    },
+    {
+     "title": "ไทย-ลาว ดันการค้าสองฝ่ายแตะ 12,000 ล้านดอลล์ในปี’70 เดินหน้าความร่วมมือความมั่นคงชายแดน",
+     "url": "https://www.matichon.co.th/politics/news_5976720",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-15T11:13:12Z"
+    },
+    {
+     "title": "กรมการค้าต่างประเทศ ปักธงเป้าการค้าชายแดน-ผ่านแดน ปี 69 นิวไฮทะลุกว่า 2 ล้านล้านบาท",
+     "url": "https://www.matichon.co.th/economy/news_5975046",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-14T04:19:27Z"
     }
    ]
   },
