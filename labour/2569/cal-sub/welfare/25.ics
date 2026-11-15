@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:labour-2569-welfare-m25@sangsukit.github.io
-DTSTAMP:20261111T124015Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
+DTSTAMP:20261115T044828Z
+DTSTART:20261118T020000Z
+DTEND:20261118T050000Z
 SUMMARY:ประชุมคณะอนุกรรมาธิกา
  รด้านการสวัสดิการและคุ้ม
  ครองแรงงาน (วุฒิสภา) ครั้ง
  ที่ 25/2569
-LOCATION:
+LOCATION:ห้องประชุมกรรมาธิการ CA 
+ 429 ชั้น 4 อาคารรัฐสภา (สัปปาย
+ ะสภาสถาน 1111 ถนนสามเสน เขตด
+ ุสิต กรุงเทพมหานคร)
 DESCRIPTION:นัดประชุมตามหนังสือน
  ัดประชุมที่วุฒิสภาเผยแพร
  ่ ใส่ปฏิทินเพื่อติดตามเท
@@ -22,8 +25,8 @@ DESCRIPTION:นัดประชุมตามหนังสือน
  ์วุฒิสภา เวลาสิ้นสุดเป็น
  เวลาประมาณ (คลังการประชุม 
  เว็บไซต์ไม่เป็นทางการ)\nรา
- ยละเอียด: https://parliamentx.com/labour/2569/sub-we
- lfare.html#read-25
+ ยละเอียด: https://parliamentx.com/labour/2569/sub-welfar
+ e.html#read-25
 URL:https://parliamentx.com/labour/2569/sub-welfare.html#read-25
 BEGIN:VALARM
 ACTION:DISPLAY
