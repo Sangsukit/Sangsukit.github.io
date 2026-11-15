@@ -1,24 +1,82 @@
 {
- "updated": "2026-11-14T22:36:38Z",
- "feeds_ok": 12,
+ "updated": "2026-11-15T06:51:10Z",
+ "feeds_ok": 13,
  "window_h": 72,
  "topics": [
   {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
+   },
+   "outlets": 3,
+   "count": 4,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-holistic.html#read-20"
+   },
+   "items": [
+    {
+     "title": "“อ.เชน” บุกตรวจจุดปนเปื้อนชายแดนแม่สาย ชง ศปช. ผุดโมเดลชะลอน้ำดักตะกอน",
+     "url": "https://www.thairath.co.th/news/politic/2972609",
+     "lang": "th",
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-15T05:56:17Z"
+    },
+    {
+     "title": "Army slams temple exhibit in Cambodia",
+     "url": "https://www.bangkokpost.com/thailand/general/3354701/army-slams-temple-exhibit-in-cambodia",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-14T23:53:00Z"
+    },
+    {
+     "title": "กรมการค้าต่างประเทศ ปักธงเป้าการค้าชายแดน-ผ่านแดน ปี 69 นิวไฮทะลุกว่า 2 ล้านล้านบาท",
+     "url": "https://www.matichon.co.th/economy/news_5975046",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-14T04:19:27Z"
+    }
+   ]
+  },
+  {
+   "id": "rice",
+   "th": "ข้าวและชาวนา",
+   "en": "Rice and rice farmers",
    "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
+    "src": "hot/img/rice",
+    "credit": "Eerin25",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
+    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
+    "alt_en": "Green rice paddies with a bamboo walkway"
    },
    "outlets": 2,
-   "count": 3,
+   "count": 4,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -26,84 +84,34 @@
    },
    "parent": null,
    "meeting": {
-    "n": 33,
-    "date": "2026-09-21",
-    "url": "agriculture/2569/#read-33"
+    "n": 3,
+    "date": "2026-01-14",
+    "url": "agriculture/2569/#read-3"
    },
    "items": [
     {
-     "title": "ดึงผู้ประกอบการรับซื้อพืช 3 หัวฤดูผลิตปี69/70 นำร่อง 10,950 ตัน เพิ่มมั่นใจเกษตรกรมีรายได้",
-     "url": "https://www.matichon.co.th/economy/news_5975756",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-14T11:30:31Z"
-    },
-    {
-     "title": "พาณิชย์ ลุยดูดซับลำไย 4 หมื่นตัน รับมือพืช 3 หัวทะลัก ธ.ค. จับตาราคาข้าว-มันสำปะหลัง",
-     "url": "https://www.prachachat.net/economic/news-2096637",
+     "title": "‘ซินเจนทา-GIZ’ ลุยอีสาน เพิ่มมูลค่าข้าว ปั้นชาวนามืออาชีพ",
+     "url": "https://www.prachachat.net/economic/news-2095286",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-14T07:57:02Z"
+     "date": "2026-11-15T05:58:19Z"
     },
     {
-     "title": "ค้าภายใน เช็คราคาสินค้าตลาดเชียงใหม่ เร่งพยุง ข้าว-มัน-พืช3หัว-ลำไย",
-     "url": "https://www.matichon.co.th/economy/news_5975652",
+     "title": "พาณิชย์ ปูพรมเช็คราคาพืชเกษตร ยันขยับดีทุกตัว ข้าวเปลือกขึ้น 9-55%",
+     "url": "https://www.matichon.co.th/economy/news_5974695",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-14T10:58:02Z"
-    }
-   ]
-  },
-  {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 8,
-    "date": "2026-10-08",
-    "url": "committee-archive-2569/sub-disaster.html#read-8"
-   },
-   "items": [
+     "date": "2026-11-13T12:29:45Z"
+    },
     {
-     "title": "PM2.5มาแล้วกทม.-ปริมณฑล เกินมาตรฐาน 9 พื้นที่ คาด 19–20 พ.ย. มีแนวโน้มสูงขึ้นอีก",
-     "url": "https://www.matichon.co.th/local/news_5975795",
+     "title": "พาณิชย์ ปูพรมเช็กราคาพืชเกษตร ยันขยับดีทุกตัว ข้าวเปลือกขึ้น 9-55% มัน 65.14% ข้าวโพด36.95% ปาล์ม 16.23%",
+     "url": "https://www.matichon.co.th/economy/news_5974642",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-14T12:11:27Z"
-    },
-    {
-     "title": "ฝุ่น PM2.5 กทม.-ปริมณฑลเริ่มพุ่ง เกินมาตรฐาน 9 พื้นที่ เตือน 19-20 พ.ย. จ่อสูงขึ้นอีก",
-     "url": "https://www.prachachat.net/news/news-2096664",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-14T09:28:05Z"
+     "date": "2026-11-13T11:43:20Z"
     }
    ]
   },
@@ -122,7 +130,7 @@
     "alt_en": "An aisle between server racks in a data centre"
    },
    "outlets": 2,
-   "count": 2,
+   "count": 3,
    "body": {
     "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
     "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
@@ -140,12 +148,20 @@
    },
    "items": [
     {
-     "title": "Microsoft แก้ปัญหาระบบล่มได้แล้ว ยันไม่พบหลักฐานการโจมตีทางไซเบอร์",
-     "url": "https://www.infoquest.co.th/2026/679552",
+     "title": "สวนดุสิตโพล ชี้ ประชาชนผวา เงินในบัญชีสูญหายจากภัยไซเบอร์ 47.73% ไม่ค่อยเชื่อมั่นรัฐบาลรับมือ",
+     "url": "https://www.matichon.co.th/politics/news_5976230",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-15T04:55:02Z"
+    },
+    {
+     "title": "ดุสิตโพล เผยคนไทยผวา! ภัยไซเบอร์โจมตีระบบธนาคาร หวั่นสูญเงินในบัญชี ไม่มั่นใจรัฐรับมือได้",
+     "url": "https://www.infoquest.co.th/2026/679599",
      "lang": "th",
      "outlet_th": "อินโฟเควสท์",
      "outlet_en": "InfoQuest",
-     "date": "2026-11-14T06:15:06Z"
+     "date": "2026-11-15T03:56:25Z"
     },
     {
      "title": "ออมสิน คุมเข้มภัยไซเบอร์ สกัด AI เจาะระบบการเงินโลก งัดแผนรับมือ ตรวจ 24 ชม.",
@@ -158,114 +174,102 @@
    ]
   },
   {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
+   "id": "jobs",
+   "th": "การหางานและแรงงานต่างชาติ",
+   "en": "Jobs and migrant workers",
+   "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
+    "src": "hot/img/jobs",
+    "credit": "Bigcitydata",
+    "lic": "CC BY 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
+    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
+    "alt_en": "Office towers in Silom, Bangkok"
    },
-   "outlets": 1,
-   "count": 3,
+   "outlets": 2,
+   "count": 2,
    "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
+    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
+    "en": "Subcommittee on Employment and Skills",
+    "url": "labour/2569/sub-employment.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
    },
    "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
+    "n": 21,
+    "date": "2026-09-23",
+    "url": "labour/2569/sub-employment.html#read-21"
    },
    "items": [
     {
-     "title": "เจเศรษฐ์ ลงพื้นที่ชายแดน ส่องเหมืองแร่เมียนมา จ่อประสานจีนคุมต้นตอสารพิษ",
-     "url": "https://www.matichon.co.th/politics/news_5975951",
+     "title": "กรมประมง เตือน นายจ้างเร่งต่ออายุใบอนุญาตทำงานแรงงานต่างด้าว ก่อน 11 ธ.ค. 2569 นี้",
+     "url": "https://www.thairath.co.th/news/politic/2972621",
      "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-14T13:26:50Z"
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-15T06:42:39Z"
     },
     {
-     "title": "กรมการค้าต่างประเทศ ปักธงเป้าการค้าชายแดน-ผ่านแดน ปี 69 นิวไฮทะลุกว่า 2 ล้านล้านบาท",
-     "url": "https://www.matichon.co.th/economy/news_5975046",
+     "title": "AI Generative Dynamic พลวัตเอไอการอยู่รอดของนายจ้างและมนุษย์เงินเดือน",
+     "url": "https://www.matichon.co.th/article/news_5974151",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-14T04:19:27Z"
-    },
-    {
-     "title": "กพร. คุมเข้มนำเข้าแร่ชายแดน จ่อชงประกาศกระทรวงฯ สกัดต้นตอมลพิษข้ามชาติ",
-     "url": "https://www.matichon.co.th/economy/news_5974373",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T09:42:23Z"
+     "date": "2026-11-14T02:07:42Z"
     }
    ]
   },
   {
-   "id": "rice",
-   "th": "ข้าวและชาวนา",
-   "en": "Rice and rice farmers",
+   "id": "drought",
+   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
+   "en": "Drought and water for farms",
    "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/rice",
-    "credit": "Eerin25",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
-    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
-    "alt_en": "Green rice paddies with a bamboo walkway"
+    "src": "hot/img/drought",
+    "credit": "NASA image created by Jesse Allen",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
+    "alt_en": "Satellite image of drought in Southeast Asia"
    },
-   "outlets": 1,
-   "count": 3,
+   "outlets": 2,
+   "count": 2,
    "body": {
+    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
+    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
+    "url": "agriculture/2569/sub-water.html"
+   },
+   "parent": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
     "url": "agriculture/2569/"
    },
-   "parent": null,
    "meeting": {
-    "n": 3,
-    "date": "2026-01-14",
-    "url": "agriculture/2569/#read-3"
+    "n": 19,
+    "date": "2026-11-11",
+    "url": "agriculture/2569/sub-water.html#read-19"
    },
    "items": [
     {
-     "title": "พาณิชย์ ปูพรมเช็คราคาพืชเกษตร ยันขยับดีทุกตัว ข้าวเปลือกขึ้น 9-55%",
-     "url": "https://www.matichon.co.th/economy/news_5974695",
+     "title": "เชียงรายวิกฤต น้ำแม่สายขุ่นเกินมาตรฐาน ทำประปาต้องหยุดผลิตหลายครั้ง นักวิชาการจี้เร่งหาแหล่งน้ำสำรอง",
+     "url": "https://www.matichon.co.th/region/news_5976227",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-13T12:29:45Z"
+     "date": "2026-11-15T05:33:04Z"
     },
     {
-     "title": "พาณิชย์ ปูพรมเช็กราคาพืชเกษตร ยันขยับดีทุกตัว ข้าวเปลือกขึ้น 9-55% มัน 65.14% ข้าวโพด36.95% ปาล์ม 16.23%",
-     "url": "https://www.matichon.co.th/economy/news_5974642",
+     "title": "เชียงราย น้ำประปา อ.เชียงของ พบสารหนูสูง 41 เท่า สั่งห้ามใช้ดื่มกิน งดเจาะบ่อบาดาล",
+     "url": "https://www.thairath.co.th/news/local/2972570",
      "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T11:43:20Z"
-    },
-    {
-     "title": "ศุภจี เปิดห้องหารือชาวนา โรงสี ผู้ส่งออก ยันราคาดี หอมมะลิตันละหมื่นเจ็ด แต่ยังกังวลต้นทุน",
-     "url": "https://www.matichon.co.th/economy/news_5974103",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-13T08:40:24Z"
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-15T01:49:16Z"
     }
    ]
   }
