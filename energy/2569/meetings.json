@@ -81,7 +81,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3icT1GRYgsVwTYmbM3E"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/energy/2569/media/v50.mp4",
+    "poster": "img/poster50.jpg",
+    "vtt": "media/v50.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:04",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "50",
+    "size": 9247614
+   },
+   "videos": [
+    {
+     "src": "/video-1/energy/2569/media/v50.mp4",
+     "poster": "img/poster50.jpg",
+     "vtt": "media/v50.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:04",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "50",
+     "size": 9247614
+    }
+   ]
+  },
   "chair": "นายพรเพิ่ม ทองศรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "agenda_only": true,
