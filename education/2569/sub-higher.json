@@ -95,7 +95,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Zf-Yecr1YKzW9eiLchI"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/education/2569/media/sub-higher-v39.mp4",
+    "poster": "img/poster-sub-higher-39.jpg",
+    "vtt": "media/sub-higher-v39.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:14",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "higher-39",
+    "size": 7277742
+   },
+   "videos": [
+    {
+     "src": "/video-1/education/2569/media/sub-higher-v39.mp4",
+     "poster": "img/poster-sub-higher-39.jpg",
+     "vtt": "media/sub-higher-v39.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:14",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "higher-39",
+     "size": 7277742
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 39/2569",
