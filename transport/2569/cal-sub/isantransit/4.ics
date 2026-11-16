@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:transport-2569-isantransit-m4@sangsukit.github.io
-DTSTAMP:20261113T203234Z
+DTSTAMP:20261115T202235Z
 DTSTART:20261118T023000Z
 DTEND:20261118T053000Z
 SUMMARY:ประชุมคณะอนุกรรมาธิกา
  รระบบขนส่งสาธารณะในเมือง
  หลักภาคตะวันออกเฉียงเหนื
  อ (วุฒิสภา) ครั้งที่ 4/2569
-LOCATION:
+LOCATION:ห้องประชุมกรรมาธิการ CA 
+ 333 ชั้น 3 อาคารรัฐสภา (สัปปาย
+ ะสภาสถาน 1111 ถนนสามเสน เขตด
+ ุสิต กรุงเทพมหานคร)
 DESCRIPTION:นัดประชุมตามหนังสือน
  ัดประชุมที่วุฒิสภาเผยแพร
  ่ ใส่ปฏิทินเพื่อติดตามเท

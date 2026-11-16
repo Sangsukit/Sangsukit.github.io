@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//energy-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:energy-2569-m51@sangsukit.github.io
+DTSTAMP:20261115T113724Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:ประชุม กมธ.การพลังงาน ว
+ ุฒิสภา ครั้งที่ 51/2569
+LOCATION:
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/energy/2569/#read-51
+URL:https://parliamentx.com/energy/2569/#read-51
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุม กมธ.การพลังงาน 
+ วุฒิสภา ครั้งที่ 51/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
