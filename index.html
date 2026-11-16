@@ -733,7 +733,7 @@ html[lang="en"] .un-under::before{content:"Under the "}
   <div class="hh-search" role="search">
    <label class="hh-ql" for="hh-q">ค้นหาคณะกรรมาธิการ เรื่องที่สนใจ หรือชื่อ สว.</label>
    <div class="hh-qbox"><svg class="ico" aria-hidden="true"><use href="#i-search"/></svg>
-    <input id="hh-q" type="search" inputmode="search" enterkeyhint="search" autocomplete="off" placeholder="เช่น เกษตร น้ำท่วม หรือชื่อ สว." aria-controls="hh-res">
+    <input id="hh-q" type="search" inputmode="search" enterkeyhint="search" autocomplete="off" placeholder="ค้นหาการประชุม คณะกรรมาธิการ สว. หรือหัวข้อที่สนใจ..." aria-controls="hh-res">
     <button type="button" id="hh-clear" hidden>ล้าง</button></div>
    <div class="hh-tags"><span>ลองแตะ:</span><button type="button" data-q="เกษตร">เกษตร</button><button type="button" data-q="น้ำท่วม">น้ำท่วม</button><button type="button" data-q="ชายแดน">ชายแดน</button><button type="button" data-q="สุขภาพ">สุขภาพ</button></div>
    <div class="hh-res" id="hh-res" role="region" aria-label="ผลการค้นหา" aria-live="polite" hidden></div>
@@ -2854,5 +2854,45 @@ function start(){lang();all();
 if(D.readyState==="loading")D.addEventListener("DOMContentLoaded",start);else start();
 })();
 </script>
+<!--SEARCH2-->
+<style id="hx-css">
+.hh-res .hx{display:contents}
+.hh-res .hx a{animation:hxIn .22s cubic-bezier(.16,1,.3,1) both}
+.hh-res .hx a.all{grid-template-columns:48px minmax(0,1fr) 22px;background:#F5ECDB}
+.hh-res .hx a.all b{color:#4A0E0B}
+@keyframes hxIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.hh-res .hx a{animation:none}}
+</style>
+<script id="hx-js">
+(function(){"use strict";
+var q=document.getElementById("hh-q"),res=document.getElementById("hh-res");if(!q||!res)return;
+var BASE="search/",eng=null,loading=null,seq=0,t=0;
+var en=function(){return document.documentElement.lang==="en"};
+var L=function(th,e){return en()?e:th};
+var esc=function(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})};
+var safe=function(u){u=String(u||"");return /^(https?:\/\/|\/|#)/.test(u)?u:"#"};
+function load(){if(loading)return loading;loading=new Promise(function(ok,no){var n=0;["core.js","engine.js"].forEach(function(f,i){var s=document.createElement("script");s.src=BASE+f+"?v=eabc69feae";s.async=false;s.onload=function(){if(++n===2)ok()};s.onerror=no;document.head.appendChild(s)})}).then(function(){
+ var ver="";function get(p){if(/manifest\.json$/.test(p))return fetch(p,{cache:"no-cache"}).then(function(r){return r.json()}).then(function(m){ver=m.data;return m});return fetch(p+"?v="+ver).then(function(r){if(!r.ok)throw 0;return r.json()})}
+ eng=new window.PXEngine({base:BASE+"idx/",fetchJSON:get});return eng.init()}).catch(function(){loading=null;throw 0});return loading}
+function full(v){return BASE+"?q="+encodeURIComponent(v.trim())}
+q.addEventListener("focus",function(){load().catch(function(){})},{once:true});
+q.addEventListener("keydown",function(e){if(e.key!=="Enter"||e.isComposing)return;var v=q.value.trim();if(!v)return;e.preventDefault();e.stopImmediatePropagation();location.href=full(v)},true);
+q.addEventListener("input",function(){clearTimeout(t);var my=++seq;var v=q.value.trim();if(!v)return;t=setTimeout(function(){
+ load().then(function(){return eng.search(v)}).then(function(r){if(my!==seq||q.value.trim()!==v)return;
+  var ids=r.ids.filter(function(d){return eng.meta.k[d]===4}).slice(0,3);
+  return eng.cards(ids,en()?"en":"th").then(function(cs){if(my!==seq||q.value.trim()!==v)return;
+   var old=res.querySelector(".hx");if(old)old.remove();
+   var h="";cs.forEach(function(c){if(!c)return;var cm=eng.cm.filter(function(x){return x.id===c.c})[0]||{};
+    h+='<a href="'+esc(safe(c.u))+'"><span class="ri cs"><svg class="ico" aria-hidden="true"><use href="#'+esc(cm.ic||"i-search")+'"/></svg></span><span><b>'+esc(en()?c.te||c.t:c.t)+'</b><small>'+esc((en()?cm.short_en||cm.en:cm.short)+" · "+L("ครั้งที่ ","No. ")+c.n+"/"+c.y+" · "+window.PXCore.fmtDate(c.d,en()?"en":"th"))+'</small></span><svg class="ico go" aria-hidden="true"><use href="#i-arrow"/></svg></a>'});
+   var n=r.total;
+   if(!h&&!n){return}
+   var none=res.querySelector(".none");if(none&&h)none.remove();
+   var box=document.createElement("div");box.className="hx";box.setAttribute("data-i18n-skip","");
+   box.innerHTML=(h?'<h3><svg class="ico" aria-hidden="true"><use href="#i-search"/></svg>'+esc(L("การประชุมที่เกี่ยวข้อง","Related meetings"))+'</h3>'+h:"")+
+    '<a class="all" href="'+esc(full(v))+'"><span class="ri"><svg class="ico" aria-hidden="true"><use href="#i-search"/></svg></span><span><b>'+esc(L("ดูผลการค้นหาทั้งหมด","See all results"))+(n?" ("+n.toLocaleString()+")":"")+'</b><small>'+esc(L("การประชุม วาระ สรุป วิดีโอ และอื่น ๆ","Meetings, agenda items, summaries, videos and more"))+'</small></span><svg class="ico go" aria-hidden="true"><use href="#i-arrow"/></svg></a>';
+   res.appendChild(box);res.hidden=false})}).catch(function(){})},220)});
+})();
+</script>
+<!--/SEARCH2-->
 </body>
 </html>
