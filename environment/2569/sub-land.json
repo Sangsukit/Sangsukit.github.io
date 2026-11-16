@@ -7,19 +7,24 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MtYyz-e4DB02Zqju9otSETjK7Xv_avNdlACCMEKf9mVw24-mjtBy0LaD5N0brTAzu7an8IgGHAOsUBueFnJyQwqMyccd19m4nFkVcRqLvSGHW4wjHopgGG4l3dinUHZDi-qQNq74bWX-Gj2sX9kxXVy6Daxr0DBSipheGw==&ref=11136882",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tloWuL8uaRn1L0_kuoYkj8ixtcmLaBT-xEi7ySf6aNOwYqxgj5Pj-LBfwqoEKVbgm2cMBZXSZQ7mgSLL-UsOne32a6f-eo4Y4llGV_QdaRAOoJSadfLvlc6AQJgr1AWr8KJASFZVfcigL8D9C-uLvk34seOmt4Um_rMhKA==&ref=11136882",
     "size": 130368
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xuQ_g-fBBizYj_EGthMBmj1dP8-oWJmJuw2XVUDh807P2JbkO8D-1wp-dQkYOzAZnK2P_58xLACiDtxLHykmy5zb8hpkJ6i373Rd8xZ7Dg_FEEGxpcsTfuZHJ8xRCjs49xMMlr0U-qsuQLhXPLJcZflBxkqeOSav-RwvYQ==&ref=11185189",
+    "size": 3643412
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Whd__0_LUeeW85fv1uY"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=g8hDWKP9yPzcPAEZxUs"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 5/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
   "items": [],
   "tags": [],
   "places": [],
