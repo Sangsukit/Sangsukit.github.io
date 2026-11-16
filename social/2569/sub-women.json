@@ -1,5 +1,27 @@
 [
  {
+  "n": 28,
+  "date": "2026-11-17",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=FDobPA1iQ6LEsZHQqFs"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 28/2569",
+  "summary": "นัดประชุมครั้งนี้ วุฒิสภายังไม่ได้เผยแพร่หนังสือนัดประชุม เปิดอ่านเอกสารต้นฉบับของรัฐสภาได้จากหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": false,
+  "upcoming": true
+ },
+ {
   "n": 27,
   "date": "2026-11-03",
   "time": "15.00",

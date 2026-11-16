@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://parliamentx.com/</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://parliamentx.com/committee-archive-2569/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://parliamentx.com/committee-archive-2569/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/sub-central.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/sub-dev-old.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/sub-dev.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/sub-disaster-old.html</loc><lastmod>2026-11-14</lastmod></url>
-  <url><loc>https://parliamentx.com/committee-archive-2569/sub-disaster.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://parliamentx.com/committee-archive-2569/sub-disaster.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/public-admin-2567/</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/public-admin-2567/sub-central.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/public-admin-2567/sub-dev-old.html</loc><lastmod>2026-11-14</lastmod></url>
@@ -171,7 +171,7 @@
   <url><loc>https://parliamentx.com/committee-archive-2569/m/dev-old-9.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-1.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-10.html</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-11.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-11.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-2.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-3.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-4.html</loc><lastmod>2026-11-13</lastmod></url>
@@ -211,7 +211,8 @@
   <url><loc>https://parliamentx.com/committee-archive-2569/s/v-dev-14.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/s/v-dev-15.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/s/v-dev-16-pre.html</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://parliamentx.com/committee-archive-2569/s/v-disaster-11-pre.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://parliamentx.com/committee-archive-2569/s/v-disaster-11-pre.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://parliamentx.com/committee-archive-2569/s/v-disaster-11.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/s/v-disaster-7.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/s/v-disaster-8.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/education/2567/</loc><lastmod>2026-11-15</lastmod></url>
@@ -222,7 +223,7 @@
   <url><loc>https://parliamentx.com/education/2568/sub-higher.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2568/sub-learning.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2568/sub-vocational.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/education/2569/</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/education/2569/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/sub-higher.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/sub-learning.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/sub-vocational.html</loc><lastmod>2026-11-16</lastmod></url>
@@ -238,7 +239,7 @@
   <url><loc>https://parliamentx.com/energy/2568/sub-lpg.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2568/sub-renewable.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://parliamentx.com/energy/2569/sub-altlaw.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/energy/2569/sub-altlaw.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/sub-cleanair.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/sub-elecprice.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/sub-freepower.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -515,7 +516,7 @@
   <url><loc>https://parliamentx.com/social/2569/</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/sub-children.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/sub-elderly.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/social/2569/sub-women.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/social/2569/sub-women.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2567/</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2567/sub-landrail.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2567/sub-lawcomplaint.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -1373,7 +1374,7 @@
   <url><loc>https://parliamentx.com/education/2569/m/higher-38.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/higher-39.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/higher-4.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/education/2569/m/higher-40.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/education/2569/m/higher-40.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/higher-5.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/higher-6.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/higher-7.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -1394,7 +1395,7 @@
   <url><loc>https://parliamentx.com/education/2569/m/learning-20.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/learning-21.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/learning-22.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/education/2569/m/learning-23.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/education/2569/m/learning-23.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/learning-3.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/learning-4.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/learning-5.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -1429,7 +1430,7 @@
   <url><loc>https://parliamentx.com/education/2569/m/vocational-31.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/vocational-32.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/vocational-33.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/education/2569/m/vocational-34.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/education/2569/m/vocational-34.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/vocational-4.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/vocational-5.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/m/vocational-6.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -1445,17 +1446,17 @@
   <url><loc>https://parliamentx.com/education/2569/s/v-higher-36.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-higher-37.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-higher-38.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/education/2569/s/v-higher-40-pre.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/education/2569/s/v-higher-40-pre.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-learning-19.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-learning-20.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-learning-21.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-learning-22.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/education/2569/s/v-learning-23-pre.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/education/2569/s/v-learning-23-pre.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-vocational-30.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-vocational-31.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-vocational-32.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/education/2569/s/v-vocational-33.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/education/2569/s/v-vocational-34-pre.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/education/2569/s/v-vocational-34-pre.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2567/m/1.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2567/m/10.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2567/m/2.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -1679,7 +1680,7 @@
   <url><loc>https://parliamentx.com/energy/2569/m/48.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/49.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/5.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/energy/2569/m/50.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/energy/2569/m/50.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/51.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/6.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/7.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -1693,7 +1694,6 @@
   <url><loc>https://parliamentx.com/energy/2569/m/altlaw-14.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/altlaw-15.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/altlaw-16.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/energy/2569/m/altlaw-17.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/altlaw-2.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/altlaw-3.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/m/altlaw-4.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -1755,6 +1755,7 @@
   <url><loc>https://parliamentx.com/energy/2569/s/v-47.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/s/v-48.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/s/v-49.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://parliamentx.com/energy/2569/s/v-50.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/energy/2569/s/v-51-pre.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/environment/2567/m/1.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/environment/2567/m/10.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -1981,6 +1982,7 @@
   <url><loc>https://parliamentx.com/environment/2569/m/climate-1.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/environment/2569/m/climate-2.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/environment/2569/m/climate-3.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://parliamentx.com/environment/2569/m/climate-4.html</loc></url>
   <url><loc>https://parliamentx.com/environment/2569/m/climate-first-1.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/environment/2569/m/climate-first-2.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/environment/2569/m/climate-first-3.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -3413,7 +3415,8 @@
   <url><loc>https://parliamentx.com/social/2569/m/women-24.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/women-25.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/women-26.html</loc><lastmod>2026-11-14</lastmod></url>
-  <url><loc>https://parliamentx.com/social/2569/m/women-27.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://parliamentx.com/social/2569/m/women-27.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://parliamentx.com/social/2569/m/women-28.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/women-3.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/women-4.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/women-5.html</loc><lastmod>2026-11-13</lastmod></url>

@@ -64,40 +64,88 @@
  {
   "n": 50,
   "date": "2026-11-10",
-  "time": "",
+  "time": "13.00",
   "room": "",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=f_C7mYpO81nmx_VL0aYY1Mm9GQyuNYn1Hz6F_eG13P_mKnsUMlrUdDIDfk9HkV5adoyNM_5ybTG8XpRIQyIIwOdvWhQfQvF7MVjOPbjA7II3Ple_TcSFY3rF_o0eCH-82eNXQ2Gu0gHff1971wFCTmyv6oOArNBwJhr5SQ==&ref=11146376",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lEjBQpk1rZmQEptJYQko-myPtoA6EUrqBTwp2lWw5HkHbCb88iCNKSUh-e96Vrjy0NxKv8YNzORwmDpSymC02eHP3Lxw_GKBKCqlmksAfu690v7ac-mRbXTNSbm0Q0f1Zk_f4eKHFGyR070yVnD9_O1Y3ATZrntygNabZQ==&ref=11146376",
     "size": 148720
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Kl5y9QhdoXNUv7MiQHDeEinlY5qSzzJRUcBIGGtN7lNA6Fqh10Yod7ldW9MjTJmtDEtYbMa3b_J0TKYYmyoZQTGuDQ29-R-v8k6BLYXUVrtttmHeyREXROCedSh2i339Myx6-q2ZgCV-e_8l7otvKNQv6jEi420otG5iCA==&ref=11149369"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=HBiW61LX-ZWOg6k82Xj6BxnCkrADYKqeHnKZmN-8BCRusAmbeKrkMMCvXKbBs0KCSmeIWXbI7-JQOlxW65lnKWRc0MIX_X3WAOCpzv2yqEljT4dNP05EEw5JsSn1gu2yGRlPAHmY0GFVQKoO_LhBqoTQmmvjd7V6nqVykA==&ref=11149369"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Mq2ODUKparJpz7GZh3CqSpf3sx6JbWCzsOLXwS-XDvbSwTwcyfTwg479s5zUl3Iw259yZJdAEFpgtW949QH9B9KyfssQ3IW-90y2EoGNKEjMNK4FVPax_B8ELAPvrMBhjXRyq9y7l5hBTSDDY1AzMGUgRClvtXoYHa5JCw==&ref=11185706"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3icT1GRYgsVwTYmbM3E"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Onvn4yCgcd3KMexQd3c"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/energy/2569/media/v50.mp4",
+    "poster": "img/poster50.jpg",
+    "vtt": "media/v50.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:04",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "50",
+    "size": 9247614
+   },
+   "videos": [
+    {
+     "src": "/video-1/energy/2569/media/v50.mp4",
+     "poster": "img/poster50.jpg",
+     "vtt": "media/v50.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:04",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "50",
+     "size": 9247614
+    }
+   ]
+  },
   "chair": "นายพรเพิ่ม ทองศรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "agenda_only": true,
-  "headline": "พิจารณาความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน",
-  "summary": "ตามหนังสือนัดประชุม วาระคือการพิจารณาความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงาน สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "ความคืบหน้า: SMR จากสาธารณรัฐเกาหลี มาตรการ ESCO ในหน่วยงานรัฐ และโรงไฟฟ้าขยะชุมชน",
+  "summary": "คณะกรรมาธิการรับฟังความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน คณะอนุกรรมาธิการด้านกฎหมายพลังงานทางเลือกแบบใหม่รับฟังข้อมูลจากผู้ผลิตไฟฟ้ารายสำคัญของสาธารณรัฐเกาหลี เรื่องเทคโนโลยีเตาปฏิกรณ์นิวเคลียร์ขนาดเล็กแบบโมดูลาร์ (i-SMR) และความร่วมมือกับ กฟผ. ตามบันทึกความเข้าใจเมื่อเดือนมิถุนายน 2568 คณะอนุกรรมาธิการด้านโครงสร้างราคาฯ ศึกษามาตรการบริษัทจัดการพลังงาน (ESCO) สำหรับหน่วยงานภาครัฐ โดยรับฟังข้อมูลจาก พพ. และกรมบัญชีกลาง พบว่าอุปสรรคสำคัญคือยังไม่มีระเบียบรองรับให้หน่วยงานรัฐจัดหาบริษัท ESCO ภาคเอกชน จึงเสนอให้หน่วยงานที่เกี่ยวข้องเร่งจัดทำระเบียบเฉพาะ และเปิดให้เอกชนแข่งขันเสนอราคา คณะอนุกรรมาธิการด้านขยะชุมชนพิจารณาร่างรายงานข้อเสนอนโยบายโรงไฟฟ้าขยะชุมชน โดยจัดกลุ่มโครงการตามสถานะจริงเป็น 4 กลุ่ม และเสนอว่าการปรับลดอัตรา FiT ควรทำควบคู่กับการปรับค่าธรรมเนียมกำจัดขยะ (Tipping Fee) ส่วนคณะทำงานด้านการปลูกไผ่เป็นพืชพลังงานอยู่ระหว่างจัดทำรายงาน",
   "items": [
    [
-    "ความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน",
-    "วาระที่ 3",
+    "ความร่วมมือด้านเทคโนโลยี i-SMR ระหว่างผู้ผลิตไฟฟ้าของสาธารณรัฐเกาหลีกับ กฟผ.",
+    "รับทราบ",
+    "sub"
+   ],
+   [
+    "มาตรการบริษัทจัดการพลังงาน (ESCO) สำหรับหน่วยงานภาครัฐ (พพ. กรมบัญชีกลาง)",
+    "รับทราบ",
+    "sub"
+   ],
+   [
+    "ร่างรายงานข้อเสนอนโยบายโรงไฟฟ้าขยะชุมชน",
+    "รับทราบ",
+    "sub"
+   ],
+   [
+    "รายงานแนวทางส่งเสริมการปลูกไผ่เป็นพืชพลังงาน (อยู่ระหว่างจัดทำ)",
+    "รับทราบ",
     "sub"
    ]
   ],
   "tags": [
-   "คณะอนุกรรมาธิการ"
+   "SMR",
+   "ESCO",
+   "โรงไฟฟ้าขยะ",
+   "ไผ่"
   ],
-  "places": []
+  "places": [
+   "สาธารณรัฐเกาหลี"
+  ]
  },
  {
   "n": 49,
