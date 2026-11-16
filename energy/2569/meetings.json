@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=G-Q8QDvsEQAzZ9RqzT4"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/energy/2569/media/v51pre.mp4",
+    "poster": "img/poster51pre.jpg",
+    "vtt": "media/v51pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:08",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "51p",
+    "size": 5140344
+   },
+   "videos": [
+    {
+     "src": "/video-1/energy/2569/media/v51pre.mp4",
+     "poster": "img/poster51pre.jpg",
+     "vtt": "media/v51pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:08",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "51p",
+     "size": 5140344
+    }
+   ]
+  },
   "chair": "นายพรเพิ่ม ทองศรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -103,7 +128,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=5xGE00sZQHOZletIh38"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/energy/2569/media/v49.mp4",
+    "poster": "img/poster49.jpg",
+    "vtt": "media/v49.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:01",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "49",
+    "size": 7072935
+   },
+   "videos": [
+    {
+     "src": "/video-1/energy/2569/media/v49.mp4",
+     "poster": "img/poster49.jpg",
+     "vtt": "media/v49.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:01",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "49",
+     "size": 7072935
+    }
+   ]
+  },
   "chair": "นายพรเพิ่ม ทองศรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ข้อมูลเทคโนโลยี SMR จากผู้พัฒนาต่างประเทศ และความคืบหน้าเรื่องร้องเรียน",
@@ -155,7 +205,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ic8Zwz3TSXeksQOg1EQ"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/energy/2569/media/v48.mp4",
+    "poster": "img/poster48.jpg",
+    "vtt": "media/v48.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:48",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "48",
+    "size": 8851742
+   },
+   "videos": [
+    {
+     "src": "/video-1/energy/2569/media/v48.mp4",
+     "poster": "img/poster48.jpg",
+     "vtt": "media/v48.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:48",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "48",
+     "size": 8851742
+    }
+   ]
+  },
   "chair": "นายพรเพิ่ม ทองศรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "กฟผ. เตรียมความพร้อมรองรับนโยบาย SMR",
@@ -208,7 +283,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=wc1O-sxuXYj2Tri04Qw"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/energy/2569/media/v47.mp4",
+    "poster": "img/poster47.jpg",
+    "vtt": "media/v47.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:24",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "47",
+    "size": 10055959
+   },
+   "videos": [
+    {
+     "src": "/video-1/energy/2569/media/v47.mp4",
+     "poster": "img/poster47.jpg",
+     "vtt": "media/v47.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:24",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "47",
+     "size": 10055959
+    }
+   ]
+  },
   "chair": "นายพรเพิ่ม ทองศรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "งบประมาณรัฐเพื่อโซลาร์รูฟท็อปของประชาชน",
@@ -261,7 +361,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8uZ51CEjBzzi84yyLNQ"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/energy/2569/media/v46.mp4",
+    "poster": "img/poster46.jpg",
+    "vtt": "media/v46.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:35",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "46",
+    "size": 10567480
+   },
+   "videos": [
+    {
+     "src": "/video-1/energy/2569/media/v46.mp4",
+     "poster": "img/poster46.jpg",
+     "vtt": "media/v46.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:35",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "46",
+     "size": 10567480
+    }
+   ]
+  },
   "chair": "นายพรเพิ่ม ทองศรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "โซลาร์รูฟท็อปภาคประชาชน และความคืบหน้าคณะอนุกรรมาธิการ 3 คณะ",

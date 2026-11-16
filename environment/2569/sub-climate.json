@@ -20,7 +20,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7u88i7yuDnWu11ZWaB8"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-climate-v3.mp4",
+    "poster": "img/poster-sub-climate-3.jpg",
+    "vtt": "media/sub-climate-v3.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:35",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "climate-3",
+    "size": 4038027
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-climate-v3.mp4",
+     "poster": "img/poster-sub-climate-3.jpg",
+     "vtt": "media/sub-climate-v3.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:35",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "climate-3",
+     "size": 4038027
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 3/2569",
@@ -78,7 +103,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Ov04T6iMN1VUhTPVQ7U"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-climate-v2.mp4",
+    "poster": "img/poster-sub-climate-2.jpg",
+    "vtt": "media/sub-climate-v2.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:27",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "climate-2",
+    "size": 3783047
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-climate-v2.mp4",
+     "poster": "img/poster-sub-climate-2.jpg",
+     "vtt": "media/sub-climate-v2.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:27",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "climate-2",
+     "size": 3783047
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 2/2569",
@@ -114,7 +164,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1TYFKmOrlkUZ5IoZEOA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-climate-v1.mp4",
+    "poster": "img/poster-sub-climate-1.jpg",
+    "vtt": "media/sub-climate-v1.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:38",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "climate-1",
+    "size": 4031777
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-climate-v1.mp4",
+     "poster": "img/poster-sub-climate-1.jpg",
+     "vtt": "media/sub-climate-v1.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:38",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "climate-1",
+     "size": 4031777
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 1/2569",

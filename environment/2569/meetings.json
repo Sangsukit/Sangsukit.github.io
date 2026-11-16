@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cjIhbprdc4gyUL8_Rb0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/v41pre.mp4",
+    "poster": "img/poster41pre.jpg",
+    "vtt": "media/v41pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:36",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "41p",
+    "size": 5966777
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/v41pre.mp4",
+     "poster": "img/poster41pre.jpg",
+     "vtt": "media/v41pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:36",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "41p",
+     "size": 5966777
+    }
+   ]
+  },
   "chair": "นายชีวะภาพ ชีวะธรรม",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -64,7 +89,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=HBASPFCbqBCQKG08liU"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/v40.mp4",
+    "poster": "img/poster40.jpg",
+    "vtt": "media/v40.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:35",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "40",
+    "size": 6059564
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/v40.mp4",
+     "poster": "img/poster40.jpg",
+     "vtt": "media/v40.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:35",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "40",
+     "size": 6059564
+    }
+   ]
+  },
   "chair": "นายชีวะภาพ ชีวะธรรม",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "แนวทางดำเนินคดีการลักลอบทิ้งกากอุตสาหกรรมและขยะอันตราย",
@@ -115,7 +165,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=aEW-Dvg-CBWmwbMbwXA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/v39.mp4",
+    "poster": "img/poster39.jpg",
+    "vtt": "media/v39.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:26",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "39",
+    "size": 5607880
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/v39.mp4",
+     "poster": "img/poster39.jpg",
+     "vtt": "media/v39.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:26",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "39",
+     "size": 5607880
+    }
+   ]
+  },
   "chair": "นายชีวะภาพ ชีวะธรรม",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "พื้นที่ชุ่มน้ำหนองหาน กุมภวาปี และน้ำท่วมกับมลพิษในปราจีนบุรี",
@@ -168,7 +243,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6UbQAVNCg7o5IBwg7iM"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/v38.mp4",
+    "poster": "img/poster38.jpg",
+    "vtt": "media/v38.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:19",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "38",
+    "size": 5425202
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/v38.mp4",
+     "poster": "img/poster38.jpg",
+     "vtt": "media/v38.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:19",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "38",
+     "size": 5425202
+    }
+   ]
+  },
   "chair": "นายชีวะภาพ ชีวะธรรม",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "รายงานการเพิ่มคุณค่าไม้ของกลางอย่างเป็นระบบ",
@@ -212,7 +312,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=SFc1gQuv9iUcpSY7VpU"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/v37.mp4",
+    "poster": "img/poster37.jpg",
+    "vtt": "media/v37.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:46",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "37",
+    "size": 6439084
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/v37.mp4",
+     "poster": "img/poster37.jpg",
+     "vtt": "media/v37.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:46",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "37",
+     "size": 6439084
+    }
+   ]
+  },
   "chair": "นายชีวะภาพ ชีวะธรรม",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ร่างรายงานแก้ฝุ่น PM2.5 และการปรับกฎหมายไม้สักและไม้เศรษฐกิจ",
@@ -265,7 +390,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=gFhnmuHJvbu2iZ4OHz4"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/v36.mp4",
+    "poster": "img/poster36.jpg",
+    "vtt": "media/v36.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:24",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "36",
+    "size": 5238891
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/v36.mp4",
+     "poster": "img/poster36.jpg",
+     "vtt": "media/v36.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:24",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "36",
+     "size": 5238891
+    }
+   ]
+  },
   "chair": "นายชีวะภาพ ชีวะธรรม",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ตั้งคณะอนุกรรมาธิการและที่ปรึกษาปีงบประมาณ 2570 และเรื่องร้องเรียนขุดหินในพังงา",

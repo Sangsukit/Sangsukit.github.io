@@ -42,7 +42,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lXkMx9njzqGua2nyxxA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v3.mp4",
+    "poster": "img/poster-sub-water-3.jpg",
+    "vtt": "media/sub-water-v3.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:46",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-3",
+    "size": 4362434
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v3.mp4",
+     "poster": "img/poster-sub-water-3.jpg",
+     "vtt": "media/sub-water-v3.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:46",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-3",
+     "size": 4362434
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 3/2569",
@@ -74,7 +99,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=oa_vwJbaPZg_qCibSnE"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v2.mp4",
+    "poster": "img/poster-sub-water-2.jpg",
+    "vtt": "media/sub-water-v2.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:33",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-2",
+    "size": 3831978
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v2.mp4",
+     "poster": "img/poster-sub-water-2.jpg",
+     "vtt": "media/sub-water-v2.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:33",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-2",
+     "size": 3831978
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 2/2569",
@@ -110,7 +160,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WqIWdN0DCi-XQ4Kaj6g"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v1.mp4",
+    "poster": "img/poster-sub-water-1.jpg",
+    "vtt": "media/sub-water-v1.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:21",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-1",
+    "size": 3483111
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v1.mp4",
+     "poster": "img/poster-sub-water-1.jpg",
+     "vtt": "media/sub-water-v1.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:21",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-1",
+     "size": 3483111
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 1/2569",
