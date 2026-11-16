@@ -74,7 +74,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=FRtJJGRxj9-X02DldBM"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-land-v3.mp4",
+    "poster": "img/poster-sub-land-3.jpg",
+    "vtt": "media/sub-land-v3.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:01",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "land-3",
+    "size": 4747724
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-land-v3.mp4",
+     "poster": "img/poster-sub-land-3.jpg",
+     "vtt": "media/sub-land-v3.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:01",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "land-3",
+     "size": 4747724
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 3/2569",
@@ -106,7 +131,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=IVD90drzbmRfG904W88"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-land-v2.mp4",
+    "poster": "img/poster-sub-land-2.jpg",
+    "vtt": "media/sub-land-v2.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:06",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "land-2",
+    "size": 4994381
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-land-v2.mp4",
+     "poster": "img/poster-sub-land-2.jpg",
+     "vtt": "media/sub-land-v2.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "land-2",
+     "size": 4994381
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 2/2569",
@@ -138,7 +188,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6zptvDku5PwO1GF7i-I"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-land-v1.mp4",
+    "poster": "img/poster-sub-land-1.jpg",
+    "vtt": "media/sub-land-v1.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:58",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "land-1",
+    "size": 4701038
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-land-v1.mp4",
+     "poster": "img/poster-sub-land-1.jpg",
+     "vtt": "media/sub-land-v1.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:58",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "land-1",
+     "size": 4701038
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 1/2569",
