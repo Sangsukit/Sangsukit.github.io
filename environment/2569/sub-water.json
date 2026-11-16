@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qYwSYS55nw--Vrr1wG0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v4.mp4",
+    "poster": "img/poster-sub-water-4.jpg",
+    "vtt": "media/sub-water-v4.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:00",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-4",
+    "size": 5063095
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v4.mp4",
+     "poster": "img/poster-sub-water-4.jpg",
+     "vtt": "media/sub-water-v4.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:00",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-4",
+     "size": 5063095
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 4/2569",
