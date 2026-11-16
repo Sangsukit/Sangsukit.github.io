@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:education-2569-higher-m40@sangsukit.github.io
-DTSTAMP:20261115T113533Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
+DTSTAMP:20261116T020801Z
+DTSTART:20261117T023000Z
+DTEND:20261117T053000Z
 SUMMARY:ประชุมคณะอนุกรรมาธิกา
  รการอุดมศึกษา วิทยาศาสตร
  ์ วิจัยและนวัตกรรม (วุฒิสภ
  า) ครั้งที่ 40/2569
-LOCATION:
+LOCATION:ห้องประชุม 202 ชั้น 2 อาคา
+ รรัฐสภา (สัปปายะสภาสถาน 1111 
+ ถนนสามเสน เขตดุสิต กรุงเท
+ พมหานคร)
 DESCRIPTION:นัดประชุมตามหนังสือน
  ัดประชุมที่วุฒิสภาเผยแพร
  ่ ใส่ปฏิทินเพื่อติดตามเท
