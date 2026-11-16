@@ -2,19 +2,24 @@
  {
   "n": 4,
   "date": "2026-11-12",
-  "time": "",
+  "time": "13.30",
   "room": "",
   "docs": [
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9zQDUtOjGvXrtFKwaPeZOyej8kyl0fGbqN7KHEBNcK7mYNmQ1P6feSlfn2sQp-xLnM6dLiYpJQ533qZN5zstC77IJb8AICLFE061QmYkf6VoJEv92ly6vZyGFA9ZzQVAxRVPofPCnOrhtudhJWk_pgKgLQhWLN4NtFWWgg==&ref=11185977",
+    "size": 8903272
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=vipHimd6FLqXMUmuQMk"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qYwSYS55nw--Vrr1wG0"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 4/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
   "items": [],
   "tags": [],
   "places": [],
