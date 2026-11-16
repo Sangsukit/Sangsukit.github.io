@@ -20,7 +20,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=g8hDWKP9yPzcPAEZxUs"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-land-v5.mp4",
+    "poster": "img/poster-sub-land-5.jpg",
+    "vtt": "media/sub-land-v5.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:09",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "land-5",
+    "size": 7375719
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-land-v5.mp4",
+     "poster": "img/poster-sub-land-5.jpg",
+     "vtt": "media/sub-land-v5.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:09",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "land-5",
+     "size": 7375719
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 5/2569",

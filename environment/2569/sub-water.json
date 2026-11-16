@@ -2,19 +2,49 @@
  {
   "n": 4,
   "date": "2026-11-12",
-  "time": "",
+  "time": "13.30",
   "room": "",
   "docs": [
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9zQDUtOjGvXrtFKwaPeZOyej8kyl0fGbqN7KHEBNcK7mYNmQ1P6feSlfn2sQp-xLnM6dLiYpJQ533qZN5zstC77IJb8AICLFE061QmYkf6VoJEv92ly6vZyGFA9ZzQVAxRVPofPCnOrhtudhJWk_pgKgLQhWLN4NtFWWgg==&ref=11185977",
+    "size": 8903272
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=vipHimd6FLqXMUmuQMk"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qYwSYS55nw--Vrr1wG0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v4.mp4",
+    "poster": "img/poster-sub-water-4.jpg",
+    "vtt": "media/sub-water-v4.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:00",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-4",
+    "size": 5063095
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v4.mp4",
+     "poster": "img/poster-sub-water-4.jpg",
+     "vtt": "media/sub-water-v4.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:00",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-4",
+     "size": 5063095
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 4/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
   "items": [],
   "tags": [],
   "places": [],

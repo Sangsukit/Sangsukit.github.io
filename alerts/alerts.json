@@ -121,6 +121,18 @@
    "published": "2026-11-15T20:08:27Z"
   },
   {
+   "id": "s417-climate-2569-4-video_pre",
+   "topic": "s417-climate",
+   "kind": "video_pre",
+   "n": 4,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 19 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "เตรียมการศึกษาดูงานโครงการคาร์บอนเครดิตภาคป่าชายเลน จังหวัดตราด",
+   "page": "https://parliamentx.com/environment/2569/s/v-climate-4-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=l0WyTcVSHUWhaX0nRTJXmWOYJZJJszwk7MIAHh_FbO4L_aBLlIDeCOTrrExEf6_sjx4mbfowHtCeQ6la596ZLtc_WsbMGzUmTXQp5D5i3TtLC5_ykYmvClYVpZe9b8TK73w_tBzbz34mC36EgK02yAodMkVc2EJyfjCBxw==&ref=11185271",
+   "published": "2026-11-16T12:31:44Z"
+  },
+  {
    "id": "s417-climate-2569-4-pre",
    "topic": "s417-climate",
    "kind": "pre",
@@ -817,6 +829,30 @@
    "published": "2026-11-11T19:21:52Z"
   },
   {
+   "id": "s417-water-2569-4-video_post",
+   "topic": "s417-water",
+   "kind": "video_post",
+   "n": 4,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 12 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "การประชุมครั้งที่ 4/2569",
+   "page": "https://parliamentx.com/environment/2569/s/v-water-4.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9zQDUtOjGvXrtFKwaPeZOyej8kyl0fGbqN7KHEBNcK7mYNmQ1P6feSlfn2sQp-xLnM6dLiYpJQ533qZN5zstC77IJb8AICLFE061QmYkf6VoJEv92ly6vZyGFA9ZzQVAxRVPofPCnOrhtudhJWk_pgKgLQhWLN4NtFWWgg==&ref=11185977",
+   "published": "2026-11-16T12:31:44Z"
+  },
+  {
+   "id": "s417-water-2569-4-post",
+   "topic": "s417-water",
+   "kind": "post",
+   "n": 4,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 12 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "การประชุมครั้งที่ 4/2569",
+   "page": "https://parliamentx.com/environment/2569/s/water-4.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9zQDUtOjGvXrtFKwaPeZOyej8kyl0fGbqN7KHEBNcK7mYNmQ1P6feSlfn2sQp-xLnM6dLiYpJQ533qZN5zstC77IJb8AICLFE061QmYkf6VoJEv92ly6vZyGFA9ZzQVAxRVPofPCnOrhtudhJWk_pgKgLQhWLN4NtFWWgg==&ref=11185977",
+   "published": "2026-11-16T12:31:44Z"
+  },
+  {
    "id": "s417-climate-2569-3-video_post",
    "topic": "s417-climate",
    "kind": "video_post",
@@ -1091,6 +1127,18 @@
    "page": "https://parliamentx.com/transport/2569/s/25.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iSLJABmp2EFSXeefSHOUliCAmMJwsf4gtVnGLnnYRqoyyPEmLvdeSOphAF0AvS-65kPRz3kFkiKObSb-zAdVmFKsvxvxItZFA6oZf4E9J0dm5v438p9D7QLe4fUs5zmD2vpEDbE5hkF66_bu8HYiuVXZQXhL2LshdG6RAA==&ref=11165539",
    "published": "2026-11-11T00:00:00Z"
+  },
+  {
+   "id": "s417-land-2569-5-video_post",
+   "topic": "s417-land",
+   "kind": "video_post",
+   "n": 5,
+   "year": 2569,
+   "date_th": "พุธที่ 11 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การประชุมครั้งที่ 5/2569",
+   "page": "https://parliamentx.com/environment/2569/s/v-land-5.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xuQ_g-fBBizYj_EGthMBmj1dP8-oWJmJuw2XVUDh807P2JbkO8D-1wp-dQkYOzAZnK2P_58xLACiDtxLHykmy5zb8hpkJ6i373Rd8xZ7Dg_FEEGxpcsTfuZHJ8xRCjs49xMMlr0U-qsuQLhXPLJcZflBxkqeOSav-RwvYQ==&ref=11185189",
+   "published": "2026-11-16T12:31:44Z"
   },
   {
    "id": "s417-land-2569-5-post",
