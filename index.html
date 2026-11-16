@@ -750,6 +750,16 @@ html[lang="en"] .un-under::before{content:"Under the "}
  </nav>
  <aside class="acta solid-ok" data-solid data-i18n-skip aria-labelledby="acta-h"><div class="acta-top"><span class="acta-ic"><svg class="acta-bell" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16.5V11a6 6 0 0 1 12 0v5.5l1.6 2H4.4z"/><path d="M10 20.6a2.1 2.1 0 0 0 4 0"/></svg></span><h2 class="acta-h" id="acta-h" data-en="Get meeting alerts by email">รับแจ้งเตือนการประชุมทางอีเมล</h2></div><p class="acta-p" data-en="Choose the committees you are interested in. When they have a new meeting notice, meeting summary or video, we will gladly email you, with a link to the Senate&#x27;s original documents.">เลือกคณะที่ท่านสนใจ เมื่อคณะนั้นมีหนังสือนัดประชุม สรุปการประชุม หรือวิดีโอใหม่ เรายินดีส่งอีเมลแจ้งท่าน พร้อมลิงก์ไปยังเอกสารต้นฉบับของวุฒิสภา</p><ul class="acta-ok"><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg><span data-en="Free">ไม่มีค่าใช้จ่าย</span></li><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg><span data-en="Stop any time">เลิกรับได้ทุกเมื่อ</span></li><li><svg class="acta-tk" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.2 4.2L19 7"/></svg><span data-en="Only when there is something new">ส่งเฉพาะเมื่อมีเรื่องใหม่</span></li></ul><a class="acta-go" data-acta-c="" href="/alerts/"><svg class="acta-bi" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16.5V11a6 6 0 0 1 12 0v5.5l1.6 2H4.4z"/><path d="M10 20.6a2.1 2.1 0 0 0 4 0"/></svg><span data-en="Sign up for alerts">สมัครรับแจ้งเตือน</span><svg class="acta-ar" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></aside>
  <p class="hh-helplink"><a href="#hh-help"><svg class="ico" aria-hidden="true"><use href="#i-info"/></svg>ใช้งานครั้งแรก อ่านวิธีใช้งาน</a></p>
+<!--HUB_INTRO_VIDEO-->
+ <section class="hiv" id="hh-iv" aria-labelledby="hh-iv-h">
+  <h2 id="hh-iv-h"><svg class="ico" aria-hidden="true"><use href="#i-play"/></svg>วิดีโอแนะนำเว็บไซต์</h2>
+  <div class="hiv-card hh-glass">
+   <button class="hiv-play" type="button" aria-label="เล่นวิดีโอแนะนำ"><img src="/video-2/intro/poster.jpg" alt="" width="108" height="192" loading="lazy"><span class="pc"><svg class="ico" aria-hidden="true"><use href="#i-play"/></svg></span></button>
+   <div class="hiv-txt"><b>ParliamentX ช่วยท่านได้อย่างไร</b><p>ชมการใช้งานหลัก ๆ ของเว็บไซต์ ภายใน 3 นาที</p><small><span class="nw">เสียงบรรยายภาษาไทย</span> · <span class="nw">คำบรรยายภาษาอังกฤษ</span></small></div>
+  </div>
+  <div class="hiv-acts"><button class="hiv-go" type="button"><svg class="ico" aria-hidden="true"><use href="#i-play"/></svg><span>เล่นวิดีโอแนะนำ</span></button></div>
+ </section>
+
 <!--HUB_LATEST_VIDEO-->
  <section class="hlv" id="hh-lv" aria-labelledby="hh-lv-h" hidden>
   <h2 id="hh-lv-h"><svg class="ico" aria-hidden="true"><use href="#i-play"/></svg>วิดีโอล่าสุด</h2>
@@ -2301,6 +2311,54 @@ span.cs>svg.ico,span.cs>svg.csv{width:100%!important;height:100%!important;margi
   }).catch(function(){});
  }
  if(document.readyState!=="loading")init();else document.addEventListener("DOMContentLoaded",init);
+})();
+</script>
+
+<!--HUB_INTRO_VIDEO-->
+<style id="hiv-css">
+.hiv{margin:22px 0 0;animation:hiv-in .45s var(--ease-out,cubic-bezier(.16,1,.3,1)) both}
+.hiv h2{display:flex;align-items:center;gap:10px;margin:0 0 12px;font:700 1.3rem/1.3 var(--f-display,inherit);color:var(--ink)}
+.hiv h2 .ico{width:26px;height:26px;color:var(--gold)}
+.hiv-card{display:grid;grid-template-columns:108px minmax(0,1fr);gap:14px;align-items:center;padding:12px 14px 12px 12px;border-radius:18px}
+.hiv-play{position:relative;width:108px;aspect-ratio:9/16;border:0;padding:0;border-radius:12px;overflow:hidden;background:#000;cursor:pointer;
+ transition:transform var(--dur-tap,200ms) var(--spring,cubic-bezier(.34,1.4,.64,1))}
+.hiv-play:active{transform:scale(.96)}
+.hiv-play img{width:100%;height:100%;object-fit:cover;display:block}
+.hiv-play .pc{position:absolute;left:50%;top:50%;width:54px;height:54px;margin:-27px 0 0 -27px;border-radius:50%;background:rgba(0,0,0,.55);display:grid;place-items:center;color:#fff}
+.hiv-play .pc .ico{width:28px;height:28px}
+.hiv-txt{min-width:0;display:flex;flex-direction:column;gap:6px;color:var(--ink)}
+.hiv-txt b{display:block;font-size:1.12rem;line-height:1.4}
+.hiv-txt p{margin:0;font-size:max(18px,1rem);line-height:1.5}
+.hiv-txt small{display:block;font-size:.95rem;color:var(--muted);line-height:1.45}
+.hiv-txt .nw{white-space:nowrap}
+.hiv-acts{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;margin-top:12px}
+.hiv-go{display:inline-flex;align-items:center;gap:8px;min-height:52px;padding:0 22px;border:0;border-radius:99px;background:var(--acc);color:var(--on-acc);
+ font-family:inherit;font-size:1.1rem;font-weight:700;line-height:1.2;cursor:pointer;transition:transform var(--dur-tap,200ms) var(--spring,cubic-bezier(.34,1.4,.64,1))}
+.hiv-go:active{transform:scale(.97)}
+.hiv-go[hidden]{display:none}
+.hiv-go .ico{width:22px;height:22px}
+.hiv-go:focus-visible,.hiv-play:focus-visible{outline:3px solid var(--gold-deco,#C9A55A);outline-offset:3px}
+.hiv-card.hiv-on{display:block;padding:8px}
+.hiv-card.hiv-on video{width:100%;max-height:78vh;border-radius:12px;background:#000;display:block}
+@keyframes hiv-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.hiv{animation:none}.hiv-play,.hiv-go{transition:none}}
+</style>
+<script>
+(function(){
+ function init(){
+  var sec=document.getElementById("hh-iv");if(!sec||sec.getAttribute("data-ok"))return;sec.setAttribute("data-ok","1");
+  var box=sec.querySelector(".hiv-card"),go=sec.querySelector(".hiv-go");
+  function play(){
+   if(box.classList.contains("hiv-on"))return;
+   box.classList.add("hiv-on");
+   box.innerHTML='<video controls autoplay playsinline preload="auto" controlslist="nodownload" disablepictureinpicture poster="/video-2/intro/poster.jpg" src="/video-2/intro/parliamentx-intro.mp4"></video>';
+   var v=box.querySelector("video");
+   if(v){v.addEventListener("contextmenu",function(e){e.preventDefault()});try{v.focus()}catch(e){}}
+   if(go)go.hidden=true;
+  }
+  sec.querySelector(".hiv-play").addEventListener("click",play);if(go)go.addEventListener("click",play);
+ }
+ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
 })();
 </script>
 
