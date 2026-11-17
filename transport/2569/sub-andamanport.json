@@ -75,23 +75,66 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xk5IMj0boGMpCv9_wX8ncqN3ZW407ENJj49cWzex55ctTCueNIopbKAj3hFguRnHwzGPaB3dLZBs-o0Q1j4lXqEr8bbPCW0i5CA75RmzSC099ok1TdFnAzhgjVDUSN_K2U0ID2fAB6KtCbvVDUK7u7MdYjBEKPohAyrizw==&ref=11137644",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=h2AZMXuZXAPIPt7mFHf34kCZf8KBl9nVgeeUUTPm5l6R70um6rWnsiVReGDA4ucqWeI4PE4cEXmY5wvDq0Cp-c2IOJGCt1m1AruLyZH43EgsRfu97c1Wlg5ECLDuzeOiWDhR2XeOy0RiWwIU8OC2Hzn6GohL2PkdhN2Rew==&ref=11137644",
     "size": 116012
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zXY48J4QPbAH19JxKlIRVs5WtjumHIutD1QpJfORl_Q12kB3bnMaY_3RWDMHgYsXXrJLUokzURT-up-iWk7leUPep4AI-icFV1k3GjCdrOxzMXkQDH0lDDoqeMAgl0XpJlgYHsZbH6l5b_bBqbMkpIZMM_uVGbChXu3rIA==&ref=11194578",
+    "size": 9122406
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=V6Q_5HSPwBgxIem9fLQ7HOou9JojwYipjQxhn6EzpLvURym8LQF1EObU-nmS_d1efyjVoDiNRxXI34iIvVYil7ZXWeC970KyvARgsCFIyFLIbEeG0BWoO37PrJydA3Zwkm3Qo21_sCUJD69pycCaturL4F--cYrFeUhpFw==&ref=11194595"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lTWSGHu3YHD1rc8RuY0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=iw3BDUfwVeEbcbGCGAo"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 4/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นางสาวนิชาภา สุวรรณนาค",
+  "chair_key": "nichapa",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ท่าเรือภูเก็ตและระนอง กับท่าเรืออัจฉริยะ (Smart Port)",
+  "summary": "ที่ประชุมพิจารณาศึกษานโยบายและแผนพัฒนาท่าเรือน้ำลึกเชิงพาณิชย์ฝั่งอันดามัน ความปลอดภัยในการเดินเรือ และการใช้เทคโนโลยีดิจิทัลสู่ท่าเรืออัจฉริยะ (Smart Port) โดยเชิญกรมเจ้าท่า การท่าเรือแห่งประเทศไทย กรมศุลกากร และกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม กรมเจ้าท่าชี้แจงแผนปรับปรุงร่องน้ำท่าเรือน้ำลึกภูเก็ตให้รองรับเรือขนาดใหญ่และเรือสำราญ ส่วนท่าเรือระนองยังมีข้อจำกัดด้านความลึกร่องน้ำ พื้นที่หลังท่า และการเชื่อมโยงโครงข่ายคมนาคม การท่าเรือแห่งประเทศไทยชี้แจงการพัฒนาท่าเรือระนองระยะที่ 3 ซึ่งอยู่ระหว่างประเมินผลกระทบสิ่งแวดล้อม (EIA) และระบบบริหารคิวรถบรรทุก (Truck Queue) กรมศุลกากรชี้แจงการพัฒนาพิธีการศุลกากรและการเชื่อมโยงข้อมูล รวมถึงข้อจำกัดในการติดตามสินค้าหลังพ้นอารักขาศุลกากร กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคมให้ข้อมูลความพร้อมของโครงข่ายโทรคมนาคมในภาคใต้ คณะอนุกรรมาธิการเสนอให้ศึกษาความคุ้มค่าของท่าเรือฝั่งอันดามัน ยกระดับระบบ Truck Queue ให้มีประสิทธิภาพและเป็นธรรม และเชื่อมข้อมูลผ่านระบบ National Single Window (NSW) ที่ประชุมให้หน่วยงานส่งคำชี้แจงเพิ่มเติมเป็นหนังสือ ระเบียบวาระครั้งนี้ยังมีรายงานการเดินทางศึกษาดูงานท่าเรือแหลมฉบัง จังหวัดชลบุรี ซึ่งสรุปผลการประชุมไม่ได้ระบุรายละเอียด",
+  "items": [
+   [
+    "นโยบายและแผนพัฒนาท่าเรือน้ำลึกเชิงพาณิชย์ฝั่งอันดามัน ความปลอดภัยในการเดินเรือ และเทคโนโลยีดิจิทัลสู่ท่าเรืออัจฉริยะ (Smart Port)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "แผนพัฒนาท่าเรือน้ำลึกภูเก็ต และข้อจำกัดของท่าเรือระนอง",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "ท่าเรือระนองระยะที่ 3 (อยู่ระหว่างประเมินผลกระทบสิ่งแวดล้อม) และระบบบริหารคิวรถบรรทุก (Truck Queue)",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "พิธีการศุลกากร การเชื่อมโยงข้อมูล และโครงข่ายโทรคมนาคมในภาคใต้",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "ให้หน่วยงานส่งคำชี้แจงและข้อมูลเพิ่มเติมเป็นหนังสือ เพื่อจัดทำข้อเสนอแนะเชิงนโยบาย",
+    "รับทราบ",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "ท่าเรืออัจฉริยะ",
+   "ท่าเรือระนอง",
+   "ศุลกากร"
+  ],
+  "places": [
+   "ภูเก็ต",
+   "ระนอง",
+   "ชลบุรี"
+  ],
   "upcoming": false
  },
  {
@@ -102,27 +145,69 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MTtu9wSc4AkILNe8rza14JuRgzsGe9wwBRuw8n4K4mBxH5tk9sFlr_B2yHmAhVPjDiC6HuziiRh_uU83mnDe8SVUeNRqgH5tjAIf9WB7w-MyltMw_l8YGMlBhKPlFumlS0HuepHQsJUYkpT6AFGRMYfsQjK3k4DVBnwYag==&ref=11079792",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oV8CKrfuErRnQBfKob42RbkJMhmBQLXcZEplT_r33aa5ohqPOUKcdZaurWmG2hLhtGjAGJtmyh78UfJz_bUUG1A3QPKdvQA1XU1t1u3PBxzcTHTyZN3mZ5jzVF0ld3XlRvxuZ9EFa6r7frNjcEET7G8cyjn6IO3y0pCWLw==&ref=11079792",
     "size": 150834
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MZMTQfjGgAjCvTIK0GtJOyp9X8p5D_6k_yNE58h1uyLBQFzZLLITBJyCydoUIR6k-RrOt1dSeeuS7e5vgC2De63nCITqJ2Gp6MEjGcuWvyAsFa1-EySOpWSXAx7QtVCCGYhIP40-dYNhCmapPmU1fspCIaNv3fmG_FHIAg==&ref=11099659"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Qcl9PVX0fA764KW39CSHYxobt0i031ww4hxvd5xZcOVEwTtOuL6AVm8RIZFl8B1eY_6B_nYvy66IjBA2mKBYwtLXeQDzjRtUoY_wvJxDfXNdYlFdz431B0RyrB2lMMmme4_UfZ0g3jsioYomCsnipeajLbM17wS2VBIY5w==&ref=11099659"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jVOSLgxktLeAxoPsxNGGYA44fYp63X8n82TS79F1yuD7Tu7Zu1OJFrKPP36JcuKzsGXuT0WjjPKBMLfviIjWnpXoPfZH0Sv5LBw2U8fHUO3sSAQ6CUqWhpj0O8c0GTyvpMesjuIORxvhoEABpvQyladwjIguO7rdjeT5aA==&ref=11194575",
+    "size": 10164165
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=GaURUCpfGyXs_JRagTI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8cIhYhVh3FjsrvI6R_M"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 3/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นางสาวนิชาภา สุวรรณนาค",
+  "chair_key": "nichapa",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ท่าเรือน้ำลึกปากบารา การเชื่อมสองฝั่งทะเล และแนวคิดคลองไทย",
+  "summary": "ที่ประชุมพิจารณาศึกษาความเป็นไปได้และผลกระทบของโครงการท่าเรือน้ำลึกปากบารา จังหวัดสตูล และแนวทางเชื่อมโยงระบบโลจิสติกส์ระหว่างฝั่งอ่าวไทยกับฝั่งอันดามัน โดยรับฟังข้อมูลจากผู้ทรงคุณวุฒิด้านโลจิสติกส์ ที่ปรึกษาคณะอนุกรรมาธิการ และผู้แทนภาคเอกชนที่ศึกษาแนวคิดคลองไทย ผู้ให้ข้อมูลเห็นว่าท่าเรือฝั่งอันดามันควรเป็นประตูการค้าระหว่างประเทศ (Gateway Port) รองรับสินค้าของไทยเป็นหลัก มากกว่าเป็นท่าเรือถ่ายลำสินค้า และควรมีแผนแม่บทพัฒนาภาคใต้ก่อนเลือกพื้นที่ก่อสร้าง โดยพิจารณาศักยภาพของท่าเรือเดิม โดยเฉพาะท่าเรือระนอง สำหรับแนวคิดคลองไทยเส้นทาง 9A เชื่อมกระบี่–ตรัง กับนครศรีธรรมราช–สงขลา ระยะทางประมาณ 135 กิโลเมตร ที่ประชุมมีข้อห่วงกังวลเรื่องเงินลงทุน ความคุ้มค่า ระดับน้ำทะเล และการรุกล้ำของน้ำเค็ม ที่ประชุมรับทราบ และให้นำข้อสังเกตไปประกอบรายงานการศึกษา โดยมุ่งพัฒนาศักยภาพท่าเรือและโครงสร้างพื้นฐานที่มีอยู่เดิม",
+  "items": [
+   [
+    "ความเป็นไปได้และผลกระทบของโครงการท่าเรือน้ำลึกปากบารา จังหวัดสตูล และการเชื่อมโยงโลจิสติกส์ฝั่งอ่าวไทยกับฝั่งอันดามัน",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "บทบาทของท่าเรือฝั่งอันดามัน: ประตูการค้าระหว่างประเทศ (Gateway Port) หรือท่าเรือถ่ายลำสินค้า",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "แผนแม่บทพัฒนาภาคใต้ และศักยภาพของท่าเรือเดิม โดยเฉพาะท่าเรือระนอง",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "แนวคิดคลองไทยเส้นทาง 9A เชื่อมฝั่งอ่าวไทยกับฝั่งอันดามัน",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "ข้อสังเกต 5 ข้อ เช่น ศึกษาปริมาณสินค้าและความคุ้มค่าก่อนกำหนดที่ตั้งท่าเรือ และให้ประชาชนมีส่วนร่วมตั้งแต่เริ่มต้นโครงการ",
+    "รับทราบ",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "ท่าเรือน้ำลึก",
+   "อันดามัน",
+   "คลองไทย"
+  ],
+  "places": [
+   "สตูล",
+   "สงขลา",
+   "ระนอง",
+   "กระบี่",
+   "ตรัง",
+   "นครศรีธรรมราช"
+  ],
   "upcoming": false
  },
  {
