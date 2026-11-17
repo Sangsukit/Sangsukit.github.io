@@ -7,12 +7,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=plGDYpVyDK8QVjFjXjUMQ40CDyMxgzRG_J-dim3dKjq_6K-XKx3suZimvWQOgEIANNElHHskNNGSpej9WWlMTonZZL6HlsJfPQAnz2ONqM5Qmv7bu5GvqCe2kznuGFRJa434p52xyG6sNyYxMN_CAQsGHtcfACFPxFvGOA==&ref=11165792",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nNJ1STgqervv6inBqWl5BiEFp0WfLXRo6XYIC3dasBznPqMOqiztQEXWAB3CKi4PlncqfXuoOzzrI-fRNtWOwo6WAzvzmr1wnsQLb5UkgF3bXaicS2dyfu9p4H6FiBSkHMUCbD26HNpW3KHlyT_G01JNbge6uKXxzO6wIg==&ref=11165792",
+    "size": 135726
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_y_b7tvz0h19JyXh7nSu1jP6qB0n6lFSe7Grzo2ggW4JetPcpOYfPnYp2Z4W3LQYwZbVLxATNyU3g3B7ES6nRPulMnzavd-WbVUzbpc1duoxOf8xeZEHyCRGmK1t7brXvrtN_3LUgyY-RjDqDB2RFkxvj19pKg8FPBSvxQ==&ref=11194806",
     "size": 135726
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=81Bl9s0zAqsm--jK4Pk"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Mxu23_Ueqx3vNeEkhA0"
    }
   ],
   "media": {
@@ -22,10 +27,10 @@
     "vtt": "media/v32pre.th.vtt",
     "kind": "pre",
     "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:06",
+    "dur": "2:03",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "32p",
-    "size": 5094370
+    "size": 4800959
    },
    "videos": [
     {
@@ -34,28 +39,27 @@
      "vtt": "media/v32pre.th.vtt",
      "kind": "pre",
      "label": "วิดีโอก่อนการประชุม",
-     "dur": "2:06",
+     "dur": "2:03",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "32p",
-     "size": 5094370
+     "size": 4800959
     }
    ]
   },
   "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
-  "headline": "ศึกษาการดำเนินงานของ สสส.",
-  "summary": "การประชุมวันอังคารที่ 24 พฤศจิกายน 2569 เวลา 08.00 น. ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา (งดประชุมวันที่ 17 พ.ย. 2569) ตามหนังสือนัดประชุม วาระคือการศึกษาการดำเนินงานของกองทุนสนับสนุนการสร้างเสริมสุขภาพ (สสส.) ตามพระราชบัญญัติกองทุนสนับสนุนการสร้างเสริมสุขภาพ พ.ศ. 2544 ทั้งเจตนารมณ์และบทบาทของกองทุน ผลสัมฤทธิ์ของโครงการ การบริหารรายได้และงบประมาณ และการจัดสรรเงินสนับสนุนแก่หน่วยงานภายนอก สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "พิจารณาการตั้งคณะอนุกรรมาธิการ",
+  "summary": "การประชุมวันอังคารที่ 24 พฤศจิกายน 2569 เวลา 08.00 น. ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา (งดประชุมวันที่ 17 พ.ย. 2569) ตามหนังสือแจ้งเปลี่ยนแปลงระเบียบวาระการประชุม ลงวันที่ 17 พฤศจิกายน 2569 วาระคือการพิจารณาการตั้งคณะอนุกรรมาธิการ ในคณะกรรมาธิการการสาธารณสุข วุฒิสภา (แทนวาระเดิมเรื่องการดำเนินงานของ สสส. ตามหนังสือนัดประชุมฉบับก่อน) สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
   "items": [
    [
-    "การดำเนินงานของกองทุนสนับสนุนการสร้างเสริมสุขภาพ (สสส.)",
+    "การตั้งคณะอนุกรรมาธิการ ในคณะกรรมาธิการการสาธารณสุข วุฒิสภา",
     "วาระที่ 3",
     "other"
    ]
   ],
   "tags": [
-   "สสส.",
-   "สร้างเสริมสุขภาพ",
+   "คณะอนุกรรมาธิการ",
    "วาระการประชุม"
   ],
   "places": []
@@ -93,10 +97,10 @@
     "vtt": "media/v31.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "2:40",
+    "dur": "3:03",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "31",
-    "size": 6452766
+    "size": 7034154
    },
    "videos": [
     {
@@ -105,10 +109,10 @@
      "vtt": "media/v31.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "2:40",
+     "dur": "3:03",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "31",
-     "size": 6452766
+     "size": 7034154
     }
    ]
   },
@@ -165,10 +169,10 @@
     "vtt": "media/v30.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "3:18",
+    "dur": "3:38",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "30",
-    "size": 7747383
+    "size": 8337337
    },
    "videos": [
     {
@@ -177,10 +181,10 @@
      "vtt": "media/v30.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "3:18",
+     "dur": "3:38",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "30",
-     "size": 7747383
+     "size": 8337337
     }
    ]
   },
@@ -237,10 +241,10 @@
     "vtt": "media/v29.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "3:24",
+    "dur": "3:38",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "29",
-    "size": 8014683
+    "size": 8367982
    },
    "videos": [
     {
@@ -249,10 +253,10 @@
      "vtt": "media/v29.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "3:24",
+     "dur": "3:38",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "29",
-     "size": 8014683
+     "size": 8367982
     }
    ]
   },
@@ -319,10 +323,10 @@
     "vtt": "media/v28.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "3:12",
+    "dur": "3:23",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "28",
-    "size": 7416978
+    "size": 7760646
    },
    "videos": [
     {
@@ -331,10 +335,10 @@
      "vtt": "media/v28.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "3:12",
+     "dur": "3:23",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "28",
-     "size": 7416978
+     "size": 7760646
     }
    ]
   },
@@ -395,10 +399,10 @@
     "vtt": "media/v27.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "3:07",
+    "dur": "3:23",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "27",
-    "size": 7346273
+    "size": 7761359
    },
    "videos": [
     {
@@ -407,10 +411,10 @@
      "vtt": "media/v27.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "3:07",
+     "dur": "3:23",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "27",
-     "size": 7346273
+     "size": 7761359
     }
    ]
   },

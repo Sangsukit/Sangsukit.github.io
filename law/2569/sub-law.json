@@ -76,27 +76,62 @@
   "n": 19,
   "date": "2026-11-12",
   "time": "10.00",
-  "room": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 426 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=h0zdIs7H6YNQeoCoUKBbxojirzX9DHiHTdfnV3qvSbp5Pfc4FBEtoY3l6eRwlMeFRVHxX_VjXbgpvsFoB6wTHlbr3IeRBQ5OM-_uomVU3jLdolfp_aw0MNFIpBdbgVwv0dxmn2tUw1hF1WfA2LXnRlV5sOTEUMVQ_Ksf1g==&ref=11136926",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gBDqoakfz6MLohd2j1SWd598ucphp25hLn8LML5TL6H-AuxBMpY3RG_NiRsod8KbD45Vd1FATfaLPf-6hocCCy56Ykcm5wNXuray9dsI9M7zpLoeluc2QMac9owMXCKxLt4S5BXUQRehAzTxsjJGRufNJsTS3wb9C_1_3g==&ref=11136926",
     "size": 196301
    },
    {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zR_fvBfLgESLy9fZsBJxLK4bOlyeP3LEpMqx5i_n3JX_BUyaDg1vohh3Pc7o1D7HAL6QpQYakNg7E9fOpjGtTAueNuNIDWyWtvdMoFoK7JeXbaQJh7AN15bythZa1M7PHTVPlYOp4JOOUnN0ybulFoeVD7d8p8-fDbo4Jg==&ref=11194711"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=t7ghgoYwU-tJOGUifsM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Ek35NL-9QgXNeF5uijE"
    }
   ],
   "media": {},
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 19/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "agenda_only": true,
+  "headline": "ศึกษาร่างกฎหมายที่ได้รับมอบหมาย การบังคับใช้กฎหมายป้องกันการทรมาน และการปรับเป็นพินัยในคดีจราจร",
+  "summary": "ระเบียบวาระ: รับทราบว่าคณะกรรมาธิการ (ครั้งที่ 29/2569) มอบหมายให้ศึกษาร่างพระราชบัญญัติธุรกรรมทางอิเล็กทรอนิกส์ และร่างพระราชบัญญัติแก้ไขเพิ่มเติมประมวลกฎหมายอาญา (การปรับปรุงมาตรการกักขังแทนค่าปรับ) ตามข้อบังคับการประชุมวุฒิสภา พ.ศ. 2562 ข้อ 119 ศึกษาร่างกฎหมายที่ได้รับมอบหมายไว้ก่อนหน้า ศึกษาเรื่องการแทรกแซงกระบวนการยุติธรรมผ่านสื่อสังคมออนไลน์ และศึกษาการบังคับใช้กฎหมายป้องกันการทรมานและการกระทำให้บุคคลสูญหาย กับการปรับเป็นพินัยในคดีจราจรทางบก (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "คณะกรรมาธิการมอบหมายให้ศึกษาร่าง พ.ร.บ.ธุรกรรมทางอิเล็กทรอนิกส์ และร่าง พ.ร.บ.แก้ไขเพิ่มเติมประมวลกฎหมายอาญา (มาตรการกักขังแทนค่าปรับ)",
+    "รับทราบ",
+    "law"
+   ],
+   [
+    "ร่าง พ.ร.บ.ยกเลิก พ.ร.บ.ว่าด้วยความผิดอันเกิดจากการใช้เช็ค · ร่าง พ.ร.บ.ป้องกันและปราบปรามการฟอกเงิน · ร่าง พ.ร.บ.จัดตั้งศาลแรงงานฯ และร่าง พ.ร.บ.วิธีพิจารณาคดีค้ามนุษย์",
+    "พิจารณาตามระเบียบวาระ",
+    "law"
+   ],
+   [
+    "แนวทางป้องกันและแก้ไขปัญหาการแทรกแซงกระบวนการยุติธรรมผ่านสื่อสังคมออนไลน์",
+    "พิจารณาตามระเบียบวาระ",
+    "law"
+   ],
+   [
+    "การบังคับใช้ พ.ร.บ.ป้องกันและปราบปรามการทรมานและการกระทำให้บุคคลสูญหาย พ.ศ. 2565",
+    "พิจารณาตามระเบียบวาระ",
+    "law"
+   ],
+   [
+    "การบังคับใช้กฎหมายว่าด้วยการปรับเป็นพินัยในคดีจราจรทางบก",
+    "พิจารณาตามระเบียบวาระ",
+    "law"
+   ]
+  ],
+  "tags": [
+   "ร่างกฎหมาย",
+   "ป้องกันการทรมาน",
+   "ปรับเป็นพินัย",
+   "สื่อสังคมออนไลน์"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -107,12 +142,16 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8Utw0rToKZVCvPSQtXK0z4MdgRO8DrRiXI-TOWD5_lL7d8sLJ4NLfpJDX-iC_a4uHpry7Gtd2TYB3UHKMt_UNutYtB29RTejfD4Odj8vm2neEkziCp3faI_8raCKoN_fBV6u9dlrpywA3__gdTjwNZsOCrNqUSTJWZMggw==&ref=11098881",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FV9jt4FAJKILF0_Frb1aW1v-LmJidmXymsncdRivlJvjVen7BSypgGNHOa1La3ZA6uNasc0_X_JZnG_GwlVVlZdHrpIGJdm4WhLIR3eWJStPh8uthcOkFwbJ-hIAUB3L1PpW07B0hDHLwwhWkj6Dp9V2aQqBKKHdSQo-1w==&ref=11098881",
     "size": 173866
    },
    {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mXDkKlYBXxbl6ZiR2k89B16PzlnPYtbkx2rXNVtHMNlnogBa4SjH_btaPmZPX94fP3oaQjwHjQuGIGYaLccw8XzAxLTBIg3skUkPi4Sw2fhMYg8CC9EcSM_qMSGQ7OQ882IfxaGVR8NQFwexEa0qvycn78fhbj2U8LlESw==&ref=11194876"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rvkWyu58xHa9of0XysA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AEDzQfEnB6RVOk7q1ig"
    }
   ],
   "media": {},
@@ -148,16 +187,20 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2vyAW1thV7ucrh4vuwBXBkDvP9TnuEhRZH2LvlGqq7HnLKq0dMXqCtUrMwsuZTvktMFw3RhNPY5bmMlUEMHXUp8ZMWHKwcoLnKDKcWANDXCu-SdzBKQDQWRg4e5UQsWFMM_UFg3nmIp-Yf9XVRP_7EzYKu-goil2PsTyIA==&ref=10842661",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BosbaHpsYkSgoJ2G_3pN9u905ARAqT-Qz_IhTJ0e5fRV0HbrC3-8Jx8ESdg-1Zm60YTv8srALlW04nOb7f-WJFBxG8Hj_4sn17jzu8fnmTbj7Bp0wUwxNUptWnpKRjOg4AanxZUcdT7-SDojQjsyq3_rK4aOt-PsUcIUtg==&ref=10842661",
     "size": 161730
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1ipsMW_bCbdV5ZxGDJqQJg7GodVpCbTt8j4LT1oQ0LyibTQQwUCtF0Vr7BWfvyCXqayV9AiEdB9HCxXqz6L3795v_j1FnABzgGLeaxdGFpyYE6Vl4FuVx3uKlw_CHPkHYA-ukd6SSgHns6bZrHmzPJXE9WINhDabOrs_FQ==&ref=10962893"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MPkBWxVzSbcAVjlChk_mWPCGMOaHOpFMX2QvO1I8VSlW4yBLyySgDbrFtRduoAf_pozHRDphWU2RVPfRr4NT64qKaxX7USugY674wut6M-EQCd3QscKEikOWwA-DXPAx7oP25g17__jDSvHQwciMPUqFRp25GMsNP7aYAQ==&ref=10962893"
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dDfbs1sjl96db3_JvFbLyiEsSR56TY-Upy1H-CxIgyU4UQDy6up5cL8tx3oC1e8vYf1PhdptyFAwKqrdTivpClXSiM4fbhXgCs0q20cFOrxZQN1SqKz-wRVteF5-2q5yptxac4Zg4BNfmmBEtHhk-Udbm0xPAU5lli7xfQ==&ref=11194676"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QnYvn_nCubSqC0hUDEM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=usRpbrq9ydPfx5rqiy8"
    }
   ],
   "media": {},
