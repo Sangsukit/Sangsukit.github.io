@@ -1,120 +1,8 @@
 {
- "updated": "2026-11-17T04:00:03Z",
+ "updated": "2026-11-17T16:15:56Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "cyber",
-   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
-   "en": "Cyber and defence industry",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/cyber",
-    "credit": "Christopher Bowns",
-    "lic": "CC BY-SA 2.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
-    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
-    "alt_en": "An aisle between server racks in a data centre"
-   },
-   "outlets": 2,
-   "count": 3,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
-    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
-    "url": "military/2569/sub-cyber.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 25,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-cyber.html#read-25"
-   },
-   "items": [
-    {
-     "title": "“เจพีมอร์แกน เชส” ยืนยันปัญหาระบบขัดข้อง ไม่ใช่การโจมตีทางไซเบอร์",
-     "url": "https://www.dailynews.co.th/news/6365940/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-17T03:22:03Z"
-    },
-    {
-     "title": "ภัยไซเบอร์เขย่าโลก! สัญญาณอันตราย ศก.ไทย เร่งเซฟความเชื่อมั่น ปชช.",
-     "url": "https://www.matichon.co.th/economy/eco-report/news_5976700",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-16T02:20:32Z"
-    },
-    {
-     "title": "สนค. ชี้ภัยไซเบอร์สะเทือนห่วงโซ่อาหารยุโรป โจทย์ใหม่ Food Security แนะพร้อม 6 เรื่องรับมือแข่งขัน",
-     "url": "https://www.matichon.co.th/economy/news_5976638",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-15T10:00:15Z"
-    }
-   ]
-  },
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 1,
-   "count": 3,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 33,
-    "date": "2026-09-21",
-    "url": "agriculture/2569/#read-33"
-   },
-   "items": [
-    {
-     "title": "ดัน “ใบอ้อย” รับเศรษฐกิจหมุนเวียน รับตลาดคาร์บอนต่ำ ฝ่ากติกาการค้าโลก",
-     "url": "https://www.matichon.co.th/economy/news_5977861",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-16T09:58:00Z"
-    },
-    {
-     "title": "กอช. ชูยอดสมาชิกพุ่ง 2.92 ล้านคน ผนึกเอกชนผุดแคมเปญใหญ่ดึง ‘ไรเดอร์-เกษตรกร’ เข้าถึงบำนาญ",
-     "url": "https://www.matichon.co.th/economy/news_5977806",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-16T09:36:17Z"
-    },
-    {
-     "title": "สนค. ชู กระทงกาบหมาก-เปลือกข้าวโพด ลอยรักษ์โลก กระตุ้นเศรษฐกิจชุมชน-ลดงบกำจัดขยะ",
-     "url": "https://www.matichon.co.th/economy/news_5976232",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-15T04:26:35Z"
-    }
-   ]
-  },
   {
    "id": "disaster",
    "th": "น้ำท่วมและภัยพิบัติ",
@@ -129,8 +17,8 @@
     "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
     "alt_en": "A flooded street and houses"
    },
-   "outlets": 1,
-   "count": 1,
+   "outlets": 3,
+   "count": 3,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
     "en": "Subcommittee on National Disaster Management",
@@ -148,92 +36,228 @@
    },
    "items": [
     {
-     "title": "‘เจเศรษฐ์’ร่ายยาวแจง’เท้ง’ ปมน้ำแม่สาย ย้ำ’กปภ.’ในกำกับทำเต็มที่",
-     "url": "https://www.dailynews.co.th/news/6366080/",
+     "title": "ครม.อนุมัติร่างกฎหมายตามมาตรการภาษี ช่วยเหลือผู้มีเงินได้ที่ประสบอุทกภัย",
+     "url": "https://www.dailynews.co.th/news/6368804/",
      "lang": "th",
      "outlet_th": "เดลินิวส์",
      "outlet_en": "Daily News",
-     "date": "2026-11-17T03:51:33Z"
-    }
-   ]
-  },
-  {
-   "id": "localgov",
-   "th": "จังหวัด อำเภอ และการกระจายอำนาจ",
-   "en": "Provinces, districts and decentralisation",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/localgov",
-    "credit": "Ahoerstemeier",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "page": "https://commons.wikimedia.org/wiki/File:Surat_Thani_provincial_hall.jpg",
-    "alt_th": "ศาลากลางจังหวัด",
-    "alt_en": "A provincial hall"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการส่วนกลางและส่วนภูมิภาค",
-    "en": "Subcommittee on Central and Regional Administration",
-    "url": "committee-archive-2569/sub-central.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": null,
-   "items": [
+     "date": "2026-11-17T15:13:29Z"
+    },
     {
-     "title": "การไฟฟ้าส่วนภูมิภาค (PEA) เปิดรับสมัครบุคคลเพื่อคัดเลือกเข้าดำรงตำแหน่งผู้ว่าการการไฟฟ้าส่วนภูมิภาค",
-     "url": "https://www.matichon.co.th/publicize/news_5978358",
+     "title": "“ดร.กตัญญู” ชูนวัตกรรมบริหารภัยพิบัติ ใช้ข้อมูลแม่นยำ เตือนภัยทันสถานการณ์“",
+     "url": "https://www.matichon.co.th/publicize/news_5978876",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-17T03:50:11Z"
+     "date": "2026-11-17T10:29:22Z"
+    },
+    {
+     "title": "ครม.อนุมัติมาตรการภาษีช่วยค่าซ่อมแซมบ้าน-รถ จากเหตุน้ำท่วมปี’68",
+     "url": "https://www.prachachat.net/politics/news-2098040",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-17T08:16:44Z"
     }
    ]
   },
   {
-   "id": "livestock",
-   "th": "ปศุสัตว์และประมง",
-   "en": "Livestock and fisheries",
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
    "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/livestock",
-    "credit": "Love Krittaya",
-    "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
-    "alt_th": "วัวกินหญ้าในทุ่งนา",
-    "alt_en": "A cow grazing in a rice field"
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 1,
-   "count": 1,
+   "outlets": 2,
+   "count": 3,
    "body": {
-    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
-    "en": "Subcommittee on Livestock and Fisheries Standards",
-    "url": "agriculture/2569/sub-livestock.html"
-   },
-   "parent": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
     "url": "agriculture/2569/"
    },
+   "parent": null,
    "meeting": {
-    "n": 7,
-    "date": "2026-07-15",
-    "url": "agriculture/2569/sub-livestock.html#read-7"
+    "n": 33,
+    "date": "2026-09-21",
+    "url": "agriculture/2569/#read-33"
    },
    "items": [
     {
-     "title": "เป้าหมาย ‘ประมง 101’ ตั้งโจทย์ใหม่ ‘การตลาดนำ-เน้นยั่งยืน’",
-     "url": "https://www.prachachat.net/economic/news-2096326",
+     "title": "จี้ยกระดับวิกฤตลำไย ‘วาระแห่งชาติ’ ชง 5 มาตรการเจรจาจีน ปลดล็อกส่งออก",
+     "url": "https://www.prachachat.net/economic/local-economy/news-2098023",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-17T00:14:00Z"
+     "date": "2026-11-17T08:26:41Z"
+    },
+    {
+     "title": "ดัน “ใบอ้อย” รับเศรษฐกิจหมุนเวียน รับตลาดคาร์บอนต่ำ ฝ่ากติกาการค้าโลก",
+     "url": "https://www.matichon.co.th/economy/news_5977861",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-16T09:58:00Z"
+    },
+    {
+     "title": "กอช. ชูยอดสมาชิกพุ่ง 2.92 ล้านคน ผนึกเอกชนผุดแคมเปญใหญ่ดึง ‘ไรเดอร์-เกษตรกร’ เข้าถึงบำนาญ",
+     "url": "https://www.matichon.co.th/economy/news_5977806",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-16T09:36:17Z"
+    }
+   ]
+  },
+  {
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-holistic.html#read-20"
+   },
+   "items": [
+    {
+     "title": "ครม.เคาะลดหย่อนภาษีซ่อมบ้านสูงสุด 1 แสนบาท ซ่อมรถ 3 หมื่นบาท ช่วยชายแดนไทย–กัมพูชา",
+     "url": "https://www.dailynews.co.th/news/6368798/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-17T15:07:41Z"
+    },
+    {
+     "title": "Push for Myanmar dialogue",
+     "url": "https://www.bangkokpost.com/thailand/general/3355804/push-for-myanmar-dialogue",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-17T00:04:00Z"
+    }
+   ]
+  },
+  {
+   "id": "farmdebt",
+   "th": "หนี้เกษตรกรและสหกรณ์",
+   "en": "Farm debt and cooperatives",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/farmdebt",
+    "credit": "Mr.Peerapong Prasutr",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Suphanburi_Thai_Rice_Farmers_National_Museum_1.jpg",
+    "alt_th": "กระบุงใส่ข้าวเปลือกในพิพิธภัณฑ์ชาวนาไทย",
+    "alt_en": "Baskets of rice in the Thai Rice Farmers museum"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 30,
+    "date": "2026-08-31",
+    "url": "agriculture/2569/#read-30"
+   },
+   "items": [
+    {
+     "title": "ธ.ก.ส. อัดแคมเปญ ‘ชำระดีมีโชค 69’ จ่ายหนี้ 1,000 บาท ลุ้นโชค 2 ชั้น รวม 377 ล้าน",
+     "url": "https://www.matichon.co.th/economy/news_5979258",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-17T09:55:53Z"
+    },
+    {
+     "title": "ธ.ก.ส. จัด ‘โครงการชำระดีมีโชค’ เพียงชำระ 1,000 บาท ลุ้นโชค 2 ชั้น มูลค่ากว่า 377 ล้าน",
+     "url": "https://www.prachachat.net/finance/news-2098033",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-17T08:01:02Z"
+    }
+   ]
+  },
+  {
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
+   },
+   "outlets": 1,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "labour/2569/sub-socialsec.html#read-20"
+   },
+   "items": [
+    {
+     "title": "ธงธรรม เตือน ร่างประกันสังคม ไอซ์ เสี่ยงลดอำนาจรัฐ-แทรกแซงง่าย ห่วงนำเงินซื้อสินทรัพย์แพงเกินจริง",
+     "url": "https://www.matichon.co.th/politics/news_5979692",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-17T13:59:55Z"
+    },
+    {
+     "title": "สหัสวัต กางเอกสาร 3 หน่วย เตือน 3 ขอ เสี่ยงทำลายกองทุนสปส.-ขัดเจตนารมณ์กฎหมาย",
+     "url": "https://www.matichon.co.th/politics/news_5979590",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-17T12:37:32Z"
     }
    ]
   }
