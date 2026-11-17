@@ -22,27 +22,27 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/health/2569/media/v32pre.mp4",
+    "src": "media/v32pre.mp4",
     "poster": "img/poster32pre.jpg",
     "vtt": "media/v32pre.th.vtt",
     "kind": "pre",
     "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:06",
+    "dur": "2:03",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "32p",
-    "size": 5094370
+    "size": 4800959
    },
    "videos": [
     {
-     "src": "/video-1/health/2569/media/v32pre.mp4",
+     "src": "media/v32pre.mp4",
      "poster": "img/poster32pre.jpg",
      "vtt": "media/v32pre.th.vtt",
      "kind": "pre",
      "label": "วิดีโอก่อนการประชุม",
-     "dur": "2:06",
+     "dur": "2:03",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "32p",
-     "size": 5094370
+     "size": 4800959
     }
    ]
   },
@@ -92,27 +92,27 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/health/2569/media/v31.mp4",
+    "src": "media/v31.mp4",
     "poster": "img/poster31.jpg",
     "vtt": "media/v31.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "2:40",
+    "dur": "3:03",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "31",
-    "size": 6452766
+    "size": 7034154
    },
    "videos": [
     {
-     "src": "/video-1/health/2569/media/v31.mp4",
+     "src": "media/v31.mp4",
      "poster": "img/poster31.jpg",
      "vtt": "media/v31.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "2:40",
+     "dur": "3:03",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "31",
-     "size": 6452766
+     "size": 7034154
     }
    ]
   },
@@ -164,27 +164,27 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/health/2569/media/v30.mp4",
+    "src": "media/v30.mp4",
     "poster": "img/poster30.jpg",
     "vtt": "media/v30.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "3:18",
+    "dur": "3:38",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "30",
-    "size": 7747383
+    "size": 8337337
    },
    "videos": [
     {
-     "src": "/video-1/health/2569/media/v30.mp4",
+     "src": "media/v30.mp4",
      "poster": "img/poster30.jpg",
      "vtt": "media/v30.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "3:18",
+     "dur": "3:38",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "30",
-     "size": 7747383
+     "size": 8337337
     }
    ]
   },
@@ -236,27 +236,27 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/health/2569/media/v29.mp4",
+    "src": "media/v29.mp4",
     "poster": "img/poster29.jpg",
     "vtt": "media/v29.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "3:24",
+    "dur": "3:38",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "29",
-    "size": 8014683
+    "size": 8367982
    },
    "videos": [
     {
-     "src": "/video-1/health/2569/media/v29.mp4",
+     "src": "media/v29.mp4",
      "poster": "img/poster29.jpg",
      "vtt": "media/v29.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "3:24",
+     "dur": "3:38",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "29",
-     "size": 8014683
+     "size": 8367982
     }
    ]
   },
@@ -318,27 +318,27 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/health/2569/media/v28.mp4",
+    "src": "media/v28.mp4",
     "poster": "img/poster28.jpg",
     "vtt": "media/v28.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "3:12",
+    "dur": "3:23",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "28",
-    "size": 7416978
+    "size": 7760646
    },
    "videos": [
     {
-     "src": "/video-1/health/2569/media/v28.mp4",
+     "src": "media/v28.mp4",
      "poster": "img/poster28.jpg",
      "vtt": "media/v28.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "3:12",
+     "dur": "3:23",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "28",
-     "size": 7416978
+     "size": 7760646
     }
    ]
   },
@@ -394,27 +394,27 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/health/2569/media/v27.mp4",
+    "src": "media/v27.mp4",
     "poster": "img/poster27.jpg",
     "vtt": "media/v27.th.vtt",
     "kind": "post",
     "label": "วิดีโอสรุปผลการประชุม",
-    "dur": "3:07",
+    "dur": "3:23",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "27",
-    "size": 7346273
+    "size": 7761359
    },
    "videos": [
     {
-     "src": "/video-1/health/2569/media/v27.mp4",
+     "src": "media/v27.mp4",
      "poster": "img/poster27.jpg",
      "vtt": "media/v27.th.vtt",
      "kind": "post",
      "label": "วิดีโอสรุปผลการประชุม",
-     "dur": "3:07",
+     "dur": "3:23",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "27",
-     "size": 7346273
+     "size": 7761359
     }
    ]
   },
