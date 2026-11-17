@@ -1,6 +1,18 @@
 {
  "items": [
   {
+   "id": "s414-disaster-2569-12-video_pre",
+   "topic": "s414-disaster",
+   "kind": "video_pre",
+   "n": 12,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 26 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "ระบบบัญชาการและการบูรณาการการบริหารจัดการอุทกภัย",
+   "page": "https://parliamentx.com/committee-archive-2569/s/v-disaster-12-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=s3FfZShlktwqRNZ18FTqAfYLIw4VNEBUJXbwlVZ-HwOc-0PotcgyWila8memdKkj1UQTb-bD3mWFb-Y7YB0Ka3q5TR5DNnwd_qPwjbZvOIK6N_iboT4ClgTG7G9AD5_kijSaic7edfCR8hVYF71jGpxKOx27_w3cyTGM3g==&ref=11194636",
+   "published": "2026-11-17T08:40:57Z"
+  },
+  {
    "id": "s414-disaster-2569-12-pre",
    "topic": "s414-disaster",
    "kind": "pre",
