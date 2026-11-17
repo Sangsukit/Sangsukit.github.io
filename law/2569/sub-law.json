@@ -15,32 +15,7 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Y5O9Vs1CBnXqc3C-k38"
    }
   ],
-  "media": {
-   "video": {
-    "src": "/video-1/law/2569/media/sub-law-v20pre.mp4",
-    "poster": "img/poster-sub-law-20pre.jpg",
-    "vtt": "media/sub-law-v20pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:04",
-    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "law-20p",
-    "size": 5274613
-   },
-   "videos": [
-    {
-     "src": "/video-1/law/2569/media/sub-law-v20pre.mp4",
-     "poster": "img/poster-sub-law-20pre.jpg",
-     "vtt": "media/sub-law-v20pre.th.vtt",
-     "kind": "pre",
-     "label": "วิดีโอก่อนการประชุม",
-     "dur": "2:04",
-     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-     "ck": "law-20p",
-     "size": 5274613
-    }
-   ]
-  },
+  "media": {},
   "chair": "",
   "chair_role": "",
   "agenda_only": true,
