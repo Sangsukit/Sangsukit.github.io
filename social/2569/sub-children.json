@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=otvoHQdc-cY4OBx7kPc"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-children-v26pre.mp4",
+    "poster": "img/poster-sub-children-26pre.jpg",
+    "vtt": "media/sub-children-v26pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:12",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "children-26p",
+    "size": 5101465
+   },
+   "videos": [
+    {
+     "src": "media/sub-children-v26pre.mp4",
+     "poster": "img/poster-sub-children-26pre.jpg",
+     "vtt": "media/sub-children-v26pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:12",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "children-26p",
+     "size": 5101465
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "รับมือเด็กเกิดน้อย: รับฟังข้อมูลจากหน่วยงานด้านการศึกษา",
