@@ -222,24 +222,101 @@
  {
   "n": 35,
   "date": "2026-10-19",
-  "time": "",
+  "time": "15.00",
   "room": "",
   "docs": [
    {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qbtxMM-keqP6MJ3J75xXK4C2t6wQf-itnVEkL2FfccYyG7PEfPd3MA2ynGZszkPw5tQHyxaYNIb1n1k3kdlcafIpfjYiUgcvOhGDxX2lu8ppvewrzuL0WLp4WOp7tFZTwCwqUNXj3YHI79RvdLPWav-BwrGvOjFtdoNEIA==&ref=10992930",
+    "size": 115895
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NTF5Af9V9Sa0XTQFQ9QSgK7OlTwMQcesJSR1x-jrkZjM02BA01XhhHBdsTfn3AykyFNoop9MphEg_F5ScWys83ILkMaW-YcZE3uNI7eOSJplQbzbcB28dY3tCoodQdx3LFdb7jXieJVbBaenTjU4SfIC3E7e10wJiZ_k-A==&ref=11195049"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XuSaQhJN9EBtcEwqEfqMMPHLVZtD0npPhougbgZ9QqEPWD7pxuNLFNP_Euc2GnDoT8oQHAiE0YiaY25xkWn-HATbUhqIgG7FP1C99gHTMKt8yyJ2Kxti2u8sZzsPWbAXyIBKBOJJ915JkRpkwjXYkdKDONUyjUU3QZRkOw==&ref=11195134",
+    "size": 2204205
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dxkrsCUEj6jzKo0dLY03VA-T8HyLRs3UXO9dFWrbf-peqdIrO1BtXDLOh42eT-JPZpFvKGLwozSPboAzds6JOZT1O2wocvvrdIU-KWRjzvQjefilgSzf62QQfDwTiL8eSkQp08rBtEMzxMIRtTA70OH9PkAyDdJr8xNlZg==&ref=11195135"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=L6rM-IiN-9Bhg_uJ3uE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=f4uKFOQSOYKhcAeq6wo"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 35/2569",
-  "summary": "เปิดอ่านเอกสารต้นฉบับของรัฐสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
-  "upcoming": false
+  "chair": "นายสุนทร เชาว์กิจค้า",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "headline": "ติดตามโครงการเขื่อนแควน้อย กาญจนบุรี ปัญหาต้นยางพาราในระยอง และหนังสือตอบเรื่องราคาสินค้าเกษตร",
+  "summary": "ที่ประชุมพิจารณาความคืบหน้าของคณะอนุกรรมาธิการ 3 คณะ ได้แก่ การจัดทำรายงานเรื่องเครือข่ายระบบเกษตรครบวงจร ร่างรายงานเรื่องน้ำนอกเขตชลประทานซึ่งเปรียบเทียบพื้นที่นำร่อง 5 จังหวัดและธนาคารน้ำใต้ดิน และผลการดูงานศูนย์ควบคุมสุนัขของกรุงเทพมหานคร คณะกรรมาธิการเห็นควรมีหนังสือถึงผู้ว่าการการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย เพื่อขอทราบข้อเท็จจริง ความคืบหน้า และปัญหาอุปสรรคของโครงการเขื่อนแควน้อย อำเภอไทรโยค จังหวัดกาญจนบุรี ซึ่งชะลอการดำเนินงานอยู่ พิจารณาหนังสือตอบจากหน่วยงานเรื่องเขตทำประมงในกระบี่ ราคาสินค้าเกษตรและปัจจัยการผลิต และการค้ำประกันเงินกู้ของสหกรณ์ และจะมีหนังสือถึงการยางแห่งประเทศไทยและกรมวิชาการเกษตร เพื่อขอให้ตรวจสอบปัญหาต้นยางพาราใบไหม้และยืนต้นตายในจังหวัดระยอง",
+  "items": [
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการศึกษาเครือข่ายระบบเกษตรครบวงจรตามมาตรฐานสากล: อยู่ระหว่างจัดทำรายงานการพิจารณาศึกษา",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทาน: ร่างรายงาน เปรียบเทียบพื้นที่นำร่อง 5 จังหวัด ธนาคารน้ำใต้ดิน และข้อเสนอระดับนโยบายและระดับปฏิบัติ",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านปศุสัตว์และการประมง: สรุปผลดูงานศูนย์ควบคุมสุนัขกรุงเทพมหานคร เรื่องการจัดการสุนัขและแมวจรจัด และการช่วยเหลือสัตว์เลี้ยงในภัยพิบัติ",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าโครงการเขื่อนแควน้อย อ.ไทรโยค จ.กาญจนบุรี: มีหนังสือถึงผู้ว่าการการไฟฟ้าฝ่ายผลิตแห่งประเทศไทยเพื่อขอทราบข้อเท็จจริง และแจ้งสภาเกษตรกรจังหวัดกาญจนบุรี",
+    "มีหนังสือสอบถาม",
+    "other"
+   ],
+   [
+    "หนังสือตอบจากกรมประมง: การขยายเส้นเขตการทำประมง จ.กระบี่ บริเวณเกาะศรีบอยาและเกาะปอ ต้องรับฟังความเห็นจากจังหวัดข้างเคียงเพิ่มเติม",
+    "พิจารณา",
+    "other"
+   ],
+   [
+    "หนังสือตอบจากกระทรวงพาณิชย์: ราคาสินค้าเกษตร ราคาปัจจัยการผลิต และราคาน้ำมันเชื้อเพลิง",
+    "พิจารณา",
+    "other"
+   ],
+   [
+    "หนังสือตอบจากกระทรวงพาณิชย์และกระทรวงเกษตรและสหกรณ์: การลดต้นทุนการผลิต สวัสดิการเกษตรกรสูงอายุ ฟางข้าว ข้าวพันธุ์ดี และราคาข้าว",
+    "พิจารณา",
+    "other"
+   ],
+   [
+    "หนังสือตอบจากธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร: ข้อร้องเรียนเรื่องการให้คณะกรรมการดำเนินการสหกรณ์ชุดใหม่ค้ำประกันเงินกู้เดิม",
+    "พิจารณา",
+    "complaint"
+   ],
+   [
+    "ต้นยางพาราใบไหม้ น้ำยางออกน้อย และยืนต้นตาย จ.ระยอง: มีหนังสือถึงการยางแห่งประเทศไทยและกรมวิชาการเกษตร ขอให้ตรวจสอบและพิจารณาแนวทางช่วยเหลือ",
+    "มีหนังสือขอให้ตรวจสอบ",
+    "complaint"
+   ]
+  ],
+  "tags": [
+   "อนุกรรมาธิการ",
+   "เขื่อน",
+   "เขตทำประมง",
+   "ราคาสินค้าเกษตร",
+   "ต้นทุนการผลิต",
+   "สหกรณ์",
+   "ยางพารา",
+   "สัตว์จรจัด",
+   "เรื่องร้องเรียน"
+  ],
+  "places": [
+   "กาญจนบุรี",
+   "กระบี่",
+   "ระยอง",
+   "กรุงเทพมหานคร"
+  ]
  },
  {
   "n": 34,
@@ -249,50 +326,93 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XgVhcztO59WJ3EEc3CWxkiT6m3WFW_M6sOqvmkiaQ7JRyAQhtW2di3vlnGl1-vEmsEhQz7JOQfGQaNVzQgKuq5yVZUhKgfDzwzoWZ-RtRQegTudlFlN0otC_3H6YFvxUFfO62zxv49BaNVeqL_sOW8n7GcSGF438kfUgjw==&ref=10879630",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GBqHoZY7veyuEyiwbMPOIJ0jNek5EaOzdpyOW7QSoYNah4SoQ91ziAiTIUc0V4_rm6duSd6XO-5DEesHz-EuRX3pzQj57rOBCYkcTz5WFMR8rT7g8-Q1WfX4KNMVQLfWZVfb7oxQGWqKZl10ecvZKfL_WR_WpJZ60JPjJw==&ref=10879630",
     "size": 121351
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=A--1e9uxt_OOgw3l54TPHnMnwbiR15zgDLLuBAQBd3cadDdtjxG2H6GsO38jAtWJd-4wa6KQTOJIYhtwXJHqyvrNbGvUdqoKJ206U_IFNI18MhJmZ8wfotvv_9z9CcW3T9gddH2D_t9Dde_ho-ruU-W1-XgP4R0gKcQU7Q==&ref=10922670"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=C-bgDJajDZhS0d2BcGodpQZ8qT_C7wtCYGcmUWXaWwcFlPTbM6MelmZJwGEUniSybwu-HpDCfefPzamMb7sE8XEvIgn7w8eN9ZpudJtloDtVCQqweNYEZEZLPQjH0qbQ5zHBhnTZgX1fwyuFqt_hQc6Z2c_Zgd7JNU-weg==&ref=10922670"
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=x0cTBHnkWc_PHtHhXARnWTtcrhSOxukWtxI226BFcVgueJZMMUfAswnLQY6WfgODy8po2gcsI9gJUvDUaE52PPnzYZjE1ArT9tY6RGxxsmf_ZOs912rVEGzlyDh2GBxkPCo7SXXraE6TbIv_RlYLF62oekt8c3Aa9kwI_A==&ref=10991471"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3AAbfStsY--pD-i2IH1TGQ9-TlgtPpkO1_84Mx0L-7ZjsfRHGrvubzMD1qJjI0QrQEtuAec3KNGXg_uOuc_W7UnSr0mnfIIxkTPmymnNGXMI-E2_-i7CoBrMt04ZuHCVXBlCoLKg7zbqY7VPeHSgBEyw6z0Fd8JYSlcXEw==&ref=10991471"
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=t42_daSHWjEOZoaEhOsmGwlHRSrs5sOlC6a4Vsqn6NE4mpzjCrmJcDmMG-Vr0vUlW-VQukuQKbb-MGJ3BPYqJkpir-Fzs-z3HDHtnOhbD1ILUeqnfh7hy9cNtcolsp2myJ_0pV8p-nCPqit_dCF7dHJsKVICqJr292xL1w==&ref=11195041"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=n87HTAO-E3hrBf25ROsSbMgvMcAkUYydVsUx8kGoInLe6B70eLhHYvxdo3xexxl3yYpzdaiirK43pN-Dm6KNDDuUSrZrh9LuAMfEQVTkKaqRFrOHOSCek_Vk1jp9YqpkDBKsnHF6o7HBU-6CgJatX5MJHtg6bwDlIgzReg==&ref=11195042",
+    "size": 2185493
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=-GVNYXB8BL7rZ_FNrpg"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=yyaquMISVUhiVWucRuA"
    }
   ],
   "media": {},
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "agenda_only": true,
-  "headline": "ติดตามความคืบหน้าของคณะอนุกรรมาธิการ",
-  "summary": "วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ รายการด้านล่างเป็นระเบียบวาระตามหนังสือนัดประชุม คือ รับรองบันทึกการประชุม เรื่องสืบเนื่อง และความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการในคณะกรรมาธิการ",
+  "headline": "เห็นชอบข้อสังเกตเพิ่มเติมท้ายรายงานความมั่นคงทางอาหาร และติดตามงานของคณะอนุกรรมาธิการ",
+  "summary": "ที่ประชุมพิจารณาความคืบหน้าของคณะอนุกรรมาธิการ 3 คณะ ได้แก่ แนวทางพัฒนาการเกษตรสู่เกษตรอุตสาหกรรมครบวงจรโดยใช้หลัก “ตลาดนำการผลิต” ร่างรายงานการศึกษาเรื่องการบริหารจัดการน้ำนอกเขตชลประทาน พร้อมกำหนดดูงานที่ชัยนาท สิงห์บุรี และสุพรรณบุรี 29–30 ต.ค. 2569 และร่างรายงานการศึกษาเรื่องการจัดการสัตว์จรจัด ที่ประชุมเห็นชอบข้อสังเกตเพิ่มเติมท้ายรายงานการพิจารณาศึกษาเรื่องความมั่นคงและความปลอดภัยทางอาหาร ตามข้อสังเกตของที่ประชุมวุฒิสภาเมื่อ 21 ก.ย. 2569 เพื่อส่งไปยังคณะรัฐมนตรี พิจารณาข้อเสนอจากโครงการสมาชิกวุฒิสภาพบประชาชนเรื่องการขนส่งผลผลิตเกษตรในจังหวัดนราธิวาส และพิจารณาหนังสือตอบจากหน่วยงาน",
   "items": [
    [
-    "รับรองบันทึกการประชุม และเรื่องสืบเนื่อง",
-    "วาระที่ 2–4",
-    "other"
-   ],
-   [
-    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 5",
+    "ความคืบหน้าของคณะอนุกรรมาธิการศึกษาเครือข่ายระบบเกษตรครบวงจรตามมาตรฐานสากล: แนวทางเกษตรอุตสาหกรรมครบวงจรแบบ “ตลาดนำการผลิต” และการใช้ฐานข้อมูลกลาง (Big Data)",
+    "พิจารณา",
     "sub"
    ],
    [
-    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
-    "วาระที่ 6",
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทาน: ร่างรายงานการศึกษา และกำหนดดูงาน จ.ชัยนาท จ.สิงห์บุรี และ จ.สุพรรณบุรี 29–30 ต.ค. 2569",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านปศุสัตว์และการประมง: ร่างรายงานการศึกษาเรื่องการจัดการสัตว์จรจัด และกำหนดดูงานศูนย์ควบคุมสัตว์กรุงเทพมหานคร 7 ต.ค. 2569 และศูนย์พักพิงสุนัข จ.อุทัยธานี 12–13 พ.ย. 2569",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ข้อสังเกตเพิ่มเติมท้ายรายงานการพิจารณาศึกษา เรื่อง ความมั่นคงและความปลอดภัยทางอาหาร ตามข้อสังเกตของที่ประชุมวุฒิสภา (21 ก.ย. 2569) เพื่อส่งไปยังคณะรัฐมนตรี",
+    "เห็นชอบ",
+    "other"
+   ],
+   [
+    "เรื่องร้องทุกข์จากโครงการสมาชิกวุฒิสภาพบประชาชน ภาคใต้ตอนล่าง: การขนส่งและการบริหารจัดการผลผลิตเกษตร จ.นราธิวาส",
+    "พิจารณา",
+    "complaint"
+   ],
+   [
+    "หนังสือตอบจากกรมพัฒนาที่ดิน: แนวทางสนับสนุนโครงการอนุรักษ์ดินและน้ำ ลุ่มน้ำคลองท่อม จ.กระบี่",
+    "พิจารณา",
+    "other"
+   ],
+   [
+    "หนังสือตอบจากจังหวัดระยองและกรมควบคุมมลพิษ: ผลตรวจสอบคุณภาพน้ำและที่มาของน้ำที่มีสารปนเปื้อน ซึ่งกระทบสวนทุเรียนของเกษตรกร จ.ระยอง",
+    "พิจารณา",
     "other"
    ]
   ],
   "tags": [
    "อนุกรรมาธิการ",
-   "วาระการประชุม"
+   "ความมั่นคงทางอาหาร",
+   "อุตสาหกรรมเกษตร",
+   "บริหารจัดการน้ำ",
+   "สัตว์จรจัด",
+   "โลจิสติกส์เกษตร",
+   "มลพิษ",
+   "ทุเรียน",
+   "เรื่องร้องเรียน"
   ],
-  "places": []
+  "places": [
+   "นราธิวาส",
+   "ชัยนาท",
+   "สิงห์บุรี",
+   "สุพรรณบุรี",
+   "อุทัยธานี",
+   "กระบี่",
+   "ระยอง"
+  ]
  },
  {
   "n": 34,
