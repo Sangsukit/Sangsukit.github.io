@@ -5,12 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:energy-2569-m51@sangsukit.github.io
-DTSTAMP:20261115T113724Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
+DTSTAMP:20261117T060031Z
+DTSTART:20261117T070000Z
+DTEND:20261117T100000Z
 SUMMARY:ประชุม กมธ.การพลังงาน ว
  ุฒิสภา ครั้งที่ 51/2569
-LOCATION:
+LOCATION:ห้องประชุมกรรมาธิการ CA 
+ 427 ชั้น 4 อาคารรัฐสภา (สัปปาย
+ ะสภาสถาน 1111 ถนนสามเสน เขตด
+ ุสิต กรุงเทพมหานคร)
 DESCRIPTION:นัดประชุมตามหนังสือน
  ัดประชุมที่วุฒิสภาเผยแพร
  ่ ใส่ปฏิทินเพื่อติดตามเท

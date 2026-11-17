@@ -2,17 +2,17 @@
  {
   "n": 51,
   "date": "2026-11-17",
-  "time": "",
-  "room": "",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6rc1tA3mdd2HOv74fyFZDd2ZyoNYNhVpRUsF_A99Q1WnaBjAfhXjFCfUs4SRfER6rnuXoXc8ZULTVlmIHnNcj7PJFJcULDbsNXzGM0yogEcUjvMtSOpQshM_ZtccuqEa5Ac2DzYVD2E4hdLq5MsIrA5wzT-59UGQ7Btt0A==&ref=11156959",
-    "size": 146762
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iV_1I81n_aytMMQyqXXswg9DuLooGe3GQPJaTHXfe2JMDJJMtH6thAGui3D6XNt48QbsfAcVGmK7Z9XVwsY5VrdAx6rctx2su7R45j2F7N8bu6lX2l6fBidX20Ly6yPeDJyQKpXxeLUwgDrieI594vKh1SyVoRBxMdcU3A==&ref=11194929",
+    "size": 204344
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=G-Q8QDvsEQAzZ9RqzT4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AJI_KKyNl8kadxVCAQU"
    }
   ],
   "media": {
@@ -45,7 +45,7 @@
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
   "headline": "พิจารณาความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน",
-  "summary": "การประชุมวันอังคารที่ 17 พฤศจิกายน 2569 เวลา 15.00 น. ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงาน สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "summary": "การประชุมวันอังคารที่ 17 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงาน สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
   "items": [
    [
     "ความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน",
@@ -59,7 +59,13 @@
   ],
   "places": [
    "อาคารรัฐสภา"
-  ]
+  ],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา"
+  }
  },
  {
   "n": 50,
