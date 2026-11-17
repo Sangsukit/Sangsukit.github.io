@@ -7,23 +7,43 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DUweRacJVguN8r_WMDAZiOjniUGCGNw9jr03I-fRC1sA8RMGbZB-SYL0UabmHj8YAV_Nk5svblW4_7_Y2UCnLBzUFye8h2T22LIcIzPsZ1ZJL9vLzvDIQ3iDB8YNn2fLZVVHSeQ_ilz6WRDMtHnm-7PS02rSJnSCIrg-ig==&ref=11070066",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EYXOgiypPrNvNzPr3lKb_iBeC7G_wOYYcHREAMvkG_8IihOV54ciqzRuF0oyX5sS21MgFZi8xUC60vWMiLcO1fPeUNDFa06AY6Bi_hltAMlGZJawQILV0OD6Nos6FWmHVl0JRYFtR3WBlXlF632FoGNkZZIyCLBP7YiDMA==&ref=11070066",
     "size": 106872
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YN_e-gaZt7YBNILXNU8waouI_FT9Ebj4RREO83pFjt4RPsLD_JZQqIr1BYYD_qr30X2FLVdquSQQQfMakLadLjHP7pgRGVex7G9zXlD_XIMoC2CJr6mgPYjWz23HO7mYI_UeVsT1uI5SI0Ykh4NW1XvEPkJjuO3UItFHJw==&ref=11195183",
+    "size": 3987300
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0xy-VlJt0OXc-CZcyV4"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tjUTEhYcPz-k1QPRIsQ"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 25/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "ศาสตราจารย์ชาญณรงค์ พรรุ่งโรจน์",
+  "chair_key": "channarong",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เทคโนโลยีและนวัตกรรมด้านสุขภาพ ช่วยผู้สูงอายุอยู่บ้านได้อย่างปลอดภัย",
+  "summary": "ที่ประชุมพิจารณาเทคโนโลยีและนวัตกรรมด้านสุขภาพสำหรับผู้สูงอายุ โดยเชิญสถาบันวิจัยระบบสาธารณสุข (สวรส.) เข้าร่วมประชุม สถาบันวิจัยระบบสาธารณสุขให้ข้อมูลว่า ได้สนับสนุนการพัฒนานวัตกรรมสำหรับผู้สูงอายุ และนำเสนอนวัตกรรม 2 โครงการ ที่พัฒนาโดยศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติ (MTEC) มีเป้าหมายร่วมกันให้ผู้สูงอายุอยู่ในบ้านได้อย่างปลอดภัย พึ่งพาตนเองได้ และใช้ชีวิตได้อย่างอิสระให้นานที่สุด โดยออกแบบให้เหมาะกับความต้องการและลักษณะการดูแลผู้สูงอายุแต่ละกลุ่มที่แตกต่างกัน จากนั้นที่ประชุมพิจารณาเตรียมการจัดสัมมนา เรื่อง โครงสร้างประชากรและการพัฒนาคุณภาพชีวิต: ความท้าทายและทิศทางนโยบายสังคมไทยในทศวรรษหน้า",
+  "items": [
+   [
+    "เทคโนโลยีและนวัตกรรมด้านสุขภาพสำหรับผู้สูงอายุ: นวัตกรรม 2 โครงการ เพื่อให้ผู้สูงอายุอยู่บ้านได้อย่างปลอดภัยและพึ่งพาตนเองได้",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "การเตรียมการสัมมนา เรื่อง โครงสร้างประชากรและการพัฒนาคุณภาพชีวิต: ความท้าทายและทิศทางนโยบายสังคมไทยในทศวรรษหน้า",
+    "พิจารณา",
+    "seminar"
+   ]
+  ],
+  "tags": [
+   "นวัตกรรมสุขภาพ",
+   "ผู้สูงอายุ",
+   "สัมมนา"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {

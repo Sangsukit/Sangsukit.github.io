@@ -2,55 +2,102 @@
  {
   "n": 28,
   "date": "2026-11-17",
-  "time": "",
-  "room": "",
+  "time": "09.30",
+  "room": "ห้องประชุม 201 ชั้น 2 อาคารรัฐสภา",
   "docs": [
    {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cV-xm_nbTasALWtMjhBCkMJbpiX9ekOv6vzYJxAK9zqk58hlDB-iXV5x8E_7_Hw0fiitlbTAeALhxrJKqeuR_eZmBqYEmwnzHS7V0LFYBgTNw3SG57SWTecABGR_SezBJn7jFt4s1RONI9_3KXkEIRudH9DQggEyRdmVDg==&ref=11185623",
+    "size": 116861
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KdoFTZbwBIKyEy-rqFKOvK5f110cxbq41EliDJ-0tLt_ijNvbPvRyIjO-nbW-7mWv_51UGZjE0BkWlWFE-vN9WhQxxpgwqswUehZDs8Zg358yk-rPjWBlRf4ivKeFVBhnz_-gs9do-V9OwKqYEl9fMXkzY6-gQigDV29uA==&ref=11195309",
+    "size": 15191912
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=FDobPA1iQ6LEsZHQqFs"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JIZfhcxgbbLsw9FzwWM"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 28/2569",
-  "summary": "นัดประชุมครั้งนี้ วุฒิสภายังไม่ได้เผยแพร่หนังสือนัดประชุม เปิดอ่านเอกสารต้นฉบับของรัฐสภาได้จากหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
-  "items": [],
-  "tags": [],
+  "chair": "นางอจลา ณ ระนอง",
+  "chair_key": "achala",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "สรุปผลสัมมนากลุ่มย่อย: ครอบครัวเข้มแข็ง ลดความรุนแรง และเสริมการมีงานทำ",
+  "summary": "ที่ประชุมร่วมกันสรุปผลการสัมมนาของคณะกรรมาธิการ เรื่อง โครงสร้างประชากรและการพัฒนาคุณภาพชีวิต: ความท้าทายและทิศทางนโยบายสังคมไทยในทศวรรษหน้า ในกลุ่มย่อยที่ 2 การเสริมสร้างครอบครัวเข้มแข็งด้วยการลดความรุนแรงและเสริมสร้างการมีงานทำผ่านเศรษฐกิจชุมชน ซึ่งมีเป้าหมายเพื่อรวบรวมข้อมูล ข้อคิดเห็น และแนวทางปฏิบัติ สำหรับจัดทำข้อเสนอต้นแบบ “จังหวัดสตรีเข้มแข็ง ความรุนแรงในครอบครัวเป็นศูนย์” เพื่อเสนอต่อที่ประชุมวุฒิสภา โดยเชื่อมโยง 2 มิติ คือ การส่งเสริมบทบาทสตรีในการสร้างอาชีพและรายได้ และการสร้างความเข้มแข็งในครอบครัวและการยุติความรุนแรง ที่ประชุมสรุปผลได้เป็น 5 ประเด็น และมอบหมายให้ฝ่ายเลขานุการรวบรวมข้อเสนอจากการสัมมนา เพื่อใช้ประกอบรายงานที่จะเสนอต่อที่ประชุมวุฒิสภาต่อไป การประชุมครั้งนี้จัดที่อาคารรัฐสภาและผ่านสื่ออิเล็กทรอนิกส์",
+  "items": [
+   [
+    "สรุปผลการสัมมนา กลุ่มย่อยที่ 2: การเสริมสร้างครอบครัวเข้มแข็งด้วยการลดความรุนแรงและเสริมสร้างการมีงานทำผ่านเศรษฐกิจชุมชน",
+    "พิจารณา",
+    "seminar"
+   ],
+   [
+    "ข้อเสนอต้นแบบ “จังหวัดสตรีเข้มแข็ง ความรุนแรงในครอบครัวเป็นศูนย์” เพื่อเสนอต่อที่ประชุมวุฒิสภา",
+    "พิจารณา",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "สตรี",
+   "ความรุนแรงในครอบครัว",
+   "สัมมนา"
+  ],
   "places": [],
-  "pending": false,
-  "upcoming": true
+  "upcoming": false
  },
  {
   "n": 27,
   "date": "2026-11-03",
-  "time": "15.00",
-  "room": "ห้องประชุม 203 ชั้น 2 อาคารรัฐสภา",
+  "time": "09.00",
+  "room": "ห้องประชุม 201 ชั้น 2 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=l1_PTXrud14E-sNDG6SyuAKFNOijnLhzxL_BZdNoYAmT0yGkQbctiMB4J4nDYDt51b7pbO4XmYnV7Ak_LkyC4H6POgybPOFyu64p9od_ZbosjUqk0Qf-ZZPZcT3tPTaimJsj9Vak84BFHfjVjCtwxYVWXm0fuA78WOc3UA==&ref=11070908",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Co7BlArFtJKjyXucadYlZk41RjF5O5QDxwlBjIiWXSfJCZ81Bq_aw-HzNp6SMBMooWbYZBhAQCxu1NOLi17bIIrvUhk6_vGvdxZHrTUyY1Chbey1G1TNk3DXPt8o2npD6zn5tZ-c1xN_hOJ0P59Z6xUkrn6M2vJOhKjUNA==&ref=11070908",
     "size": 117271
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8fxDbU0_XsS8bp7-kjNafiaxWnrRWUhR9UQr14CxRaKCARUTpm9VFV8IrYa_EOo9pedU-Dro_nlzplh2G7klMmaVeqsbN18AnBrTnX5sB_12Xf_LHhf3inZMDvLU_3qWJRioDJgnfAL74oTbXpaw_9wVvbqEb9WCKzLaFg==&ref=11089402",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qbUnAYjzd2EUJEb131M1RRaMNLPQIeIe-rukNAcFDoma9VFry6rd-30z3RF6j-CUGMKwPiFydUvZ9bCoG8Wp495CphE4xEnJ2yk_CcqbrlvVLRkkhJ7pkxde8DTjfCht5u2hK_-7oBS6N_nu-41HH5fqkSb9q2OmRuIRCw==&ref=11089402",
     "size": 117271
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rKXXI5iNZtdHdKP66Vzs36HNzUeLkxDlUu8hT2WAGvVrZfWKE9sagEWguHFgUes5dN8yxPPHe22KOPVPdQr4cxtIGtLAHMKMxNlRG7YOV6zKrhsfFuLHw8yvx3FrNP_zVJuQ3Y6TgCIFIQw5iaQIkKiU2ck7nsGohyNGUw==&ref=11195102",
+    "size": 16423916
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=pTNsa5e57_oJ1YAcaxI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hIg29tT0pFBDzu4swmo"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 27/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "chair": "นางอจลา ณ ระนอง",
+  "chair_key": "achala",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ความคืบหน้าร่างรายงานกระบี่โมเดล และเตรียมสัมมนา 12 พ.ย.",
+  "summary": "ที่ประชุมพิจารณาความคืบหน้าในการจัดทำร่างรายงานการพิจารณาศึกษา เรื่อง ข้อเสนอเชิงนโยบายเพื่อการเสริมสร้างสตรีเข้มแข็ง: ความรุนแรงและการว่างงานเป็นศูนย์ในระดับพื้นที่ โดยเชิญหน่วยงานในจังหวัดกระบี่ ได้แก่ พัฒนาการจังหวัด แรงงานจังหวัด จัดหางานจังหวัด และสถิติจังหวัด มาให้ข้อมูลและข้อคิดเห็น เพื่อประกอบการจัดทำรายงานและให้การดำเนินงานมีทิศทางและเป้าหมายสอดคล้องกัน นอกจากนี้ ที่ประชุมพิจารณาเตรียมการจัดสัมมนาของคณะกรรมาธิการ เรื่อง โครงสร้างประชากรและการพัฒนาคุณภาพชีวิต: ความท้าทายและทิศทางนโยบายสังคมไทยในทศวรรษหน้า ในวันพฤหัสบดีที่ 12 พฤศจิกายน 2569 ณ อาคารรัฐสภา ซึ่งแบ่งเป็น 2 ช่วง คือ การสัมมนา และการแบ่งกลุ่มย่อยระดมความคิดเห็น 4 กลุ่ม",
+  "items": [
+   [
+    "ความคืบหน้าร่างรายงานข้อเสนอเพื่อการเสริมสร้างสตรีเข้มแข็ง ความรุนแรงและการว่างงานเป็นศูนย์ กรณีศึกษากระบี่โมเดล (รับฟังข้อมูลจากหน่วยงานในจังหวัดกระบี่)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "การเตรียมการสัมมนา เรื่อง โครงสร้างประชากรและการพัฒนาคุณภาพชีวิต วันที่ 12 พฤศจิกายน 2569 (2 ช่วง กลุ่มย่อย 4 กลุ่ม)",
+    "พิจารณา",
+    "seminar"
+   ]
+  ],
+  "tags": [
+   "สตรี",
+   "กระบี่โมเดล",
+   "สัมมนา"
+  ],
+  "places": [
+   "กระบี่"
+  ],
   "upcoming": false
  },
  {
