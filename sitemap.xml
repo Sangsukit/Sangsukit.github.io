@@ -171,8 +171,8 @@
   <url><loc>https://parliamentx.com/committee-archive-2569/m/dev-old-9.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-1.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-10.html</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-11.html</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-12.html</loc></url>
+  <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-11.html</loc><lastmod>2026-11-17</lastmod></url>
+  <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-12.html</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-2.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-3.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/committee-archive-2569/m/disaster-4.html</loc><lastmod>2026-11-13</lastmod></url>
@@ -287,7 +287,7 @@
   <url><loc>https://parliamentx.com/health/2568/sub-service.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/health/2568/sub-transfer.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/health/2568/sub-workforce.html</loc><lastmod>2026-11-14</lastmod></url>
-  <url><loc>https://parliamentx.com/health/2569/</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/health/2569/</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://parliamentx.com/health/2569/sub-consumer.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/health/2569/sub-hospfin.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/health/2569/sub-nhso.html</loc><lastmod>2026-11-14</lastmod></url>
@@ -514,8 +514,8 @@
   <url><loc>https://parliamentx.com/social/2568/sub-children.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/social/2568/sub-elderly.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/social/2568/sub-women.html</loc><lastmod>2026-11-14</lastmod></url>
-  <url><loc>https://parliamentx.com/social/2569/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/social/2569/sub-children.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/social/2569/</loc><lastmod>2026-11-17</lastmod></url>
+  <url><loc>https://parliamentx.com/social/2569/sub-children.html</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/sub-elderly.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/sub-women.html</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2567/</loc><lastmod>2026-11-15</lastmod></url>
@@ -529,9 +529,9 @@
   <url><loc>https://parliamentx.com/transport/2568/sub-lawcomplaint.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2568/sub-maritime.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2568/sub-waterair.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/transport/2569/</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/transport/2569/</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2569/sub-accident.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://parliamentx.com/transport/2569/sub-andamanport.html</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://parliamentx.com/transport/2569/sub-andamanport.html</loc><lastmod>2026-11-17</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2569/sub-consafety.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2569/sub-drone.html</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://parliamentx.com/transport/2569/sub-highspeed.html</loc><lastmod>2026-11-15</lastmod></url>
@@ -3371,6 +3371,7 @@
   <url><loc>https://parliamentx.com/social/2569/m/children-23.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/children-24.html</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/children-25.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://parliamentx.com/social/2569/m/children-26.html</loc></url>
   <url><loc>https://parliamentx.com/social/2569/m/children-3.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/children-4.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://parliamentx.com/social/2569/m/children-5.html</loc><lastmod>2026-11-13</lastmod></url>
