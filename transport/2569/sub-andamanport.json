@@ -92,7 +92,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=iw3BDUfwVeEbcbGCGAo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/transport/2569/media/sub-andamanport-v4.mp4",
+    "poster": "img/poster-sub-andamanport-4.jpg",
+    "vtt": "media/sub-andamanport-v4.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:58",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "andamanport-4",
+    "size": 9327714
+   },
+   "videos": [
+    {
+     "src": "/video-2/transport/2569/media/sub-andamanport-v4.mp4",
+     "poster": "img/poster-sub-andamanport-4.jpg",
+     "vtt": "media/sub-andamanport-v4.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:58",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "andamanport-4",
+     "size": 9327714
+    }
+   ]
+  },
   "chair": "นางสาวนิชาภา สุวรรณนาค",
   "chair_key": "nichapa",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
@@ -162,7 +187,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8cIhYhVh3FjsrvI6R_M"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/transport/2569/media/sub-andamanport-v3.mp4",
+    "poster": "img/poster-sub-andamanport-3.jpg",
+    "vtt": "media/sub-andamanport-v3.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:34",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "andamanport-3",
+    "size": 10640514
+   },
+   "videos": [
+    {
+     "src": "/video-2/transport/2569/media/sub-andamanport-v3.mp4",
+     "poster": "img/poster-sub-andamanport-3.jpg",
+     "vtt": "media/sub-andamanport-v3.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:34",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "andamanport-3",
+     "size": 10640514
+    }
+   ]
+  },
   "chair": "นางสาวนิชาภา สุวรรณนาค",
   "chair_key": "nichapa",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
