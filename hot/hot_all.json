@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:57:33Z",
+ "updated": "2026-11-18T20:44:00Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
@@ -17,8 +17,8 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 3,
-   "count": 6,
+   "outlets": 2,
+   "count": 5,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -32,6 +32,14 @@
    },
    "items": [
     {
+     "title": "พาณิชย์ งัด 8 มาตรการ กระจายลำไยนอกฤดู ผนึกไปรษณีย์ไทย เปิดพรีออเดอร์ส่งฟรี 500 ตัน",
+     "url": "https://www.matichon.co.th/economy/news_5981052",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-18T11:57:34Z"
+    },
+    {
      "title": "ลำไยราคาฟื้น เกรด AA ขยับแตะ 15-16 บาท พาณิชย์จับมือไปรษณีย์ไทย ช่วยชาวสวน",
      "url": "https://www.prachachat.net/economic/news-2098767",
      "lang": "th",
@@ -40,20 +48,154 @@
      "date": "2026-11-18T11:44:15Z"
     },
     {
-     "title": "เริ่มแล้ว พาณิชย์ เปิดพรีออร์เดอร์ลำไย ส่งฟรีทั่วไทย ช่วยชาวสวนภาคเหนือ–ตะวันออก",
-     "url": "https://www.dailynews.co.th/news/6371557/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-18T11:25:26Z"
-    },
-    {
-     "title": "มูลนิธิร่วมด้วยช่วยกันสำนึกรักบ้านเกิด ผนึกภาครัฐ–เอกชน ประกาศผล “เกษตรกรสำนึกรักบ้านเกิด 2569” ขับเคลื่อนเกษตรไทยสู่อนาคตที่ยั่งยืน",
-     "url": "https://www.matichon.co.th/publicize/news_5980747",
+     "title": "ตัวแทนอุตสาหกรรมกุ้ง-ปลา ยินดีปิ่นสักก์ อธิบดีกรมประมงคนใหม่ ร้องเดินหน้ามาตรการช่วยเหลือเกษตรกร",
+     "url": "https://www.matichon.co.th/economy/news_5980387",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-18T09:15:47Z"
+     "date": "2026-11-18T06:54:43Z"
+    }
+   ]
+  },
+  {
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
+   },
+   "outlets": 2,
+   "count": 4,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "labour/2569/sub-socialsec.html#read-20"
+   },
+   "items": [
+    {
+     "title": "สภารับหลักการ 4 ร่าง พ.ร.บ.ประกันสังคม ยึดฉบับ ครม. เป็นร่างหลัก ปัดตกร่าง ‘รักชนก’",
+     "url": "https://www.prachachat.net/politics/news-2098802",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-18T14:53:35Z"
+    },
+    {
+     "title": "ประกันสังคมก้าวหน้า โพสต์ทันที หลังสภาปัดตกร่างไอซ์ ล่ารายชื่อดึง สปส. พ้นระบบราชการ",
+     "url": "https://www.matichon.co.th/politics/news_5981311",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-18T14:04:04Z"
+    },
+    {
+     "title": "ไอซ์ ไม่สนถูกคว่ำร่างประกันสังคม ยืนยันเดินหน้าต่อ เสียงสั่นเย้ย พวกไม่รักษาสัจจะ",
+     "url": "https://www.matichon.co.th/politics/news_5981303",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-18T13:54:56Z"
+    }
+   ]
+  },
+  {
+   "id": "armed",
+   "th": "กองทัพและกิจการทหาร",
+   "en": "Armed forces and military affairs",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/armed",
+    "credit": "Mobius1TH",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Thai_Air_Force_S-70i,_Childrens_Day_2025.png",
+    "alt_th": "เฮลิคอปเตอร์ของกองทัพอากาศไทยจอดบนลานบิน",
+    "alt_en": "A Thai air force helicopter on the apron"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านกิจการทหาร",
+    "en": "Subcommittee on Military Affairs",
+    "url": "military/2569/sub-military.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 28,
+    "date": "2026-10-21",
+    "url": "military/2569/sub-military.html#read-28"
+   },
+   "items": [
+    {
+     "title": "ปลัดกลาโหม ต้อนรับ ‘ผู้ช่วยทูตทหารปากีสถาน’ กระชับความสัมพันธ์ 2 ปท.",
+     "url": "https://www.matichon.co.th/local/news_5981216",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-18T12:44:09Z"
+    }
+   ]
+  },
+  {
+   "id": "wage",
+   "th": "ค่าแรงและการคุ้มครองแรงงาน",
+   "en": "Wages and worker protection",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/wage",
+    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "lic": "CC BY 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:002_Production_line_-_car_assembly_line_in_General_Motors_Manufacturing_Poland_-_Gliwice,_Poland.jpg",
+    "alt_th": "สายการผลิตในโรงงาน",
+    "alt_en": "A factory production line"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน",
+    "en": "Subcommittee on Labour Welfare and Protection",
+    "url": "labour/2569/sub-welfare.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 21,
+    "date": "2026-10-07",
+    "url": "labour/2569/sub-welfare.html#read-21"
+   },
+   "items": [
+    {
+     "title": "ทวี หนุนแก้ พ.ร.บ.ประกันสังคม 5 ฉบับ ดันคุ้มครองแรงงานแพลตฟอร์ม-ไรเดอร์ ให้อยู่ในมาตรา 33/1",
+     "url": "https://www.matichon.co.th/politics/news_5981164",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-18T12:31:07Z"
     }
    ]
   },
@@ -71,8 +213,8 @@
     "alt_th": "กระบุงใส่ข้าวเปลือกในพิพิธภัณฑ์ชาวนาไทย",
     "alt_en": "Baskets of rice in the Thai Rice Farmers museum"
    },
-   "outlets": 2,
-   "count": 2,
+   "outlets": 1,
+   "count": 1,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -92,98 +234,6 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-18T11:14:03Z"
-    },
-    {
-     "title": "ธ.ก.ส. อัดแคมเปญ ‘ชำระดีมีโชค 69’ จ่ายหนี้ 1,000 บาท ลุ้นโชค 2 ชั้น รวม 377 ล้าน",
-     "url": "https://www.matichon.co.th/economy/news_5979258",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-17T09:55:53Z"
-    }
-   ]
-  },
-  {
-   "id": "socialsec",
-   "th": "ประกันสังคม",
-   "en": "Social security",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/socialsec",
-    "credit": "SquidHomme",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
-    "alt_th": "ป้ายกระทรวงแรงงาน",
-    "alt_en": "The Ministry of Labour sign"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
-    "en": "Subcommittee on Social Security",
-    "url": "labour/2569/sub-socialsec.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "labour/2569/sub-socialsec.html#read-20"
-   },
-   "items": [
-    {
-     "title": "รัดเกล้า หนุนผ่าตัดใหญ่ประกันสังคม ชงแยกบริหารพ้นราชการ-ดึงแรงงานแพลตฟอร์มร่วมสมทบ",
-     "url": "https://www.matichon.co.th/politics/news_5980941",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-18T10:51:38Z"
-    }
-   ]
-  },
-  {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 11,
-    "date": "2026-11-12",
-    "url": "committee-archive-2569/sub-disaster.html#read-11"
-   },
-   "items": [
-    {
-     "title": "เปิดคิวแข่ง น้องพายุ ลุยศึกโกคาร์ทนานาชาติ WSK Final Cup 2026 สนาม 2 ที่อิตาลี",
-     "url": "https://www.matichon.co.th/sport/news_5980830",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-18T10:17:32Z"
     }
    ]
   },
