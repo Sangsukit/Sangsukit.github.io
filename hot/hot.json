@@ -1,140 +1,28 @@
 {
- "updated": "2026-11-17T16:15:56Z",
+ "updated": "2026-11-18T01:02:43Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
   {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 3,
-   "count": 3,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 11,
-    "date": "2026-11-12",
-    "url": "committee-archive-2569/sub-disaster.html#read-11"
-   },
-   "items": [
-    {
-     "title": "ครม.อนุมัติร่างกฎหมายตามมาตรการภาษี ช่วยเหลือผู้มีเงินได้ที่ประสบอุทกภัย",
-     "url": "https://www.dailynews.co.th/news/6368804/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-17T15:13:29Z"
-    },
-    {
-     "title": "“ดร.กตัญญู” ชูนวัตกรรมบริหารภัยพิบัติ ใช้ข้อมูลแม่นยำ เตือนภัยทันสถานการณ์“",
-     "url": "https://www.matichon.co.th/publicize/news_5978876",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-17T10:29:22Z"
-    },
-    {
-     "title": "ครม.อนุมัติมาตรการภาษีช่วยค่าซ่อมแซมบ้าน-รถ จากเหตุน้ำท่วมปี’68",
-     "url": "https://www.prachachat.net/politics/news-2098040",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-17T08:16:44Z"
-    }
-   ]
-  },
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 2,
-   "count": 3,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 33,
-    "date": "2026-09-21",
-    "url": "agriculture/2569/#read-33"
-   },
-   "items": [
-    {
-     "title": "จี้ยกระดับวิกฤตลำไย ‘วาระแห่งชาติ’ ชง 5 มาตรการเจรจาจีน ปลดล็อกส่งออก",
-     "url": "https://www.prachachat.net/economic/local-economy/news-2098023",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-17T08:26:41Z"
-    },
-    {
-     "title": "ดัน “ใบอ้อย” รับเศรษฐกิจหมุนเวียน รับตลาดคาร์บอนต่ำ ฝ่ากติกาการค้าโลก",
-     "url": "https://www.matichon.co.th/economy/news_5977861",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-16T09:58:00Z"
-    },
-    {
-     "title": "กอช. ชูยอดสมาชิกพุ่ง 2.92 ล้านคน ผนึกเอกชนผุดแคมเปญใหญ่ดึง ‘ไรเดอร์-เกษตรกร’ เข้าถึงบำนาญ",
-     "url": "https://www.matichon.co.th/economy/news_5977806",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-16T09:36:17Z"
-    }
-   ]
-  },
-  {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
+   "id": "cyber",
+   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
+   "en": "Cyber and defence industry",
    "icon": "cs-security",
    "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
+    "src": "hot/img/cyber",
+    "credit": "Christopher Bowns",
+    "lic": "CC BY-SA 2.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
+    "alt_en": "An aisle between server racks in a data centre"
    },
    "outlets": 2,
    "count": 2,
    "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
+    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
+    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
+    "url": "military/2569/sub-cyber.html"
    },
    "parent": {
     "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
@@ -142,72 +30,26 @@
     "url": "military/2569/"
    },
    "meeting": {
-    "n": 20,
+    "n": 25,
     "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
+    "url": "military/2569/sub-cyber.html#read-25"
    },
    "items": [
     {
-     "title": "ครม.เคาะลดหย่อนภาษีซ่อมบ้านสูงสุด 1 แสนบาท ซ่อมรถ 3 หมื่นบาท ช่วยชายแดนไทย–กัมพูชา",
-     "url": "https://www.dailynews.co.th/news/6368798/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-17T15:07:41Z"
-    },
-    {
-     "title": "Push for Myanmar dialogue",
-     "url": "https://www.bangkokpost.com/thailand/general/3355804/push-for-myanmar-dialogue",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-17T00:04:00Z"
-    }
-   ]
-  },
-  {
-   "id": "farmdebt",
-   "th": "หนี้เกษตรกรและสหกรณ์",
-   "en": "Farm debt and cooperatives",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/farmdebt",
-    "credit": "Mr.Peerapong Prasutr",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Suphanburi_Thai_Rice_Farmers_National_Museum_1.jpg",
-    "alt_th": "กระบุงใส่ข้าวเปลือกในพิพิธภัณฑ์ชาวนาไทย",
-    "alt_en": "Baskets of rice in the Thai Rice Farmers museum"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 30,
-    "date": "2026-08-31",
-    "url": "agriculture/2569/#read-30"
-   },
-   "items": [
-    {
-     "title": "ธ.ก.ส. อัดแคมเปญ ‘ชำระดีมีโชค 69’ จ่ายหนี้ 1,000 บาท ลุ้นโชค 2 ชั้น รวม 377 ล้าน",
-     "url": "https://www.matichon.co.th/economy/news_5979258",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-17T09:55:53Z"
-    },
-    {
-     "title": "ธ.ก.ส. จัด ‘โครงการชำระดีมีโชค’ เพียงชำระ 1,000 บาท ลุ้นโชค 2 ชั้น มูลค่ากว่า 377 ล้าน",
-     "url": "https://www.prachachat.net/finance/news-2098033",
+     "title": "ธุรกิจเทเงินต้านภัยไซเบอร์ แบงก์ทุ่มสุดตัว-งัดแผนออฟไลน์ช่วย",
+     "url": "https://www.prachachat.net/no1/news-2098247",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-17T08:01:02Z"
+     "date": "2026-11-18T00:00:00Z"
+    },
+    {
+     "title": "หอค้าไทย ห่วงภัยไซเบอร์กระทบธุรกิจ แนะเอกชน-รัฐ เร่งป้องกัน-เตรียมรับมือ ชี้ความมั่นคงดิจิทัลสำคัญต่อศก.ไทย",
+     "url": "https://www.matichon.co.th/economy/news_5978683",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-17T06:49:17Z"
     }
    ]
   },
@@ -258,6 +100,132 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-17T12:37:32Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 1,
+   "count": 2,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 35,
+    "date": "2026-10-19",
+    "url": "agriculture/2569/#read-35"
+   },
+   "items": [
+    {
+     "title": "ดัน “ใบอ้อย” รับเศรษฐกิจหมุนเวียน รับตลาดคาร์บอนต่ำ ฝ่ากติกาการค้าโลก",
+     "url": "https://www.matichon.co.th/economy/news_5977861",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-16T09:58:00Z"
+    },
+    {
+     "title": "กอช. ชูยอดสมาชิกพุ่ง 2.92 ล้านคน ผนึกเอกชนผุดแคมเปญใหญ่ดึง ‘ไรเดอร์-เกษตรกร’ เข้าถึงบำนาญ",
+     "url": "https://www.matichon.co.th/economy/news_5977806",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-16T09:36:17Z"
+    }
+   ]
+  },
+  {
+   "id": "labour",
+   "th": "แรงงาน",
+   "en": "Labour",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/labour",
+    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "lic": "CC BY 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
+    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
+    "alt_en": "A car assembly line"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 29,
+    "date": "2026-11-05",
+    "url": "labour/2569/#read-29"
+   },
+   "items": [
+    {
+     "title": "เปิดใจข้ามประเทศ “ศุภจี”เผยผลเจรจา ดีลประวัติศาสตร์ “ART” ไทย-สหรัฐฯ ปกป้องการค้า-แรงงานไทย",
+     "url": "https://www.dailynews.co.th/news/6368828/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-18T00:30:00Z"
+    }
+   ]
+  },
+  {
+   "id": "drought",
+   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
+   "en": "Drought and water for farms",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/drought",
+    "credit": "NASA image created by Jesse Allen",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
+    "alt_en": "Satellite image of drought in Southeast Asia"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
+    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
+    "url": "agriculture/2569/sub-water.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "meeting": {
+    "n": 19,
+    "date": "2026-11-11",
+    "url": "agriculture/2569/sub-water.html#read-19"
+   },
+   "items": [
+    {
+     "title": "อนุทิน สั่งรบ.แก้สารพิษด่วนหาแหล่งน้ำประปาใหม่ ‘เชน’ ระดมนักวิทย์ลุย 4 ข้อ เกษตรตรวจปนเปื้อนข้าว สธ.ผงะ!สารหนูเกินเพียบ",
+     "url": "https://www.matichon.co.th/politics/news_5979726",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-17T23:40:24Z"
     }
    ]
   }
