@@ -1,0 +1,860 @@
+{
+ "pages": {
+  "transport/2569/sub-isantransit.html": {
+   "json": "sub-isantransit.json",
+   "rows": {
+    "1|2026-10-29": {
+     "n": 1,
+     "date": "2026-10-29",
+     "time": "09.30",
+     "room": "ห้องประชุม 203 ชั้น 2 อาคารรัฐสภา",
+     "docs": [
+      {
+       "k": "notice",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=uh-iodhnvrBfOs1D9cTO1RSu66jWuB4XU_j_P2lzWNGPVWC2V4ca1um0KFEbXSPxABBUjxUhAvJbl5Fja6nSR1OOnpYCfKR3qJEZ4p-9_9oJQBX0NxfmZ5NRuqGHYaeDNGdtDiH4O50qEJis4XPJyR0AnB2TN4WFfOcxAw==&ref=11040483",
+       "size": 101760
+      },
+      {
+       "k": "summary",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9Vp-Uve1exloz0AAv7V7yPk2TsDdnsX6M6lFYCSvrHkPzYJN3I17KHoYkOCE4Q5L60QlHHY6hWgrDAM5UqBVBu04HYZwwsjOFqS45bIMu2sHyxlSOfRZTPkkOfMjlIBjeIcCrPdIQy75qOpK7eBqk9pNxljv8DkAlWnFGw==&ref=11078624",
+       "size": 5726517
+      },
+      {
+       "k": "agenda",
+       "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AvshVG-XDuCPD_ntlUI"
+      }
+     ],
+     "media": {
+      "video": {
+       "src": "media/sub-isantransit-v1.mp4",
+       "poster": "img/poster-sub-isantransit-1.jpg",
+       "vtt": "media/sub-isantransit-v1.th.vtt",
+       "kind": "post",
+       "label": "วิดีโอสรุปผลการประชุม",
+       "dur": "3:27",
+       "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+       "ck": "isantransit-1",
+       "size": 7950007
+      },
+      "videos": [
+       {
+        "src": "media/sub-isantransit-v1.mp4",
+        "poster": "img/poster-sub-isantransit-1.jpg",
+        "vtt": "media/sub-isantransit-v1.th.vtt",
+        "kind": "post",
+        "label": "วิดีโอสรุปผลการประชุม",
+        "dur": "3:27",
+        "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+        "ck": "isantransit-1",
+        "size": 7950007
+       }
+      ]
+     },
+     "chair": "นางธารนี ปรีดาสันติ์",
+     "chair_key": "tharanee",
+     "chair_role": "ประธานคณะอนุกรรมาธิการ",
+     "headline": "เริ่มงานศึกษา: รถโดยสารสาธารณะในขอนแก่น อุดรธานี อุบลราชธานี และนครราชสีมา",
+     "summary": "ที่ประชุมรับทราบคำสั่งแต่งตั้งและกำหนดแนวทางการทำงาน โดยจะศึกษาสภาพปัญหา ความพร้อม และข้อจำกัดของระบบขนส่งสาธารณะในจังหวัดขอนแก่น อุดรธานี อุบลราชธานี และนครราชสีมา สำนักงานนโยบายและแผนการขนส่งและจราจร (สนข.) ให้ข้อมูลแผนแม่บทระบบขนส่งสาธารณะในเมืองหลักของภูมิภาค 11 พื้นที่ ซึ่งครอบคลุมทั้ง 4 จังหวัด ในปี 2567 การเดินทางด้วยระบบขนส่งสาธารณะมีสัดส่วนเฉลี่ยร้อยละ 3.27 และตั้งเป้าเพิ่มเป็นร้อยละ 5 ในปี 2570 ร้อยละ 10 ในปี 2575 และร้อยละ 20 ในปี 2580 รูปแบบที่เสนอคือรถโดยสารไฟฟ้าแบบพื้นต่ำ เดินรถตามตารางเวลาทุก 10–30 นาที ค่าโดยสาร 15 บาทตลอดสาย พร้อมระบบตั๋วร่วม ภาครัฐลงทุนโครงสร้างพื้นฐาน เช่น ป้ายหยุดรถ ศูนย์จอดและซ่อมบำรุงรถ และสถานีชาร์จ ส่วนภาคเอกชนจัดหารถและบริหารการเดินรถ ที่ประชุมมีข้อสังเกตเรื่องสิทธิการเดินรถของผู้ประกอบการเดิม ความพร้อมขององค์กรปกครองส่วนท้องถิ่น และเงินสนับสนุนจากภาครัฐสำหรับเส้นทางที่ผู้โดยสารยังน้อย รวมทั้งรับฟังข้อมูลการเดินรถโดยสารในจังหวัดอุบลราชธานี ซึ่งมีผู้โดยสารเฉลี่ยประมาณ 10 คนต่อเที่ยว ที่ประชุมมอบหมายให้กรมการขนส่งทางบกและ สนข. รวบรวมสถานะเส้นทางและสิทธิการเดินรถเดิมใน 4 จังหวัด เพื่อเทียบกับโครงข่ายที่ สนข. เสนอ และนำข้อมูลจังหวัดอุบลราชธานีมาพิจารณาในครั้งถัดไป",
+     "items": [
+      [
+       "แผนแม่บทระบบขนส่งสาธารณะในเมืองหลักของภูมิภาค และรูปแบบรถโดยสารไฟฟ้าที่เสนอ",
+       "รับฟังข้อมูล",
+       "sub"
+      ],
+      [
+       "ข้อสังเกตเรื่องสิทธิการเดินรถเดิม ความพร้อมของท้องถิ่น และเงินสนับสนุนจากภาครัฐ",
+       "ข้อสังเกต",
+       "sub"
+      ],
+      [
+       "ให้กรมการขนส่งทางบกและ สนข. รวบรวมสถานะเส้นทางเดิมใน 4 จังหวัด และนำข้อมูลจังหวัดอุบลราชธานีมาพิจารณาครั้งถัดไป",
+       "มอบหมาย",
+       "sub"
+      ]
+     ],
+     "tags": [
+      "ขนส่งสาธารณะ",
+      "รถโดยสารไฟฟ้า",
+      "ท้องถิ่น"
+     ],
+     "places": [
+      "ขอนแก่น",
+      "อุดรธานี",
+      "อุบลราชธานี",
+      "นครราชสีมา"
+     ],
+     "upcoming": false
+    },
+    "2|2026-11-04": {
+     "n": 2,
+     "date": "2026-11-04",
+     "time": "09.30",
+     "room": "ห้องประชุมกรรมาธิการ CA 333 ชั้น 3 อาคารรัฐสภา",
+     "docs": [
+      {
+       "k": "notice",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ahQtaBjbyzHG-1NynN2RIiwtRbqvlDo_NeZ7FyxgE79cvYmF8ojYYCY0FhHKpvoQnRBjiQyY6CWLhU-4kHAVXMG3_ytQk0fjYZ8L0NBSV8FY7fe8bTeZuGUk2asVp19muY26wYNYYke8w9rvBR3cgB9CmfYBPRaclVge0g==&ref=11088926",
+       "size": 105754
+      },
+      {
+       "k": "summary",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PtWGmj2iVvGsA1YL1ETgLy5GoTD7pSMsb2xwKaJXGcUMT15NbUV1gQ2UtIwb-hm9hcNoCCeKkOddE28lwYBRd1qIq9cZuJNcU24a6ivufJ1qkG3VmbGSqKjkC5TdIEV8ZIhOHnaEgTcuU_V-vuGpMJp-sBm7Y7xRjKTJrQ==&ref=11111247",
+       "size": 7982485
+      },
+      {
+       "k": "agenda",
+       "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=vCeFtn-vd01gGmmg5EY"
+      }
+     ],
+     "media": {
+      "video": {
+       "src": "media/sub-isantransit-v2.mp4",
+       "poster": "img/poster-sub-isantransit-2.jpg",
+       "vtt": "media/sub-isantransit-v2.th.vtt",
+       "kind": "post",
+       "label": "วิดีโอสรุปผลการประชุม",
+       "dur": "3:22",
+       "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+       "ck": "isantransit-2",
+       "size": 7945070
+      },
+      "videos": [
+       {
+        "src": "media/sub-isantransit-v2.mp4",
+        "poster": "img/poster-sub-isantransit-2.jpg",
+        "vtt": "media/sub-isantransit-v2.th.vtt",
+        "kind": "post",
+        "label": "วิดีโอสรุปผลการประชุม",
+        "dur": "3:22",
+        "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+        "ck": "isantransit-2",
+        "size": 7945070
+       }
+      ]
+     },
+     "chair": "นางธารนี ปรีดาสันติ์",
+     "chair_key": "tharanee",
+     "chair_role": "ประธานคณะอนุกรรมาธิการ",
+     "headline": "อุบลราชธานี: 3 เส้นทางนำร่องที่ไม่ทับซ้อนกับเส้นทางเดิม",
+     "summary": "ที่ประชุมพิจารณาสถานะเส้นทางและสิทธิการเดินรถเดิม และแนวทางจัดโครงข่ายขนส่งสาธารณะในจังหวัดอุบลราชธานี โดยรับฟังข้อมูลจาก สนข. และกรมการขนส่งทางบก สนข. เสนอโครงข่ายรถโดยสารประจำทาง 17 เส้นทาง ครอบคลุมประชากรประมาณร้อยละ 78 หรือ 180,000 คน ใช้รถระยะแรก 105 คัน ส่วนเส้นทางเดิมมี 47 เส้นทาง (หมวด 1 จำนวน 14 เส้นทาง และหมวด 4 จำนวน 33 เส้นทาง) ในจำนวนนี้ไม่มีผู้ประกอบการ 13 เส้นทาง โครงข่ายที่เสนอส่วนใหญ่ทับซ้อนกับเส้นทางเดิม แต่มี 3 เส้นทางที่ไม่ทับซ้อน คือ สายที่ 7 สายที่ 14 และสายที่ 17 ปัญหาที่พบ เช่น ผู้ประกอบการเดิมขาดทุนและยังไม่พร้อมลงทุนเปลี่ยนรถ เส้นทางเดิมบางสายอ้อมและใช้เวลานาน และยังขาดป้ายหยุดรถ ทางเท้า ศูนย์ซ่อมบำรุง และสถานีประจุไฟฟ้า ที่ประชุมเสนอให้พิจารณารถโดยสารไฟฟ้าขนาดเล็กประมาณ 20 ที่นั่ง เส้นทางแบบวงรอบ การตรวจสอบแบบจำลองด้วยข้อมูลผู้โดยสารจริงและ GPS มาตรการช่วยผู้ประกอบการเปลี่ยนรถ เช่น สินเชื่อดอกเบี้ยต่ำ และบทบาทของท้องถิ่นในฐานะหน่วยงานหลัก ที่ประชุมเห็นชอบในหลักการให้พิจารณาความเป็นไปได้ของ 3 เส้นทางนำร่อง และให้นำเสนอผลการเดินรถโดยสารขององค์กรปกครองส่วนท้องถิ่นใน 6 จังหวัด ได้แก่ ภูเก็ต สมุทรสาคร สงขลา ลำพูน เชียงใหม่ และกาญจนบุรี ในครั้งถัดไป",
+     "items": [
+      [
+       "โครงข่ายรถโดยสาร 17 เส้นทางที่ สนข. เสนอ และข้อมูลเส้นทางเดิม 47 เส้นทางของกรมการขนส่งทางบก",
+       "รับทราบ",
+       "sub"
+      ],
+      [
+       "ข้อสังเกต 5 ข้อ เช่น รถโดยสารไฟฟ้าขนาดเล็ก เส้นทางวงรอบ และมาตรการช่วยผู้ประกอบการเปลี่ยนรถ",
+       "ข้อสังเกต",
+       "sub"
+      ],
+      [
+       "พิจารณาความเป็นไปได้ของ 3 เส้นทางนำร่อง: สายที่ 7, 14 และ 17",
+       "เห็นชอบในหลักการ",
+       "sub"
+      ],
+      [
+       "ข้อมูลการเดินรถโดยสารขององค์กรปกครองส่วนท้องถิ่นใน 6 จังหวัด สำหรับครั้งถัดไป",
+       "มอบหมาย",
+       "sub"
+      ]
+     ],
+     "tags": [
+      "ขนส่งสาธารณะ",
+      "เส้นทางนำร่อง",
+      "รถโดยสารไฟฟ้า"
+     ],
+     "places": [
+      "อุบลราชธานี"
+     ],
+     "upcoming": false
+    },
+    "3|2026-11-11": {
+     "n": 3,
+     "date": "2026-11-11",
+     "time": "09.30",
+     "room": "ห้องประชุมกรรมาธิการ CA 333 ชั้น 3 อาคารรัฐสภา",
+     "docs": [
+      {
+       "k": "notice",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=N6nS6YG4zuIbAlVvorzAObbmY2wRHRkmW68sbo7QqeUxDG7pWYqz-8rrG2lrv1fHVAV4Ts0Zhs_ckBpHY33uZPX9CN437bDIWqJeQOBLXHeR_Ib7T9VbUepwV6Bm6VfTMVcSkrElXy3lnmetNLEIJeicl5-ekhy11rsbJA==&ref=11129552",
+       "size": 107179
+      },
+      {
+       "k": "summary",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1SKQZM4mQt_oPkL1sH9UuqkXBnv5yenzyWJOyUTVGLHIkACHzMj-jR2rE4OIyHp4wC1s9akJxhEGaghlfOPmdEwaSEW0OVlqQMQKYjAY_AbtkT-7yg6qpcq0tvDxEGJ6-oglZndDnrMs6kTVMa-vFK7_suMtP4AuRD7pzA==&ref=11166395",
+       "size": 6973721
+      },
+      {
+       "k": "agenda",
+       "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ltdD71ljs14_lEdzl_I"
+      }
+     ],
+     "media": {
+      "video": {
+       "src": "media/sub-isantransit-v3.mp4",
+       "poster": "img/poster-sub-isantransit-3.jpg",
+       "vtt": "media/sub-isantransit-v3.th.vtt",
+       "kind": "post",
+       "label": "วิดีโอสรุปผลการประชุม",
+       "dur": "2:56",
+       "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+       "ck": "isantransit-3",
+       "size": 7000886
+      },
+      "videos": [
+       {
+        "src": "media/sub-isantransit-v3.mp4",
+        "poster": "img/poster-sub-isantransit-3.jpg",
+        "vtt": "media/sub-isantransit-v3.th.vtt",
+        "kind": "post",
+        "label": "วิดีโอสรุปผลการประชุม",
+        "dur": "2:56",
+        "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+        "ck": "isantransit-3",
+        "size": 7000886
+       }
+      ]
+     },
+     "chair": "นางธารนี ปรีดาสันติ์",
+     "chair_key": "tharanee",
+     "chair_role": "ประธานคณะอนุกรรมาธิการ",
+     "headline": "การกระจายอำนาจขนส่งสาธารณะให้ท้องถิ่น และผลการเดินรถใน 6 จังหวัด",
+     "summary": "ที่ประชุมพิจารณาการกระจายอำนาจด้านขนส่งสาธารณะให้องค์กรปกครองส่วนท้องถิ่น (อปท.) และผลการดำเนินงานของ อปท. ใน 6 จังหวัด ปัจจุบันภารกิจที่ถ่ายโอนจากกรมการขนส่งทางบกให้ อปท. ยังจำกัดอยู่ที่การบริหารสถานีขนส่งผู้โดยสาร ส่วนอำนาจในการจัดบริการเดินรถยังไม่ชัดเจน ทำให้มีข้อจำกัดเรื่องการขออนุญาตประกอบการขนส่ง การจ้างภาคเอกชน และการบริหารรายได้ค่าโดยสาร ที่ประชุมได้เปรียบเทียบสาระของร่างพระราชบัญญัติการขนส่งทางบกในส่วนที่เกี่ยวกับการกระจายอำนาจ และเห็นควรรวบรวมประเด็นและข้อเสนอแนะ เพื่อเตรียมเสนอข้อสังเกตเมื่อร่างกฎหมายเข้าสู่การพิจารณาของวุฒิสภา สำหรับ อปท. ในจังหวัดภูเก็ต เชียงใหม่ ลำพูน สงขลา สมุทรสาคร และกาญจนบุรี มีรูปแบบการลงทุนและการบริหารแตกต่างกัน และพบข้อจำกัดด้านต้นทุน การขาดทุน จำนวนผู้ใช้บริการ ความเหมาะสมของเส้นทางและขนาดรถ และระเบียบการจ้างภาคเอกชน ที่ประชุมรับทราบ และให้นำข้อมูลนี้ไปใช้ศึกษารูปแบบบริการที่เหมาะกับเมืองหลักในภาคตะวันออกเฉียงเหนือ โดยเริ่มจากจังหวัดอุบลราชธานีเป็นพื้นที่ศึกษาแรก",
+     "items": [
+      [
+       "การกระจายอำนาจด้านขนส่งสาธารณะให้ อปท. และร่างพระราชบัญญัติการขนส่งทางบก",
+       "รับทราบ",
+       "sub"
+      ],
+      [
+       "ผลการเดินรถโดยสารของ อปท. ใน 6 จังหวัด และข้อจำกัดที่พบ",
+       "รับทราบ",
+       "sub"
+      ],
+      [
+       "ใช้ข้อมูลนี้ศึกษารูปแบบบริการ โดยเริ่มที่จังหวัดอุบลราชธานี",
+       "มอบหมาย",
+       "sub"
+      ]
+     ],
+     "tags": [
+      "ขนส่งสาธารณะ",
+      "กระจายอำนาจ",
+      "ท้องถิ่น"
+     ],
+     "places": [
+      "ภูเก็ต",
+      "เชียงใหม่",
+      "ลำพูน",
+      "สงขลา",
+      "สมุทรสาคร",
+      "กาญจนบุรี",
+      "อุบลราชธานี"
+     ],
+     "upcoming": false
+    }
+   },
+   "tl": {},
+   "cal": {},
+   "sharev": {
+    "1": "fc1cdd9f",
+    "2": "a2385a07",
+    "3": "e089f93f"
+   },
+   "subs": {}
+  },
+  "transport/2569/sub-andamanport.html": {
+   "json": "sub-andamanport.json",
+   "rows": {
+    "1|2026-10-08": {
+     "n": 1,
+     "date": "2026-10-08",
+     "time": "10.00",
+     "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+     "docs": [
+      {
+       "k": "notice",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=22AQWX3RyJgpYdacAvBOiyn445qxF_7kcil3Jy7sL3jQBASwimljtKBK1Ptr0HmFAiYDv1xGvoA_C2bR3hOEWPs3CJaWnMSPD0k3SQmJld149jKr4Qk_8Rg54eryvxLgdsWqChfcifHYgqZv9W3TXXzs2T4CtXuU0gFpJQ==&ref=10940199",
+       "size": 111175
+      },
+      {
+       "k": "summary",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=r3IvXePkoSslRshXlSuO43IxRttkkEF06Ycp31uWrcXyb31s1arHzwhlMX3wZiSdQnU8R0FP-bNH9P7zReN59FTq98S2SwYBmQw2qE6de-UNFXS0bbu8TtZdC-8aLa5eTXA8yIpnWNXj1_ZeazCsccq0Cyq1V_TXn7Y5Gw==&ref=10981923",
+       "size": 7985458
+      },
+      {
+       "k": "agenda",
+       "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=YEbQZik-6HdCLBnNI5o"
+      }
+     ],
+     "media": {
+      "video": {
+       "src": "media/sub-andamanport-v1.mp4",
+       "poster": "img/poster-sub-andamanport-1.jpg",
+       "vtt": "media/sub-andamanport-v1.th.vtt",
+       "kind": "post",
+       "label": "วิดีโอสรุปผลการประชุม",
+       "dur": "2:52",
+       "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+       "ck": "andamanport-1",
+       "size": 6723760
+      },
+      "videos": [
+       {
+        "src": "media/sub-andamanport-v1.mp4",
+        "poster": "img/poster-sub-andamanport-1.jpg",
+        "vtt": "media/sub-andamanport-v1.th.vtt",
+        "kind": "post",
+        "label": "วิดีโอสรุปผลการประชุม",
+        "dur": "2:52",
+        "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+        "ck": "andamanport-1",
+        "size": 6723760
+       }
+      ]
+     },
+     "chair": "นางสาวนิชาภา สุวรรณนาค",
+     "chair_key": "nichapa",
+     "chair_role": "ประธานคณะอนุกรรมาธิการ",
+     "headline": "วางกรอบการศึกษาท่าเรือน้ำลึกฝั่งอันดามันและท่าเรืออัจฉริยะ",
+     "summary": "ที่ประชุมพิจารณากรอบการศึกษาและแผนการทำงาน โดยกำหนด 3 ประเด็น คือ 1) การพัฒนาท่าเรือน้ำลึกเชิงพาณิชย์ฝั่งอันดามันและโครงสร้างพื้นฐานที่เชื่อมการขนส่งทางถนน ทางราง และระบบท่อ โดยคำนึงถึงการลดผลกระทบต่อสิ่งแวดล้อม 2) การพัฒนาท่าเรืออัจฉริยะ (Smart Port) ด้วยเทคโนโลยีดิจิทัลและนวัตกรรม และ 3) ท่าเรือในฐานะกลไกขับเคลื่อนเศรษฐกิจภาคใต้และระเบียงเศรษฐกิจพิเศษภาคใต้ (SEC) การศึกษาจะดูทั้งศักยภาพของท่าเรือเดิมและความเป็นไปได้ของท่าเรือแห่งใหม่ ปริมาณสินค้าที่แท้จริง ความคุ้มค่า ผลกระทบต่อสิ่งแวดล้อม และการมีส่วนร่วมของประชาชน ที่ประชุมได้อภิปรายเปรียบเทียบพื้นที่ท่าเรือจังหวัดระนอง ปากบารา จังหวัดสตูล และจังหวัดกระบี่ กรอบเวลาการทำงานคือวันที่ 1 ตุลาคม ถึง 29 ธันวาคม 2569 ที่ประชุมมีมติประชุมประจำทุกวันพฤหัสบดี เวลา 09.30 น. กำหนดศึกษาดูงานด้านท่าเรืออัจฉริยะที่ท่าเรือแหลมฉบัง จังหวัดชลบุรี ในวันที่ 29 ตุลาคม 2569 และเชิญ สนข. และสำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติมาให้ข้อมูลในครั้งถัดไป",
+     "items": [
+      [
+       "กรอบการศึกษา 3 ประเด็น: ท่าเรือน้ำลึกฝั่งอันดามัน ท่าเรืออัจฉริยะ (Smart Port) และเศรษฐกิจภาคใต้",
+       "พิจารณา",
+       "sub"
+      ],
+      [
+       "เปรียบเทียบพื้นที่ท่าเรือระนอง ปากบารา และกระบี่",
+       "พิจารณา",
+       "sub"
+      ],
+      [
+       "ประชุมประจำทุกวันพฤหัสบดี และศึกษาดูงานท่าเรือแหลมฉบัง จังหวัดชลบุรี วันที่ 29 ตุลาคม 2569",
+       "เห็นชอบ",
+       "sub"
+      ]
+     ],
+     "tags": [
+      "ท่าเรือน้ำลึก",
+      "อันดามัน",
+      "ท่าเรืออัจฉริยะ"
+     ],
+     "places": [
+      "ระนอง",
+      "สตูล",
+      "กระบี่",
+      "ชลบุรี"
+     ],
+     "upcoming": false
+    },
+    "2|2026-10-21": {
+     "n": 2,
+     "date": "2026-10-21",
+     "time": "09.30",
+     "room": "ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา",
+     "docs": [
+      {
+       "k": "doc",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Qn-YRdQQjTkagrpnagnbTaQEEsl7M0CBsH5ypCUmAd228ZNv5CYNoQpRpEYAonzBL1K-glfK-QB-NtymRhLiIDqx0T7lEZ0BysZO2pNvVMsINu4PhaL751pJa66Pu7XQxwxSERC-XYmRvlWf4FO-2L4BrxO1K9lYWY61Ng==&ref=11010197"
+      },
+      {
+       "k": "notice",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GA0yZXKmZE5FjuWAmY1fGEdNbXDgnaVHeKBOQxi9UgbDl81-2N4hTc6j7H7I5CYYEQ1UCwoMxIqFGDABtwEXSQQgNsk34mY9PvoKhr7agenl6DFI8RNnA3O5YvkT_Ej2UIwIZZ5OEgxngMrszvEsaj4eTgBDYXUpuTp-dw==&ref=11010223",
+       "size": 116752
+      },
+      {
+       "k": "summary",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9787_j9wSgdsvlbxUEkjgulLoXAgyInctwyU-57hZAMcVlRlDL9r59mTLh7G4oZuzY3Q4YCfE8Ze50P-HJVMcN_ssr6hkhBIK3xjOj_1CoA6wmDCXZyIx3uWF52In8rKwYq94pXFFU_dfXuMHi2u0uFraP7_q1SBCK3eSA==&ref=11032682",
+       "size": 14112033
+      },
+      {
+       "k": "agenda",
+       "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WCnwuKP64q6qDYiuIss"
+      }
+     ],
+     "media": {
+      "video": {
+       "src": "media/sub-andamanport-v2.mp4",
+       "poster": "img/poster-sub-andamanport-2.jpg",
+       "vtt": "media/sub-andamanport-v2.th.vtt",
+       "kind": "post",
+       "label": "วิดีโอสรุปผลการประชุม",
+       "dur": "3:19",
+       "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+       "ck": "andamanport-2",
+       "size": 7807633
+      },
+      "videos": [
+       {
+        "src": "media/sub-andamanport-v2.mp4",
+        "poster": "img/poster-sub-andamanport-2.jpg",
+        "vtt": "media/sub-andamanport-v2.th.vtt",
+        "kind": "post",
+        "label": "วิดีโอสรุปผลการประชุม",
+        "dur": "3:19",
+        "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+        "ck": "andamanport-2",
+        "size": 7807633
+       }
+      ]
+     },
+     "chair": "นางสาวนิชาภา สุวรรณนาค",
+     "chair_key": "nichapa",
+     "chair_role": "ประธานคณะอนุกรรมาธิการ",
+     "headline": "ข้อมูลจาก สศช. และ สนข.: พัฒนาท่าเรือระนองเดิมให้เต็มศักยภาพก่อน",
+     "summary": "ที่ประชุมพิจารณาข้อมูลผลการศึกษา ความคืบหน้าโครงการท่าเรือน้ำลึกและโครงข่ายขนส่งฝั่งอันดามัน และแนวทางท่าเรืออัจฉริยะ (Smart Port) โดยเชิญสำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ (สศช.) และ สนข. สศช. ให้ข้อมูลว่าคณะกรรมการศึกษาแนวทางขับเคลื่อนโครงการแลนด์บริดจ์เห็นว่าโครงการมีความเป็นไปได้ทางธุรกิจต่ำและมีความเสี่ยงสูง จึงเสนอให้ชะลอโครงการ และพัฒนาท่าเรือระนองเดิมให้เต็มศักยภาพก่อน ส่วนท่าเรือแห่งใหม่ต้องพิจารณาปริมาณสินค้า ความคุ้มค่า ผลกระทบต่อสิ่งแวดล้อม และการยอมรับของประชาชนในพื้นที่ ทั้งนี้ท่าเรือฝั่งอันดามันยังมีความสำคัญเชิงยุทธศาสตร์ต่อประเทศ สนข. ให้ข้อมูลการศึกษาเบื้องต้นเส้นทางรถไฟชุมพร–ท่าเรือระนอง ระยะทางประมาณ 109 กิโลเมตร และแผนพัฒนาท่าเรือระนอง 20 ปี ที่อาจรองรับตู้สินค้าได้เกือบ 500,000 TEUs ต่อปี ซึ่งยังไม่ได้รับอนุมัติ คณะอนุกรรมาธิการเสนอให้ศึกษาปริมาณสินค้าไทยที่ขนส่งผ่านท่าเรือของประเทศมาเลเซีย เปรียบเทียบพื้นที่ระนอง สตูล และตรัง พัฒนาท่าเรือควบคู่กับนิคมอุตสาหกรรมและโครงข่ายถนนและราง และพิจารณาการร่วมลงทุนระหว่างรัฐและเอกชน (PPP) การจัดรูปที่ดินแทนการเวนคืน และกองทุนพัฒนาชุมชนรอบท่าเรือ ที่ประชุมรับทราบ และจะเชิญกรมศุลกากร กรมเจ้าท่า การท่าเรือแห่งประเทศไทย และคณะกรรมการจัดทำแผนแม่บทการพัฒนาภาคใต้มาให้ข้อมูลเพิ่มเติม",
+     "items": [
+      [
+       "ข้อมูลจาก สศช.: ข้อเสนอให้ชะลอโครงการแลนด์บริดจ์ และพัฒนาท่าเรือระนองเดิมให้เต็มศักยภาพก่อน",
+       "รับฟังข้อมูล",
+       "sub"
+      ],
+      [
+       "ข้อมูลจาก สนข.: เส้นทางรถไฟชุมพร–ท่าเรือระนอง และแผนพัฒนาท่าเรือระนอง 20 ปี",
+       "รับฟังข้อมูล",
+       "sub"
+      ],
+      [
+       "ข้อสังเกต 4 ข้อ เช่น ศึกษาปริมาณสินค้าที่แท้จริง พัฒนาท่าเรือควบคู่กับนิคมอุตสาหกรรม และการร่วมลงทุนระหว่างรัฐและเอกชน (PPP)",
+       "ข้อสังเกต",
+       "sub"
+      ],
+      [
+       "เชิญกรมศุลกากร กรมเจ้าท่า และการท่าเรือแห่งประเทศไทยมาให้ข้อมูลเพิ่มเติม",
+       "รับทราบ",
+       "sub"
+      ]
+     ],
+     "tags": [
+      "ท่าเรือน้ำลึก",
+      "ท่าเรือระนอง",
+      "แลนด์บริดจ์"
+     ],
+     "places": [
+      "ระนอง",
+      "ชุมพร",
+      "สตูล",
+      "ตรัง"
+     ],
+     "upcoming": false
+    }
+   },
+   "tl": {},
+   "cal": {},
+   "sharev": {
+    "1": "91f8fa14",
+    "2": "af0a629e"
+   },
+   "subs": {}
+  },
+  "transport/2569/sub-ridehail.html": {
+   "json": "sub-ridehail.json",
+   "rows": {
+    "1|2026-10-22": {
+     "n": 1,
+     "date": "2026-10-22",
+     "time": "10.00",
+     "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
+     "docs": [
+      {
+       "k": "doc",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KmqzjsHKdBnBSMRK2Y9K-o6Sb6OHxClZXMH9WAUjPRCwvQbZhNqqWpZC2R1h5wzm3sHj5WmD1yT-R99iRmEda1ECL6c0kagPKJQOMh4Im35t1YobNVJk4uKvuGq6EJKTEa0UJYgzV62HLppFXogg3WmqPgCsjj9gjwyADw==&ref=11009941"
+      },
+      {
+       "k": "notice",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jMTMey3_RDyHf5n2kkbzlz-WUVGd-cGMtF_gURI5rb3r5Ko9e5KabwHfclC1cwzOqoA7w0wmweQH5d4c9ihMjz1FnLCtvENumJfOUJSAXi_LzldmPkHLx0FXrzIvJaTPv7VLKEN_ALiH8CaMD86rpZpQxwm9Cu-Z_vn0Hw==&ref=11009942",
+       "size": 264362
+      },
+      {
+       "k": "summary",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_HSDNpuBCwy6_xNY54cczL9V-cB8bEY0-9Y4TI3B0sZyxkVshKZ_KMRCElir-k68LXEwknUNw7pyZSObonfxMFWboOVpBIA-_d44yIV0LrH9avBWFRkrK7RHqMOVxrbugr2hq2ZxfzS65hzRghpSXZKD5SgwwmqiWa_NdQ==&ref=11041441",
+       "size": 26105831
+      },
+      {
+       "k": "agenda",
+       "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cD9jjzwwLgzIeN35XcQ"
+      }
+     ],
+     "media": {
+      "video": {
+       "src": "media/sub-ridehail-v1.mp4",
+       "poster": "img/poster-sub-ridehail-1.jpg",
+       "vtt": "media/sub-ridehail-v1.th.vtt",
+       "kind": "post",
+       "label": "วิดีโอสรุปผลการประชุม",
+       "dur": "2:10",
+       "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+       "ck": "ridehail-1",
+       "size": 5290705
+      },
+      "videos": [
+       {
+        "src": "media/sub-ridehail-v1.mp4",
+        "poster": "img/poster-sub-ridehail-1.jpg",
+        "vtt": "media/sub-ridehail-v1.th.vtt",
+        "kind": "post",
+        "label": "วิดีโอสรุปผลการประชุม",
+        "dur": "2:10",
+        "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+        "ck": "ridehail-1",
+        "size": 5290705
+       }
+      ]
+     },
+     "chair": "นายปราณีต เกรัมย์",
+     "chair_key": "pranit",
+     "chair_role": "ประธานคณะอนุกรรมาธิการ",
+     "headline": "วางกรอบการศึกษา: ความปลอดภัยของรถรับจ้างผ่านแอปพลิเคชัน",
+     "summary": "ที่ประชุมพิจารณากรอบการศึกษามาตรการกำกับดูแลรถรับจ้างสาธารณะผ่านระบบแอปพลิเคชัน เพื่อให้ตรวจสอบและติดตามการให้บริการได้ และผู้โดยสารปลอดภัยตลอดการเดินทาง ขอบเขตการศึกษาครอบคลุมกฎหมาย หลักเกณฑ์ และการกำกับดูแลผู้ประกอบธุรกิจแพลตฟอร์ม ผู้ขับรถ รถที่ให้บริการ และผู้โดยสาร โดยเน้นมาตรฐานความปลอดภัยของรถและผู้ขับ การคุ้มครองสิทธิของผู้โดยสาร การประกันภัยและการเยียวยาความเสียหาย ความรับผิดชอบเมื่อเกิดอุบัติเหตุ ช่องว่างและความซ้ำซ้อนของกฎหมาย และการแลกเปลี่ยนข้อมูลระหว่างหน่วยงานรัฐกับผู้ประกอบธุรกิจแพลตฟอร์ม เพื่อจัดทำข้อเสนอแนะเชิงนโยบาย ที่ประชุมมอบหมายให้นำเสนอแผนการควบคุมและติดตามการให้บริการในส่วนของกรมการขนส่งทางบกและสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) ในการประชุมวันที่ 29 ตุลาคม 2569",
+     "items": [
+      [
+       "กรอบการศึกษา: ความปลอดภัยของรถและผู้ขับ การคุ้มครองผู้โดยสาร การประกันภัยและการเยียวยา และช่องว่างของกฎหมาย",
+       "พิจารณา",
+       "sub"
+      ],
+      [
+       "ให้นำเสนอแผนควบคุมและติดตามการให้บริการของกรมการขนส่งทางบกและ ETDA ในครั้งถัดไป",
+       "มอบหมาย",
+       "sub"
+      ]
+     ],
+     "tags": [
+      "รถรับจ้างผ่านแอป",
+      "ความปลอดภัย",
+      "คุ้มครองผู้โดยสาร"
+     ],
+     "places": [],
+     "upcoming": false
+    },
+    "2|2026-10-29": {
+     "n": 2,
+     "date": "2026-10-29",
+     "time": "10.00",
+     "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
+     "docs": [
+      {
+       "k": "notice",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BdvTFA79oWy3Rtqu-pwV9tB2nAfnYMof5egY4WnZbJ2mVcJy9eyTap45J1L20zWP5qWSPEw0YH2np2LIKyFDWNmWxZFepviMxmeHneEQ8C0OARcvzRLVB_lZG_sH51eTAbOjNLTubG37r5W-7kiv2V1e2-U8TRu12A8IMg==&ref=11059093",
+       "size": 93864
+      },
+      {
+       "k": "doc",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2ZUSYhKxeS2QIfOlfo5Of1NEGGSd9jBc7vZJlzZRQ3tmlwaodHEYkLSl2UJQIW8gAiM-HsvgVnHsL-2r7XAFf3o8-Igmw7cVDIADM2IpWNNwIpk_Zk_UFLSGCBF1jMYmxdjRtTYHMEvZ4lQEU956bytGelCeAjiJUXH6QA==&ref=11059095"
+      },
+      {
+       "k": "summary",
+       "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=anR8uMEPmx08JWQXLWm9XcTAtGTLgVEUH8-OaLNpkc301MpTdLRlNWFy3YeuS4s6lNtjynCmR_Mxo10DDnrEX894VQC4eBRKG4DaECF-_zMgDXusl11CILVptH_arpyppAjQKq0Zpg0FskkVj6Ejq6wQlf2PrktacboobA==&ref=11099230",
+       "size": 74462563
+      },
+      {
+       "k": "agenda",
+       "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3c_ppeL7684rftwRHec"
+      }
+     ],
+     "media": {
+      "video": {
+       "src": "media/sub-ridehail-v2.mp4",
+       "poster": "img/poster-sub-ridehail-2.jpg",
+       "vtt": "media/sub-ridehail-v2.th.vtt",
+       "kind": "post",
+       "label": "วิดีโอสรุปผลการประชุม",
+       "dur": "4:41",
+       "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+       "ck": "ridehail-2",
+       "size": 10853907
+      },
+      "videos": [
+       {
+        "src": "media/sub-ridehail-v2.mp4",
+        "poster": "img/poster-sub-ridehail-2.jpg",
+        "vtt": "media/sub-ridehail-v2.th.vtt",
+        "kind": "post",
+        "label": "วิดีโอสรุปผลการประชุม",
+        "dur": "4:41",
+        "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+        "ck": "ridehail-2",
+        "size": 10853907
+       }
+      ]
+     },
+     "chair": "นายปราณีต เกรัมย์",
+     "chair_key": "pranit",
+     "chair_role": "ประธานคณะอนุกรรมาธิการ",
+     "headline": "รถรับจ้างผ่านแอป: การจดทะเบียน ประกันภัย และเรื่องร้องเรียน",
+     "summary": "ที่ประชุมพิจารณาข้อมูลจากกรมการขนส่งทางบกและสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) ปัจจุบันรถยนต์รับจ้างผ่านแอปพลิเคชันอยู่ภายใต้กฎกระทรวง พ.ศ. 2564 ซึ่งออกตามพระราชบัญญัติรถยนต์ พ.ศ. 2522 มีรถยนต์รับจ้างผ่านระบบอิเล็กทรอนิกส์ (รย.18) จดทะเบียนถูกต้อง 8,740 คัน และรถจักรยานยนต์สาธารณะที่ให้บริการผ่านแอปพลิเคชัน (รย.17) 11,647 คัน รวม 20,387 คัน เหตุที่ผู้ขับบางส่วนยังไม่นำรถเข้าระบบ เช่น ค่าธรรมเนียมและดอกเบี้ยของสัญญาเช่าซื้อ เบี้ยประกันภัยเชิงพาณิชย์ที่สูงกว่ารถส่วนบุคคล และราคาขายต่อของรถที่เปลี่ยนเป็นทะเบียนสาธารณะ กรมการขนส่งทางบกได้ประสานธนาคารแห่งประเทศไทยและสำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย (คปภ.) เรื่องสัญญาเช่าซื้อและรูปแบบประกันภัย กระทรวงคมนาคมเสนอแก้ไขกฎกระทรวงให้นิติบุคคลจดทะเบียนรถ รย.18 ให้ผู้ขับเช่าประกอบอาชีพได้ และขยายขนาดเครื่องยนต์รถจักรยานยนต์สาธารณะจากไม่เกิน 125 เป็นไม่เกิน 250 ลูกบาศก์เซนติเมตร เฉพาะรุ่นที่กำหนด ETDA ให้ข้อมูลว่ามีผู้ประกอบธุรกิจแพลตฟอร์ม 5 รายที่เชื่อมระบบยืนยันตัวตน ThaID แล้ว และระหว่างวันที่ 1 พฤศจิกายน 2566 ถึง 30 กันยายน 2569 มีเรื่องร้องเรียน 241 เรื่อง เช่น การจัดสรรงาน ค่าตอบแทน ค่าธรรมเนียมแพลตฟอร์ม และความปลอดภัย คณะอนุกรรมาธิการเสนอให้ลดภาระต้นทุนของผู้ขับเพื่อจูงใจให้เข้าระบบอย่างถูกต้อง ตรวจสอบประวัติและคุณสมบัติของผู้ขับเป็นระยะ ใช้ QR Code ให้ผู้โดยสารตรวจสอบรถและผู้ขับได้สะดวก ศึกษาประกันภัยเพิ่มเติมที่ผู้ประกอบธุรกิจแพลตฟอร์มมีส่วนร่วม และพิจารณาความเป็นธรรมของค่าธรรมเนียมแพลตฟอร์ม (GP) ในครั้งถัดไปจะรับฟังข้อมูลด้านการบังคับใช้กฎหมาย ความปลอดภัย การประกันภัย และการเยียวยาผู้ประสบภัย",
+     "items": [
+      [
+       "สถานการณ์รถรับจ้างผ่านแอป: รถจดทะเบียน 20,387 คัน และเหตุที่ผู้ขับบางส่วนยังไม่นำรถเข้าระบบ",
+       "รับฟังข้อมูล",
+       "sub"
+      ],
+      [
+       "แนวทางแก้ไข: สัญญาเช่าซื้อ ประกันภัย และการแก้ไขกฎกระทรวง",
+       "รับฟังข้อมูล",
+       "sub"
+      ],
+      [
+       "การกำกับดูแลผู้ประกอบธุรกิจแพลตฟอร์มดิจิทัล และเรื่องร้องเรียน 241 เรื่อง",
+       "รับฟังข้อมูล",
+       "sub"
+      ],
+      [
+       "ข้อเสนอ เช่น ลดภาระต้นทุนของผู้ขับ ใช้ QR Code ตรวจสอบรถและผู้ขับ และประกันภัยเพิ่มเติม",
+       "ข้อสังเกต",
+       "sub"
+      ]
+     ],
+     "tags": [
+      "รถรับจ้างผ่านแอป",
+      "ประกันภัย",
+      "เรื่องร้องเรียน"
+     ],
+     "places": [],
+     "upcoming": false
+    }
+   },
+   "tl": {},
+   "cal": {},
+   "sharev": {
+    "1": "66b3c0da",
+    "2": "a474bd5a"
+   },
+   "subs": {}
+  },
+  "transport/2569/index.html": {
+   "json": null,
+   "rows": {},
+   "tl": {},
+   "cal": {},
+   "sharev": {},
+   "subs": {
+    "isantransit": {
+     "1|2026-10-29": {
+      "n": 1,
+      "date": "2026-10-29",
+      "docs": [
+       {
+        "k": "notice",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=uh-iodhnvrBfOs1D9cTO1RSu66jWuB4XU_j_P2lzWNGPVWC2V4ca1um0KFEbXSPxABBUjxUhAvJbl5Fja6nSR1OOnpYCfKR3qJEZ4p-9_9oJQBX0NxfmZ5NRuqGHYaeDNGdtDiH4O50qEJis4XPJyR0AnB2TN4WFfOcxAw==&ref=11040483",
+        "size": 101760
+       },
+       {
+        "k": "summary",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9Vp-Uve1exloz0AAv7V7yPk2TsDdnsX6M6lFYCSvrHkPzYJN3I17KHoYkOCE4Q5L60QlHHY6hWgrDAM5UqBVBu04HYZwwsjOFqS45bIMu2sHyxlSOfRZTPkkOfMjlIBjeIcCrPdIQy75qOpK7eBqk9pNxljv8DkAlWnFGw==&ref=11078624",
+        "size": 5726517
+       },
+       {
+        "k": "agenda",
+        "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AvshVG-XDuCPD_ntlUI"
+       }
+      ]
+     },
+     "2|2026-11-04": {
+      "n": 2,
+      "date": "2026-11-04",
+      "docs": [
+       {
+        "k": "notice",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ahQtaBjbyzHG-1NynN2RIiwtRbqvlDo_NeZ7FyxgE79cvYmF8ojYYCY0FhHKpvoQnRBjiQyY6CWLhU-4kHAVXMG3_ytQk0fjYZ8L0NBSV8FY7fe8bTeZuGUk2asVp19muY26wYNYYke8w9rvBR3cgB9CmfYBPRaclVge0g==&ref=11088926",
+        "size": 105754
+       },
+       {
+        "k": "summary",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PtWGmj2iVvGsA1YL1ETgLy5GoTD7pSMsb2xwKaJXGcUMT15NbUV1gQ2UtIwb-hm9hcNoCCeKkOddE28lwYBRd1qIq9cZuJNcU24a6ivufJ1qkG3VmbGSqKjkC5TdIEV8ZIhOHnaEgTcuU_V-vuGpMJp-sBm7Y7xRjKTJrQ==&ref=11111247",
+        "size": 7982485
+       },
+       {
+        "k": "agenda",
+        "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=vCeFtn-vd01gGmmg5EY"
+       }
+      ]
+     },
+     "3|2026-11-11": {
+      "n": 3,
+      "date": "2026-11-11",
+      "docs": [
+       {
+        "k": "notice",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=N6nS6YG4zuIbAlVvorzAObbmY2wRHRkmW68sbo7QqeUxDG7pWYqz-8rrG2lrv1fHVAV4Ts0Zhs_ckBpHY33uZPX9CN437bDIWqJeQOBLXHeR_Ib7T9VbUepwV6Bm6VfTMVcSkrElXy3lnmetNLEIJeicl5-ekhy11rsbJA==&ref=11129552",
+        "size": 107179
+       },
+       {
+        "k": "summary",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1SKQZM4mQt_oPkL1sH9UuqkXBnv5yenzyWJOyUTVGLHIkACHzMj-jR2rE4OIyHp4wC1s9akJxhEGaghlfOPmdEwaSEW0OVlqQMQKYjAY_AbtkT-7yg6qpcq0tvDxEGJ6-oglZndDnrMs6kTVMa-vFK7_suMtP4AuRD7pzA==&ref=11166395",
+        "size": 6973721
+       },
+       {
+        "k": "agenda",
+        "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ltdD71ljs14_lEdzl_I"
+       }
+      ]
+     }
+    },
+    "andamanport": {
+     "1|2026-10-08": {
+      "n": 1,
+      "date": "2026-10-08",
+      "docs": [
+       {
+        "k": "notice",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=22AQWX3RyJgpYdacAvBOiyn445qxF_7kcil3Jy7sL3jQBASwimljtKBK1Ptr0HmFAiYDv1xGvoA_C2bR3hOEWPs3CJaWnMSPD0k3SQmJld149jKr4Qk_8Rg54eryvxLgdsWqChfcifHYgqZv9W3TXXzs2T4CtXuU0gFpJQ==&ref=10940199",
+        "size": 111175
+       },
+       {
+        "k": "summary",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=r3IvXePkoSslRshXlSuO43IxRttkkEF06Ycp31uWrcXyb31s1arHzwhlMX3wZiSdQnU8R0FP-bNH9P7zReN59FTq98S2SwYBmQw2qE6de-UNFXS0bbu8TtZdC-8aLa5eTXA8yIpnWNXj1_ZeazCsccq0Cyq1V_TXn7Y5Gw==&ref=10981923",
+        "size": 7985458
+       },
+       {
+        "k": "agenda",
+        "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=YEbQZik-6HdCLBnNI5o"
+       }
+      ]
+     },
+     "2|2026-10-21": {
+      "n": 2,
+      "date": "2026-10-21",
+      "docs": [
+       {
+        "k": "doc",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Qn-YRdQQjTkagrpnagnbTaQEEsl7M0CBsH5ypCUmAd228ZNv5CYNoQpRpEYAonzBL1K-glfK-QB-NtymRhLiIDqx0T7lEZ0BysZO2pNvVMsINu4PhaL751pJa66Pu7XQxwxSERC-XYmRvlWf4FO-2L4BrxO1K9lYWY61Ng==&ref=11010197"
+       },
+       {
+        "k": "notice",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GA0yZXKmZE5FjuWAmY1fGEdNbXDgnaVHeKBOQxi9UgbDl81-2N4hTc6j7H7I5CYYEQ1UCwoMxIqFGDABtwEXSQQgNsk34mY9PvoKhr7agenl6DFI8RNnA3O5YvkT_Ej2UIwIZZ5OEgxngMrszvEsaj4eTgBDYXUpuTp-dw==&ref=11010223",
+        "size": 116752
+       },
+       {
+        "k": "summary",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9787_j9wSgdsvlbxUEkjgulLoXAgyInctwyU-57hZAMcVlRlDL9r59mTLh7G4oZuzY3Q4YCfE8Ze50P-HJVMcN_ssr6hkhBIK3xjOj_1CoA6wmDCXZyIx3uWF52In8rKwYq94pXFFU_dfXuMHi2u0uFraP7_q1SBCK3eSA==&ref=11032682",
+        "size": 14112033
+       },
+       {
+        "k": "agenda",
+        "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WCnwuKP64q6qDYiuIss"
+       }
+      ]
+     }
+    },
+    "ridehail": {
+     "1|2026-10-22": {
+      "n": 1,
+      "date": "2026-10-22",
+      "docs": [
+       {
+        "k": "doc",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KmqzjsHKdBnBSMRK2Y9K-o6Sb6OHxClZXMH9WAUjPRCwvQbZhNqqWpZC2R1h5wzm3sHj5WmD1yT-R99iRmEda1ECL6c0kagPKJQOMh4Im35t1YobNVJk4uKvuGq6EJKTEa0UJYgzV62HLppFXogg3WmqPgCsjj9gjwyADw==&ref=11009941"
+       },
+       {
+        "k": "notice",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jMTMey3_RDyHf5n2kkbzlz-WUVGd-cGMtF_gURI5rb3r5Ko9e5KabwHfclC1cwzOqoA7w0wmweQH5d4c9ihMjz1FnLCtvENumJfOUJSAXi_LzldmPkHLx0FXrzIvJaTPv7VLKEN_ALiH8CaMD86rpZpQxwm9Cu-Z_vn0Hw==&ref=11009942",
+        "size": 264362
+       },
+       {
+        "k": "summary",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_HSDNpuBCwy6_xNY54cczL9V-cB8bEY0-9Y4TI3B0sZyxkVshKZ_KMRCElir-k68LXEwknUNw7pyZSObonfxMFWboOVpBIA-_d44yIV0LrH9avBWFRkrK7RHqMOVxrbugr2hq2ZxfzS65hzRghpSXZKD5SgwwmqiWa_NdQ==&ref=11041441",
+        "size": 26105831
+       },
+       {
+        "k": "agenda",
+        "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cD9jjzwwLgzIeN35XcQ"
+       }
+      ]
+     },
+     "2|2026-10-29": {
+      "n": 2,
+      "date": "2026-10-29",
+      "docs": [
+       {
+        "k": "notice",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BdvTFA79oWy3Rtqu-pwV9tB2nAfnYMof5egY4WnZbJ2mVcJy9eyTap45J1L20zWP5qWSPEw0YH2np2LIKyFDWNmWxZFepviMxmeHneEQ8C0OARcvzRLVB_lZG_sH51eTAbOjNLTubG37r5W-7kiv2V1e2-U8TRu12A8IMg==&ref=11059093",
+        "size": 93864
+       },
+       {
+        "k": "doc",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2ZUSYhKxeS2QIfOlfo5Of1NEGGSd9jBc7vZJlzZRQ3tmlwaodHEYkLSl2UJQIW8gAiM-HsvgVnHsL-2r7XAFf3o8-Igmw7cVDIADM2IpWNNwIpk_Zk_UFLSGCBF1jMYmxdjRtTYHMEvZ4lQEU956bytGelCeAjiJUXH6QA==&ref=11059095"
+       },
+       {
+        "k": "summary",
+        "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=anR8uMEPmx08JWQXLWm9XcTAtGTLgVEUH8-OaLNpkc301MpTdLRlNWFy3YeuS4s6lNtjynCmR_Mxo10DDnrEX894VQC4eBRKG4DaECF-_zMgDXusl11CILVptH_arpyppAjQKq0Zpg0FskkVj6Ejq6wQlf2PrktacboobA==&ref=11099230",
+        "size": 74462563
+       },
+       {
+        "k": "agenda",
+        "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3c_ppeL7684rftwRHec"
+       }
+      ]
+     }
+    }
+   }
+  }
+ },
+ "files": [
+  "transport/2569/s/isantransit-1.html",
+  "transport/2569/img/s/isantransit-1-fc1cdd9f.jpg",
+  "transport/2569/s/isantransit-2.html",
+  "transport/2569/img/s/isantransit-2-a2385a07.jpg",
+  "transport/2569/s/isantransit-3.html",
+  "transport/2569/img/s/isantransit-3-e089f93f.jpg",
+  "transport/2569/s/andamanport-1.html",
+  "transport/2569/img/s/andamanport-1-91f8fa14.jpg",
+  "transport/2569/s/andamanport-2.html",
+  "transport/2569/img/s/andamanport-2-af0a629e.jpg",
+  "transport/2569/s/ridehail-1.html",
+  "transport/2569/img/s/ridehail-1-66b3c0da.jpg",
+  "transport/2569/s/ridehail-2.html",
+  "transport/2569/img/s/ridehail-2-a474bd5a.jpg"
+ ],
+ "i18n": {
+  "transport/2569/i18n-en.json": {
+   "เริ่มงานศึกษา: รถโดยสารสาธารณะในขอนแก่น อุดรธานี อุบลราชธานี และนครราชสีมา": "Starting the study: public buses in Khon Kaen, Udon Thani, Ubon Ratchathani and Nakhon Ratchasima",
+   "ที่ประชุมรับทราบคำสั่งแต่งตั้งและกำหนดแนวทางการทำงาน โดยจะศึกษาสภาพปัญหา ความพร้อม และข้อจำกัดของระบบขนส่งสาธารณะในจังหวัดขอนแก่น อุดรธานี อุบลราชธานี และนครราชสีมา สำนักงานนโยบายและแผนการขนส่งและจราจร (สนข.) ให้ข้อมูลแผนแม่บทระบบขนส่งสาธารณะในเมืองหลักของภูมิภาค {0} พื้นที่ ซึ่งครอบคลุมทั้ง {1} จังหวัด ในปี {2} การเดินทางด้วยระบบขนส่งสาธารณะมีสัดส่วนเฉลี่ยร้อยละ {3} และตั้งเป้าเพิ่มเป็นร้อยละ {4} ในปี {5} ร้อยละ {6} ในปี {7} และร้อยละ {8} ในปี {9} รูปแบบที่เสนอคือรถโดยสารไฟฟ้าแบบพื้นต่ำ เดินรถตามตารางเวลาทุก {10}–{11} นาที ค่าโดยสาร {12} บาทตลอดสาย พร้อมระบบตั๋วร่วม ภาครัฐลงทุนโครงสร้างพื้นฐาน เช่น ป้ายหยุดรถ ศูนย์จอดและซ่อมบำรุงรถ และสถานีชาร์จ ส่วนภาคเอกชนจัดหารถและบริหารการเดินรถ ที่ประชุมมีข้อสังเกตเรื่องสิทธิการเดินรถของผู้ประกอบการเดิม ความพร้อมขององค์กรปกครองส่วนท้องถิ่น และเงินสนับสนุนจากภาครัฐสำหรับเส้นทางที่ผู้โดยสารยังน้อย รวมทั้งรับฟังข้อมูลการเดินรถโดยสารในจังหวัดอุบลราชธานี ซึ่งมีผู้โดยสารเฉลี่ยประมาณ {13} คนต่อเที่ยว ที่ประชุมมอบหมายให้กรมการขนส่งทางบกและ สนข. รวบรวมสถานะเส้นทางและสิทธิการเดินรถเดิมใน {14} จังหวัด เพื่อเทียบกับโครงข่ายที่ สนข. เสนอ และนำข้อมูลจังหวัดอุบลราชธานีมาพิจารณาในครั้งถัดไป": "The meeting noted its appointment order and set how it will work: it will study the problems, readiness and limits of public transport in Khon Kaen, Udon Thani, Ubon Ratchathani and Nakhon Ratchasima provinces. The Office of Transport and Traffic Policy and Planning (OTP) described its master plan for public transport in {0} main regional cities, which covers all {1} provinces. In {2|ce} public transport made up on average {3} per cent of trips, with targets of {4} per cent in {5|ce}, {6} per cent in {7|ce} and {8} per cent in {9|ce}. The proposed model is low-floor electric buses running to a timetable every {6}–{11} minutes, a flat fare of {12} baht and a common ticket system. The state would invest in infrastructure such as bus stops, depots and charging stations, while private operators would provide the buses and run the service. The meeting raised points about the rights of existing route operators, the readiness of local governments, and state support for routes with few passengers, and heard about a bus service in Ubon Ratchathani province that carries about {6} passengers per trip on average. The meeting asked the Department of Land Transport and OTP to compile the status of existing routes and operating rights in the {1} provinces, to compare with the network OTP proposes, and to bring the Ubon Ratchathani information to the next meeting.",
+   "แผนแม่บทระบบขนส่งสาธารณะในเมืองหลักของภูมิภาค และรูปแบบรถโดยสารไฟฟ้าที่เสนอ": "OTP's master plan for public transport in main regional cities, and the proposed electric bus model",
+   "ข้อสังเกตเรื่องสิทธิการเดินรถเดิม ความพร้อมของท้องถิ่น และเงินสนับสนุนจากภาครัฐ": "Observations on existing operating rights, local government readiness and state support",
+   "ข้อสังเกต": "Observations",
+   "ให้กรมการขนส่งทางบกและ สนข. รวบรวมสถานะเส้นทางเดิมใน {0} จังหวัด และนำข้อมูลจังหวัดอุบลราชธานีมาพิจารณาครั้งถัดไป": "Department of Land Transport and OTP to compile the status of existing routes in the {0} provinces, and bring Ubon Ratchathani information to the next meeting",
+   "มอบหมาย": "Assigned",
+   "รถโดยสารไฟฟ้า": "electric buses",
+   "ท้องถิ่น": "Local government",
+   "อุบลราชธานี: {0} เส้นทางนำร่องที่ไม่ทับซ้อนกับเส้นทางเดิม": "Ubon Ratchathani: {0} pilot routes that do not overlap existing routes",
+   "ที่ประชุมพิจารณาสถานะเส้นทางและสิทธิการเดินรถเดิม และแนวทางจัดโครงข่ายขนส่งสาธารณะในจังหวัดอุบลราชธานี โดยรับฟังข้อมูลจาก สนข. และกรมการขนส่งทางบก สนข. เสนอโครงข่ายรถโดยสารประจำทาง {0} เส้นทาง ครอบคลุมประชากรประมาณร้อยละ {1} หรือ {2} คน ใช้รถระยะแรก {3} คัน ส่วนเส้นทางเดิมมี {4} เส้นทาง (หมวด {5} จำนวน {6} เส้นทาง และหมวด {7} จำนวน {8} เส้นทาง) ในจำนวนนี้ไม่มีผู้ประกอบการ {9} เส้นทาง โครงข่ายที่เสนอส่วนใหญ่ทับซ้อนกับเส้นทางเดิม แต่มี {10} เส้นทางที่ไม่ทับซ้อน คือ สายที่ {11} สายที่ {12} และสายที่ {13} ปัญหาที่พบ เช่น ผู้ประกอบการเดิมขาดทุนและยังไม่พร้อมลงทุนเปลี่ยนรถ เส้นทางเดิมบางสายอ้อมและใช้เวลานาน และยังขาดป้ายหยุดรถ ทางเท้า ศูนย์ซ่อมบำรุง และสถานีประจุไฟฟ้า ที่ประชุมเสนอให้พิจารณารถโดยสารไฟฟ้าขนาดเล็กประมาณ {14} ที่นั่ง เส้นทางแบบวงรอบ การตรวจสอบแบบจำลองด้วยข้อมูลผู้โดยสารจริงและ GPS มาตรการช่วยผู้ประกอบการเปลี่ยนรถ เช่น สินเชื่อดอกเบี้ยต่ำ และบทบาทของท้องถิ่นในฐานะหน่วยงานหลัก ที่ประชุมเห็นชอบในหลักการให้พิจารณาความเป็นไปได้ของ {15} เส้นทางนำร่อง และให้นำเสนอผลการเดินรถโดยสารขององค์กรปกครองส่วนท้องถิ่นใน {16} จังหวัด ได้แก่ ภูเก็ต สมุทรสาคร สงขลา ลำพูน เชียงใหม่ และกาญจนบุรี ในครั้งถัดไป": "The meeting considered the status of existing routes and operating rights, and how to arrange a public transport network in Ubon Ratchathani province, hearing OTP and the Department of Land Transport. OTP proposed a network of {0} bus routes covering about {1} per cent of the population, or {2} people, with {3} buses in the first phase. There are {4} existing routes ({6} in category {5} and {8} in category {7}), {9} of which have no operator. Most of the proposed network overlaps existing routes, but {10} routes do not: routes {11}, {6} and {0}. Problems include existing operators making losses and not ready to invest in new buses, some existing routes being roundabout and slow, and a lack of bus stops, footpaths, depots and charging stations. The meeting suggested small electric buses of about {14} seats, loop routes, checking the travel model against real passenger data and GPS, support for operators to change buses such as low-interest loans, and local governments as the main responsible bodies. The meeting agreed in principle to consider the feasibility of the {10} pilot routes, and asked for information on local government bus services in {16} provinces (Phuket, Samut Sakhon, Songkhla, Lamphun, Chiang Mai and Kanchanaburi) at the next meeting.",
+   "โครงข่ายรถโดยสาร {0} เส้นทางที่ สนข. เสนอ และข้อมูลเส้นทางเดิม {1} เส้นทางของกรมการขนส่งทางบก": "OTP's proposed network of {0} bus routes, and the Department of Land Transport's data on {1} existing routes",
+   "ข้อสังเกต {0} ข้อ เช่น รถโดยสารไฟฟ้าขนาดเล็ก เส้นทางวงรอบ และมาตรการช่วยผู้ประกอบการเปลี่ยนรถ": "{0} observations, such as small electric buses, loop routes and support for operators to change buses",
+   "พิจารณาความเป็นไปได้ของ {0} เส้นทางนำร่อง: สายที่ {1}, {2} และ {3}": "Consider the feasibility of {0} pilot routes: routes {1}, {2} and {3}",
+   "เห็นชอบในหลักการ": "Approved in principle",
+   "ข้อมูลการเดินรถโดยสารขององค์กรปกครองส่วนท้องถิ่นใน {0} จังหวัด สำหรับครั้งถัดไป": "Information on local government bus services in {0} provinces, for the next meeting",
+   "เส้นทางนำร่อง": "pilot routes",
+   "การกระจายอำนาจขนส่งสาธารณะให้ท้องถิ่น และผลการเดินรถใน {0} จังหวัด": "Handing public transport powers to local governments, and bus services in {0} provinces",
+   "ที่ประชุมพิจารณาการกระจายอำนาจด้านขนส่งสาธารณะให้องค์กรปกครองส่วนท้องถิ่น (อปท.) และผลการดำเนินงานของ อปท. ใน {0} จังหวัด ปัจจุบันภารกิจที่ถ่ายโอนจากกรมการขนส่งทางบกให้ อปท. ยังจำกัดอยู่ที่การบริหารสถานีขนส่งผู้โดยสาร ส่วนอำนาจในการจัดบริการเดินรถยังไม่ชัดเจน ทำให้มีข้อจำกัดเรื่องการขออนุญาตประกอบการขนส่ง การจ้างภาคเอกชน และการบริหารรายได้ค่าโดยสาร ที่ประชุมได้เปรียบเทียบสาระของร่างพระราชบัญญัติการขนส่งทางบกในส่วนที่เกี่ยวกับการกระจายอำนาจ และเห็นควรรวบรวมประเด็นและข้อเสนอแนะ เพื่อเตรียมเสนอข้อสังเกตเมื่อร่างกฎหมายเข้าสู่การพิจารณาของวุฒิสภา สำหรับ อปท. ในจังหวัดภูเก็ต เชียงใหม่ ลำพูน สงขลา สมุทรสาคร และกาญจนบุรี มีรูปแบบการลงทุนและการบริหารแตกต่างกัน และพบข้อจำกัดด้านต้นทุน การขาดทุน จำนวนผู้ใช้บริการ ความเหมาะสมของเส้นทางและขนาดรถ และระเบียบการจ้างภาคเอกชน ที่ประชุมรับทราบ และให้นำข้อมูลนี้ไปใช้ศึกษารูปแบบบริการที่เหมาะกับเมืองหลักในภาคตะวันออกเฉียงเหนือ โดยเริ่มจากจังหวัดอุบลราชธานีเป็นพื้นที่ศึกษาแรก": "The meeting considered decentralising public transport to local government organisations and their results in {0} provinces. So far the Department of Land Transport has handed over only the running of bus terminals; the power to run bus services is still unclear, which limits licensing, hiring private operators and managing fare income. The meeting compared the parts of the draft Land Transport Act on decentralisation, and agreed to gather issues and suggestions so it can offer observations when the draft law comes before the Senate. Local governments in Phuket, Chiang Mai, Lamphun, Songkhla, Samut Sakhon and Kanchanaburi provinces use different investment and management models, and face limits in costs, losses, passenger numbers, the fit of routes and bus sizes, and rules on hiring private operators. The meeting took note and will use this information to study a suitable service model for the main cities of the Northeast, starting with Ubon Ratchathani province as the first study area.",
+   "การกระจายอำนาจด้านขนส่งสาธารณะให้ อปท. และร่างพระราชบัญญัติการขนส่งทางบก": "Decentralising public transport to local governments, and the draft Land Transport Act",
+   "ผลการเดินรถโดยสารของ อปท. ใน {0} จังหวัด และข้อจำกัดที่พบ": "Local government bus services in {0} provinces and the limits they face",
+   "ใช้ข้อมูลนี้ศึกษารูปแบบบริการ โดยเริ่มที่จังหวัดอุบลราชธานี": "Use this information to study a service model, starting with Ubon Ratchathani province",
+   "วางกรอบการศึกษา: ความปลอดภัยของรถรับจ้างผ่านแอปพลิเคชัน": "Setting the scope of the study: safety of ride-hailing cars booked through apps",
+   "ที่ประชุมพิจารณากรอบการศึกษามาตรการกำกับดูแลรถรับจ้างสาธารณะผ่านระบบแอปพลิเคชัน เพื่อให้ตรวจสอบและติดตามการให้บริการได้ และผู้โดยสารปลอดภัยตลอดการเดินทาง ขอบเขตการศึกษาครอบคลุมกฎหมาย หลักเกณฑ์ และการกำกับดูแลผู้ประกอบธุรกิจแพลตฟอร์ม ผู้ขับรถ รถที่ให้บริการ และผู้โดยสาร โดยเน้นมาตรฐานความปลอดภัยของรถและผู้ขับ การคุ้มครองสิทธิของผู้โดยสาร การประกันภัยและการเยียวยาความเสียหาย ความรับผิดชอบเมื่อเกิดอุบัติเหตุ ช่องว่างและความซ้ำซ้อนของกฎหมาย และการแลกเปลี่ยนข้อมูลระหว่างหน่วยงานรัฐกับผู้ประกอบธุรกิจแพลตฟอร์ม เพื่อจัดทำข้อเสนอแนะเชิงนโยบาย ที่ประชุมมอบหมายให้นำเสนอแผนการควบคุมและติดตามการให้บริการในส่วนของกรมการขนส่งทางบกและสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) ในการประชุมวันที่ {0} ตุลาคม {1}": "The meeting considered the scope of its study of measures to oversee public ride-hailing vehicles booked through apps, so that services can be checked and followed and passengers are safe throughout the trip. The study covers laws, rules and oversight of platform operators, drivers, vehicles and passengers, focusing on vehicle and driver safety standards, passenger rights, insurance and compensation, responsibility when accidents happen, gaps and overlaps in the law, and data sharing between state agencies and platform operators, leading to policy recommendations. The meeting asked for the plans of the Department of Land Transport and the Electronic Transactions Development Agency (ETDA) to control and follow these services to be presented at the meeting on {0} October {1|ce}.",
+   "กรอบการศึกษา: ความปลอดภัยของรถและผู้ขับ การคุ้มครองผู้โดยสาร การประกันภัยและการเยียวยา และช่องว่างของกฎหมาย": "Scope of the study: vehicle and driver safety, passenger protection, insurance and compensation, and gaps in the law",
+   "ให้นำเสนอแผนควบคุมและติดตามการให้บริการของกรมการขนส่งทางบกและ ETDA ในครั้งถัดไป": "Plans of the Department of Land Transport and ETDA to control and follow the services, for the next meeting",
+   "รถรับจ้างผ่านแอป": "ride-hailing apps",
+   "คุ้มครองผู้โดยสาร": "passenger protection",
+   "รถรับจ้างผ่านแอป: การจดทะเบียน ประกันภัย และเรื่องร้องเรียน": "Ride-hailing apps: registration, insurance and complaints",
+   "ที่ประชุมพิจารณาข้อมูลจากกรมการขนส่งทางบกและสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) ปัจจุบันรถยนต์รับจ้างผ่านแอปพลิเคชันอยู่ภายใต้กฎกระทรวง พ.ศ. {0} ซึ่งออกตามพระราชบัญญัติรถยนต์ พ.ศ. {1} มีรถยนต์รับจ้างผ่านระบบอิเล็กทรอนิกส์ (รย.{2}) จดทะเบียนถูกต้อง {3} คัน และรถจักรยานยนต์สาธารณะที่ให้บริการผ่านแอปพลิเคชัน (รย.{4}) {5} คัน รวม {6} คัน เหตุที่ผู้ขับบางส่วนยังไม่นำรถเข้าระบบ เช่น ค่าธรรมเนียมและดอกเบี้ยของสัญญาเช่าซื้อ เบี้ยประกันภัยเชิงพาณิชย์ที่สูงกว่ารถส่วนบุคคล และราคาขายต่อของรถที่เปลี่ยนเป็นทะเบียนสาธารณะ กรมการขนส่งทางบกได้ประสานธนาคารแห่งประเทศไทยและสำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย (คปภ.) เรื่องสัญญาเช่าซื้อและรูปแบบประกันภัย กระทรวงคมนาคมเสนอแก้ไขกฎกระทรวงให้นิติบุคคลจดทะเบียนรถ รย.{7} ให้ผู้ขับเช่าประกอบอาชีพได้ และขยายขนาดเครื่องยนต์รถจักรยานยนต์สาธารณะจากไม่เกิน {8} เป็นไม่เกิน {9} ลูกบาศก์เซนติเมตร เฉพาะรุ่นที่กำหนด ETDA ให้ข้อมูลว่ามีผู้ประกอบธุรกิจแพลตฟอร์ม {10} รายที่เชื่อมระบบยืนยันตัวตน ThaID แล้ว และระหว่างวันที่ {11} พฤศจิกายน {12} ถึง {13} กันยายน {14} มีเรื่องร้องเรียน {15} เรื่อง เช่น การจัดสรรงาน ค่าตอบแทน ค่าธรรมเนียมแพลตฟอร์ม และความปลอดภัย คณะอนุกรรมาธิการเสนอให้ลดภาระต้นทุนของผู้ขับเพื่อจูงใจให้เข้าระบบอย่างถูกต้อง ตรวจสอบประวัติและคุณสมบัติของผู้ขับเป็นระยะ ใช้ QR Code ให้ผู้โดยสารตรวจสอบรถและผู้ขับได้สะดวก ศึกษาประกันภัยเพิ่มเติมที่ผู้ประกอบธุรกิจแพลตฟอร์มมีส่วนร่วม และพิจารณาความเป็นธรรมของค่าธรรมเนียมแพลตฟอร์ม (GP) ในครั้งถัดไปจะรับฟังข้อมูลด้านการบังคับใช้กฎหมาย ความปลอดภัย การประกันภัย และการเยียวยาผู้ประสบภัย": "The meeting considered information from the Department of Land Transport and the Electronic Transactions Development Agency (ETDA). App-based car hire comes under a {0|ce} ministerial regulation issued under the Motor Vehicle Act {1|ce}. There are {3} correctly registered app-based hire cars (Ror Yor {2}) and {5} public motorcycles serving through apps (Ror Yor {4}), {6} in all. Reasons some drivers have not registered include hire-purchase fees and interest, higher commercial insurance premiums than for private cars, and the resale price of vehicles with public plates. The Department of Land Transport has worked with the Bank of Thailand and the Office of Insurance Commission (OIC) on hire-purchase contracts and insurance models. The Ministry of Transport has proposed amending the ministerial regulation so that companies can register Ror Yor {2} cars for drivers to rent, and to raise the engine limit for public motorcycles from {8} to {9} cubic centimetres for set models. ETDA said {10} platform operators are linked to the ThaID identity system, and from {11} November {12|ce} to {13} September {14|ce} there were {15} complaints, about matters such as job allocation, pay, platform fees and safety. The subcommittee suggested lowering drivers' costs to encourage registration, checking drivers' records and qualifications from time to time, a QR code so passengers can easily check the vehicle and driver, studying extra insurance with platform operators taking part, and looking at the fairness of platform fees (GP). The next meeting will hear about law enforcement, safety, insurance and compensation for accident victims.",
+   "สถานการณ์รถรับจ้างผ่านแอป: รถจดทะเบียน {0} คัน และเหตุที่ผู้ขับบางส่วนยังไม่นำรถเข้าระบบ": "The situation: {0} registered vehicles, and why some drivers have not registered",
+   "แนวทางแก้ไข: สัญญาเช่าซื้อ ประกันภัย และการแก้ไขกฎกระทรวง": "Solutions: hire-purchase contracts, insurance and amending the ministerial regulation",
+   "การกำกับดูแลผู้ประกอบธุรกิจแพลตฟอร์มดิจิทัล และเรื่องร้องเรียน {0} เรื่อง": "Oversight of digital platform operators, and {0} complaints",
+   "ข้อเสนอ เช่น ลดภาระต้นทุนของผู้ขับ ใช้ QR Code ตรวจสอบรถและผู้ขับ และประกันภัยเพิ่มเติม": "Suggestions such as lowering drivers' costs, QR codes to check vehicles and drivers, and extra insurance",
+   "ประกันภัย": "insurance",
+   "วางกรอบการศึกษาท่าเรือน้ำลึกฝั่งอันดามันและท่าเรืออัจฉริยะ": "Setting the scope of the study on Andaman deep-sea ports and the Smart Port",
+   "ที่ประชุมพิจารณากรอบการศึกษาและแผนการทำงาน โดยกำหนด {0} ประเด็น คือ {1}) การพัฒนาท่าเรือน้ำลึกเชิงพาณิชย์ฝั่งอันดามันและโครงสร้างพื้นฐานที่เชื่อมการขนส่งทางถนน ทางราง และระบบท่อ โดยคำนึงถึงการลดผลกระทบต่อสิ่งแวดล้อม {2}) การพัฒนาท่าเรืออัจฉริยะ (Smart Port) ด้วยเทคโนโลยีดิจิทัลและนวัตกรรม และ {3}) ท่าเรือในฐานะกลไกขับเคลื่อนเศรษฐกิจภาคใต้และระเบียงเศรษฐกิจพิเศษภาคใต้ (SEC) การศึกษาจะดูทั้งศักยภาพของท่าเรือเดิมและความเป็นไปได้ของท่าเรือแห่งใหม่ ปริมาณสินค้าที่แท้จริง ความคุ้มค่า ผลกระทบต่อสิ่งแวดล้อม และการมีส่วนร่วมของประชาชน ที่ประชุมได้อภิปรายเปรียบเทียบพื้นที่ท่าเรือจังหวัดระนอง ปากบารา จังหวัดสตูล และจังหวัดกระบี่ กรอบเวลาการทำงานคือวันที่ {4} ตุลาคม ถึง {5} ธันวาคม {6} ที่ประชุมมีมติประชุมประจำทุกวันพฤหัสบดี เวลา {7} น. กำหนดศึกษาดูงานด้านท่าเรืออัจฉริยะที่ท่าเรือแหลมฉบัง จังหวัดชลบุรี ในวันที่ {8} ตุลาคม {9} และเชิญ สนข. และสำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติมาให้ข้อมูลในครั้งถัดไป": "The meeting considered the scope of its study and work plan, with {0} topics: {1}) developing commercial deep-sea ports on the Andaman coast and infrastructure linking road, rail and pipeline transport, while reducing environmental effects; {2}) developing a Smart Port with digital technology and innovation; and {0}) ports as a driver of the southern economy and the Southern Economic Corridor (SEC). The study will look at both existing ports and the feasibility of a new port, real cargo demand, value for money, environmental effects and public participation. The meeting compared port sites in Ranong province, Pak Bara in Satun province, and Krabi province. The work runs from {1} October to {5} December {6|ce}. The meeting decided to meet every Thursday at {7} hrs, to make a study visit on Smart Ports at Laem Chabang port in Chon Buri province on {5} October {6|ce}, and to invite OTP and the Office of the National Economic and Social Development Council to give information at the next meeting.",
+   "กรอบการศึกษา {0} ประเด็น: ท่าเรือน้ำลึกฝั่งอันดามัน ท่าเรืออัจฉริยะ (Smart Port) และเศรษฐกิจภาคใต้": "Scope of the study, {0} topics: Andaman deep-sea ports, the Smart Port, and the southern economy",
+   "เปรียบเทียบพื้นที่ท่าเรือระนอง ปากบารา และกระบี่": "Comparing port sites at Ranong, Pak Bara and Krabi",
+   "ประชุมประจำทุกวันพฤหัสบดี และศึกษาดูงานท่าเรือแหลมฉบัง จังหวัดชลบุรี วันที่ {0} ตุลาคม {1}": "Regular meetings every Thursday, and a study visit to Laem Chabang port, Chon Buri province, on {0} October {1|ce}",
+   "ข้อมูลจาก สศช. และ สนข.: พัฒนาท่าเรือระนองเดิมให้เต็มศักยภาพก่อน": "Information from NESDC and OTP: make full use of the existing Ranong port first",
+   "ที่ประชุมพิจารณาข้อมูลผลการศึกษา ความคืบหน้าโครงการท่าเรือน้ำลึกและโครงข่ายขนส่งฝั่งอันดามัน และแนวทางท่าเรืออัจฉริยะ (Smart Port) โดยเชิญสำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ (สศช.) และ สนข. สศช. ให้ข้อมูลว่าคณะกรรมการศึกษาแนวทางขับเคลื่อนโครงการแลนด์บริดจ์เห็นว่าโครงการมีความเป็นไปได้ทางธุรกิจต่ำและมีความเสี่ยงสูง จึงเสนอให้ชะลอโครงการ และพัฒนาท่าเรือระนองเดิมให้เต็มศักยภาพก่อน ส่วนท่าเรือแห่งใหม่ต้องพิจารณาปริมาณสินค้า ความคุ้มค่า ผลกระทบต่อสิ่งแวดล้อม และการยอมรับของประชาชนในพื้นที่ ทั้งนี้ท่าเรือฝั่งอันดามันยังมีความสำคัญเชิงยุทธศาสตร์ต่อประเทศ สนข. ให้ข้อมูลการศึกษาเบื้องต้นเส้นทางรถไฟชุมพร–ท่าเรือระนอง ระยะทางประมาณ {0} กิโลเมตร และแผนพัฒนาท่าเรือระนอง {1} ปี ที่อาจรองรับตู้สินค้าได้เกือบ {2} TEUs ต่อปี ซึ่งยังไม่ได้รับอนุมัติ คณะอนุกรรมาธิการเสนอให้ศึกษาปริมาณสินค้าไทยที่ขนส่งผ่านท่าเรือของประเทศมาเลเซีย เปรียบเทียบพื้นที่ระนอง สตูล และตรัง พัฒนาท่าเรือควบคู่กับนิคมอุตสาหกรรมและโครงข่ายถนนและราง และพิจารณาการร่วมลงทุนระหว่างรัฐและเอกชน (PPP) การจัดรูปที่ดินแทนการเวนคืน และกองทุนพัฒนาชุมชนรอบท่าเรือ ที่ประชุมรับทราบ และจะเชิญกรมศุลกากร กรมเจ้าท่า การท่าเรือแห่งประเทศไทย และคณะกรรมการจัดทำแผนแม่บทการพัฒนาภาคใต้มาให้ข้อมูลเพิ่มเติม": "The meeting considered study results, progress on deep-sea port and transport network projects on the Andaman coast, and the Smart Port, with the Office of the National Economic and Social Development Council (NESDC) and OTP. NESDC said that the committee studying how to move the Land Bridge project forward found the project to have low business feasibility and high risk, so it proposed slowing the project and first making full use of the existing Ranong port. A new port would need to consider cargo volumes, value for money, environmental effects and acceptance by local people; a port on the Andaman coast still has strategic importance for the country. OTP described an early study of a Chumphon–Ranong port railway, about {0} kilometres long, and a {1}-year plan for Ranong port that could handle almost {2} TEUs a year, which has not yet been approved. The subcommittee suggested studying how much Thai cargo is shipped through ports in Malaysia, comparing Ranong, Satun and Trang, developing ports together with industrial estates and road and rail links, and considering public–private partnerships (PPP), land readjustment instead of expropriation, and a community development fund around the port. The meeting took note and will invite the Customs Department, the Marine Department, the Port Authority of Thailand and the committee preparing the master plan for the South to give more information.",
+   "ข้อมูลจาก สศช.: ข้อเสนอให้ชะลอโครงการแลนด์บริดจ์ และพัฒนาท่าเรือระนองเดิมให้เต็มศักยภาพก่อน": "From NESDC: the proposal to slow the Land Bridge project and first make full use of the existing Ranong port",
+   "ข้อมูลจาก สนข.: เส้นทางรถไฟชุมพร–ท่าเรือระนอง และแผนพัฒนาท่าเรือระนอง {0} ปี": "From OTP: the Chumphon–Ranong port railway, and the {0}-year plan for Ranong port",
+   "ข้อสังเกต {0} ข้อ เช่น ศึกษาปริมาณสินค้าที่แท้จริง พัฒนาท่าเรือควบคู่กับนิคมอุตสาหกรรม และการร่วมลงทุนระหว่างรัฐและเอกชน (PPP)": "{0} observations, such as studying real cargo demand, developing ports with industrial estates, and public–private partnerships (PPP)",
+   "เชิญกรมศุลกากร กรมเจ้าท่า และการท่าเรือแห่งประเทศไทยมาให้ข้อมูลเพิ่มเติม": "Invite the Customs Department, the Marine Department and the Port Authority of Thailand to give more information"
+  }
+ }
+}
