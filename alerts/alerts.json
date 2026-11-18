@@ -829,6 +829,18 @@
    "published": "2026-11-13T15:59:54Z"
   },
   {
+   "id": "s426-smegov-2569-16-post",
+   "topic": "s426-smegov",
+   "kind": "post",
+   "n": 16,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 12 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "รับฟังแนวทางป้องกันการทุจริตในการจัดซื้อจัดจ้างภาครัฐ เพื่อเปิดโอกาสให้ SMEs อย่างเป็นธรรม",
+   "page": "https://parliamentx.com/commerce/2569/s/smegov-16.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BbEpAXk0KTxO0h2gJbBsEWm-vN3jA5r-g6NnI2-vm6B1CbDKw0WKxN8KqOn5DFVqj931XowxTdJLNNUUaCjbEAWdHwfr3NdlFR3_TROGpY8-sd6b-4xOpfRjGhCIkBNLMc1BLIuU1ssezfAEdzTqIbWaM3JtLlXLtbOFbw==&ref=11204323",
+   "published": "2026-11-18T06:13:52Z"
+  },
+  {
    "id": "s426-industry-2569-17-pre",
    "topic": "s426-industry",
    "kind": "pre",
@@ -4475,18 +4487,6 @@
    "page": "https://parliamentx.com/law/2569/s/25.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9sotri7hj9tPafRdo0kVW3pUxSMGDtG24P4Tp77czL0mBPuTcUw_iuiNOW0JkmTv533gMlNlyxCHVurllhVPV4480hd7d8ci_TJa_RlzZC8ibQ3By8WBe9IVKjvExivEUtj2yRbnBRdU1aVQy55tEEP6OBbbF6Wii8ULig==&ref=10889121",
    "published": "2026-09-22T00:00:00Z"
-  },
-  {
-   "id": "s426-smegov-2569-10-post",
-   "topic": "s426-smegov",
-   "kind": "post",
-   "n": 10,
-   "year": 2569,
-   "date_th": "ศุกร์ที่ 18 กันยายน 2569 เวลา 13.30 น.",
-   "title": "การประชุมครั้งที่ 10/2569",
-   "page": "https://parliamentx.com/commerce/2569/s/smegov-10.html",
-   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1kRqyUKA_OQUIvr6nwkgABckf7bwxb9PowxrKj1nUO1RKXnk6ohsxzTo7rRdOY6VsF25Nu0DGiTz0pXYCZ2zPLWW8C1jmvNZawZ8iZyL8lnCfgUVSYxpmfHkQDK5gRbQfu_nb3jVEIhD5lnAzk9vTXWu3N8Rrxh3fKXgJw==&ref=10879501",
-   "published": "2026-09-18T00:00:00Z"
   }
  ],
  "topics_seen": [
