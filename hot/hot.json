@@ -1,66 +1,8 @@
 {
- "updated": "2026-11-19T02:40:20Z",
+ "updated": "2026-11-19T11:54:29Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "socialsec",
-   "th": "ประกันสังคม",
-   "en": "Social security",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/socialsec",
-    "credit": "SquidHomme",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
-    "alt_th": "ป้ายกระทรวงแรงงาน",
-    "alt_en": "The Ministry of Labour sign"
-   },
-   "outlets": 2,
-   "count": 5,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
-    "en": "Subcommittee on Social Security",
-    "url": "labour/2569/sub-socialsec.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "labour/2569/sub-socialsec.html#read-20"
-   },
-   "items": [
-    {
-     "title": "ศุภณัฐ แจงเหตุ ทำไมปชน.ต้องแยก 3 ร่าง พรบ.ประกันสังคม เสนอเข้าสภา",
-     "url": "https://www.matichon.co.th/politics/news_5981456",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-19T01:53:58Z"
-    },
-    {
-     "title": "สภารับหลักการ 4 ร่าง พ.ร.บ.ประกันสังคม ยึดฉบับ ครม. เป็นร่างหลัก ปัดตกร่าง ‘รักชนก’",
-     "url": "https://www.prachachat.net/politics/news-2098802",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-18T14:53:35Z"
-    },
-    {
-     "title": "ประกันสังคมก้าวหน้า โพสต์ทันที หลังสภาปัดตกร่างไอซ์ ล่ารายชื่อดึง สปส. พ้นระบบราชการ",
-     "url": "https://www.matichon.co.th/politics/news_5981311",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-18T14:04:04Z"
-    }
-   ]
-  },
   {
    "id": "crops",
    "th": "ราคาพืชผลและเกษตรกร",
@@ -75,8 +17,8 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 2,
-   "count": 5,
+   "outlets": 3,
+   "count": 8,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -90,66 +32,178 @@
    },
    "items": [
     {
-     "title": "พาณิชย์ งัด 8 มาตรการ กระจายลำไยนอกฤดู ผนึกไปรษณีย์ไทย เปิดพรีออเดอร์ส่งฟรี 500 ตัน",
-     "url": "https://www.matichon.co.th/economy/news_5981052",
+     "title": "ทรู สานต่อ “สำนึกรักบ้านเกิด” ปีที่ 18 เชิดชูเกษตรกรต้นแบบ สู่การเติบโตที่ยั่งยืน",
+     "url": "https://www.dailynews.co.th/news/6374685/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-19T11:34:28Z"
+    },
+    {
+     "title": "ม.หอการค้าฯ ชี้ ART ไทย-สหรัฐ เปิด 3 โอกาสใหญ่ แนะรัฐคุมเข้มนำเข้าหมู-ข้าวโพดเลี้ยงสัตว์",
+     "url": "https://www.matichon.co.th/economy/news_5982577",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-18T11:57:34Z"
+     "date": "2026-11-19T10:40:05Z"
     },
     {
-     "title": "ลำไยราคาฟื้น เกรด AA ขยับแตะ 15-16 บาท พาณิชย์จับมือไปรษณีย์ไทย ช่วยชาวสวน",
-     "url": "https://www.prachachat.net/economic/news-2098767",
+     "title": "ทุเรียนเดินทางข้ามเอเชีย-แปซิฟิก ถึงมือผู้บริโภคได้อย่างไร?",
+     "url": "https://www.prachachat.net/biz-movement/public-relations/news-2099172",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-18T11:44:15Z"
-    },
-    {
-     "title": "ตัวแทนอุตสาหกรรมกุ้ง-ปลา ยินดีปิ่นสักก์ อธิบดีกรมประมงคนใหม่ ร้องเดินหน้ามาตรการช่วยเหลือเกษตรกร",
-     "url": "https://www.matichon.co.th/economy/news_5980387",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-18T06:54:43Z"
+     "date": "2026-11-19T08:46:16Z"
     }
    ]
   },
   {
-   "id": "labour",
-   "th": "แรงงาน",
-   "en": "Labour",
-   "icon": "cs-labour",
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
+   "icon": "cs-security",
    "photo": {
-    "src": "hot/img/labour",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
-    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
-    "alt_en": "A car assembly line"
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
    },
-   "outlets": 1,
-   "count": 1,
+   "outlets": 2,
+   "count": 2,
    "body": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
    },
-   "parent": null,
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
    "meeting": {
-    "n": 29,
-    "date": "2026-11-05",
-    "url": "labour/2569/#read-29"
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-holistic.html#read-20"
    },
    "items": [
     {
-     "title": "ศุภจี รุกเจรจาสหรัฐ รักษาแต้มต่อการค้า ขอลดภาษีแรงงานบังคับ10%-เรตพิเศษกำลังผลิตเกิน",
-     "url": "https://www.matichon.co.th/economy/news_5981466",
+     "title": "‘ฮุน มาเนต’ โวคุย ‘ทรัมป์’ พร้อมหนุนแก้ข้อพิพาทชายแดนไทย-กัมพูชา ด้วยสันติวิธี",
+     "url": "https://www.matichon.co.th/foreign/news_5982565",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-19T01:58:31Z"
+     "date": "2026-11-19T10:36:54Z"
+    },
+    {
+     "title": "Thailand-Cambodia maritime talks to resume next week in KL",
+     "url": "https://www.bangkokpost.com/thailand/general/3357695/thailandcambodia-maritime-talks-to-resume-next-week-in-kl",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-19T09:17:00Z"
+    }
+   ]
+  },
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 11,
+    "date": "2026-11-12",
+    "url": "committee-archive-2569/sub-disaster.html#read-11"
+   },
+   "items": [
+    {
+     "title": "กปภ. ย้ำ “ป้องกันดีกว่าเยียวยา” เร่งยกระดับคุณภาพน้ำ สร้างความมั่นใจประชาชน",
+     "url": "https://www.matichon.co.th/publicize/news_5982375",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-19T08:59:24Z"
+    },
+    {
+     "title": "“ทรงศักดิ์” ดัน 6 ชาติลุ่มน้ำโขงแก้มลพิษข้ามแดน จี้คุมต้นตอ-ตั้งระบบเตือนภัยน้ำปนเปื้อน",
+     "url": "https://www.prachachat.net/economic/news-2099100",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-19T07:11:59Z"
+    }
+   ]
+  },
+  {
+   "id": "livestock",
+   "th": "ปศุสัตว์และประมง",
+   "en": "Livestock and fisheries",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/livestock",
+    "credit": "Love Krittaya",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "alt_th": "วัวกินหญ้าในทุ่งนา",
+    "alt_en": "A cow grazing in a rice field"
+   },
+   "outlets": 1,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
+    "en": "Subcommittee on Livestock and Fisheries Standards",
+    "url": "agriculture/2569/sub-livestock.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "meeting": {
+    "n": 7,
+    "date": "2026-07-15",
+    "url": "agriculture/2569/sub-livestock.html#read-7"
+   },
+   "items": [
+    {
+     "title": "สรรเพชญ เปิดโต๊ะเจรจาชาวประมงพื้นบ้าน เป็นที่น่าพอใจทุกฝ่าย รับข้อเรียกร้อง จ่อลงพื้นที่แก้ร่องน้ำตื้นเขิน",
+     "url": "https://www.matichon.co.th/economy/news_5982094",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-19T07:41:40Z"
+    },
+    {
+     "title": "ส.เลี้ยงสุกร ค้าน ART นำเข้าหมูสหรัฐ ลั่นซ้ำเติมขาดทุน 4 ปีติด ต้นทุนอาหารสัตว์แพง แข่งไม่ไหวแน่",
+     "url": "https://www.matichon.co.th/economy/news_5981520",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-19T02:41:13Z"
     }
    ]
   },
@@ -186,50 +240,12 @@
    },
    "items": [
     {
-     "title": "สศช.เปิดปัจจัยเสี่ยงเศรษฐกิจไทย ปี’70 เตือนโลกโตแผ่ว-ภัยแล้ง-SMEs หนี้ท่วม",
-     "url": "https://www.prachachat.net/economic/news-2098208",
+     "title": "อบจ.สงขลา ลงนามบันทึกความร่วมมือกับกรมชลประทาน ส่งมอบพื้นที่ก่อสร้างอาคารระบายน้ำ",
+     "url": "https://www.dailynews.co.th/news/6373751/",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-18T22:31:09Z"
-    }
-   ]
-  },
-  {
-   "id": "farmdebt",
-   "th": "หนี้เกษตรกรและสหกรณ์",
-   "en": "Farm debt and cooperatives",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/farmdebt",
-    "credit": "Mr.Peerapong Prasutr",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Suphanburi_Thai_Rice_Farmers_National_Museum_1.jpg",
-    "alt_th": "กระบุงใส่ข้าวเปลือกในพิพิธภัณฑ์ชาวนาไทย",
-    "alt_en": "Baskets of rice in the Thai Rice Farmers museum"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 35,
-    "date": "2026-10-19",
-    "url": "agriculture/2569/#read-35"
-   },
-   "items": [
-    {
-     "title": "เกษตรฯ เร่งตรวจข้าวเชียงราย หวั่นสารหนูปนเปื้อน จ่อชดเชย-พักหนี้สหกรณ์ รู้ผล 20 พ.ย.",
-     "url": "https://www.prachachat.net/economic/news-2098760",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-18T11:14:03Z"
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-19T11:34:30Z"
     }
    ]
   }
