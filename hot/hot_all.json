@@ -1,8 +1,66 @@
 {
- "updated": "2026-11-18T20:44:00Z",
+ "updated": "2026-11-19T02:40:20Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
+  {
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
+   },
+   "outlets": 2,
+   "count": 5,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "labour/2569/sub-socialsec.html#read-20"
+   },
+   "items": [
+    {
+     "title": "ศุภณัฐ แจงเหตุ ทำไมปชน.ต้องแยก 3 ร่าง พรบ.ประกันสังคม เสนอเข้าสภา",
+     "url": "https://www.matichon.co.th/politics/news_5981456",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-19T01:53:58Z"
+    },
+    {
+     "title": "สภารับหลักการ 4 ร่าง พ.ร.บ.ประกันสังคม ยึดฉบับ ครม. เป็นร่างหลัก ปัดตกร่าง ‘รักชนก’",
+     "url": "https://www.prachachat.net/politics/news-2098802",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-18T14:53:35Z"
+    },
+    {
+     "title": "ประกันสังคมก้าวหน้า โพสต์ทันที หลังสภาปัดตกร่างไอซ์ ล่ารายชื่อดึง สปส. พ้นระบบราชการ",
+     "url": "https://www.matichon.co.th/politics/news_5981311",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-18T14:04:04Z"
+    }
+   ]
+  },
   {
    "id": "crops",
    "th": "ราคาพืชผลและเกษตรกร",
@@ -58,144 +116,82 @@
    ]
   },
   {
-   "id": "socialsec",
-   "th": "ประกันสังคม",
-   "en": "Social security",
+   "id": "labour",
+   "th": "แรงงาน",
+   "en": "Labour",
    "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/socialsec",
-    "credit": "SquidHomme",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
-    "alt_th": "ป้ายกระทรวงแรงงาน",
-    "alt_en": "The Ministry of Labour sign"
-   },
-   "outlets": 2,
-   "count": 4,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
-    "en": "Subcommittee on Social Security",
-    "url": "labour/2569/sub-socialsec.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "labour/2569/sub-socialsec.html#read-20"
-   },
-   "items": [
-    {
-     "title": "สภารับหลักการ 4 ร่าง พ.ร.บ.ประกันสังคม ยึดฉบับ ครม. เป็นร่างหลัก ปัดตกร่าง ‘รักชนก’",
-     "url": "https://www.prachachat.net/politics/news-2098802",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-18T14:53:35Z"
-    },
-    {
-     "title": "ประกันสังคมก้าวหน้า โพสต์ทันที หลังสภาปัดตกร่างไอซ์ ล่ารายชื่อดึง สปส. พ้นระบบราชการ",
-     "url": "https://www.matichon.co.th/politics/news_5981311",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-18T14:04:04Z"
-    },
-    {
-     "title": "ไอซ์ ไม่สนถูกคว่ำร่างประกันสังคม ยืนยันเดินหน้าต่อ เสียงสั่นเย้ย พวกไม่รักษาสัจจะ",
-     "url": "https://www.matichon.co.th/politics/news_5981303",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-18T13:54:56Z"
-    }
-   ]
-  },
-  {
-   "id": "armed",
-   "th": "กองทัพและกิจการทหาร",
-   "en": "Armed forces and military affairs",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/armed",
-    "credit": "Mobius1TH",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Royal_Thai_Air_Force_S-70i,_Childrens_Day_2025.png",
-    "alt_th": "เฮลิคอปเตอร์ของกองทัพอากาศไทยจอดบนลานบิน",
-    "alt_en": "A Thai air force helicopter on the apron"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านกิจการทหาร",
-    "en": "Subcommittee on Military Affairs",
-    "url": "military/2569/sub-military.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 28,
-    "date": "2026-10-21",
-    "url": "military/2569/sub-military.html#read-28"
-   },
-   "items": [
-    {
-     "title": "ปลัดกลาโหม ต้อนรับ ‘ผู้ช่วยทูตทหารปากีสถาน’ กระชับความสัมพันธ์ 2 ปท.",
-     "url": "https://www.matichon.co.th/local/news_5981216",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-18T12:44:09Z"
-    }
-   ]
-  },
-  {
-   "id": "wage",
-   "th": "ค่าแรงและการคุ้มครองแรงงาน",
-   "en": "Wages and worker protection",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/wage",
+    "src": "hot/img/labour",
     "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
     "lic": "CC BY 3.0",
     "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:002_Production_line_-_car_assembly_line_in_General_Motors_Manufacturing_Poland_-_Gliwice,_Poland.jpg",
-    "alt_th": "สายการผลิตในโรงงาน",
-    "alt_en": "A factory production line"
+    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
+    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
+    "alt_en": "A car assembly line"
    },
    "outlets": 1,
    "count": 1,
    "body": {
-    "th": "คณะอนุกรรมาธิการด้านการสวัสดิการและคุ้มครองแรงงาน",
-    "en": "Subcommittee on Labour Welfare and Protection",
-    "url": "labour/2569/sub-welfare.html"
-   },
-   "parent": {
     "th": "คณะกรรมาธิการการแรงงาน",
     "en": "Committee on Labour",
     "url": "labour/2569/"
    },
+   "parent": null,
    "meeting": {
-    "n": 21,
-    "date": "2026-10-07",
-    "url": "labour/2569/sub-welfare.html#read-21"
+    "n": 29,
+    "date": "2026-11-05",
+    "url": "labour/2569/#read-29"
    },
    "items": [
     {
-     "title": "ทวี หนุนแก้ พ.ร.บ.ประกันสังคม 5 ฉบับ ดันคุ้มครองแรงงานแพลตฟอร์ม-ไรเดอร์ ให้อยู่ในมาตรา 33/1",
-     "url": "https://www.matichon.co.th/politics/news_5981164",
+     "title": "ศุภจี รุกเจรจาสหรัฐ รักษาแต้มต่อการค้า ขอลดภาษีแรงงานบังคับ10%-เรตพิเศษกำลังผลิตเกิน",
+     "url": "https://www.matichon.co.th/economy/news_5981466",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-18T12:31:07Z"
+     "date": "2026-11-19T01:58:31Z"
+    }
+   ]
+  },
+  {
+   "id": "drought",
+   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
+   "en": "Drought and water for farms",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/drought",
+    "credit": "NASA image created by Jesse Allen",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
+    "alt_en": "Satellite image of drought in Southeast Asia"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
+    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
+    "url": "agriculture/2569/sub-water.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "meeting": {
+    "n": 19,
+    "date": "2026-11-11",
+    "url": "agriculture/2569/sub-water.html#read-19"
+   },
+   "items": [
+    {
+     "title": "สศช.เปิดปัจจัยเสี่ยงเศรษฐกิจไทย ปี’70 เตือนโลกโตแผ่ว-ภัยแล้ง-SMEs หนี้ท่วม",
+     "url": "https://www.prachachat.net/economic/news-2098208",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-18T22:31:09Z"
     }
    ]
   },
