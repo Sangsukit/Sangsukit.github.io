@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:54:29Z",
- "feeds_ok": 12,
+ "updated": "2026-11-19T20:48:37Z",
+ "feeds_ok": 14,
  "window_h": 72,
  "topics": [
   {
@@ -17,8 +17,8 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 3,
-   "count": 8,
+   "outlets": 2,
+   "count": 6,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -31,14 +31,6 @@
     "url": "agriculture/2569/#read-35"
    },
    "items": [
-    {
-     "title": "ทรู สานต่อ “สำนึกรักบ้านเกิด” ปีที่ 18 เชิดชูเกษตรกรต้นแบบ สู่การเติบโตที่ยั่งยืน",
-     "url": "https://www.dailynews.co.th/news/6374685/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-19T11:34:28Z"
-    },
     {
      "title": "ม.หอการค้าฯ ชี้ ART ไทย-สหรัฐ เปิด 3 โอกาสใหญ่ แนะรัฐคุมเข้มนำเข้าหมู-ข้าวโพดเลี้ยงสัตว์",
      "url": "https://www.matichon.co.th/economy/news_5982577",
@@ -54,56 +46,14 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-19T08:46:16Z"
-    }
-   ]
-  },
-  {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
-   },
-   "items": [
+    },
     {
-     "title": "‘ฮุน มาเนต’ โวคุย ‘ทรัมป์’ พร้อมหนุนแก้ข้อพิพาทชายแดนไทย-กัมพูชา ด้วยสันติวิธี",
-     "url": "https://www.matichon.co.th/foreign/news_5982565",
+     "title": "ส.SMEไทย ห่วงดีล ART เปิดตลาดกระทบเกษตรกร-รายย่อย จ่อชง กรอ. 2 ธ.ค. ‘4 มาตรการรับมือ’",
+     "url": "https://www.matichon.co.th/economy/news_5982282",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-19T10:36:54Z"
-    },
-    {
-     "title": "Thailand-Cambodia maritime talks to resume next week in KL",
-     "url": "https://www.bangkokpost.com/thailand/general/3357695/thailandcambodia-maritime-talks-to-resume-next-week-in-kl",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-19T09:17:00Z"
+     "date": "2026-11-19T08:43:52Z"
     }
    ]
   },
@@ -121,7 +71,7 @@
     "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
     "alt_en": "A flooded street and houses"
    },
-   "outlets": 2,
+   "outlets": 1,
    "count": 2,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
@@ -141,11 +91,11 @@
    "items": [
     {
      "title": "กปภ. ย้ำ “ป้องกันดีกว่าเยียวยา” เร่งยกระดับคุณภาพน้ำ สร้างความมั่นใจประชาชน",
-     "url": "https://www.matichon.co.th/publicize/news_5982375",
+     "url": "https://www.prachachat.net/biz-movement/public-relations/news-2099199",
      "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-19T08:59:24Z"
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-19T08:59:53Z"
     },
     {
      "title": "“ทรงศักดิ์” ดัน 6 ชาติลุ่มน้ำโขงแก้มลพิษข้ามแดน จี้คุมต้นตอ-ตั้งระบบเตือนภัยน้ำปนเปื้อน",
@@ -208,44 +158,86 @@
    ]
   },
   {
-   "id": "drought",
-   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
-   "en": "Drought and water for farms",
-   "icon": "cs-agri",
+   "id": "jobs",
+   "th": "การหางานและแรงงานต่างชาติ",
+   "en": "Jobs and migrant workers",
+   "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/drought",
-    "credit": "NASA image created by Jesse Allen",
-    "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
-    "alt_en": "Satellite image of drought in Southeast Asia"
+    "src": "hot/img/jobs",
+    "credit": "Bigcitydata",
+    "lic": "CC BY 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
+    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
+    "alt_en": "Office towers in Silom, Bangkok"
    },
    "outlets": 1,
    "count": 1,
    "body": {
-    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
-    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
-    "url": "agriculture/2569/sub-water.html"
+    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
+    "en": "Subcommittee on Employment and Skills",
+    "url": "labour/2569/sub-employment.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
    },
    "meeting": {
-    "n": 19,
-    "date": "2026-11-11",
-    "url": "agriculture/2569/sub-water.html#read-19"
+    "n": 21,
+    "date": "2026-09-23",
+    "url": "labour/2569/sub-employment.html#read-21"
    },
    "items": [
     {
-     "title": "อบจ.สงขลา ลงนามบันทึกความร่วมมือกับกรมชลประทาน ส่งมอบพื้นที่ก่อสร้างอาคารระบายน้ำ",
-     "url": "https://www.dailynews.co.th/news/6373751/",
+     "title": "สหรัฐเผยตัวเลขผู้ขอสวัสดิการว่างงานสูงกว่าคาด",
+     "url": "https://www.infoquest.co.th/2026/682816",
      "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-19T11:34:30Z"
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-19T16:14:44Z"
+    }
+   ]
+  },
+  {
+   "id": "civilservice",
+   "th": "ระบบราชการและข้าราชการ",
+   "en": "Government services and civil servants",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/civilservice",
+    "credit": "Per Meistrup",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bangkok-highways-and-airport-train_IMG_9206.jpg",
+    "alt_th": "ภาพมุมสูงของกรุงเทพมหานคร",
+    "alt_en": "Aerial view of Bangkok"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ",
+    "en": "Subcommittee on Public Administration and Civil Service Development",
+    "url": "committee-archive-2569/sub-dev.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 15,
+    "date": "2026-10-28",
+    "url": "committee-archive-2569/sub-dev.html#read-15"
+   },
+   "items": [
+    {
+     "title": "‘ปกรณ์’ ชู 4 เสา ทิศทางปฏิรูปราชการ เปลี่ยนผ่านสู่รัฐบาลดิจิทัล",
+     "url": "https://www.prachachat.net/politics/news-2099392",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-19T14:05:43Z"
     }
    ]
   }
