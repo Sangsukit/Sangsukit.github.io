@@ -1,62 +1,8 @@
 {
- "updated": "2026-11-20T02:26:13Z",
+ "updated": "2026-11-20T11:55:22Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 3,
-   "count": 6,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 35,
-    "date": "2026-10-19",
-    "url": "agriculture/2569/#read-35"
-   },
-   "items": [
-    {
-     "title": "Farmers fret over US deal",
-     "url": "https://www.bangkokpost.com/thailand/general/3357829/farmers-fret-over-us-deal",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-19T22:15:00Z"
-    },
-    {
-     "title": "ม.หอการค้าฯ ชี้ ART ไทย-สหรัฐ เปิด 3 โอกาสใหญ่ แนะรัฐคุมเข้มนำเข้าหมู-ข้าวโพดเลี้ยงสัตว์",
-     "url": "https://www.matichon.co.th/economy/news_5982577",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-19T10:40:05Z"
-    },
-    {
-     "title": "ทุเรียนเดินทางข้ามเอเชีย-แปซิฟิก ถึงมือผู้บริโภคได้อย่างไร?",
-     "url": "https://www.prachachat.net/biz-movement/public-relations/news-2099172",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-19T08:46:16Z"
-    }
-   ]
-  },
   {
    "id": "disaster",
    "th": "น้ำท่วมและภัยพิบัติ",
@@ -90,28 +36,220 @@
    },
    "items": [
     {
-     "title": "รัฐบาล เตรียมรับมือไฟป่า-ฝุ่นPM2.5 ภาคเหนือ คาดสถานการณ์รุนแรงปลายม.ค.-มี.ค.",
-     "url": "https://www.matichon.co.th/politics/news_5983075",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-20T02:21:37Z"
-    },
-    {
-     "title": "ค่าPM2.5 ไม่เกินมาตรฐาน ภาพรวมคุณภาพอากาศดีการสะสมของฝุ่นเสี่ยง’ระดับต่ำ’",
-     "url": "https://www.dailynews.co.th/news/6375105/",
+     "title": "‘น้องพายุ’ โชว์ฟอร์มเฉียบรอบจับเวลา รอลุ้นเข้ารอบ 36 คนสุดท้าย ศึกโกคาร์ทระดับโลกที่อิตาลี",
+     "url": "https://www.dailynews.co.th/news/6376847/",
      "lang": "th",
      "outlet_th": "เดลินิวส์",
      "outlet_en": "Daily News",
-     "date": "2026-11-20T01:25:00Z"
+     "date": "2026-11-20T11:15:00Z"
     },
     {
-     "title": "กปภ. ย้ำ “ป้องกันดีกว่าเยียวยา” เร่งยกระดับคุณภาพน้ำ สร้างความมั่นใจประชาชน",
-     "url": "https://www.prachachat.net/biz-movement/public-relations/news-2099199",
+     "title": "น้องพายุ ติด 1 ใน 88 ทีม ศึกโกคาร์ทอิตาลี เตรียมแข่งรอบ 36 ทีมสุดท้าย",
+     "url": "https://www.matichon.co.th/sport/news_5983963",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T10:53:20Z"
+    },
+    {
+     "title": "กปภ. เร่งแผนสำรอง ‘ผันน้ำลาว-โขง’ รับมือสารปนเปื้อนระยะยาว",
+     "url": "https://www.prachachat.net/economic/local-economy/news-2099800",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-19T08:59:53Z"
+     "date": "2026-11-20T09:55:41Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 2,
+   "count": 7,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 35,
+    "date": "2026-10-19",
+    "url": "agriculture/2569/#read-35"
+   },
+   "items": [
+    {
+     "title": "ค้าภายใน จัดสินค้าถูก ลดภาระชุมชน ชวนซื้อ ‘ลำไย–พริก’",
+     "url": "https://www.matichon.co.th/economy/news_5984054",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T11:05:15Z"
+    },
+    {
+     "title": "ชาวไร่มันสำปะหลัง-อ้อยค้านเปิดเสรีเอทานอลสหรัฐ หวั่นกระทบราคา จี้รัฐดัน E20",
+     "url": "https://www.prachachat.net/economic/news-2099905",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-20T09:38:20Z"
+    },
+    {
+     "title": "ชาวไร่มันฯ–อ้อย ค้านเปิดเสรีเอทานอลสหรัฐฯ จี้คงภาษีนำเข้า หนุน E20 ย้ำ ไทยกำลังผลิตเพียงพอ",
+     "url": "https://www.matichon.co.th/economy/news_5983396",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T06:43:17Z"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
+   "en": "Cyber and defence industry",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/cyber",
+    "credit": "Christopher Bowns",
+    "lic": "CC BY-SA 2.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
+    "alt_en": "An aisle between server racks in a data centre"
+   },
+   "outlets": 2,
+   "count": 4,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
+    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
+    "url": "military/2569/sub-cyber.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 25,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-cyber.html#read-25"
+   },
+   "items": [
+    {
+     "title": "ไชยชนก ชวนสตาร์ทอัพทั่วโลกลงทุนไทย เปิดประตูสู่อาเซียน 700 ล้านคน จับมือพัฒนานวัตกรรม-คุมภัยไซเบอร์",
+     "url": "https://www.matichon.co.th/economy/news_5984003",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T10:58:37Z"
+    },
+    {
+     "title": "‘เอกนิติ’ จับมือ LINE ดัน 3 โครงการใหญ่ ใช้ AI ปั้น SMEs ไทย-สกัดภัยออนไลน์-เตือนภัยพิบัติ",
+     "url": "https://www.prachachat.net/economic/news-2099823",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-20T08:59:39Z"
+    },
+    {
+     "title": "เคทีซี-TDRI ชี้โจทย์ท้าทายเศรษฐกิจไทยปี’70 ผู้บริโภคเปลี่ยน จับตาภัยไซเบอร์",
+     "url": "https://www.prachachat.net/finance/news-2099811",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-20T08:52:38Z"
+    }
+   ]
+  },
+  {
+   "id": "rice",
+   "th": "ข้าวและชาวนา",
+   "en": "Rice and rice farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/rice",
+    "credit": "Eerin25",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
+    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
+    "alt_en": "Green rice paddies with a bamboo walkway"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 35,
+    "date": "2026-10-19",
+    "url": "agriculture/2569/#read-35"
+   },
+   "items": [
+    {
+     "title": "“ข้าวตราไก่แจ้” ผนึกกรมการข้าว พาคนรุ่นใหม่เรียนรู้วิถีชาวนา ยกระดับข้าวไทยยั่งยืน",
+     "url": "https://www.matichon.co.th/publicize/news_5983982",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T10:31:42Z"
+    }
+   ]
+  },
+  {
+   "id": "drought",
+   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
+   "en": "Drought and water for farms",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/drought",
+    "credit": "NASA image created by Jesse Allen",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
+    "alt_en": "Satellite image of drought in Southeast Asia"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
+    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
+    "url": "agriculture/2569/sub-water.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "meeting": {
+    "n": 19,
+    "date": "2026-11-11",
+    "url": "agriculture/2569/sub-water.html#read-19"
+   },
+   "items": [
+    {
+     "title": "‘สี จิ้นผิง’ ชัดเจน ไม่หนุนกิจกรรมก่อสารพิษลงแหล่งน้ำ",
+     "url": "https://www.prachachat.net/politics/news-2099977",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-20T10:29:11Z"
     }
    ]
   },
@@ -130,7 +268,7 @@
     "alt_en": "A cow grazing in a rice field"
    },
    "outlets": 1,
-   "count": 2,
+   "count": 1,
    "body": {
     "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
     "en": "Subcommittee on Livestock and Fisheries Standards",
@@ -154,136 +292,6 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-19T07:41:40Z"
-    },
-    {
-     "title": "ส.เลี้ยงสุกร ค้าน ART นำเข้าหมูสหรัฐ ลั่นซ้ำเติมขาดทุน 4 ปีติด ต้นทุนอาหารสัตว์แพง แข่งไม่ไหวแน่",
-     "url": "https://www.matichon.co.th/economy/news_5981520",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-19T02:41:13Z"
-    }
-   ]
-  },
-  {
-   "id": "civilservice",
-   "th": "ระบบราชการและข้าราชการ",
-   "en": "Government services and civil servants",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/civilservice",
-    "credit": "Per Meistrup",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bangkok-highways-and-airport-train_IMG_9206.jpg",
-    "alt_th": "ภาพมุมสูงของกรุงเทพมหานคร",
-    "alt_en": "Aerial view of Bangkok"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ",
-    "en": "Subcommittee on Public Administration and Civil Service Development",
-    "url": "committee-archive-2569/sub-dev.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 15,
-    "date": "2026-10-28",
-    "url": "committee-archive-2569/sub-dev.html#read-15"
-   },
-   "items": [
-    {
-     "title": "‘ปกรณ์’ ชู 4 เสา ทิศทางปฏิรูปราชการ เปลี่ยนผ่านสู่รัฐบาลดิจิทัล",
-     "url": "https://www.prachachat.net/politics/news-2099392",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-19T14:05:43Z"
-    }
-   ]
-  },
-  {
-   "id": "cyber",
-   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
-   "en": "Cyber and defence industry",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/cyber",
-    "credit": "Christopher Bowns",
-    "lic": "CC BY-SA 2.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
-    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
-    "alt_en": "An aisle between server racks in a data centre"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
-    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
-    "url": "military/2569/sub-cyber.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 25,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-cyber.html#read-25"
-   },
-   "items": [
-    {
-     "title": "สอท.งัด PCB รับภัยไซเบอร์ องค์กรอยู่เองให้ได้ 2 สัปดาห์",
-     "url": "https://www.prachachat.net/economic/news-2097859",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-19T10:00:27Z"
-    }
-   ]
-  },
-  {
-   "id": "labour",
-   "th": "แรงงาน",
-   "en": "Labour",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/labour",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
-    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
-    "alt_en": "A car assembly line"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 29,
-    "date": "2026-11-05",
-    "url": "labour/2569/#read-29"
-   },
-   "items": [
-    {
-     "title": "ศุภจี รุกเจรจาสหรัฐ รักษาแต้มต่อการค้า ขอลดภาษีแรงงานบังคับ10%-เรตพิเศษกำลังผลิตเกิน",
-     "url": "https://www.matichon.co.th/economy/news_5981466",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-19T01:58:31Z"
     }
    ]
   }
