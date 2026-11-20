@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:55:22Z",
+ "updated": "2026-11-20T20:33:04Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
@@ -18,7 +18,7 @@
     "alt_en": "A flooded street and houses"
    },
    "outlets": 3,
-   "count": 4,
+   "count": 5,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
     "en": "Subcommittee on National Disaster Management",
@@ -36,28 +36,28 @@
    },
    "items": [
     {
-     "title": "‘น้องพายุ’ โชว์ฟอร์มเฉียบรอบจับเวลา รอลุ้นเข้ารอบ 36 คนสุดท้าย ศึกโกคาร์ทระดับโลกที่อิตาลี",
-     "url": "https://www.dailynews.co.th/news/6376847/",
+     "title": "‘ปภ. – ออมสิน’ โอนเงินเยียวยาน้ำท่วมต่อเนื่อง ยอดสะสมกว่า 13,446 ล้านบาท",
+     "url": "https://www.dailynews.co.th/news/6377419/",
      "lang": "th",
      "outlet_th": "เดลินิวส์",
      "outlet_en": "Daily News",
-     "date": "2026-11-20T11:15:00Z"
+     "date": "2026-11-20T15:27:00Z"
     },
     {
-     "title": "น้องพายุ ติด 1 ใน 88 ทีม ศึกโกคาร์ทอิตาลี เตรียมแข่งรอบ 36 ทีมสุดท้าย",
-     "url": "https://www.matichon.co.th/sport/news_5983963",
+     "title": "นายกฯ สั่ง ปภ.กำชับ จว.ใต้เตรียมพร้อมรับมือฝนหนัก18–22 พ.ย.พร้อมระดมกำลังระวังภัย",
+     "url": "https://www.matichon.co.th/politics/news_5984211",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-20T10:53:20Z"
+     "date": "2026-11-20T13:56:27Z"
     },
     {
-     "title": "กปภ. เร่งแผนสำรอง ‘ผันน้ำลาว-โขง’ รับมือสารปนเปื้อนระยะยาว",
-     "url": "https://www.prachachat.net/economic/local-economy/news-2099800",
+     "title": "สรรพากร ออก 3 มาตรการภาษี ลดภาระประชาชนซ่อมทรัพย์สินจากอุทกภัย ปี‘68",
+     "url": "https://www.prachachat.net/finance/news-2100149",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-20T09:55:41Z"
+     "date": "2026-11-20T13:31:45Z"
     }
    ]
   },
@@ -129,8 +129,8 @@
     "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
     "alt_en": "An aisle between server racks in a data centre"
    },
-   "outlets": 2,
-   "count": 4,
+   "outlets": 1,
+   "count": 2,
    "body": {
     "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
     "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
@@ -156,20 +156,54 @@
      "date": "2026-11-20T10:58:37Z"
     },
     {
-     "title": "‘เอกนิติ’ จับมือ LINE ดัน 3 โครงการใหญ่ ใช้ AI ปั้น SMEs ไทย-สกัดภัยออนไลน์-เตือนภัยพิบัติ",
-     "url": "https://www.prachachat.net/economic/news-2099823",
+     "title": "ภัยไซเบอร์-ระบบขัดข้อง : ความเสี่ยงทางเศรษฐกิจยุคดิจิทัล",
+     "url": "https://www.matichon.co.th/economy/news_5982338",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-20T08:59:39Z"
-    },
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T05:15:37Z"
+    }
+   ]
+  },
+  {
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-holistic.html#read-20"
+   },
+   "items": [
     {
-     "title": "เคทีซี-TDRI ชี้โจทย์ท้าทายเศรษฐกิจไทยปี’70 ผู้บริโภคเปลี่ยน จับตาภัยไซเบอร์",
-     "url": "https://www.prachachat.net/finance/news-2099811",
+     "title": "สรรพากร ออกมาตรการช่วยประชาชน 7 พื้นที่ ได้รับผลกระทบจากชายแดนไทย-กัมพูชา",
+     "url": "https://www.prachachat.net/finance/news-2100151",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-20T08:52:38Z"
+     "date": "2026-11-20T13:34:56Z"
     }
    ]
   },
@@ -208,48 +242,6 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-20T10:31:42Z"
-    }
-   ]
-  },
-  {
-   "id": "drought",
-   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
-   "en": "Drought and water for farms",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/drought",
-    "credit": "NASA image created by Jesse Allen",
-    "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
-    "alt_en": "Satellite image of drought in Southeast Asia"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
-    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
-    "url": "agriculture/2569/sub-water.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "meeting": {
-    "n": 19,
-    "date": "2026-11-11",
-    "url": "agriculture/2569/sub-water.html#read-19"
-   },
-   "items": [
-    {
-     "title": "‘สี จิ้นผิง’ ชัดเจน ไม่หนุนกิจกรรมก่อสารพิษลงแหล่งน้ำ",
-     "url": "https://www.prachachat.net/politics/news-2099977",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-20T10:29:11Z"
     }
    ]
   }
