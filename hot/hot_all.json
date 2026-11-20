@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:48:37Z",
- "feeds_ok": 14,
+ "updated": "2026-11-20T02:26:13Z",
+ "feeds_ok": 12,
  "window_h": 72,
  "topics": [
   {
@@ -17,7 +17,7 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 2,
+   "outlets": 3,
    "count": 6,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
@@ -31,6 +31,14 @@
     "url": "agriculture/2569/#read-35"
    },
    "items": [
+    {
+     "title": "Farmers fret over US deal",
+     "url": "https://www.bangkokpost.com/thailand/general/3357829/farmers-fret-over-us-deal",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-19T22:15:00Z"
+    },
     {
      "title": "ม.หอการค้าฯ ชี้ ART ไทย-สหรัฐ เปิด 3 โอกาสใหญ่ แนะรัฐคุมเข้มนำเข้าหมู-ข้าวโพดเลี้ยงสัตว์",
      "url": "https://www.matichon.co.th/economy/news_5982577",
@@ -46,14 +54,6 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-19T08:46:16Z"
-    },
-    {
-     "title": "ส.SMEไทย ห่วงดีล ART เปิดตลาดกระทบเกษตรกร-รายย่อย จ่อชง กรอ. 2 ธ.ค. ‘4 มาตรการรับมือ’",
-     "url": "https://www.matichon.co.th/economy/news_5982282",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-19T08:43:52Z"
     }
    ]
   },
@@ -71,8 +71,8 @@
     "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
     "alt_en": "A flooded street and houses"
    },
-   "outlets": 1,
-   "count": 2,
+   "outlets": 3,
+   "count": 4,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
     "en": "Subcommittee on National Disaster Management",
@@ -90,20 +90,28 @@
    },
    "items": [
     {
+     "title": "รัฐบาล เตรียมรับมือไฟป่า-ฝุ่นPM2.5 ภาคเหนือ คาดสถานการณ์รุนแรงปลายม.ค.-มี.ค.",
+     "url": "https://www.matichon.co.th/politics/news_5983075",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T02:21:37Z"
+    },
+    {
+     "title": "ค่าPM2.5 ไม่เกินมาตรฐาน ภาพรวมคุณภาพอากาศดีการสะสมของฝุ่นเสี่ยง’ระดับต่ำ’",
+     "url": "https://www.dailynews.co.th/news/6375105/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-20T01:25:00Z"
+    },
+    {
      "title": "กปภ. ย้ำ “ป้องกันดีกว่าเยียวยา” เร่งยกระดับคุณภาพน้ำ สร้างความมั่นใจประชาชน",
      "url": "https://www.prachachat.net/biz-movement/public-relations/news-2099199",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-19T08:59:53Z"
-    },
-    {
-     "title": "“ทรงศักดิ์” ดัน 6 ชาติลุ่มน้ำโขงแก้มลพิษข้ามแดน จี้คุมต้นตอ-ตั้งระบบเตือนภัยน้ำปนเปื้อน",
-     "url": "https://www.prachachat.net/economic/news-2099100",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-19T07:11:59Z"
     }
    ]
   },
@@ -154,48 +162,6 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-19T02:41:13Z"
-    }
-   ]
-  },
-  {
-   "id": "jobs",
-   "th": "การหางานและแรงงานต่างชาติ",
-   "en": "Jobs and migrant workers",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/jobs",
-    "credit": "Bigcitydata",
-    "lic": "CC BY 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
-    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
-    "alt_en": "Office towers in Silom, Bangkok"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
-    "en": "Subcommittee on Employment and Skills",
-    "url": "labour/2569/sub-employment.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 21,
-    "date": "2026-09-23",
-    "url": "labour/2569/sub-employment.html#read-21"
-   },
-   "items": [
-    {
-     "title": "สหรัฐเผยตัวเลขผู้ขอสวัสดิการว่างงานสูงกว่าคาด",
-     "url": "https://www.infoquest.co.th/2026/682816",
-     "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-19T16:14:44Z"
     }
    ]
   },
@@ -280,48 +246,6 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-19T10:00:27Z"
-    }
-   ]
-  },
-  {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
-   },
-   "items": [
-    {
-     "title": "Thailand-Cambodia maritime talks to resume next week in KL",
-     "url": "https://www.bangkokpost.com/thailand/general/3357695/thailandcambodia-maritime-talks-to-resume-next-week-in-kl",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-19T09:17:00Z"
     }
    ]
   },
