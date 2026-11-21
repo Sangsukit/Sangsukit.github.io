@@ -1,66 +1,8 @@
 {
- "updated": "2026-11-21T02:31:45Z",
+ "updated": "2026-11-21T11:26:23Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 4,
-   "count": 6,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 11,
-    "date": "2026-11-12",
-    "url": "committee-archive-2569/sub-disaster.html#read-11"
-   },
-   "items": [
-    {
-     "title": "แผ่นดินไหว 6.8 เขย่าเปรู สะเทือนถึงกรุงลิมา ไม่มีความเสี่ยงสึนามิ",
-     "url": "https://www.dailynews.co.th/news/6377678/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-21T01:46:04Z"
-    },
-    {
-     "title": "เปรูเจอแผ่นดินไหว 6.7 แมกนิจูดเช้านี้ สะเทือนถึงกรุงลิมา ยังไม่มีเตือนสึนามิ",
-     "url": "https://www.infoquest.co.th/2026/683522",
-     "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-21T01:24:12Z"
-    },
-    {
-     "title": "กรมอุตุ เตือน ไทยอุณหภูมิลด ‘ใต้’ เจอฝนถล่มหนัก ระวังน้ำท่วมฉับพลัน",
-     "url": "https://www.matichon.co.th/local/news_5984289",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-21T00:37:33Z"
-    }
-   ]
-  },
   {
    "id": "crops",
    "th": "ราคาพืชผลและเกษตรกร",
@@ -76,7 +18,7 @@
     "alt_en": "Rows of rubber trees in a plantation"
    },
    "outlets": 2,
-   "count": 7,
+   "count": 6,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -90,12 +32,12 @@
    },
    "items": [
     {
-     "title": "FAO เตือนผลผลิตข้าวไทยเสี่ยงวูบ 1.5 ล้านตัน กำไรเกษตรกรลด-ราคาปุ๋ยพุ่ง",
-     "url": "https://www.dailynews.co.th/news/6376748/",
+     "title": "นายกฯ สั่งคุมเข้มสารปนเปื้อน เร่งตรวจน้ำ-พืชผล-สุขภาพประชาชน ประสานความร่วมมือต่างชาติ",
+     "url": "https://www.infoquest.co.th/2026/683587",
      "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-21T02:00:00Z"
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-21T09:22:45Z"
     },
     {
      "title": "ค้าภายใน จัดสินค้าถูก ลดภาระชุมชน ชวนซื้อ ‘ลำไย–พริก’",
@@ -130,7 +72,7 @@
     "alt_en": "An aisle between server racks in a data centre"
    },
    "outlets": 1,
-   "count": 2,
+   "count": 3,
    "body": {
     "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
     "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
@@ -147,6 +89,14 @@
     "url": "military/2569/sub-cyber.html#read-25"
    },
    "items": [
+    {
+     "title": "กัน จอมพลัง เคลื่อนไหว! นัด 2 ทุ่ม ไลฟ์เปิดหลักฐาน โต้ปมบัญชีม้าเว็บพนัน ลั่น ‘สาดไปสมาชิก’",
+     "url": "https://www.matichon.co.th/local/news_5984759",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-21T08:44:58Z"
+    },
     {
      "title": "ไชยชนก ชวนสตาร์ทอัพทั่วโลกลงทุนไทย เปิดประตูสู่อาเซียน 700 ล้านคน จับมือพัฒนานวัตกรรม-คุมภัยไซเบอร์",
      "url": "https://www.matichon.co.th/economy/news_5984003",
@@ -166,86 +116,136 @@
    ]
   },
   {
-   "id": "armed",
-   "th": "กองทัพและกิจการทหาร",
-   "en": "Armed forces and military affairs",
-   "icon": "cs-security",
+   "id": "drought",
+   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
+   "en": "Drought and water for farms",
+   "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/armed",
-    "credit": "Mobius1TH",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Royal_Thai_Air_Force_S-70i,_Childrens_Day_2025.png",
-    "alt_th": "เฮลิคอปเตอร์ของกองทัพอากาศไทยจอดบนลานบิน",
-    "alt_en": "A Thai air force helicopter on the apron"
+    "src": "hot/img/drought",
+    "credit": "NASA image created by Jesse Allen",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
+    "alt_en": "Satellite image of drought in Southeast Asia"
    },
    "outlets": 1,
-   "count": 1,
+   "count": 2,
    "body": {
-    "th": "คณะอนุกรรมาธิการด้านกิจการทหาร",
-    "en": "Subcommittee on Military Affairs",
-    "url": "military/2569/sub-military.html"
+    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
+    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
+    "url": "agriculture/2569/sub-water.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
    },
    "meeting": {
-    "n": 28,
-    "date": "2026-10-21",
-    "url": "military/2569/sub-military.html#read-28"
+    "n": 19,
+    "date": "2026-11-11",
+    "url": "agriculture/2569/sub-water.html#read-19"
    },
    "items": [
     {
-     "title": "Navy presses on with new frigate plan",
-     "url": "https://www.bangkokpost.com/thailand/general/3358549/navy-presses-on-with-new-frigate-plan",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-20T21:45:00Z"
+     "title": "เปิด 8 ข้อสั่งการของ ‘อนุทิน’ แก้ปัญหามลพิษในแหล่งน้ำ",
+     "url": "https://www.matichon.co.th/politics/news_5984839",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-21T09:34:29Z"
+    },
+    {
+     "title": "สธ.วางมาตรการ 3 ระยะ รับมือสารปนเปื้อนแหล่งน้ำ เร่งตรวจน้ำ-อาหาร คัดกรองกลุ่มเสี่ยง ยันปัจจุบันยังไม่พบผู้ป่วย",
+     "url": "https://www.matichon.co.th/local/quality-life/news_5984738",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-21T08:27:34Z"
     }
    ]
   },
   {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
+   "id": "civilservice",
+   "th": "ระบบราชการและข้าราชการ",
+   "en": "Government services and civil servants",
+   "icon": "cs-admin",
    "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
+    "src": "hot/img/civilservice",
+    "credit": "Per Meistrup",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bangkok-highways-and-airport-train_IMG_9206.jpg",
+    "alt_th": "ภาพมุมสูงของกรุงเทพมหานคร",
+    "alt_en": "Aerial view of Bangkok"
    },
    "outlets": 1,
    "count": 1,
    "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
+    "th": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ",
+    "en": "Subcommittee on Public Administration and Civil Service Development",
+    "url": "committee-archive-2569/sub-dev.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
    },
    "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
+    "n": 15,
+    "date": "2026-10-28",
+    "url": "committee-archive-2569/sub-dev.html#read-15"
    },
    "items": [
     {
-     "title": "สรรพากร ออกมาตรการช่วยประชาชน 7 พื้นที่ ได้รับผลกระทบจากชายแดนไทย-กัมพูชา",
-     "url": "https://www.prachachat.net/finance/news-2100151",
+     "title": "‘มท.4’ เร่งรัดการบรรจุข้าราชการและพนักงานส่วนท้องถิ่น รอบที่ 5",
+     "url": "https://www.dailynews.co.th/news/6379271/",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-20T13:34:56Z"
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-21T10:31:10Z"
+    }
+   ]
+  },
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 11,
+    "date": "2026-11-12",
+    "url": "committee-archive-2569/sub-disaster.html#read-11"
+   },
+   "items": [
+    {
+     "title": "เตือนภัย ‘สารหนู’ ปนเปื้อนน้ำดื่ม สะสมระยะยาวเสี่ยงหัวใจเต้นผิดจังหวะ-หลอดเลือดตีบ",
+     "url": "https://www.matichon.co.th/local/quality-life/news_5984686",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-21T07:50:14Z"
     }
    ]
   }
