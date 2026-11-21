@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:33:04Z",
+ "updated": "2026-11-21T02:31:45Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
@@ -17,8 +17,8 @@
     "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
     "alt_en": "A flooded street and houses"
    },
-   "outlets": 3,
-   "count": 5,
+   "outlets": 4,
+   "count": 6,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
     "en": "Subcommittee on National Disaster Management",
@@ -36,28 +36,28 @@
    },
    "items": [
     {
-     "title": "‘ปภ. – ออมสิน’ โอนเงินเยียวยาน้ำท่วมต่อเนื่อง ยอดสะสมกว่า 13,446 ล้านบาท",
-     "url": "https://www.dailynews.co.th/news/6377419/",
+     "title": "แผ่นดินไหว 6.8 เขย่าเปรู สะเทือนถึงกรุงลิมา ไม่มีความเสี่ยงสึนามิ",
+     "url": "https://www.dailynews.co.th/news/6377678/",
      "lang": "th",
      "outlet_th": "เดลินิวส์",
      "outlet_en": "Daily News",
-     "date": "2026-11-20T15:27:00Z"
+     "date": "2026-11-21T01:46:04Z"
     },
     {
-     "title": "นายกฯ สั่ง ปภ.กำชับ จว.ใต้เตรียมพร้อมรับมือฝนหนัก18–22 พ.ย.พร้อมระดมกำลังระวังภัย",
-     "url": "https://www.matichon.co.th/politics/news_5984211",
+     "title": "เปรูเจอแผ่นดินไหว 6.7 แมกนิจูดเช้านี้ สะเทือนถึงกรุงลิมา ยังไม่มีเตือนสึนามิ",
+     "url": "https://www.infoquest.co.th/2026/683522",
+     "lang": "th",
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-21T01:24:12Z"
+    },
+    {
+     "title": "กรมอุตุ เตือน ไทยอุณหภูมิลด ‘ใต้’ เจอฝนถล่มหนัก ระวังน้ำท่วมฉับพลัน",
+     "url": "https://www.matichon.co.th/local/news_5984289",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-20T13:56:27Z"
-    },
-    {
-     "title": "สรรพากร ออก 3 มาตรการภาษี ลดภาระประชาชนซ่อมทรัพย์สินจากอุทกภัย ปี‘68",
-     "url": "https://www.prachachat.net/finance/news-2100149",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-20T13:31:45Z"
+     "date": "2026-11-21T00:37:33Z"
     }
    ]
   },
@@ -90,20 +90,20 @@
    },
    "items": [
     {
+     "title": "FAO เตือนผลผลิตข้าวไทยเสี่ยงวูบ 1.5 ล้านตัน กำไรเกษตรกรลด-ราคาปุ๋ยพุ่ง",
+     "url": "https://www.dailynews.co.th/news/6376748/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-21T02:00:00Z"
+    },
+    {
      "title": "ค้าภายใน จัดสินค้าถูก ลดภาระชุมชน ชวนซื้อ ‘ลำไย–พริก’",
      "url": "https://www.matichon.co.th/economy/news_5984054",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-20T11:05:15Z"
-    },
-    {
-     "title": "ชาวไร่มันสำปะหลัง-อ้อยค้านเปิดเสรีเอทานอลสหรัฐ หวั่นกระทบราคา จี้รัฐดัน E20",
-     "url": "https://www.prachachat.net/economic/news-2099905",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-20T09:38:20Z"
     },
     {
      "title": "ชาวไร่มันฯ–อ้อย ค้านเปิดเสรีเอทานอลสหรัฐฯ จี้คงภาษีนำเข้า หนุน E20 ย้ำ ไทยกำลังผลิตเพียงพอ",
@@ -166,6 +166,48 @@
    ]
   },
   {
+   "id": "armed",
+   "th": "กองทัพและกิจการทหาร",
+   "en": "Armed forces and military affairs",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/armed",
+    "credit": "Mobius1TH",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Thai_Air_Force_S-70i,_Childrens_Day_2025.png",
+    "alt_th": "เฮลิคอปเตอร์ของกองทัพอากาศไทยจอดบนลานบิน",
+    "alt_en": "A Thai air force helicopter on the apron"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านกิจการทหาร",
+    "en": "Subcommittee on Military Affairs",
+    "url": "military/2569/sub-military.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 28,
+    "date": "2026-10-21",
+    "url": "military/2569/sub-military.html#read-28"
+   },
+   "items": [
+    {
+     "title": "Navy presses on with new frigate plan",
+     "url": "https://www.bangkokpost.com/thailand/general/3358549/navy-presses-on-with-new-frigate-plan",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-20T21:45:00Z"
+    }
+   ]
+  },
+  {
    "id": "border",
    "th": "ชายแดนและความมั่นคง",
    "en": "Borders and security",
@@ -204,86 +246,6 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-20T13:34:56Z"
-    }
-   ]
-  },
-  {
-   "id": "rice",
-   "th": "ข้าวและชาวนา",
-   "en": "Rice and rice farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/rice",
-    "credit": "Eerin25",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
-    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
-    "alt_en": "Green rice paddies with a bamboo walkway"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 35,
-    "date": "2026-10-19",
-    "url": "agriculture/2569/#read-35"
-   },
-   "items": [
-    {
-     "title": "“ข้าวตราไก่แจ้” ผนึกกรมการข้าว พาคนรุ่นใหม่เรียนรู้วิถีชาวนา ยกระดับข้าวไทยยั่งยืน",
-     "url": "https://www.matichon.co.th/publicize/news_5983982",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-20T10:31:42Z"
-    }
-   ]
-  },
-  {
-   "id": "drought",
-   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
-   "en": "Drought and water for farms",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/drought",
-    "credit": "NASA image created by Jesse Allen",
-    "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
-    "alt_en": "Satellite image of drought in Southeast Asia"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
-    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
-    "url": "agriculture/2569/sub-water.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "meeting": {
-    "n": 19,
-    "date": "2026-11-11",
-    "url": "agriculture/2569/sub-water.html#read-19"
-   },
-   "items": [
-    {
-     "title": "‘สี จิ้นผิง’ ชัดเจน ไม่หนุนกิจกรรมก่อสารพิษลงแหล่งน้ำ",
-     "url": "https://www.prachachat.net/politics/news-2099977",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-20T10:29:11Z"
     }
    ]
   },
