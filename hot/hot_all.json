@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:26:23Z",
- "feeds_ok": 12,
+ "updated": "2026-11-21T19:30:10Z",
+ "feeds_ok": 13,
  "window_h": 72,
  "topics": [
   {
@@ -17,7 +17,7 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 2,
+   "outlets": 3,
    "count": 6,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
@@ -31,6 +31,14 @@
     "url": "agriculture/2569/#read-35"
    },
    "items": [
+    {
+     "title": "นายกฯ สั่งรับมือสารปนเปื้อน ตรวจเข้มน้ำ-พืชผล-สุขภาพ ประสานร่วมมือข้ามพรมแดน",
+     "url": "https://www.prachachat.net/politics/news-2100357",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-21T14:25:13Z"
+    },
     {
      "title": "นายกฯ สั่งคุมเข้มสารปนเปื้อน เร่งตรวจน้ำ-พืชผล-สุขภาพประชาชน ประสานความร่วมมือต่างชาติ",
      "url": "https://www.infoquest.co.th/2026/683587",
@@ -46,14 +54,64 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-20T11:05:15Z"
+    }
+   ]
+  },
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 2,
+   "count": 3,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 11,
+    "date": "2026-11-12",
+    "url": "committee-archive-2569/sub-disaster.html#read-11"
+   },
+   "items": [
+    {
+     "title": "นายกฯ สั่งจังหวัดภาคเหนือรับมือฝุ่น PM2.5 เชียงใหม่-เชียงราย คุมเข้มห้ามเผา",
+     "url": "https://www.thairath.co.th/news/politic/2973866",
+     "lang": "th",
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-21T12:51:51Z"
     },
     {
-     "title": "ชาวไร่มันฯ–อ้อย ค้านเปิดเสรีเอทานอลสหรัฐฯ จี้คงภาษีนำเข้า หนุน E20 ย้ำ ไทยกำลังผลิตเพียงพอ",
-     "url": "https://www.matichon.co.th/economy/news_5983396",
+     "title": "ครบรอบ 1 ปี มหาอุทกภัยหาดใหญ่ แถมฝนตกหนักลงมาทำชาวสงขลายังผวา",
+     "url": "https://www.matichon.co.th/region/news_5984991",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-20T06:43:17Z"
+     "date": "2026-11-21T11:49:34Z"
+    },
+    {
+     "title": "กรมอุตุฯ ฉบับ 14 เช็กรายชื่อจังหวัดฝนตกหนักภาคใต้ ระวังน้ำท่วมฉับพลันถึง 22 พ.ย.69",
+     "url": "https://www.thairath.co.th/news/local/2973852",
+     "lang": "th",
+     "outlet_th": "ไทยรัฐ",
+     "outlet_en": "Thairath",
+     "date": "2026-11-21T11:15:33Z"
     }
    ]
   },
@@ -166,86 +224,44 @@
    ]
   },
   {
-   "id": "civilservice",
-   "th": "ระบบราชการและข้าราชการ",
-   "en": "Government services and civil servants",
-   "icon": "cs-admin",
+   "id": "livestock",
+   "th": "ปศุสัตว์และประมง",
+   "en": "Livestock and fisheries",
+   "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/civilservice",
-    "credit": "Per Meistrup",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bangkok-highways-and-airport-train_IMG_9206.jpg",
-    "alt_th": "ภาพมุมสูงของกรุงเทพมหานคร",
-    "alt_en": "Aerial view of Bangkok"
+    "src": "hot/img/livestock",
+    "credit": "Love Krittaya",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "alt_th": "วัวกินหญ้าในทุ่งนา",
+    "alt_en": "A cow grazing in a rice field"
    },
    "outlets": 1,
    "count": 1,
    "body": {
-    "th": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ",
-    "en": "Subcommittee on Public Administration and Civil Service Development",
-    "url": "committee-archive-2569/sub-dev.html"
+    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
+    "en": "Subcommittee on Livestock and Fisheries Standards",
+    "url": "agriculture/2569/sub-livestock.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
    },
    "meeting": {
-    "n": 15,
-    "date": "2026-10-28",
-    "url": "committee-archive-2569/sub-dev.html#read-15"
+    "n": 7,
+    "date": "2026-07-15",
+    "url": "agriculture/2569/sub-livestock.html#read-7"
    },
    "items": [
     {
-     "title": "‘มท.4’ เร่งรัดการบรรจุข้าราชการและพนักงานส่วนท้องถิ่น รอบที่ 5",
-     "url": "https://www.dailynews.co.th/news/6379271/",
+     "title": "สารพิษแม่น้ำกกทำลายวิถีชีวิต อาชีพประมงพื้นบ้านล่มสลาย",
+     "url": "https://www.prachachat.net/economic/local-economy/news-2100348",
      "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-21T10:31:10Z"
-    }
-   ]
-  },
-  {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 11,
-    "date": "2026-11-12",
-    "url": "committee-archive-2569/sub-disaster.html#read-11"
-   },
-   "items": [
-    {
-     "title": "เตือนภัย ‘สารหนู’ ปนเปื้อนน้ำดื่ม สะสมระยะยาวเสี่ยงหัวใจเต้นผิดจังหวะ-หลอดเลือดตีบ",
-     "url": "https://www.matichon.co.th/local/quality-life/news_5984686",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-21T07:50:14Z"
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-21T13:39:03Z"
     }
    ]
   },
