@@ -121,7 +121,32 @@
    "กรุงเทพมหานคร"
   ],
   "upcoming": false,
-  "media": {}
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/sub-livestock-v20.mp4",
+    "poster": "img/poster-sub-livestock-20.jpg",
+    "vtt": "media/sub-livestock-v20.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:31",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "livestock-20",
+    "size": 6087262
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/sub-livestock-v20.mp4",
+     "poster": "img/poster-sub-livestock-20.jpg",
+     "vtt": "media/sub-livestock-v20.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:31",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "livestock-20",
+     "size": 6087262
+    }
+   ]
+  }
  },
  {
   "n": 19,

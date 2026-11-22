@@ -141,27 +141,38 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/agriculture/2569/media/v39pre.mp4",
-    "poster": "img/poster39pre.jpg",
-    "vtt": "media/v39pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:25",
+    "src": "/video-2/agriculture/2569/media/v39.mp4",
+    "poster": "img/poster39.jpg",
+    "vtt": "media/v39.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:06",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "39p",
-    "size": 3583230
+    "ck": "39",
+    "size": 7251430
    },
    "videos": [
     {
+     "src": "/video-2/agriculture/2569/media/v39.mp4",
+     "poster": "img/poster39.jpg",
+     "vtt": "media/v39.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "39",
+     "size": 7251430
+    },
+    {
      "src": "/video-1/agriculture/2569/media/v39pre.mp4",
+     "size": 3583230,
      "poster": "img/poster39pre.jpg",
      "vtt": "media/v39pre.th.vtt",
      "kind": "pre",
      "label": "วิดีโอก่อนการประชุม",
      "dur": "1:25",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-     "ck": "39p",
-     "size": 3583230
+     "ck": "39p"
     }
    ]
   }
@@ -233,7 +244,32 @@
    "สุพรรณบุรี",
    "สิงห์บุรี"
   ],
-  "media": {}
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v38.mp4",
+    "poster": "img/poster38.jpg",
+    "vtt": "media/v38.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:45",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "38",
+    "size": 8454086
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v38.mp4",
+     "poster": "img/poster38.jpg",
+     "vtt": "media/v38.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:45",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "38",
+     "size": 8454086
+    }
+   ]
+  }
  },
  {
   "n": 37,
@@ -284,7 +320,32 @@
    "กระบี่",
    "ตรัง"
   ],
-  "media": {}
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v37.mp4",
+    "poster": "img/poster37.jpg",
+    "vtt": "media/v37.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:04",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "37",
+    "size": 7143098
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v37.mp4",
+     "poster": "img/poster37.jpg",
+     "vtt": "media/v37.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:04",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "37",
+     "size": 7143098
+    }
+   ]
+  }
  },
  {
   "n": 36,
