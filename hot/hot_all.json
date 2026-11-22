@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:40:47Z",
+ "updated": "2026-11-22T19:51:06Z",
  "feeds_ok": 11,
  "window_h": 72,
  "topics": [
@@ -18,7 +18,7 @@
     "alt_en": "Rows of rubber trees in a plantation"
    },
    "outlets": 2,
-   "count": 7,
+   "count": 9,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -32,6 +32,14 @@
    },
    "items": [
     {
+     "title": "สรวงศ์ ให้กำลังใจสมาคมชาวไร่อ้อย ย้ำร่วมทุกข์ร่วมสุขกันกว่า 25 ปี พร้อมเคียงข้างเกษตรกร",
+     "url": "https://www.matichon.co.th/politics/news_5985894",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-22T13:56:34Z"
+    },
+    {
      "title": "รัฐบาลประสานโรงสีรับซื้อ ‘ข้าวเชียงราย’ หาช่องทางขายช่วยเกษตรกร",
      "url": "https://www.prachachat.net/politics/news-2100425",
      "lang": "th",
@@ -40,20 +48,12 @@
      "date": "2026-11-22T08:30:52Z"
     },
     {
-     "title": "ไทย-จีน ลงนามพิธีสารทุเรียนฉบับใหม่ เพิ่มโอกาสทุเรียนสดไทย คุมเข้มคุณภาพ ลดเสี่ยงถูกกักด่าน",
-     "url": "https://www.matichon.co.th/economy/news_5985271",
+     "title": "‘อนุสรณ์’ กาง 3 ปม ART จี้เปิดร่างให้สภาตรวจสอบ ป้องเกษตรกร-ลดภาษีเท่าคู่แข่ง",
+     "url": "https://www.matichon.co.th/politics/news_5985843",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-22T03:22:29Z"
-    },
-    {
-     "title": "DITP เร่งจับคู่ หาตลาดส่งออกลำไยไทย เป้าดันให้ถึง 200,000 ตัน",
-     "url": "https://www.matichon.co.th/economy/news_5985242",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-22T02:12:28Z"
+     "date": "2026-11-22T12:38:11Z"
     }
    ]
   },
@@ -150,6 +150,48 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-21T23:30:48Z"
+    }
+   ]
+  },
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 11,
+    "date": "2026-11-12",
+    "url": "committee-archive-2569/sub-disaster.html#read-11"
+   },
+   "items": [
+    {
+     "title": "เตือน 7 จังหวัดภาคใต้ เฝ้าระวังดินโคลนถล่ม-น้ำป่า 22-24 พ.ย. เฮ้งกำชับกรมธรณีติดตามใกล้ชิด",
+     "url": "https://www.matichon.co.th/local/news_5985873",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-22T13:01:26Z"
     }
    ]
   },
