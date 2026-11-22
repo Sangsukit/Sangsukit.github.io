@@ -74,22 +74,22 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TKMN4jP-fagg__K7FynUbta5sjzM27oH9GbMjL3His6QXiHshmyUlgOcVKlXkeXIiJWBA2VtDm7O0DrmO3n8GyKEJBaaz-PZ27IIhIaCT-d-Y1XSpH4ngAkXN-GCT4QqK3XlVAGNu63jDWetb_TgVSVrwY9kWN-TCJnSOw==&ref=11078913",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cJey5LoERU_0GwjRId8tPqvqR1o-idSTj1S0Cb8DVttEcKK3jjm-K1VIMMQ_8QkC3fq6dULhbXMj5IBzUQoMepjX64wK1jSpNFsPGXshdMB-lrVxtsVs12KJbf-P1p-_1Qf8hOceU9O3I8v1mgDMLvW8Kb7_DeoHhPzKbA==&ref=11078913",
     "size": 135363
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xKpmAYCMYIpY_7_A8O1oAkTBZ6ZkhqJk7fEOIdBrSgy33dznmDskPj2o0VJcIokc03hYgOimQzRmZdwGSI0CxmWtvawdXruDFawjoALz4EgBiywFOXNGkTm0jTSuo16vuez23mv0FsHntKEk6vwvjj5ko7o8sNvLIucHVA==&ref=11118395",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=AAj_BQR2dwZWOc8k9I6CHKiFAXPx7q8JwniH960Z05JeMeQulS9xUf9TF_pCER0vGm0vqVJByQbXkskgMWfyHJQVLlgH1X6E6s_3xV0sYk8ZkduZNgM-2XBJvC6d9EPDCv7kxYWGuphgLaPAaUKVXBs38JaWKqw3kBlb3w==&ref=11118395",
     "size": 135363
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TXmG4tO71KiHB9uT6KWRLgzDTqXOs1GezViFUJ0j5pccrxOs8nDehItzG9SLg06C3czEHn7seo50iO8fX9ROtNJ7Fk1phrIVBTQgk4XdJlPNeXD0tklu85HpWsoZJgAzpTEzTIs7ZuVBhCqB-xdNeT9gJ9ysVKFozBm9qQ==&ref=11118405",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YIdGhgIgV8v7_OpOW9lvjuQVtd_BWPP0dd__l0LjbsGN0dLsD2l93GF-VFOeFp8Ckqd22iA2PDL3-SZoGX_g3Fj09RjIaom0IoUkEbTFakr_F5kKYHDe9-7XtjiClZntnm8na5M3J0S2UySGfgYTXAalMpbKf0UrW1tufg==&ref=11118405",
     "size": 906766
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=EHOrDhj4T_yB-uceZt8"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=HMozK8q-9mT3C9Aaibo"
    }
   ],
   "media": {
@@ -118,15 +118,25 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 33/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายสุทิน แก้วพนา",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ความคืบหน้าข้อเสนอเชิงนโยบายขยายและยกระดับอาชีวศึกษาทวิภาคี",
+  "summary": "ที่ประชุมพิจารณาความคืบหน้าการดำเนินงานของคณะทำงานจัดทำข้อเสนอแนะเชิงนโยบายเกี่ยวกับการขยายและยกระดับการจัดอาชีวศึกษาระบบทวิภาคี โดยเชิญคณะทำงานและผู้แทนหน่วยงานที่เกี่ยวข้องเข้าร่วมประชุม ได้แก่ กระทรวงแรงงาน และสำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (EEC) ตามเอกสารข่าวที่วุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "ความคืบหน้าของคณะทำงานจัดทำข้อเสนอแนะเชิงนโยบายเกี่ยวกับการขยายและยกระดับการจัดอาชีวศึกษาทวิภาคี (กระทรวงแรงงาน และสำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก)",
+    "พิจารณา",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "อาชีวศึกษา",
+   "ทวิภาคี",
+   "EEC"
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "suthin"
  },
  {
   "n": 32,

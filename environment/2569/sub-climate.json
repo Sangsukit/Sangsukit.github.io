@@ -76,17 +76,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zKLN33e2WOFs0t7DBFCq_RfA1gDzoG_dVn3l59Uw4f7wbV_j9SiLiI1K-3e7mWO2lsQtVvyvp94axAtSxiHYmiNpyrOdaEiqb0J_OukgICJv9uXKHHNUBl1X75hY7y54DxXS4dzIMC3nlYYRKLPdjOzD63UDjbx5bhR1bQ==&ref=11146417",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=l4z_lrOx7s07Y5XVOP8psPhFzxvWM10COU4AlKze2hpR77_StFxKmXPXplZM4pyPAGOOPEqT2-2y0c7HVfba70KK9mMRAUW9VtywpyYl5tORlREmOPLONcq8DOePlNkOdVrtbxMNk8453mi0JtZn9cVkGKw3WFQylBoYTQ==&ref=11146417",
     "size": 136855
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0vjw-ttcduH-0XNYkJ7qbS46mQ0PuPlIKTkhNO5sjUKvBMpcZdnlHFEYb2Gxv-K8q2i0D1JsGuGChEuG11X-g1roaQWm0JjnsUorQKV6xdVFiSHbQMaNTRh9E-CO_vs2j6XOCdWJimhCgiSKh6o8MTOzKMfdUHg_InmU8Q==&ref=11175742",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=H4c_2X_ihmZ0o_wRrvs5vASmLfjybS1OA7zDhz6srXGBOeXu_oXgcRo8Z6UPiLX5-emk7qoVutBw1axfCa_kehnaIirX0hJhmuAduaews127_O0C93mKMUfHnVnB0ybTYDvP3W6v7rGi8XwRyN00ElucG5adGFqGxl30UA==&ref=11175742",
     "size": 7084168
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7u88i7yuDnWu11ZWaB8"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fCOw1WPQZhz3aGatJdk"
    }
   ],
   "media": {
@@ -117,12 +117,31 @@
   },
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 3/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "headline": "เตรียมนำเสนอรายงานการศึกษาปัญหาฝุ่น PM2.5 และอนุมัติการศึกษาดูงานคาร์บอนเครดิตป่าชายเลน",
+  "summary": "ที่ประชุมพิจารณา 2 เรื่อง เรื่องแรกคือการเตรียมความพร้อมนำเสนอรายงานการพิจารณาศึกษา เรื่อง ปัญหาฝุ่นละอองขนาดไม่เกิน 2.5 ไมครอน (PM2.5) ในเขตพื้นที่วิกฤตกรุงเทพมหานคร ปริมณฑล และภาคเหนือตอนบน ที่ประชุมหารือประเด็นคำถาม 10 ข้อที่อาจได้รับในการนำเสนอรายงาน เช่น เหตุใดปัญหาจึงเกิดซ้ำทุกปี รายงานนี้เพิ่มคุณค่าจากแผนปฏิบัติการขับเคลื่อนวาระแห่งชาติที่รัฐบาลมีอยู่อย่างไร มาตรการใดเร่งด่วนที่สุด ทางเลือกที่คุ้มค่าสำหรับเกษตรกรแทนการเผา เช่น การใช้ไบโอชาร์ ข้อมูลกลาง (Big Data) ที่ควรมี และเงื่อนไขการใช้มาตรา 44 และ 45 แห่งพระราชบัญญัติส่งเสริมและรักษาคุณภาพสิ่งแวดล้อมแห่งชาติ พ.ศ. 2535 ในพื้นที่วิกฤต เรื่องที่สองคือการเดินทางไปศึกษาดูงานการดำเนินงานคาร์บอนเครดิตภาคป่าชายเลน ที่ประชุมอนุมัติให้เดินทางไปจังหวัดตราด ระหว่างวันที่ 11–13 ธันวาคม 2569 และนัดประชุมครั้งต่อไปวันพฤหัสบดีที่ 19 พฤศจิกายน 2569",
+  "items": [
+   [
+    "เตรียมความพร้อมนำเสนอรายงานการพิจารณาศึกษา เรื่อง ปัญหาฝุ่น PM2.5 ในเขตพื้นที่วิกฤตกรุงเทพมหานคร ปริมณฑล และภาคเหนือตอนบน (ประเด็นคำถาม 10 ข้อ)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "การเดินทางไปศึกษาดูงานการดำเนินงานคาร์บอนเครดิตภาคป่าชายเลน จังหวัดตราด 11–13 ธันวาคม 2569",
+    "อนุมัติ",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "PM2.5",
+   "ฝุ่น",
+   "คาร์บอนเครดิต",
+   "ป่าชายเลน"
+  ],
+  "places": [
+   "กรุงเทพมหานคร",
+   "ภาคเหนือ",
+   "ตราด"
+  ],
   "upcoming": false
  },
  {

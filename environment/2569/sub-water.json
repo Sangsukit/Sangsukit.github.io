@@ -7,12 +7,12 @@
   "docs": [
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9zQDUtOjGvXrtFKwaPeZOyej8kyl0fGbqN7KHEBNcK7mYNmQ1P6feSlfn2sQp-xLnM6dLiYpJQ533qZN5zstC77IJb8AICLFE061QmYkf6VoJEv92ly6vZyGFA9ZzQVAxRVPofPCnOrhtudhJWk_pgKgLQhWLN4NtFWWgg==&ref=11185977",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KHkMndfSsj8sZhUDOQ_dKuHPON0ibdq0yPdVI0gLghC0tEsKOwOn1mLRCPKvIuGQck6fCAKpcvUjn7Fw7ffU8e7Pjwwu0e__-1ArG_XtRHPn2ZcBNjY_fRu0epI-jEId-d_8mDU7qs2ePettVoc0MH2UXDr2jXOcXOIviA==&ref=11185977",
     "size": 8903272
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qYwSYS55nw--Vrr1wG0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=9Lp2qhGavYqhhyV-7pg"
    }
   ],
   "media": {
@@ -41,15 +41,38 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 4/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
-  "upcoming": false
+  "chair": "นางสาวรัชนีกร ทองทิพย์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "การจัดการมลพิษและสิ่งแวดล้อมหลังน้ำท่วมในกรุงเทพมหานคร",
+  "summary": "ที่ประชุมพิจารณาศึกษาแนวทางการจัดการมลพิษและสิ่งแวดล้อมภายหลังสถานการณ์น้ำท่วมในกรุงเทพมหานคร โดยเชิญกรุงเทพมหานคร สำนักงานเขตลาดกระบัง สำนักงานเขตคลองสามวา สำนักสิ่งแวดล้อม และสำนักอนามัย มาให้ข้อมูล ที่ประชุมรับทราบข้อมูลเรื่องการฟื้นฟูสภาพแวดล้อมและการจัดการขยะและสิ่งปฏิกูลหลังน้ำท่วม ซึ่งมีมูลค่าความเสียหายกว่า 7,000 ล้านบาท การเยียวยาประชาชนที่ได้รับผลกระทบ บทเรียนจากเหตุการณ์น้ำท่วม การดูแลสุขภาพกายและสุขภาพจิตของประชาชน และแนวทางป้องกันโรคติดต่อหลังน้ำท่วม รวมทั้งการดำเนินงานในพื้นที่เขตลาดกระบังและเขตคลองสามวา",
+  "items": [
+   [
+    "การฟื้นฟูสภาพแวดล้อม การจัดการขยะและสิ่งปฏิกูลหลังน้ำท่วม การเยียวยาประชาชน และบทเรียนจากเหตุการณ์ (กรุงเทพมหานคร)",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "การฟื้นฟูสุขภาพกายและสุขภาพจิตของประชาชน และการป้องกันโรคติดต่อหลังน้ำท่วม (สำนักอนามัย)",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "การจัดการขยะและการเยียวยาประชาชนในเขตลาดกระบังและเขตคลองสามวา",
+    "รับฟังข้อมูล",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "น้ำท่วม",
+   "สิ่งแวดล้อม",
+   "การเยียวยา",
+   "ขยะ"
+  ],
+  "places": [
+   "กรุงเทพมหานคร"
+  ],
+  "upcoming": false,
+  "chair_key": "ratchaneekorn"
  },
  {
   "n": 3,
