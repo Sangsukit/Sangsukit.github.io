@@ -7,11 +7,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yBQeKEXPqbUY0kf7UIW8qirbVlj9dFW1iB157n6GD1TkfZewTudgDt7CURZv6OuOiwsBrVq4nR_MninobbUinXg-yxC9C1o7bfzQ75AS8a2Vydw81Z2AGWdW3POU7KxvavtDfqTmaJ4sRfD7SnTu9eTvB80OEuM6hLG4uA==&ref=11205183"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xrdgO4JxaJl8jLhtKFgofg4hBOsWti-er7_crUXndlO5vMxBu-spO8EF_nvfGJUMGF_x9TretQxXj-k38f8qXoS3J5ViS4L1tFFtkKbq-6IiOTR7Z9J6qzE6FzyY4oeK1FPBi-KwZUmPIXyIUiMhWlLsJ3AFn239F-FxsA==&ref=11205183",
+    "size": 79298
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aeUB4D0EDvxVVOfeLQpWiYLl1WtxZ6oOQQutHTv9WhQNdYQGst-5h2ePchq5xHods3nblLxKMWFKLUCWoOQkS9br3A0ooPAojptDFYw_s7vRd8N39EJMUrUp7QL2tkdPblCMWIThDqennS43RtBDPylfCUTePwdmw68EBg==&ref=11216527",
+    "size": 79301
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=G8567AUlcg4lyOP-b-0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=-N80LEDSM85OXDgStdE"
    }
   ],
   "chair": "",
@@ -42,17 +48,27 @@
  {
   "n": 40,
   "date": "2026-11-17",
-  "time": "09.30",
-  "room": "ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา",
+  "time": "",
+  "room": "",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Ta6bh7wz9Uil_SfrhIpykfyj8DLGXjumv4biDoCPBxbcxazlsHZ7R9xPZuJAsgUNxvjoYENTV6XahKbCtGv-9zGiQXdV62URxuOLLmkd609oBbmepl1i80DG3BSwu12VJRBBRdn-OWX7tnBiQ0tRaer8RBtCNrkYtsj1BA==&ref=11165666",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iFfUlTDZ-7DqoQyKMyWSvKklPmEdyUvOOy2HPKoe_XM1SwCDxD4Azy5husZmw7Ab4bEY6cmyegYVX2l8bFs8SYaCrjZUl3VsocpMCD_fB09lrnSJMWSo6aA0ldCAGhNZDptlnGjMpaDru3ebOl1MJo_dDlBmKC0Ac-yRlA==&ref=11165666",
     "size": 98701
    },
    {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=e2bWBQ15kgv4Eq0Z9lM1X0qo6v9PjfxMg_gIx6tg4qyGviiLSVRTv1yPljintL-1ECW3RyFLPtv9T-BWowI5UM9PcXVuCRLXGpyeROfKM_FRgUoPoWJkH34_lHk7EhfJLIoqWFYQTJ0C_L-bB-8CD70Z2pscbjpbGfeOqA==&ref=11216617",
+    "size": 98705
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cpgSJFx81EMrf_YkJhNP_oSm3DDquukVceElG0wYTDedjFFUPviRrP-0apEJsR0LnNJW3XJpAPl_4dvLEhxQ3WcXYYFIpCkkEd6kW5J1RQGGSRci58d8x8w6nacJzyl4eK5_vOzSd2QHAKTr_PX4Zdw0LZ1lVZJgLSdC0Q==&ref=11216622",
+    "size": 586852
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zqcLlM8p58Fs6lpYtT0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=4N7qFzRDFgjbvzjlZ78"
    }
   ],
   "media": {
@@ -81,29 +97,33 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "แนวทางการดำเนินงานของคณะอนุกรรมาธิการ",
-  "summary": "นัดประชุมวันอังคารที่ 17 พฤศจิกายน 2569 เวลา 09.30 น. ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา และผ่านสื่ออิเล็กทรอนิกส์ วาระคือการพิจารณาแนวทางการดำเนินงานของคณะอนุกรรมาธิการ ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "chair": "นายอมรศักดิ์ กิจธนานันท์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "กรอบประเด็นศึกษาปีงบประมาณ พ.ศ. 2570 และร่างกำหนดการศึกษาดูงานจังหวัดชลบุรี",
+  "summary": "ที่ประชุมพิจารณาประเด็นที่คณะอนุกรรมาธิการจะศึกษาในปีงบประมาณ พ.ศ. 2570 จำนวน 7 ประเด็น ได้แก่ 1) ความเหลื่อมล้ำในการเข้าถึงอุดมศึกษาของผู้เรียนกลุ่มด้อยโอกาส ผู้พิการ และผู้ขาดแคลนทุนทรัพย์ โดยเสนอให้มีกลไกสนับสนุนสถาบันอุดมศึกษาในท้องถิ่นและวิทยาลัยชุมชนอย่างเป็นระบบ 2) การบริหารจัดการและธรรมาภิบาลในสถาบันอุดมศึกษาหลังการเปลี่ยนเป็นมหาวิทยาลัยในกำกับของรัฐ เช่น กระบวนการสรรหาผู้บริหาร ความโปร่งใสในการใช้งบประมาณ และการพิจารณาตำแหน่งทางวิชาการที่ใช้เวลานาน โดยเสนอให้ศึกษาผลของการเปลี่ยนสถานภาพ ทบทวนกลไกจัดสรรงบประมาณให้คำนึงถึงความจำเป็นและความคุ้มค่า และส่งเสริมการหารือร่วมกันในที่ประชุมอธิการบดี 3) การพัฒนาระบบการเรียนรู้ตลอดชีวิต ให้สถาบันอุดมศึกษาเป็นศูนย์กลางการเรียนรู้สำหรับทุกช่วงวัย (Upskill และ Reskill) 4) การสร้างความเชี่ยวชาญเฉพาะทางของสถาบันอุดมศึกษาและลดการเปิดหลักสูตรซ้ำซ้อน โดยใช้การจัดสรรงบประมาณเชิงยุทธศาสตร์ 5) การพัฒนากำลังคนด้าน STEM โดยสร้างแรงจูงใจตั้งแต่ระดับมัธยมศึกษาและร่วมมือกับภาคอุตสาหกรรม 6) การส่งเสริมผู้ประกอบการวิสาหกิจเริ่มต้น (Start-Up) ให้สถาบันอุดมศึกษาเป็นศูนย์บ่มเพาะธุรกิจ และมีกลไกทางกฎหมายให้ร่วมลงทุนกับภาคเอกชนได้คล่องตัวขึ้น และ 7) ผลกระทบของปัญญาประดิษฐ์ (AI) ต่อการอุดมศึกษา นอกจากนี้ ที่ประชุมพิจารณาร่างกำหนดการศึกษาดูงานและสัมมนาที่จังหวัดชลบุรี ซึ่งรวมถึงการเยี่ยมชมสถาบันอุดมศึกษาในพื้นที่ และการจัดสัมมนาเพื่อรับฟังความคิดเห็นจากภาครัฐ ท้องถิ่น และภาคเอกชน เกี่ยวกับผลการพิจารณาศึกษาของคณะอนุกรรมาธิการ",
   "items": [
    [
-    "แนวทางการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 3",
+    "ประเด็นศึกษาปีงบประมาณ พ.ศ. 2570 (7 ประเด็น): ความเหลื่อมล้ำในการเข้าถึงอุดมศึกษา ธรรมาภิบาลในสถาบันอุดมศึกษา การเรียนรู้ตลอดชีวิต ความเชี่ยวชาญเฉพาะทาง กำลังคนด้าน STEM ผู้ประกอบการ Start-Up และผลกระทบของ AI",
+    "พิจารณา",
     "sub"
+   ],
+   [
+    "ร่างกำหนดการศึกษาดูงานและสัมมนา จังหวัดชลบุรี",
+    "พิจารณา",
+    "visit"
    ]
   ],
   "tags": [
    "อุดมศึกษา",
-   "วาระการประชุม"
+   "ธรรมาภิบาล",
+   "STEM",
+   "ปัญญาประดิษฐ์ (AI)"
   ],
-  "places": [],
+  "places": [
+   "ชลบุรี"
+  ],
   "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา"
-  }
+  "chair_key": "amornsak"
  },
  {
   "n": 39,

@@ -1,5 +1,56 @@
 [
  {
+  "n": 47,
+  "date": "2026-11-25",
+  "time": "10.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 426 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5EYZa71RvO68hUsDvViSaScyw3rQcw4qliqt-2Qa1FGEyYTsaS9Dti_PUd5olFoQX842b6jWgH0Vh33uC3qH40OBPInrWlZdbzvNlTgpnExyx8SNfUpXWBuMpBzBjKYgOnTUo1JwW9Msh7CJ-lRwTQc6Xxe__mvhaentAA==&ref=11216064",
+    "size": 111064
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MhNgt7aCl8iHXYgYsAqhnFBSBKZVI9qxuSGdcicK-Ql0If1kms242bZakHUTMzJA6YlqU4WfdzQl8oP4wAZBmmh355SwWQ-YwcXKaZrp-0n8f0rwdMPbOe4whg6WX2mh_dP7gKzOxYIclxbm2utLxSGlHMnFUyCYHZC9Rg==&ref=11216302",
+    "size": 111064
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=57enmeGS73-5igjQ_ME"
+   }
+  ],
+  "chair": "นายกมล รอดคล้าย",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "เตรียมความพร้อมด้านการศึกษาของประเทศไทยสู่การเป็นสมาชิก OECD",
+  "summary": "การประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 10.30 น. ห้องประชุมกรรมาธิการ CA 426 ชั้น 4 อาคารรัฐสภา และผ่านสื่ออิเล็กทรอนิกส์ วาระคือพิจารณาศึกษาแนวทางการเตรียมความพร้อมด้านการศึกษาของประเทศไทยสู่การเป็นสมาชิกองค์การเพื่อความร่วมมือทางเศรษฐกิจและการพัฒนา (OECD) โดยเชิญสถาบันพระปกเกล้า และสำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ มาให้ข้อมูล และผลการดำเนินงานของคณะอนุกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "แนวทางการเตรียมความพร้อมด้านการศึกษาของประเทศไทยสู่การเป็นสมาชิก OECD (สถาบันพระปกเกล้า สำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ)",
+    "วาระที่ 3.1",
+    "sub"
+   ],
+   [
+    "ผลการดำเนินงานของคณะอนุกรรมาธิการ",
+    "วาระที่ 3.2",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "OECD",
+   "การศึกษา",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 426 ชั้น 4 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 46,
   "date": "2026-11-18",
   "time": "10.30",
@@ -7,12 +58,22 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xWC9VSMGtC80joblKGqGUAUFqqbEOSBexLitrLlLOlh9z6ZRFA6ISSVAzWNhtAks_jGcUh9LkbsmOFb7D_NNmJNUtjbOARBtsq30roL9Vsl9oTqvBFC9mZE3uz8g-Ie2Vs4rfv9lxFpwd_I16kFvP_5noyXdXxV_kI3nnw==&ref=11165777",
-    "size": 120742
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gsPaL3EsZB6q_jghBnL9geAck90XHP5_fN11aeQjpQhbdYs6qvPxdcNbOeKPhxJJTSqtUUav9P8T_khDOqMWfimRUCTk4gqAxSlPp8BoMVjC9mMhcYHvPPrJOwZRb8OZEccASPgxPeEasNSA1pGrQMWTgxtXKdIS5qeAXA==&ref=11165777",
+    "size": 120750
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RFu3Ech9eP45JB--sQ6LjrJS-NzvBqP5ez-vUb69IUbQKuEsN8Zoy58Ha1AFZWjvKr-rYyXz-Vx67spr9QqHwNYS-SumarzWDfpX3FjA6LDXd0G3JmmLX68nbG9n6X1bs0h1svR0UNqr6reSQQK8jxcjBjb8lkRf5eH6nQ==&ref=11216745",
+    "size": 120750
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=X6n_6CW_K2yBCn8YDqg9C2Bkazf_KUmOuM9ZhgNpsAdV0LcYNccpDMlI365Ak6r94p07y-EY3vmPE3zdedOWYwrpmPrAgy2I4VWGsQKk44cBAcbq-EKfqky1VtB46w34tE-8lEMnlrkFCB4oRYuxkujg5k5SGmsHo1eCjw==&ref=11216756",
+    "size": 1530356
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=djkcfUszWiC9D1M0BCI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rCxjc4Koo39IDdD9spM"
    }
   ],
   "media": {
@@ -44,36 +105,36 @@
   "chair": "นายกมล รอดคล้าย",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
-  "headline": "การศึกษาสำหรับเด็กที่ไม่มีสัญชาติไทยและบุตรหลานแรงงานข้ามชาติ",
-  "summary": "การประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 10.30 น. ห้องประชุมกรรมาธิการ CA 426 ชั้น 4 อาคารรัฐสภา และผ่านสื่ออิเล็กทรอนิกส์ วาระคือพิจารณาร่างรายงานเรื่องการจัดการศึกษาสำหรับเด็กที่ไม่มีสัญชาติไทยและบุตรหลานแรงงานข้ามชาติ กรณีศึกษาการดำเนินงานขององค์กรเอกชนในจังหวัดสมุทรสาครและจังหวัดตาก โดยคณะอนุกรรมาธิการส่งเสริมการเรียนรู้ฯ และผลการดำเนินงานของคณะอนุกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "เห็นชอบรายงานการจัดการศึกษาสำหรับเด็กที่ไม่มีสัญชาติไทยและบุตรหลานแรงงานข้ามชาติ และอนุมัติการศึกษาดูงานจังหวัดชลบุรี",
+  "summary": "ที่ประชุมพิจารณาผลการดำเนินงานของคณะอนุกรรมาธิการ 2 คณะ เรื่องแรก คณะอนุกรรมาธิการการส่งเสริมการเรียนรู้ การศึกษาเอกชน การศึกษาพิเศษ และความเท่าเทียมทางการศึกษา เสนอร่างรายงานการพิจารณาศึกษา เรื่อง การจัดการศึกษาสำหรับเด็กที่ไม่มีสัญชาติไทยและบุตรหลานแรงงานข้ามชาติ (เมียนมา) กรณีศึกษาการดำเนินงานขององค์กรเอกชนในจังหวัดสมุทรสาครและจังหวัดตาก รายงานพบว่าอุปสรรคสำคัญเกิดจากข้อติดขัดเชิงระบบและเงื่อนไขในกฎกระทรวง ทำให้เด็กกลุ่มนี้หลุดออกจากระบบการศึกษาเมื่อเข้าสู่ระดับมัธยมศึกษาถึงร้อยละ 96.7 และสรุปปัญหาเชิงโครงสร้าง 7 ประการ เช่น สถานะบุคคลและเอกสาร ระบบข้อมูลที่ไม่เชื่อมโยงกัน ภาษา การย้ายถิ่นตามผู้ปกครอง และการขาดแคลนครูและงบประมาณ ข้อเสนอแบ่งเป็น 3 ระยะ ระยะสั้นภายใน 1 ปี เช่น รับรองสถานะชั่วคราวของศูนย์การเรียนรู้เดิม ตั้งคณะทำงานร่วม 5 หน่วยงาน และแก้ไขกฎกระทรวง พ.ศ. 2547 โดยมีเงื่อนไข เช่น ทำฐานข้อมูลนักเรียนทุกคนในระบบของรัฐ และสอนภาษาไทย หน้าที่พลเมือง และวัฒนธรรมไทยอย่างน้อยร้อยละ 30 ของเวลาเรียน ระยะกลาง 1–3 ปี ขยายต้นแบบ MECC Model ไปยังจังหวัดที่มีแรงงานข้ามชาติจำนวนมาก และระยะยาว 3–5 ปีขึ้นไป บรรจุแนวทางในแผนระดับชาติ และเจรจาเรื่องการเทียบโอนวุฒิการศึกษากับเมียนมา ที่ประชุมเห็นชอบร่างรายงาน และให้เตรียมเสนอต่อที่ประชุมวุฒิสภาตามข้อบังคับการประชุมวุฒิสภา พ.ศ. 2562 ข้อ 98 และข้อ 99 เพื่อส่งต่อคณะรัฐมนตรีและหน่วยงานที่เกี่ยวข้อง เรื่องที่สอง คณะอนุกรรมาธิการการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม รายงานสถานะรายงานการพิจารณาศึกษา 3 เรื่อง คือ การนำงานวิจัยด้านการแพทย์ สุขภาพ การเกษตรและอาหารไปใช้ประโยชน์ ซึ่งรอบรรจุระเบียบวาระการประชุมวุฒิสภา และเรื่องการศึกษาเชิงบูรณาการกับการทำงาน (CWIE) กับการยกระดับมหาวิทยาลัยไทยสู่การจัดอันดับนานาชาติ ซึ่งอยู่ระหว่างตรวจสอบรูปแบบ รวมทั้งกรอบประเด็นที่จะศึกษาในปีงบประมาณ พ.ศ. 2570 จำนวน 7 ประเด็น และการเชิญหน่วยงานมาให้ข้อมูลเรื่องผลกระทบของปัญญาประดิษฐ์ (AI) ต่อการอุดมศึกษา และการเชื่อมโยงหลักสูตรอาชีวศึกษาสู่ระดับอุดมศึกษา ที่ประชุมอนุมัติการเดินทางไปศึกษาดูงานและจัดสัมมนาที่จังหวัดชลบุรี วันที่ 25–26 มกราคม",
   "items": [
    [
-    "ร่างรายงานการจัดการศึกษาสำหรับเด็กที่ไม่มีสัญชาติไทยและบุตรหลานแรงงานข้ามชาติ (สมุทรสาคร ตาก)",
-    "วาระที่ 3.1",
+    "ร่างรายงานการพิจารณาศึกษา เรื่อง การจัดการศึกษาสำหรับเด็กที่ไม่มีสัญชาติไทยและบุตรหลานแรงงานข้ามชาติ (เมียนมา) จังหวัดสมุทรสาครและจังหวัดตาก: เสนอวุฒิสภาตามข้อบังคับ ข้อ 98 และข้อ 99",
+    "เห็นชอบ",
     "sub"
    ],
    [
-    "ผลการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 3.2",
+    "ผลการดำเนินงานของคณะอนุกรรมาธิการการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม: สถานะรายงาน 3 เรื่อง และกรอบประเด็นศึกษาปีงบประมาณ พ.ศ. 2570 จำนวน 7 ประเด็น",
+    "รับทราบ",
     "sub"
+   ],
+   [
+    "การเดินทางไปศึกษาดูงานและจัดสัมมนา จังหวัดชลบุรี (25–26 มกราคม)",
+    "อนุมัติ",
+    "visit"
    ]
   ],
   "tags": [
    "เด็กไม่มีสัญชาติไทย",
    "แรงงานข้ามชาติ",
    "ความเท่าเทียมทางการศึกษา",
-   "วาระการประชุม"
+   "อุดมศึกษา"
   ],
   "places": [
    "สมุทรสาคร",
-   "ตาก"
-  ],
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 426 ชั้น 4 อาคารรัฐสภา"
-  }
+   "ตาก",
+   "ชลบุรี"
+  ]
  },
  {
   "n": 45,
@@ -83,22 +144,26 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6SWduwCbkTSoJ19jg9thuBa8F4yfb_CmYJpBFGk9IVLtrU0eX642ObzQKRfSrVU_McxA4hL8vJaZR0mVoXJ15SXfcTTkvNH97yo1BEPdlNnKR8c3uJkm1cBg6se_Dsdv5UH1W6UNEIXgTwALLd4slhLM6yNBefGJ-tkrHQ==&ref=11117859",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=LCTgQCqExGmNOpQsP5OJL46Wr3ftgPrgY8XHM5EKIrezO2fLs7aOYGCWvaSRtiiLVdXqwMNADd93aF1uzz3BphGf7ktHAOoPx6yDZF1-MvVRWyJ5kU9dWpUycOgYlpbyJy1rzsAOTUzg9PfnASUah30boxDXx2JC2rI7og==&ref=11117859",
     "size": 109213
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ddgovyf1niQK5TwDSqggvZI3QB_ZUNcj53fOgtME-SSvvqTYUHc-w9rw3TmxYj1n7O5sEhvkH4kaOIN9zXYaiIa8D1tqjFW3PmlztOAgXpPCI88mm5a3Ru7b8YK11ISe-nB_AUZdNOoljkplRSWOiDNjKW6GNP04g6BIbQ==&ref=11175293",
-    "size": 109213
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hPerY3pKw-fj9vFwwwVHM4tUZT3PR-MwGPiuR_hNT4Le549anE8VDFNeZ5jyqXmudo5ACnd0r9DabveF67RNn6VjETx7qepjcEzIClMO96wVx2gXia1BngYh61DiexjeRsrHM0Wv98eIljMEqppitgrdfbUGMeNvU9ZYfg==&ref=11175293",
+    "size": 109228
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Qu3H_TaL9yS_K2bILDK3j3zKSOKJk9tAjFbn4HDCXdKjqkW3urVUGgY7uflLSU9ZLd5orPDAv5O7N9looCiu5REEBB8Z5dCDhxxAZ4tPN7K0w6RDrqsfntsALm7yLQF6JQwhgQWp6FcdUfp5XfTaMr4d6xqXGcTgFmQSHw==&ref=11175297",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pmpl49hCi0DU8VY7tR2IIbyLky_hPV6q6cbzXVtPu8i3HF0sztkqLJNxvkkKAhVweqMlmL63cAkxd6zM9eTQ7hpsyvb1Bsvk0u3Rx-HAvJ1C9mwFc4OJS_NOF_C3KteW0oRxegY0QibMlUEvdTHSDaT9mdamfv5uF-6aJQ==&ref=11175297",
     "size": 1510251
    },
    {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2yXlMBh9XE_r8Psc6VgvRz8AKVQRu-SGuf9C4VkAlLuDX1stkBr7KJcbWFbsaeW28Q5WHqSZW5hrTS4BpRBZnhtwusBA-86Ny0A2yx02eDzpBUA-EJ-q5jW4FlmnbMlIjeOl6qZBsxVzg4MdvffMnuyhoDRMnCRuOtOQQA==&ref=11216449"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WB1MBchfbNyoFqJTDwo"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=vJBwleuGPtUXUkN7fk0"
    }
   ],
   "media": {
