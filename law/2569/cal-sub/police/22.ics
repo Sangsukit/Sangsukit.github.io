@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//law-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:law-2569-police-m22@sangsukit.github.io
+DTSTAMP:20261113T121510Z
+DTSTART:20261118T030000Z
+DTEND:20261118T060000Z
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รการตำรวจ (วุฒิสภา) ครั้งท
+ ี่ 22/2569
+LOCATION:ห้องประชุม 401 ชั้น 4 อาคา
+ รรัฐสภา (สัปปายะสภาสถาน 1111 
+ ถนนสามเสน เขตดุสิต กรุงเท
+ พมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/law/2569/sub-police.ht
+ ml#read-22
+URL:https://parliamentx.com/law/2569/sub-police.html#read-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารการตำรวจ (วุฒิสภา) ครั้ง
+ ที่ 22/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

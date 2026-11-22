@@ -1,0 +1,38 @@
+[
+ {
+  "n": 1,
+  "date": "2024-12-13",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0EOESBXRT8CSUCeiK9U-mokXhy6bQ9lTmMuyBeHQIAiRX1Cu_2CCqJXVcNv1Iz1_zsCzMVzZiOabmd8PN0Qra0GwLnsxrHKjknAbdCnnQ4UiKpt1EA3sxUR3Cnm5DOzXOYKciJnUuX6CY4wI7tts1XE_cZSBu3wPzek=&ref=6618498",
+    "size": 120046
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SpH9iFQyMPUErte6zySrRGYhBYCUN5QzeY-8ySDMJnaNFBnQvtuBaIbW4xClrNslxm7H5rXaCVImZT23pLWhJ6Gas_nQ9sucsLj-Q-PY670rEMG-1gCmtbeDLD3GPAhiZ4vifr9CFs7GcbBd1sVuwFZNu9I_vGKIPdI=&ref=6618499"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=S6wAnjQS7SFo6T9P8L6Wv1jTM7Lpu2CdFu3KEz45SZ8B1YMU3QEpocawUMt6C0RWNdlQGs5FDqaeUnlxLWecFdji5xzfR6GSYqDP2Pf6BX6nvgHrjcnS4VQR5Sw92BzwwjIwncq6yJiSYkftN8GBX3ca9yRX53bkqao=&ref=6922796",
+    "size": 1979571
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AFsOaa7Tx3R6g82J7-c"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2567",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//commerce-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:commerce-2569-smegov-m17@sangsukit.github.io
+DTSTAMP:20261113T120052Z
+DTSTART:20261119T060000Z
+DTEND:20261119T090000Z
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รส่งเสริมเอสเอ็มอีและเขต
+ เศรษฐกิจพิเศษสู่ตลาดภาคร
+ ัฐและออนไลน์ (วุฒิสภา) ครั
+ ้งที่ 17/2569
+LOCATION:ห้องประชุมกรรมาธิการ CB 
+ 311 (สว.) ชั้น 3 อาคารรัฐสภา (สั
+ ปปายะสภาสถาน 1111 ถนนสามเสน 
+ เขตดุสิต กรุงเทพมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/commerce/2569/sub-smeg
+ ov.html#read-17
+URL:https://parliamentx.com/commerce/2569/sub-smegov.html#read-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารส่งเสริมเอสเอ็มอีและเข
+ ตเศรษฐกิจพิเศษสู่ตลาดภาค
+ รัฐและออนไลน์ (วุฒิสภา) คร
+ ั้งที่ 17/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

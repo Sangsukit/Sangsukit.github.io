@@ -1,0 +1,247 @@
+{
+ "_note": "Shared list of news sources for ALL ParliamentX features (Hot Topic, meeting preparation guide, news links). Sukit 11 Nov 2569 15:48 UTC: 'Only from mainstream trustable sources from both domestic and internationals'. Add or remove an outlet HERE only, never in a feature's own copy. 'feeds' = RSS used by automatic features; an outlet with no feed may still be linked by hand after reading the article. Rules for every feature: headline + outlet + date + link out only; never copy article text or photos; no opinion columns, party statements, gossip or tabloid pages.",
+ "updated": "2026-11-11",
+ "domestic": [
+  {
+   "id": "thaipbs",
+   "name_th": "ไทยพีบีเอส",
+   "name_en": "Thai PBS",
+   "domains": [
+    "thaipbs.or.th"
+   ],
+   "feeds": [],
+   "search": "https://www.thaipbs.or.th/search?q={q}",
+   "search_lang": "th"
+  },
+  {
+   "id": "thairath",
+   "name_th": "ไทยรัฐ",
+   "name_en": "Thairath",
+   "domains": [
+    "thairath.co.th"
+   ],
+   "feeds": [
+    "https://www.thairath.co.th/rss/news",
+    "https://www.thairath.co.th/rss/money"
+   ],
+   "search": "https://www.thairath.co.th/search?q={q}",
+   "search_lang": "th"
+  },
+  {
+   "id": "matichon",
+   "name_th": "มติชน",
+   "name_en": "Matichon",
+   "domains": [
+    "matichon.co.th"
+   ],
+   "feeds": [
+    "https://www.matichon.co.th/economy/feed",
+    "https://www.matichon.co.th/feed"
+   ]
+  },
+  {
+   "id": "dailynews",
+   "name_th": "เดลินิวส์",
+   "name_en": "Daily News",
+   "domains": [
+    "dailynews.co.th"
+   ],
+   "feeds": [
+    "https://www.dailynews.co.th/news/feed/"
+   ]
+  },
+  {
+   "id": "infoquest",
+   "name_th": "อินโฟเควสท์",
+   "name_en": "InfoQuest",
+   "domains": [
+    "infoquest.co.th"
+   ],
+   "feeds": [
+    "https://www.infoquest.co.th/feed"
+   ]
+  },
+  {
+   "id": "bangkokpost",
+   "name_th": "บางกอกโพสต์",
+   "name_en": "Bangkok Post",
+   "domains": [
+    "bangkokpost.com"
+   ],
+   "feeds": [
+    "https://www.bangkokpost.com/rss/data/thailand.xml",
+    "https://www.bangkokpost.com/rss/data/business.xml"
+   ],
+   "search": "https://www.bangkokpost.com/search/?q={q}",
+   "search_lang": "en"
+  },
+  {
+   "id": "nation",
+   "name_th": "เดอะเนชั่น",
+   "name_en": "The Nation",
+   "domains": [
+    "nationthailand.com"
+   ],
+   "feeds": [],
+   "search": "https://www.nationthailand.com/search?q={q}",
+   "search_lang": "en"
+  },
+  {
+   "id": "bangkokbiz",
+   "name_th": "กรุงเทพธุรกิจ",
+   "name_en": "Bangkok Biz News",
+   "domains": [
+    "bangkokbiznews.com"
+   ],
+   "feeds": [],
+   "search": "https://www.bangkokbiznews.com/search?q={q}",
+   "search_lang": "th"
+  },
+  {
+   "id": "prachachat",
+   "name_th": "ประชาชาติธุรกิจ",
+   "name_en": "Prachachat",
+   "domains": [
+    "prachachat.net"
+   ],
+   "feeds": [
+    "https://www.prachachat.net/feed"
+   ]
+  },
+  {
+   "id": "tna",
+   "name_th": "สำนักข่าวไทย อสมท",
+   "name_en": "TNA (MCOT)",
+   "domains": [
+    "tna.mcot.net"
+   ],
+   "feeds": [],
+   "search": "https://tna.mcot.net/tna/th?s={q}",
+   "search_lang": "th"
+  },
+  {
+   "id": "nbt",
+   "name_th": "สำนักข่าวแห่งชาติ (NBT)",
+   "name_en": "National News Bureau (NBT)",
+   "domains": [
+    "thainews.prd.go.th"
+   ],
+   "feeds": [],
+   "search": "https://thainews.prd.go.th/th/search/?keyword={q}",
+   "search_lang": "th"
+  }
+ ],
+ "international": [
+  {
+   "id": "reuters",
+   "name_th": "รอยเตอร์",
+   "name_en": "Reuters",
+   "domains": [
+    "reuters.com"
+   ],
+   "feeds": [],
+   "search": "https://www.reuters.com/site-search/?query={q}",
+   "search_lang": "en"
+  },
+  {
+   "id": "ap",
+   "name_th": "เอพี",
+   "name_en": "Associated Press",
+   "domains": [
+    "apnews.com"
+   ],
+   "feeds": [],
+   "search": "https://apnews.com/search?q={q}",
+   "search_lang": "en"
+  },
+  {
+   "id": "afp",
+   "name_th": "เอเอฟพี",
+   "name_en": "AFP",
+   "domains": [
+    "afp.com"
+   ],
+   "feeds": []
+  },
+  {
+   "id": "bbcthai",
+   "name_th": "บีบีซีไทย",
+   "name_en": "BBC News Thai",
+   "domains": [
+    "bbc.com/thai"
+   ],
+   "feeds": [
+    "https://feeds.bbci.co.uk/thai/rss.xml"
+   ]
+  },
+  {
+   "id": "bbc",
+   "name_th": "บีบีซี",
+   "name_en": "BBC News",
+   "domains": [
+    "bbc.com",
+    "bbc.co.uk"
+   ],
+   "feeds": [
+    "https://feeds.bbci.co.uk/news/world/asia/rss.xml"
+   ],
+   "search": "https://www.bbc.co.uk/search?q={q}",
+   "search_lang": "en"
+  },
+  {
+   "id": "guardian",
+   "name_th": "เดอะการ์เดียน",
+   "name_en": "The Guardian",
+   "domains": [
+    "theguardian.com"
+   ],
+   "feeds": [
+    "https://www.theguardian.com/world/thailand/rss"
+   ]
+  },
+  {
+   "id": "nikkei",
+   "name_th": "นิกเกอิ เอเชีย",
+   "name_en": "Nikkei Asia",
+   "domains": [
+    "asia.nikkei.com"
+   ],
+   "feeds": [
+    "https://asia.nikkei.com/rss/feed/nar"
+   ]
+  },
+  {
+   "id": "cna",
+   "name_th": "ซีเอ็นเอ",
+   "name_en": "CNA",
+   "domains": [
+    "channelnewsasia.com"
+   ],
+   "feeds": [
+    "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511"
+   ]
+  }
+ ],
+ "official": [
+  {
+   "id": "senate",
+   "name_th": "วุฒิสภา",
+   "name_en": "The Senate",
+   "domains": [
+    "senate.go.th"
+   ],
+   "note": "official source, not news media"
+  },
+  {
+   "id": "parliament",
+   "name_th": "รัฐสภา",
+   "name_en": "Parliament",
+   "domains": [
+    "parliament.go.th",
+    "tpchannel.org"
+   ],
+   "note": "official source, not news media"
+  }
+ ],
+ "_note_search": "search/search_lang (added by the preparation-guide thread 11 Nov 2569): the outlet's own search page, {q} = URL-encoded query. Thai outlets checked from the cloud container; Reuters/AP/BBC unreachable from the container, documented search URLs."
+}

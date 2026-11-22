@@ -1,0 +1,229 @@
+[
+ {
+  "n": 4,
+  "date": "2026-11-12",
+  "time": "13.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9zQDUtOjGvXrtFKwaPeZOyej8kyl0fGbqN7KHEBNcK7mYNmQ1P6feSlfn2sQp-xLnM6dLiYpJQ533qZN5zstC77IJb8AICLFE061QmYkf6VoJEv92ly6vZyGFA9ZzQVAxRVPofPCnOrhtudhJWk_pgKgLQhWLN4NtFWWgg==&ref=11185977",
+    "size": 8903272
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qYwSYS55nw--Vrr1wG0"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v4.mp4",
+    "poster": "img/poster-sub-water-4.jpg",
+    "vtt": "media/sub-water-v4.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:00",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-4",
+    "size": 5063095
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v4.mp4",
+     "poster": "img/poster-sub-water-4.jpg",
+     "vtt": "media/sub-water-v4.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:00",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-4",
+     "size": 5063095
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 4/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 3,
+  "date": "2026-10-29",
+  "time": "13.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1gGu_zlZvi_aBtUAF5Nzi1-Ptrf8K5FHcQGI8Ewa4_r0zK-n2CJF07dyPJ9hcopLeHw323lBiDOvQ5VAk3lQeC-P4BayyZxwyjO4uCU3TquPCh0jNuT2ZBF7pjc6e9owjyT4Rugli8Vv2Hpsq-T0kLembCGrwpatvVCg1w==&ref=11059396",
+    "size": 138217
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aq5cVMFt6UKtbCdfQGBHEk4_3VJh9z8mLWw-d_st0fYet-ZIuwOlSSa3UCbyvKcD5sjqRDBhxJzIuurnVh0lWhPmTOaye5euNoJP2Ovd1oqMSG-2y4hlO8jvwglRB2W6eo6mshMEE6zMJBhTpzgzLRZOwdwURkD-6QZseA==&ref=11073241",
+    "size": 14757069
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lXkMx9njzqGua2nyxxA"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v3.mp4",
+    "poster": "img/poster-sub-water-3.jpg",
+    "vtt": "media/sub-water-v3.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:46",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-3",
+    "size": 4362434
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v3.mp4",
+     "poster": "img/poster-sub-water-3.jpg",
+     "vtt": "media/sub-water-v3.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:46",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-3",
+     "size": 4362434
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 3/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 2,
+  "date": "2026-10-22",
+  "time": "13.30",
+  "room": "ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iMA44u8aGzxdoOmE_WgFl_16N90ocFOmDDr2CsZyZ9r_WQSzVjVsdOZy5ZdgQxj__J30CEyU-nisHIFV-T02KQYhrsyFr_spenMhXMaFRYHuIAqTmZ7KgOyon5hWmvSdaf9C-pQ-c1gsOjUDIi40xwZiHHfn9w2shTD21Q==&ref=11000329",
+    "size": 144384
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=af52fkCqKsI8aHTr_n0tVUaJ04nOb8iYUq1IxtXjZoxpTvMt2p8z4M0EcjijZeZhTujLJbkJpKz3ASZ0KyC6KdtGeGdlDqCRDkcVvf8KxjuxCGJ4hYfxjEWyv2bPmorkfJLukLVlwfgJpHB0gx4niUunRptpnBIRLXhPOQ==&ref=11041407",
+    "size": 5687246
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=oa_vwJbaPZg_qCibSnE"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v2.mp4",
+    "poster": "img/poster-sub-water-2.jpg",
+    "vtt": "media/sub-water-v2.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:33",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-2",
+    "size": 3831978
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v2.mp4",
+     "poster": "img/poster-sub-water-2.jpg",
+     "vtt": "media/sub-water-v2.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:33",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-2",
+     "size": 3831978
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 2/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2026-10-08",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aXIfbmf3c6ZEkI6eeLtzdPcC4UXVMQXu8nFf-bjWeCLTVEWe0zNg-skbqZtNtZKRXhaas_1Rcv0ZZnDFUSjAvJQvMxazDQ-rMkKOh-a5zIJb8v2d4lAX2TtQKk283Jcl8mLWtXEmvSAxko__qc6Y2SMj9f4ONsp-jKwBNA==&ref=10962303",
+    "size": 142458
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lG5dsbxbgTQXYxpGkbc8X6T3uPko_3y4loV9a1knNDMRz0pvWQExTBdnMdKscW7H7nHUnhrBOwhHM99bZQs8tB-SV4C3MWw7fSbCpNcNBMAuYMTFQDzv83TjxfL6VyHdBx-kMzPKQOp18_5r5ML-lnC_Lol5EvSb-6dq0g==&ref=10972483",
+    "size": 6839050
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1aCdV2N9qY_DFTmNgT5QMQBC-T9gwUrWL2ETWq_dNyuBwMs2oRiZ1j96OoVQbdBgR-Hb2RLVrxHJoL7irdHZL2gSVRjRk_JUsWGC8i9eF5f5x1Y5F_Rxj0UMqIIxnSKB_XhKO0GAnlM2YtPa8krzsxOZv45EWxR9jdvCHw==&ref=11059185"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WqIWdN0DCi-XQ4Kaj6g"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/environment/2569/media/sub-water-v1.mp4",
+    "poster": "img/poster-sub-water-1.jpg",
+    "vtt": "media/sub-water-v1.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:21",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-1",
+    "size": 3483111
+   },
+   "videos": [
+    {
+     "src": "/video-1/environment/2569/media/sub-water-v1.mp4",
+     "poster": "img/poster-sub-water-1.jpg",
+     "vtt": "media/sub-water-v1.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:21",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-1",
+     "size": 3483111
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 1/2569",
+  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": false
+ }
+]

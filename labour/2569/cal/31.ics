@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//labour-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:labour-2569-m31@sangsukit.github.io
+DTSTAMP:20261113T121627Z
+DTSTART:20261119T060000Z
+DTEND:20261119T090000Z
+SUMMARY:ประชุม กมธ.การแรงงาน วุ
+ ฒิสภา ครั้งที่ 31/2569
+LOCATION:ห้องประชุม 406–407 ชั้น 4 อา
+ คารรัฐสภา (สัปปายะสภาสถาน 
+ 1111 ถนนสามเสน เขตดุสิต กรุง
+ เทพมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/labour/2569/#read-31
+URL:https://parliamentx.com/labour/2569/#read-31
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุม กมธ.การแรงงาน ว
+ ุฒิสภา ครั้งที่ 31/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

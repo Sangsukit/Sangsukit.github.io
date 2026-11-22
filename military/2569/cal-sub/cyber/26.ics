@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//military-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:military-2569-cyber-m26@sangsukit.github.io
+DTSTAMP:20261113T055427Z
+DTSTART:20261118T023000Z
+DTEND:20261118T053000Z
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รกิจการทางทหารด้านไซเบอร
+ ์ เทคโนโลยี อาวุธยุทโธปกร
+ ณ์ และอุตสาหกรรมป้องกันป
+ ระเทศ (วุฒิสภา) ครั้งที่ 26/2569
+LOCATION:ห้องประชุมกรรมาธิการ\nCA
+  433 ชั้น 4 อาคารรัฐสภา (สัปปา
+ ยะสภาสถาน 1111 ถนนสามเสน เขต
+ ดุสิต กรุงเทพมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/military/2569/sub-cybe
+ r.html#read-26
+URL:https://parliamentx.com/military/2569/sub-cyber.html#read-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารกิจการทางทหารด้านไซเบอ
+ ร์ เทคโนโลยี อาวุธยุทโธปก
+ รณ์ และอุตสาหกรรมป้องกัน
+ ประเทศ (วุฒิสภา) ครั้งที่ 26/2
+ 569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
