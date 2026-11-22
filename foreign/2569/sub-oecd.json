@@ -7,12 +7,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YUhvtWP7TZ1OWwwLQVNxvC17jVqykatxm0Q7jbTDqS5rYMM9-j9HtYWipSVhA9pV8p_MupnVd3IDe4FktqGr9lmFJleOcCpSdT57bSGg2kfeLemoEWV-FR2xdOXl-bOt00Fp0q1j0GYvt3TzxgcaS1wLkS3PZD34O3MZpg==&ref=11175673",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WWZzasaZeMat6-JAwmicQJaaZfjWTqdeedkk2goUB5z3GdHwxasiDSuyuZZ1cOoLLewzjheOeJHGG7fca1_53I1RYMt-l029_i4ebhAQaHIWG7IwGA7fcO4PC5GXlhuZWMEuhGPwS-okH5_qC4k5xWhPbHEDMbHY042pJg==&ref=11175673",
     "size": 201701
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AoRXpT-UOA8ogebr8OE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tKS7poxWc16ymN2cHEM"
    }
   ],
   "media": {
@@ -57,13 +57,7 @@
    "วาระการประชุม"
   ],
   "places": [],
-  "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา"
-  }
+  "upcoming": false
  },
  {
   "n": 18,

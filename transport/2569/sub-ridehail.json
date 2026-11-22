@@ -2,57 +2,87 @@
  {
   "n": 3,
   "date": "2026-11-12",
-  "time": "",
-  "room": "",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jot2zs3x6KUacWgVoB5Q6ZhjwOFfUS6KUnyHPCIFwKlQEQ7Sb_o2neECCCwY6mI2GYEh9tLYqIlKanxs-8nPODrN3ShBuqb0oF9vxw1e0feStNU9-lryAYfZttHwfhJwjQjw7ksutt5B3bIQpYi3gXzW_PqxZ-A7Nhd50w==&ref=11156586",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WhGG1cOQcKL8wOaCwTzSmOnl3Vy2VhKdGm6HUggR9Dcokfi-OFJO9HuB3e-ODQz-3y4DsMu3fdqZjrfrXdNr8hQ1UzYiwJ68kojDWdaSF69NKRxFrK6pYEayIMIQKFIZIneGDYkiK2oEhD2A0BPU_hfwOCathhqOK0N7qg==&ref=11156586",
     "size": 125839
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9HCm9hlBWwG8_g_SOlqurl99HPjJZ7I8UkRysUD9EnAIKuDc_HBHDbi-yu1fM5SiTyxwVwU7dFaZoLRWmiNjBabZHNNup6xGGMDRcW4g-4fkMDrkSXYpm-fW0WG7FY6o33TUjpgACDcZFyWYX2UYDkF4dmxqsUe4_Oc57g==&ref=11156589"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lzgIoCpRBdHvSJ7pIZo9IgZ23CVGfkbkpaRP2qgiVTrE5NSMTFgkVKMUiPfuxTHdiPQmfy4lg4WvKEcsecNYUkn4G3MzI4qHsMZUO5lQj4nmOAvMj15sj-sfiDvUfLimZe62Lvwi0Zdnrr9eXBlYAi6rk3zJnwkKezgbmQ==&ref=11156589"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8aMUEtbMyzvixWVhNmIUq4q1_wzIgjaNrntWvKK9w2-PJucE4y5UtiOWBBrNCS5461xQ6A4LEraykoSQSMeb_I3emG8P0lYq9HWHIKgw-qd3z3hk3-maaGZrMmwxGn9d3KtZtAz26uy4SLdIu-nMZ4ZzY5GiWmnmm8eFmA==&ref=11230998",
+    "size": 51888986
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=J15DAy5xZKreJtD5cAA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=H2CxywKR4UjWyJJLrMA"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 3/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายปราณีต เกรัมย์",
+  "chair_key": "pranit",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รถรับจ้างผ่านแอป: ตรวจประวัติผู้ขับ บังคับใช้กฎหมาย และการเยียวยาผู้ประสบภัย",
+  "summary": "ที่ประชุมพิจารณาการบังคับใช้กฎหมายและความปลอดภัยของผู้โดยสาร โดยเสนอให้ตรวจสอบประวัติอาชญากรรม ใบอนุญาตขับรถสาธารณะ และความพร้อมด้านสุขภาพของผู้ขับอย่างเข้มงวดก่อนเข้าสู่ระบบแพลตฟอร์ม เชื่อมข้อมูลระหว่างกรมการขนส่งทางบก สำนักงานตำรวจแห่งชาติ และหน่วยงานด้านสาธารณสุข ภายใต้หลักการคุ้มครองข้อมูลส่วนบุคคล มีฐานข้อมูลกลางเพื่อตรวจสอบผู้ขับและรถ และให้แพลตฟอร์มรับผิดชอบการตรวจสอบและแก้ไขข้อร้องเรียน ปัจจุบันยังพบการนำรถส่วนบุคคลที่ไม่ได้จดทะเบียนให้ถูกต้องและผู้ขับที่ไม่มีใบอนุญาตขับรถสาธารณะมาให้บริการ แม้กรมการขนส่งทางบกจะตรวจสอบและใช้มาตรการตัดคะแนนแพลตฟอร์มอย่างต่อเนื่อง ที่ประชุมเสนอให้แพลตฟอร์มตรวจสอบผู้ขับรายใหม่อย่างเข้มงวด กำหนดระยะเวลาให้ผู้ขับเดิมเข้าระบบอย่างถูกต้อง และรายงานความคืบหน้าต่อหน่วยงานกำกับดูแลเป็นระยะ ส่วนแพลตฟอร์มที่ประกอบธุรกิจอยู่ต่างประเทศยังมีข้อจำกัดเรื่องการเข้าถึงข้อมูลและการบังคับใช้กฎหมาย ซึ่งกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคมอยู่ระหว่างพัฒนากฎหมายเศรษฐกิจแพลตฟอร์ม ที่ประชุมยังเสนอให้ประสานข้อมูล GPS กับเจ้าหน้าที่ตำรวจ และพัฒนาช่องทางร้องเรียนที่ติดต่อเจ้าหน้าที่ได้โดยตรง ด้านการเยียวยา พระราชบัญญัติคุ้มครองผู้ประสบภัยจากรถ พ.ศ. 2535 กำหนดค่ารักษาพยาบาลสูงสุด 80,000 บาท และค่าชดเชยกรณีเสียชีวิต 500,000 บาท แต่ยังมีกรณีผู้โดยสารต้องติดต่อประกันภัยและสำรองจ่ายค่ารักษาเอง ที่ประชุมเสนอให้ศึกษาการทำบันทึกความเข้าใจ (MOU) ระหว่างหน่วยงาน รวมถึงข้อมูลจากกรมสุขภาพจิต กำหนดความรับผิดชอบของแพลตฟอร์มให้ชัดเจน และพัฒนากลไกช่วยเหลือผู้โดยสารเมื่อเกิดเหตุฉุกเฉิน ในการประชุมวันที่ 25 พฤศจิกายน 2569 จะเชิญผู้ประกอบธุรกิจแพลตฟอร์มเรียกรถสาธารณะมาให้ข้อมูล",
+  "items": [
+   [
+    "การตรวจสอบประวัติ ใบอนุญาต และความพร้อมด้านสุขภาพของผู้ขับ และฐานข้อมูลกลาง",
+    "ข้อสังเกต",
+    "sub"
+   ],
+   [
+    "การกำกับดูแลแพลตฟอร์ม: รถและผู้ขับที่ยังไม่เข้าระบบ และแพลตฟอร์มที่อยู่ต่างประเทศ",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "การประกันภัยและการเยียวยาผู้ประสบภัยตามพระราชบัญญัติคุ้มครองผู้ประสบภัยจากรถ พ.ศ. 2535",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "เชิญผู้ประกอบธุรกิจแพลตฟอร์มเรียกรถสาธารณะมาให้ข้อมูลในการประชุมวันที่ 25 พฤศจิกายน 2569",
+    "รับทราบ",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "รถรับจ้างผ่านแอป",
+   "ความปลอดภัย",
+   "ประกันภัย"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
   "n": 2,
   "date": "2026-10-29",
   "time": "10.00",
-  "room": "",
+  "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OQxbskneptllbo9M0Ph_vIz1D86ydSMeuiSzkbFPvBIplLhisiuoU1rclf6ar2LkbaQbC8dogwuUymA6xF-AlG4FGEuCGz2a_6yALMTjWN3BUDExuKYbghD5SanxB00Re-HvSsz3QotyZ7W3JIJSndynsgmNgrpHnMQpeQ==&ref=11059093",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=deFZJviYHdVOO16X_w4lpC339wPASjkqqMFRRxZAnx61fvbLMoPwCey-ZLlnkk21P4bABNLtqAg10CDD1zH5VI64JKvhwztTObf0mEt8pGyAm-yvxXPZ4THCdviYKcTRS0BkSUG-OROrZMFOqS7y6nbWrxoVUruHgbnnkQ==&ref=11059093",
     "size": 93864
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=j-K4eCSxYEYgefSu2KY9EPmB-n6SIN-sfSU5oEo978ny9dyaKBG98lFdxzhw2oFZPnUCnLUhnxli37RtQ4ohSyB7jW0VlsmSfiGknALuvhcGWocxmStgnrmxEiWBAFTv5HBYV7wAvYCHNBqQOzZ1GX5I4Tc7hdaxAR1UJw==&ref=11059095"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5ZI5X43PAFBNvUy4y5N4xrMjCJ7akASjxE6a1orZMpoSYMzHX9rJor3iqsP6snPizgcq84qrAwKO73yIUbroz-NLIyZDbX1gtbfRXW2PfG6ItG8wOxNdIiKXq8mHFNxgxj1ueDBO6t-lcHr-6Z2IyhAUXzQUf1DNfG2DDg==&ref=11059095"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8Tit6r22Dbn0LJmsg8OPXYHjOU2YR50FKJgnQoUaqcujLikSOVQ_SGL7GTjfeYRrEfFFjphSbNCtAfOjAW_etzdwYLxbVZFguoXHN1BgRKiewSGeYJ2jpvP37hAHmOmiTDPrREOK-ywQGTh0eaOZIMl8c8egrIfNDFOWCw==&ref=11099230",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TRo7oE5Va6nAcYPBm2AYTz2vEU56tZRA8IcSuO-VJIFAwF7xECS4H0OJ8U_7p6SsKKclsvRs5_k4t-YB34mVNnS7aheRXDZhMC9fxPY2WCsJ8IeLByUoUn89mIxevSsQvFCaq3SOrVv1butxHDJs8zHmMr8fNu1xB5jNMw==&ref=11099230",
     "size": 74462563
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZGgx9vmA2s4ESNKAifo"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=frUjHKhFbZ3wCVHgaq0"
    }
   ],
   "media": {
@@ -81,14 +111,39 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 2/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายปราณีต เกรัมย์",
+  "chair_key": "pranit",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รถรับจ้างผ่านแอป: การจดทะเบียน ประกันภัย และเรื่องร้องเรียน",
+  "summary": "ที่ประชุมพิจารณาข้อมูลจากกรมการขนส่งทางบกและสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) ปัจจุบันรถยนต์รับจ้างผ่านแอปพลิเคชันอยู่ภายใต้กฎกระทรวง พ.ศ. 2564 ซึ่งออกตามพระราชบัญญัติรถยนต์ พ.ศ. 2522 มีรถยนต์รับจ้างผ่านระบบอิเล็กทรอนิกส์ (รย.18) จดทะเบียนถูกต้อง 8,740 คัน และรถจักรยานยนต์สาธารณะที่ให้บริการผ่านแอปพลิเคชัน (รย.17) 11,647 คัน รวม 20,387 คัน เหตุที่ผู้ขับบางส่วนยังไม่นำรถเข้าระบบ เช่น ค่าธรรมเนียมและดอกเบี้ยของสัญญาเช่าซื้อ เบี้ยประกันภัยเชิงพาณิชย์ที่สูงกว่ารถส่วนบุคคล และราคาขายต่อของรถที่เปลี่ยนเป็นทะเบียนสาธารณะ กรมการขนส่งทางบกได้ประสานธนาคารแห่งประเทศไทยและสำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย (คปภ.) เรื่องสัญญาเช่าซื้อและรูปแบบประกันภัย กระทรวงคมนาคมเสนอแก้ไขกฎกระทรวงให้นิติบุคคลจดทะเบียนรถ รย.18 ให้ผู้ขับเช่าประกอบอาชีพได้ และขยายขนาดเครื่องยนต์รถจักรยานยนต์สาธารณะจากไม่เกิน 125 เป็นไม่เกิน 250 ลูกบาศก์เซนติเมตร เฉพาะรุ่นที่กำหนด ETDA ให้ข้อมูลว่ามีผู้ประกอบธุรกิจแพลตฟอร์ม 5 รายที่เชื่อมระบบยืนยันตัวตน ThaID แล้ว และระหว่างวันที่ 1 พฤศจิกายน 2566 ถึง 30 กันยายน 2569 มีเรื่องร้องเรียน 241 เรื่อง เช่น การจัดสรรงาน ค่าตอบแทน ค่าธรรมเนียมแพลตฟอร์ม และความปลอดภัย คณะอนุกรรมาธิการเสนอให้ลดภาระต้นทุนของผู้ขับเพื่อจูงใจให้เข้าระบบอย่างถูกต้อง ตรวจสอบประวัติและคุณสมบัติของผู้ขับเป็นระยะ ใช้ QR Code ให้ผู้โดยสารตรวจสอบรถและผู้ขับได้สะดวก ศึกษาประกันภัยเพิ่มเติมที่ผู้ประกอบธุรกิจแพลตฟอร์มมีส่วนร่วม และพิจารณาความเป็นธรรมของค่าธรรมเนียมแพลตฟอร์ม (GP) ในครั้งถัดไปจะรับฟังข้อมูลด้านการบังคับใช้กฎหมาย ความปลอดภัย การประกันภัย และการเยียวยาผู้ประสบภัย",
+  "items": [
+   [
+    "สถานการณ์รถรับจ้างผ่านแอป: รถจดทะเบียน 20,387 คัน และเหตุที่ผู้ขับบางส่วนยังไม่นำรถเข้าระบบ",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "แนวทางแก้ไข: สัญญาเช่าซื้อ ประกันภัย และการแก้ไขกฎกระทรวง",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "การกำกับดูแลผู้ประกอบธุรกิจแพลตฟอร์มดิจิทัล และเรื่องร้องเรียน 241 เรื่อง",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "ข้อเสนอ เช่น ลดภาระต้นทุนของผู้ขับ ใช้ QR Code ตรวจสอบรถและผู้ขับ และประกันภัยเพิ่มเติม",
+    "ข้อสังเกต",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "รถรับจ้างผ่านแอป",
+   "ประกันภัย",
+   "เรื่องร้องเรียน"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -99,21 +154,21 @@
   "docs": [
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=C-iHgwRdwPUbl0-2bAmid96E1og6EkhJhmkffISwCquhM9RyAmQfBBjE0LzAFEsZR0NuiqACGHrTXUMWg2btoRKxxqOCm79qtHuBy01P_CSgegRiVuW66-aXO3_NbTnz3ya0s0xzFCMLYo3OWasjw7UY-5FGLk_ueqiRfQ==&ref=11009941"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GDB3GZKCb2huOFtfPY2xkecdX1sRjyaBN8Ni_1b3w0dy6U3ACoj-4ezvuXpvBDJK2vOaHs8ZtJLj950YFXMw7M7vbvGLRK8cRmuu9YCx4T23ESyQiZpKxNsL51noBKlJpvC9tdOD_L7sMSgjrOkcgN6cded_ali3bkfZeA==&ref=11009941"
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=usv5q2BIO6htR-iGjvPSo-0BGos163l1r_YpuqECyW8kUZ_cOFEGol9DsHi2Bq1KuaHO8yO5IYUEKMboQgMxyurIk4TMG4nIZFuttmpdNt-OrzoyJAikwJMZA_QgYfq8pyqhYuiZ_QXFvt0jLysO3QoDjHrfzSwnhj83nQ==&ref=11009942",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2MMOo3ejiB7MeSm4lXN0rIPr7Ta35U-UswrUB_kngOJGhzLaIo00Z6byeZjbfugzbrVNejy6-i_fXhamU1X2zImDYooIW7ajw5MNC8RuuPz07O4oao_qGqGXfUW8d-HwMkneI0L9pHahfPfufzndmvP1liCf5tM_S5dOJw==&ref=11009942",
     "size": 264362
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3rjyCENIqJDz82TeL10an42sVEzMzxaarT2nhquyDNgcbzamC5_9hx48IsOC14PC9ubwTZ7G-6gs3IFgUSjlURpd-IUcYLdWWNr3SewpohgRX6K02PuBjaEIcRo-ImwCvummILn_c6UmSX8yaCKeDFlWGxO5MTDrVx7_lg==&ref=11041441",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_CQ52S_ikWR-8ej36cI0L0kEoExPtTTRjmoKGOS0Cjx26tjR9Anh5rjSJ2JHE64sibxnvoQX6TkOE96PKBl0LQfzBYCvG51ilK5YjEooDwpSfywBxoeZgD2J_iAC6n8cKoGjVfFrlb0MLxxC_LxNTUF1ojEJWgzTCxeA1Q==&ref=11041441",
     "size": 26105831
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=F7N9P7r63_DtHZqxrRE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zTHwXCDzW0qr9CSY68g"
    }
   ],
   "media": {
@@ -142,14 +197,29 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 1/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายปราณีต เกรัมย์",
+  "chair_key": "pranit",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "วางกรอบการศึกษา: ความปลอดภัยของรถรับจ้างผ่านแอปพลิเคชัน",
+  "summary": "ที่ประชุมพิจารณากรอบการศึกษามาตรการกำกับดูแลรถรับจ้างสาธารณะผ่านระบบแอปพลิเคชัน เพื่อให้ตรวจสอบและติดตามการให้บริการได้ และผู้โดยสารปลอดภัยตลอดการเดินทาง ขอบเขตการศึกษาครอบคลุมกฎหมาย หลักเกณฑ์ และการกำกับดูแลผู้ประกอบธุรกิจแพลตฟอร์ม ผู้ขับรถ รถที่ให้บริการ และผู้โดยสาร โดยเน้นมาตรฐานความปลอดภัยของรถและผู้ขับ การคุ้มครองสิทธิของผู้โดยสาร การประกันภัยและการเยียวยาความเสียหาย ความรับผิดชอบเมื่อเกิดอุบัติเหตุ ช่องว่างและความซ้ำซ้อนของกฎหมาย และการแลกเปลี่ยนข้อมูลระหว่างหน่วยงานรัฐกับผู้ประกอบธุรกิจแพลตฟอร์ม เพื่อจัดทำข้อเสนอแนะเชิงนโยบาย ที่ประชุมมอบหมายให้นำเสนอแผนการควบคุมและติดตามการให้บริการในส่วนของกรมการขนส่งทางบกและสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) ในการประชุมวันที่ 29 ตุลาคม 2569",
+  "items": [
+   [
+    "กรอบการศึกษา: ความปลอดภัยของรถและผู้ขับ การคุ้มครองผู้โดยสาร การประกันภัยและการเยียวยา และช่องว่างของกฎหมาย",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ให้นำเสนอแผนควบคุมและติดตามการให้บริการของกรมการขนส่งทางบกและ ETDA ในครั้งถัดไป",
+    "มอบหมาย",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "รถรับจ้างผ่านแอป",
+   "ความปลอดภัย",
+   "คุ้มครองผู้โดยสาร"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  }
 ]
