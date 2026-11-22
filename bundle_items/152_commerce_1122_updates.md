@@ -3,6 +3,8 @@
 Owner: thread "Site: Add Commerce and Industry committee" (routine request 22 Nov 2569 20:11 UTC, first check after the 4-day pause).
 
 What: Commerce 2569 routine content (no design change). Every Senate file used is Rpublic=1 (checked 22 Nov).
+- main 28 (23 Sep): the Senate replaced the minutes with the signed version, ref 11194781 (Rpublic 1); the old link 10921054 is
+  swapped (weekly accuracy check, 22 Nov). m/28.html follows via meeting_pages.py.
 - main 33 (11 Nov): file 11216651 is the re-issued AGENDA (RType ระเบียบวาระ, named as the agenda), not minutes, so it replaces
   the old agenda link 11147054 ("เอกสารประกอบ"). Minutes 11204694 added (same URL as item 145).
 - main 34 (18 Nov): now past. Easy-read summary from ref 11216297 (semiconductor/manpower draft report, SME help "Surat model",
@@ -17,7 +19,7 @@ What: Commerce 2569 routine content (no design change). Every Senate file used i
 - smeurgent 18 (24 Nov) and industry 19 (Mon 23 Nov): NEW date cards, no documents published yet.
   smeurgent 17 and industry 18 are no longer marked upcoming.
 
-Files: commerce/2569/index.html (DATA, SUBS, SHARE_V, EZ, UPDATED lines), meetings.json, sub-smegov/-smeurgent/-industry .html
+Files (22 Nov 21:30 UTC: main 28 added): commerce/2569/index.html (DATA, SUBS, SHARE_V, EZ, UPDATED lines), meetings.json, sub-smegov/-smeurgent/-industry .html
 (DATA, SHARE_V, TL, EZ, UPDATED) + .json, share cards s/ + img/s/ for main 34, 35, smegov 17, 18, smeurgent 17, 18, industry 18, 19,
 cal/35.ics, cal-sub/{smegov/18,smeurgent/18,industry/19}.ics, i18n-en.json (25 missing keys only), then meeting_pages.py rebuilds
 m/*.html (new m/35, m/smegov-18, m/smeurgent-18, m/industry-19). Surgical line swaps, every line round-trip checked.
