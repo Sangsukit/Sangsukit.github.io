@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Bundle item 163_agri40_pre_video (Agriculture archive thread, generated 22 Nov 2569)
+# Bundle item 167_agri40_pre_video (Agriculture archive thread, generated 22 Nov 2569)
 # Agriculture main-committee videos; in this item: main 40 PRE video (23 Nov 2569, 2:08)
 # Puts Agriculture main-committee videos on parliamentx.com/agriculture/2569.
 # 1080x1920, Thai voice + English subtitles burned in (one version), kind="pre"/"post". No private names, no company names,
@@ -12,7 +12,7 @@
 # Idempotent; no git, no network. Needs $HUB $BUILD.
 set -euo pipefail
 : "${HUB:?HUB not set}"; BUILD=${BUILD:-/mnt/project-files/archive/build}
-SRC="${ITEM_FILES:-/mnt/project-files/archive/bundle/items/163_agri40_pre_video_files}"
+SRC="${ITEM_FILES:-/mnt/project-files/archive/bundle/items/167_agri40_pre_video_files}"
 L="$HUB/agriculture/2569"
 test -f "$L/index.html" -a -f "$L/meetings.json" || { echo "agri_videos: $L pages missing" >&2; exit 1; }
 test -f "$HUB/index.html" || { echo "agri_videos: hub index.html missing" >&2; exit 1; }
@@ -179,19 +179,19 @@ for page, ks in (('index.html', ('40',)),):
     vs = [l for l in t.split('\n') if l.startswith('const VSHARE=')]
     assert vs and all(f'"{k}":' in vs[0] for k in ks), f'{page}: VSHARE missing {ks}'
     assert t.count('"kind":"post"') + t.count('"kind":"pre"') >= 2 * {'index.html': 1}[page], f'{page}: kind pre/post labels missing'
-print('163_agri40_pre_video OK')
+print('167_agri40_pre_video OK')
 PY
 
 # 6) videos out of the main site (thread "Site: Move videos to a separate video site", item 90): every linked mp4 moves to the
 #    video repos and links are rewritten. Idempotent; run_bundle.sh runs the same step again at the end of the bundle.
 #    Push + merge the changed video repos BEFORE the main site (archive/video_repos/README.md).
 VR=/mnt/project-files/archive/video_repos
-if [ "${I97_TEST_NO_OFFLOAD:-}" = 1 ]; then echo "163_agri40_pre_video: offload skipped (sandbox test only)"
+if [ "${I97_TEST_NO_OFFLOAD:-}" = 1 ]; then echo "167_agri40_pre_video: offload skipped (sandbox test only)"
 else
-  test -f $VR/ACTIVE || { echo "163_agri40_pre_video: video repos not active yet (needs item 90 first); refusing to leave videos on the main site" >&2; exit 1; }
-  grep -qxF '*.mp4' $HUB/.gitignore 2>/dev/null || { echo "163_agri40_pre_video: $HUB/.gitignore has no *.mp4 line (needs item 90 first)" >&2; exit 1; }
-  python3 "$BUILD/video_offload.py" "$HUB" --report $VR/OFFLOAD_163_agri40_pre_video.md
+  test -f $VR/ACTIVE || { echo "167_agri40_pre_video: video repos not active yet (needs item 90 first); refusing to leave videos on the main site" >&2; exit 1; }
+  grep -qxF '*.mp4' $HUB/.gitignore 2>/dev/null || { echo "167_agri40_pre_video: $HUB/.gitignore has no *.mp4 line (needs item 90 first)" >&2; exit 1; }
+  python3 "$BUILD/video_offload.py" "$HUB" --report $VR/OFFLOAD_167_agri40_pre_video.md
   python3 /mnt/project-files/archive/check/video_host_check.py "$HUB"
-  if find "$L" -name '*.mp4' | grep -q .; then echo "163_agri40_pre_video: mp4 still on the main site after offload" >&2; exit 1; fi
+  if find "$L" -name '*.mp4' | grep -q .; then echo "167_agri40_pre_video: mp4 still on the main site after offload" >&2; exit 1; fi
 fi
-echo "163_agri40_pre_video OK"
+echo "167_agri40_pre_video OK"
