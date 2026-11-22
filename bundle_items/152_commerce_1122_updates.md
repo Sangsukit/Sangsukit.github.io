@@ -1,4 +1,4 @@
-# 146 commerce_1122_updates
+# 152 commerce_1122_updates
 
 Owner: thread "Site: Add Commerce and Industry committee" (routine request 22 Nov 2569 20:11 UTC, first check after the 4-day pause).
 
@@ -22,11 +22,13 @@ Files: commerce/2569/index.html (DATA, SUBS, SHARE_V, EZ, UPDATED lines), meetin
 cal/35.ics, cal-sub/{smegov/18,smeurgent/18,industry/19}.ics, i18n-en.json (25 missing keys only), then meeting_pages.py rebuilds
 m/*.html (new m/35, m/smegov-18, m/smeurgent-18, m/industry-19). Surgical line swaps, every line round-trip checked.
 
+Number: renamed from 146 on 22 Nov (146 is the Agriculture item 146_agri36_summary). Same content.
+
 Self-contained: payload, apply.py and a copy of meeting_pages.py embedded (base64 tar, md5-checked). Uses
 archive/build/meeting_pages.py when present. Idempotent; no git, no network; needs $HUB.
 
 Order: includes item 145's links and agrees with it. Tested on fresh origin/main 13fd7d7f: alone twice (second run changes
-nothing); 145 -> 140c -> 146 (number order) and 140c -> 146 -> 145 give identical trees; 146 first, then 145 and 140c, also pass
+nothing); 145 -> 140c -> 152 (number order) and 140c -> 152 -> 145 give identical trees; 152 first, then 145 and 140c, also pass
 (only i18n key order differs, and m/smegov-16.html waits for the next meeting_pages run, because 140c does not run it).
 Checks: data_match PASS, timeline_check PASS on the 4 Commerce pages, no new untranslated lines in English mode, phone render of
 #read-34, #read-35, smegov #read-17/#read-18, smeurgent #read-18, industry #read-19, m/35, m/smegov-17: no JS errors.

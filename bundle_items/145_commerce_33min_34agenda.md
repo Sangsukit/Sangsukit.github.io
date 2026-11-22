@@ -14,6 +14,6 @@ Legal: links to official public Senate documents only (Rpublic=1); no new text, 
 Test: fresh origin/main 5019e495, run twice (idempotent), diff = those 4 files. Phone render of #read-33, #read-34, m/33, m/34:
 new links shown, no JS errors. Touches only the DATA line of index.html, so it is independent of 140b (SUBS line).
 
-22 Nov 2569 update: only the final self-check changed, so it also passes after item 146 (which marks 34 as past). Same edits as before.
+22 Nov 2569 update: only the final self-check changed, so it also passes after item 152 (which marks 34 as past). Same edits as before.
 
 STATUS: READY

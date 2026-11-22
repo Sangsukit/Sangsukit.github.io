@@ -2350,7 +2350,7 @@ assert [v['kind'] for v in m['media']['videos']] == ['post'] and m['media']['vid
 assert m['headline'].startswith('รับฟังแนวทางป้องกันการทุจริต') and 'ประเทศไทย)' not in m['summary'] and 'ภาคเอกชนด้านการต่อต้านคอร์รัปชัน' in m['summary']
 assert any(x['k'] == 'summary' and x['url'].endswith('ref=11204323') for x in m['docs']), 'summary doc'
 for n in (12, 13): assert [v['kind'] for v in d[n]['media']['videos']] == ['post'], f'smegov {n} video lost'
-assert (d[17].get('upcoming') or any(x['url'].endswith('ref=11216282') for x in d[17]['docs'])) and [v['kind'] for v in d[17]['media']['videos']] == ['pre'], 'smegov 17 card/pre video'  # 17 is past once item 146 ran
+assert (d[17].get('upcoming') or any(x['url'].endswith('ref=11216282') for x in d[17]['docs'])) and [v['kind'] for v in d[17]['media']['videos']] == ['pre'], 'smegov 17 card/pre video'  # 17 is past once item 152 ran
 assert '"16":"s/v-smegov-16.html' in t and '"smegov-16"' in t, 'VSHARE/CAPS'
 assert 'id="vidkind-js"' in t and 'id="novdl-css"' in t, 'live layer missing'
 js = {x['n']: x for x in json.load(open(f'{M}/sub-smegov.json', encoding='utf-8'))}
