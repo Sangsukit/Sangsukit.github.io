@@ -314,7 +314,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fMadKXgjYeMjorwrXUg"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v36.mp4",
+    "poster": "img/poster36.jpg",
+    "vtt": "media/v36.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:16",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "36",
+    "size": 9812859
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v36.mp4",
+     "poster": "img/poster36.jpg",
+     "vtt": "media/v36.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:16",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "36",
+     "size": 9812859
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "มติคณะรัฐมนตรีด้านการเกษตร: ราคาข้าวและการช่วยเหลือผู้ประสบอุทกภัย และกำหนดดูงานด้านน้ำที่ตรัง",
@@ -407,7 +432,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=f4uKFOQSOYKhcAeq6wo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v35.mp4",
+    "poster": "img/poster35.jpg",
+    "vtt": "media/v35.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:15",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "35",
+    "size": 9872757
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v35.mp4",
+     "poster": "img/poster35.jpg",
+     "vtt": "media/v35.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:15",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "35",
+     "size": 9872757
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ติดตามโครงการเขื่อนแควน้อย กาญจนบุรี ปัญหาต้นยางพาราในระยอง และหนังสือตอบเรื่องราคาสินค้าเกษตร",
@@ -510,7 +560,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=yyaquMISVUhiVWucRuA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v34.mp4",
+    "poster": "img/poster34.jpg",
+    "vtt": "media/v34.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:43",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "34",
+    "size": 8437808
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v34.mp4",
+     "poster": "img/poster34.jpg",
+     "vtt": "media/v34.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:43",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "34",
+     "size": 8437808
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "เห็นชอบข้อสังเกตเพิ่มเติมท้ายรายงานความมั่นคงทางอาหาร และติดตามงานของคณะอนุกรรมาธิการ",
