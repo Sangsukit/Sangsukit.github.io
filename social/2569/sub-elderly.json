@@ -98,7 +98,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tjUTEhYcPz-k1QPRIsQ"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "media/sub-elderly-v25.mp4",
+     "poster": "img/poster-sub-elderly-25.jpg",
+     "vtt": "media/sub-elderly-v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:41",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "elderly-25",
+     "size": 4247690
+    }
+   ],
+   "video": {
+    "src": "media/sub-elderly-v25.mp4",
+    "poster": "img/poster-sub-elderly-25.jpg",
+    "vtt": "media/sub-elderly-v25.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:41",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "elderly-25",
+    "size": 4247690
+   }
+  },
   "chair": "ศาสตราจารย์ชาญณรงค์ พรรุ่งโรจน์",
   "chair_key": "channarong",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
