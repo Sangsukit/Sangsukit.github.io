@@ -24,6 +24,8 @@ posters/cards/share pages; data_match PASS (209 pages); no_video_dl --check PASS
 s/v-32-pre.html plays, home list includes main 32; no JS errors. (VIDEO_CLONE_ROOT pointed at stub files for the live /video-1/ entries.)
 Voice: the routine thread records the listen voice for sub-military 31 and cyber 26 (text unchanged by this item).
 
-md5 179_mil_videos_1122.sh: 53f3c42934353b2003d9e9c4fb5cc11f
+md5 179_mil_videos_1122.sh: fe5bc24261ca55e7ebfdc58732a1fc96
+
+v2 (22 Nov 23:55 UTC): the home check now accepts a newest-4 list that other items already filled with newer videos (bundle 50 failure). Tested: plain run, and a run with 4 newer home videos, each twice with identical results.
 
 STATUS: READY
