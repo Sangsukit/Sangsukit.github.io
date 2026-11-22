@@ -68,6 +68,17 @@
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "climate-4p",
      "size": 4108819
+    },
+    {
+     "src": "/video-2/environment/2569/media/sub-climate-v4.mp4",
+     "poster": "img/poster-sub-climate-4.jpg",
+     "vtt": "media/sub-climate-v4.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:17",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "climate-4",
+     "size": 5658245
     }
    ]
   }
