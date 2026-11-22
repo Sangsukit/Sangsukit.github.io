@@ -2,32 +2,62 @@
  {
   "n": 3,
   "date": "2026-11-12",
-  "time": "",
-  "room": "",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jot2zs3x6KUacWgVoB5Q6ZhjwOFfUS6KUnyHPCIFwKlQEQ7Sb_o2neECCCwY6mI2GYEh9tLYqIlKanxs-8nPODrN3ShBuqb0oF9vxw1e0feStNU9-lryAYfZttHwfhJwjQjw7ksutt5B3bIQpYi3gXzW_PqxZ-A7Nhd50w==&ref=11156586",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WhGG1cOQcKL8wOaCwTzSmOnl3Vy2VhKdGm6HUggR9Dcokfi-OFJO9HuB3e-ODQz-3y4DsMu3fdqZjrfrXdNr8hQ1UzYiwJ68kojDWdaSF69NKRxFrK6pYEayIMIQKFIZIneGDYkiK2oEhD2A0BPU_hfwOCathhqOK0N7qg==&ref=11156586",
     "size": 125839
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9HCm9hlBWwG8_g_SOlqurl99HPjJZ7I8UkRysUD9EnAIKuDc_HBHDbi-yu1fM5SiTyxwVwU7dFaZoLRWmiNjBabZHNNup6xGGMDRcW4g-4fkMDrkSXYpm-fW0WG7FY6o33TUjpgACDcZFyWYX2UYDkF4dmxqsUe4_Oc57g==&ref=11156589"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lzgIoCpRBdHvSJ7pIZo9IgZ23CVGfkbkpaRP2qgiVTrE5NSMTFgkVKMUiPfuxTHdiPQmfy4lg4WvKEcsecNYUkn4G3MzI4qHsMZUO5lQj4nmOAvMj15sj-sfiDvUfLimZe62Lvwi0Zdnrr9eXBlYAi6rk3zJnwkKezgbmQ==&ref=11156589"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8aMUEtbMyzvixWVhNmIUq4q1_wzIgjaNrntWvKK9w2-PJucE4y5UtiOWBBrNCS5461xQ6A4LEraykoSQSMeb_I3emG8P0lYq9HWHIKgw-qd3z3hk3-maaGZrMmwxGn9d3KtZtAz26uy4SLdIu-nMZ4ZzY5GiWmnmm8eFmA==&ref=11230998",
+    "size": 51888986
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=J15DAy5xZKreJtD5cAA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=H2CxywKR4UjWyJJLrMA"
    }
   ],
   "media": {},
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 3/2569",
-  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายปราณีต เกรัมย์",
+  "chair_key": "pranit",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "รถรับจ้างผ่านแอป: ตรวจประวัติผู้ขับ บังคับใช้กฎหมาย และการเยียวยาผู้ประสบภัย",
+  "summary": "ที่ประชุมพิจารณาการบังคับใช้กฎหมายและความปลอดภัยของผู้โดยสาร โดยเสนอให้ตรวจสอบประวัติอาชญากรรม ใบอนุญาตขับรถสาธารณะ และความพร้อมด้านสุขภาพของผู้ขับอย่างเข้มงวดก่อนเข้าสู่ระบบแพลตฟอร์ม เชื่อมข้อมูลระหว่างกรมการขนส่งทางบก สำนักงานตำรวจแห่งชาติ และหน่วยงานด้านสาธารณสุข ภายใต้หลักการคุ้มครองข้อมูลส่วนบุคคล มีฐานข้อมูลกลางเพื่อตรวจสอบผู้ขับและรถ และให้แพลตฟอร์มรับผิดชอบการตรวจสอบและแก้ไขข้อร้องเรียน ปัจจุบันยังพบการนำรถส่วนบุคคลที่ไม่ได้จดทะเบียนให้ถูกต้องและผู้ขับที่ไม่มีใบอนุญาตขับรถสาธารณะมาให้บริการ แม้กรมการขนส่งทางบกจะตรวจสอบและใช้มาตรการตัดคะแนนแพลตฟอร์มอย่างต่อเนื่อง ที่ประชุมเสนอให้แพลตฟอร์มตรวจสอบผู้ขับรายใหม่อย่างเข้มงวด กำหนดระยะเวลาให้ผู้ขับเดิมเข้าระบบอย่างถูกต้อง และรายงานความคืบหน้าต่อหน่วยงานกำกับดูแลเป็นระยะ ส่วนแพลตฟอร์มที่ประกอบธุรกิจอยู่ต่างประเทศยังมีข้อจำกัดเรื่องการเข้าถึงข้อมูลและการบังคับใช้กฎหมาย ซึ่งกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคมอยู่ระหว่างพัฒนากฎหมายเศรษฐกิจแพลตฟอร์ม ที่ประชุมยังเสนอให้ประสานข้อมูล GPS กับเจ้าหน้าที่ตำรวจ และพัฒนาช่องทางร้องเรียนที่ติดต่อเจ้าหน้าที่ได้โดยตรง ด้านการเยียวยา พระราชบัญญัติคุ้มครองผู้ประสบภัยจากรถ พ.ศ. 2535 กำหนดค่ารักษาพยาบาลสูงสุด 80,000 บาท และค่าชดเชยกรณีเสียชีวิต 500,000 บาท แต่ยังมีกรณีผู้โดยสารต้องติดต่อประกันภัยและสำรองจ่ายค่ารักษาเอง ที่ประชุมเสนอให้ศึกษาการทำบันทึกความเข้าใจ (MOU) ระหว่างหน่วยงาน รวมถึงข้อมูลจากกรมสุขภาพจิต กำหนดความรับผิดชอบของแพลตฟอร์มให้ชัดเจน และพัฒนากลไกช่วยเหลือผู้โดยสารเมื่อเกิดเหตุฉุกเฉิน ในการประชุมวันที่ 25 พฤศจิกายน 2569 จะเชิญผู้ประกอบธุรกิจแพลตฟอร์มเรียกรถสาธารณะมาให้ข้อมูล",
+  "items": [
+   [
+    "การตรวจสอบประวัติ ใบอนุญาต และความพร้อมด้านสุขภาพของผู้ขับ และฐานข้อมูลกลาง",
+    "ข้อสังเกต",
+    "sub"
+   ],
+   [
+    "การกำกับดูแลแพลตฟอร์ม: รถและผู้ขับที่ยังไม่เข้าระบบ และแพลตฟอร์มที่อยู่ต่างประเทศ",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "การประกันภัยและการเยียวยาผู้ประสบภัยตามพระราชบัญญัติคุ้มครองผู้ประสบภัยจากรถ พ.ศ. 2535",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "เชิญผู้ประกอบธุรกิจแพลตฟอร์มเรียกรถสาธารณะมาให้ข้อมูลในการประชุมวันที่ 25 พฤศจิกายน 2569",
+    "รับทราบ",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "รถรับจ้างผ่านแอป",
+   "ความปลอดภัย",
+   "ประกันภัย"
+  ],
   "places": [],
-  "pending": true,
   "upcoming": false
  },
  {
@@ -38,21 +68,21 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BdvTFA79oWy3Rtqu-pwV9tB2nAfnYMof5egY4WnZbJ2mVcJy9eyTap45J1L20zWP5qWSPEw0YH2np2LIKyFDWNmWxZFepviMxmeHneEQ8C0OARcvzRLVB_lZG_sH51eTAbOjNLTubG37r5W-7kiv2V1e2-U8TRu12A8IMg==&ref=11059093",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=deFZJviYHdVOO16X_w4lpC339wPASjkqqMFRRxZAnx61fvbLMoPwCey-ZLlnkk21P4bABNLtqAg10CDD1zH5VI64JKvhwztTObf0mEt8pGyAm-yvxXPZ4THCdviYKcTRS0BkSUG-OROrZMFOqS7y6nbWrxoVUruHgbnnkQ==&ref=11059093",
     "size": 93864
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2ZUSYhKxeS2QIfOlfo5Of1NEGGSd9jBc7vZJlzZRQ3tmlwaodHEYkLSl2UJQIW8gAiM-HsvgVnHsL-2r7XAFf3o8-Igmw7cVDIADM2IpWNNwIpk_Zk_UFLSGCBF1jMYmxdjRtTYHMEvZ4lQEU956bytGelCeAjiJUXH6QA==&ref=11059095"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5ZI5X43PAFBNvUy4y5N4xrMjCJ7akASjxE6a1orZMpoSYMzHX9rJor3iqsP6snPizgcq84qrAwKO73yIUbroz-NLIyZDbX1gtbfRXW2PfG6ItG8wOxNdIiKXq8mHFNxgxj1ueDBO6t-lcHr-6Z2IyhAUXzQUf1DNfG2DDg==&ref=11059095"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=anR8uMEPmx08JWQXLWm9XcTAtGTLgVEUH8-OaLNpkc301MpTdLRlNWFy3YeuS4s6lNtjynCmR_Mxo10DDnrEX894VQC4eBRKG4DaECF-_zMgDXusl11CILVptH_arpyppAjQKq0Zpg0FskkVj6Ejq6wQlf2PrktacboobA==&ref=11099230",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TRo7oE5Va6nAcYPBm2AYTz2vEU56tZRA8IcSuO-VJIFAwF7xECS4H0OJ8U_7p6SsKKclsvRs5_k4t-YB34mVNnS7aheRXDZhMC9fxPY2WCsJ8IeLByUoUn89mIxevSsQvFCaq3SOrVv1butxHDJs8zHmMr8fNu1xB5jNMw==&ref=11099230",
     "size": 74462563
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=3c_ppeL7684rftwRHec"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=frUjHKhFbZ3wCVHgaq0"
    }
   ],
   "media": {
@@ -124,21 +154,21 @@
   "docs": [
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KmqzjsHKdBnBSMRK2Y9K-o6Sb6OHxClZXMH9WAUjPRCwvQbZhNqqWpZC2R1h5wzm3sHj5WmD1yT-R99iRmEda1ECL6c0kagPKJQOMh4Im35t1YobNVJk4uKvuGq6EJKTEa0UJYgzV62HLppFXogg3WmqPgCsjj9gjwyADw==&ref=11009941"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GDB3GZKCb2huOFtfPY2xkecdX1sRjyaBN8Ni_1b3w0dy6U3ACoj-4ezvuXpvBDJK2vOaHs8ZtJLj950YFXMw7M7vbvGLRK8cRmuu9YCx4T23ESyQiZpKxNsL51noBKlJpvC9tdOD_L7sMSgjrOkcgN6cded_ali3bkfZeA==&ref=11009941"
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jMTMey3_RDyHf5n2kkbzlz-WUVGd-cGMtF_gURI5rb3r5Ko9e5KabwHfclC1cwzOqoA7w0wmweQH5d4c9ihMjz1FnLCtvENumJfOUJSAXi_LzldmPkHLx0FXrzIvJaTPv7VLKEN_ALiH8CaMD86rpZpQxwm9Cu-Z_vn0Hw==&ref=11009942",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2MMOo3ejiB7MeSm4lXN0rIPr7Ta35U-UswrUB_kngOJGhzLaIo00Z6byeZjbfugzbrVNejy6-i_fXhamU1X2zImDYooIW7ajw5MNC8RuuPz07O4oao_qGqGXfUW8d-HwMkneI0L9pHahfPfufzndmvP1liCf5tM_S5dOJw==&ref=11009942",
     "size": 264362
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_HSDNpuBCwy6_xNY54cczL9V-cB8bEY0-9Y4TI3B0sZyxkVshKZ_KMRCElir-k68LXEwknUNw7pyZSObonfxMFWboOVpBIA-_d44yIV0LrH9avBWFRkrK7RHqMOVxrbugr2hq2ZxfzS65hzRghpSXZKD5SgwwmqiWa_NdQ==&ref=11041441",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_CQ52S_ikWR-8ej36cI0L0kEoExPtTTRjmoKGOS0Cjx26tjR9Anh5rjSJ2JHE64sibxnvoQX6TkOE96PKBl0LQfzBYCvG51ilK5YjEooDwpSfywBxoeZgD2J_iAC6n8cKoGjVfFrlb0MLxxC_LxNTUF1ojEJWgzTCxeA1Q==&ref=11041441",
     "size": 26105831
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cD9jjzwwLgzIeN35XcQ"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zTHwXCDzW0qr9CSY68g"
    }
   ],
   "media": {

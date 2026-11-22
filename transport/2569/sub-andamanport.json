@@ -1,5 +1,48 @@
 [
  {
+  "n": 6,
+  "date": "2026-11-26",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=b_en-_wOE_LHqaeKR-jAxekkhLSSaNak137xJmFQKkxfhGH_a087dBBb9eQhGvxxI1dj3nhQJS8VJBffqX0ZyJQ6iE8jzdX53iB90bjusjUIObNTn0lpE5Su5FSf-wRDOtpQnTrOQWyMONrpAd4LcFXJD96fE_vM32qyUg==&ref=11225635",
+    "size": 162457
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0cM-ZeNDVbHp0BVLnkc"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "ความต้องการขนส่งสินค้าทางทะเลของภาคอุตสาหกรรม และท่าเรืออัจฉริยะ",
+  "summary": "นัดประชุมวันพฤหัสบดีที่ 26 พฤศจิกายน 2569 เวลา 09.30 น. ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา วาระคือการพิจารณาศักยภาพและความต้องการขนส่งสินค้าทางทะเลของภาคอุตสาหกรรม โดยเฉพาะปริมาณ ประเภท และแหล่งที่มาของสินค้าที่อาจใช้บริการท่าเรือฝั่งทะเลอันดามัน และความต้องการของภาคอุตสาหกรรมต่อท่าเรืออัจฉริยะ (Smart Port) ที่ใช้เทคโนโลยีดิจิทัล ระบบอัตโนมัติ และการเชื่อมโยงข้อมูล เพื่อเพิ่มประสิทธิภาพและลดต้นทุนโลจิสติกส์ โดยเชิญผู้แทนกรมส่งเสริมอุตสาหกรรม และภาคเอกชนที่เกี่ยวข้องด้านการค้าและการขนส่งสินค้า ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "ศักยภาพและความต้องการขนส่งสินค้าทางทะเลของภาคอุตสาหกรรม และความต้องการต่อท่าเรืออัจฉริยะ (Smart Port)",
+    "วาระที่ 3",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "ท่าเรือน้ำลึก",
+   "โลจิสติกส์",
+   "ท่าเรืออัจฉริยะ",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 5,
   "date": "2026-11-19",
   "time": "09.30",
@@ -7,12 +50,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kkD88jiJH1SSbWSdwMFAx8CToluN1Gk_M8cE2GJZ5dzePkWLuqpURJs8fMdv6gvwpKVKEUnqaJQ2h39VAJmjxXqvgpWar_JUJ36LkODyr3un9ZTL35xwmCA0WRuk1_iVaJfNpCvRLGCidR6ixnpW3vHHwGMUuuus2dfM0Q==&ref=11175784",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1-9C0dNRoW3rdIdC7FXTt7eTs6j43VUh62FMoSTiIkJp05dKGKzTv00wAcmNTazKFi2Q1dYj9JpNDA8pfM8yBYHz3LFnaUejiNR98j8gEI8k-IOjOFxYzwTU_DKrQls_Js03RtsKhYe3yACfqdYOA5rYqhqqOEkjBkVkZw==&ref=11175784",
     "size": 148850
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=n8NdRd1N53ntdH41Bl0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=9KMxLvHrfafqvutBLAE"
    }
   ],
   "media": {
@@ -59,13 +102,7 @@
    "วาระการประชุม"
   ],
   "places": [],
-  "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา"
-  }
+  "upcoming": false
  },
  {
   "n": 4,
@@ -268,21 +305,21 @@
   "docs": [
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Qn-YRdQQjTkagrpnagnbTaQEEsl7M0CBsH5ypCUmAd228ZNv5CYNoQpRpEYAonzBL1K-glfK-QB-NtymRhLiIDqx0T7lEZ0BysZO2pNvVMsINu4PhaL751pJa66Pu7XQxwxSERC-XYmRvlWf4FO-2L4BrxO1K9lYWY61Ng==&ref=11010197"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pzWBUGZX4jpioGSXUPNm3WBzj9YIkPhijEkIXN836ZYr1WQV742Tj2quF4T9vRYpc5ODKvbZuBUnCpCIdiesWvijuzv3uA5Sddz6cOImwAkfZ1UwS6KtOT8FZmEi4L1Tno315usA8CCDQ5WlWDeT-0mAJP1z-6FMz6eJtQ==&ref=11010197"
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GA0yZXKmZE5FjuWAmY1fGEdNbXDgnaVHeKBOQxi9UgbDl81-2N4hTc6j7H7I5CYYEQ1UCwoMxIqFGDABtwEXSQQgNsk34mY9PvoKhr7agenl6DFI8RNnA3O5YvkT_Ej2UIwIZZ5OEgxngMrszvEsaj4eTgBDYXUpuTp-dw==&ref=11010223",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OH6LSkE9gWlDrqAxVPpGfEUO6H_GQNvL44dK1Uz8W3xXtvap29QdUeamNzUNbHmUcIcXkV8kVmnwt3G27PtJe4XKCe5p64uQ5RH5Q0KJv3ktiubYeFOlGb2U_0gwO13O1srTMmNXfwIJcbD4mqLe5trwidWXLRL9yKlSkw==&ref=11010223",
     "size": 116752
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9787_j9wSgdsvlbxUEkjgulLoXAgyInctwyU-57hZAMcVlRlDL9r59mTLh7G4oZuzY3Q4YCfE8Ze50P-HJVMcN_ssr6hkhBIK3xjOj_1CoA6wmDCXZyIx3uWF52In8rKwYq94pXFFU_dfXuMHi2u0uFraP7_q1SBCK3eSA==&ref=11032682",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MQWRbnR7XAPaoRpQIf7-cwXXkF0xk2Ue6SkFamBYeOs9g3QzuPsjUPRjWg3U30Nr7fiYClfp1JOHNHPkokMLPIakLqHuUGbLVqskfFSUMUBNEtJ-5MEbZVul2FBmnxIMZFc9xFkj4IVbTMq-60iHJTYpTjJThX8mGHhbmg==&ref=11032682",
     "size": 14112033
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WCnwuKP64q6qDYiuIss"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=EeR3QQjo51cOiiN8O0M"
    }
   ],
   "media": {
@@ -359,17 +396,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=22AQWX3RyJgpYdacAvBOiyn445qxF_7kcil3Jy7sL3jQBASwimljtKBK1Ptr0HmFAiYDv1xGvoA_C2bR3hOEWPs3CJaWnMSPD0k3SQmJld149jKr4Qk_8Rg54eryvxLgdsWqChfcifHYgqZv9W3TXXzs2T4CtXuU0gFpJQ==&ref=10940199",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ttbnDugHTMzAuOUSRmSs6skar8RkLtwMYhgjhnFgVzVp584dEdlM9jnFk3Qrg9ooj2nVZNsvIB1pvaZHCBahevVCSLV7DXgZCVQufJcTqCUUXvagSIiBjNQ77xPuAwrj4nKGBU2ohl_aLqVvQyg77tBtULXh5F5XwdpLiw==&ref=10940199",
     "size": 111175
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=r3IvXePkoSslRshXlSuO43IxRttkkEF06Ycp31uWrcXyb31s1arHzwhlMX3wZiSdQnU8R0FP-bNH9P7zReN59FTq98S2SwYBmQw2qE6de-UNFXS0bbu8TtZdC-8aLa5eTXA8yIpnWNXj1_ZeazCsccq0Cyq1V_TXn7Y5Gw==&ref=10981923",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mcymoWny1b0iO5oa6w6XfiU3HJu2Wwm_hZEERGmnjNHCEKVvmFelXj-3Q-e14LKKj_Ejaw3VO-0_Cu9a6UsK4NOdjTz9A1yDLUVLvtGf8Cs2CSYgI8vxuSAv7vvL_5pebWdFsx29wpig-ah296U_M7xqr1JKomeoD6bdSg==&ref=10981923",
     "size": 7985458
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=YEbQZik-6HdCLBnNI5o"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=DFB6rxL1fgjC-3uGGGE"
    }
   ],
   "media": {
