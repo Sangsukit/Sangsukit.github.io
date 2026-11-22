@@ -17,7 +17,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v35pre.mp4",
+    "src": "/video-2/commerce/2569/media/v35pre.mp4",
     "poster": "img/poster35pre.jpg",
     "vtt": "media/v35pre.th.vtt",
     "kind": "pre",
@@ -29,7 +29,7 @@
    },
    "videos": [
     {
-     "src": "media/v35pre.mp4",
+     "src": "/video-2/commerce/2569/media/v35pre.mp4",
      "poster": "img/poster35pre.jpg",
      "vtt": "media/v35pre.th.vtt",
      "kind": "pre",
@@ -98,7 +98,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/v34.mp4",
+    "src": "/video-2/commerce/2569/media/v34.mp4",
     "poster": "img/poster34.jpg",
     "vtt": "media/v34.th.vtt",
     "kind": "post",
@@ -110,7 +110,7 @@
    },
    "videos": [
     {
-     "src": "media/v34.mp4",
+     "src": "/video-2/commerce/2569/media/v34.mp4",
      "poster": "img/poster34.jpg",
      "vtt": "media/v34.th.vtt",
      "kind": "post",

@@ -18,7 +18,7 @@
   "media": {
    "videos": [
     {
-     "src": "media/v37pre.mp4",
+     "src": "/video-2/social/2569/media/v37pre.mp4",
      "poster": "img/poster37pre.jpg",
      "vtt": "media/v37pre.th.vtt",
      "kind": "pre",
@@ -30,7 +30,7 @@
     }
    ],
    "video": {
-    "src": "media/v37pre.mp4",
+    "src": "/video-2/social/2569/media/v37pre.mp4",
     "poster": "img/poster37pre.jpg",
     "vtt": "media/v37pre.th.vtt",
     "kind": "pre",

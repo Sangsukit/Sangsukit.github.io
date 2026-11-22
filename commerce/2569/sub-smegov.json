@@ -17,7 +17,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-smegov-v18pre.mp4",
+    "src": "/video-2/commerce/2569/media/sub-smegov-v18pre.mp4",
     "poster": "img/poster-sub-smegov-18pre.jpg",
     "vtt": "media/sub-smegov-v18pre.th.vtt",
     "kind": "pre",
@@ -29,7 +29,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-smegov-v18pre.mp4",
+     "src": "/video-2/commerce/2569/media/sub-smegov-v18pre.mp4",
      "poster": "img/poster-sub-smegov-18pre.jpg",
      "vtt": "media/sub-smegov-v18pre.th.vtt",
      "kind": "pre",

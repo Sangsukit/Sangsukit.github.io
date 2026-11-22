@@ -23,7 +23,7 @@
   "media": {
    "videos": [
     {
-     "src": "media/sub-women-v28.mp4",
+     "src": "/video-2/social/2569/media/sub-women-v28.mp4",
      "poster": "img/poster-sub-women-28.jpg",
      "vtt": "media/sub-women-v28.th.vtt",
      "kind": "post",
@@ -35,7 +35,7 @@
     }
    ],
    "video": {
-    "src": "media/sub-women-v28.mp4",
+    "src": "/video-2/social/2569/media/sub-women-v28.mp4",
     "poster": "img/poster-sub-women-28.jpg",
     "vtt": "media/sub-women-v28.th.vtt",
     "kind": "post",
@@ -100,7 +100,7 @@
   "media": {
    "videos": [
     {
-     "src": "media/sub-women-v27.mp4",
+     "src": "/video-2/social/2569/media/sub-women-v27.mp4",
      "poster": "img/poster-sub-women-27.jpg",
      "vtt": "media/sub-women-v27.th.vtt",
      "kind": "post",
@@ -112,7 +112,7 @@
     }
    ],
    "video": {
-    "src": "media/sub-women-v27.mp4",
+    "src": "/video-2/social/2569/media/sub-women-v27.mp4",
     "poster": "img/poster-sub-women-27.jpg",
     "vtt": "media/sub-women-v27.th.vtt",
     "kind": "post",
