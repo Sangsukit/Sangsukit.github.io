@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:26:17Z",
+ "updated": "2026-11-22T11:40:47Z",
  "feeds_ok": 11,
  "window_h": 72,
  "topics": [
@@ -17,8 +17,8 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 3,
-   "count": 6,
+   "outlets": 2,
+   "count": 7,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -32,28 +32,78 @@
    },
    "items": [
     {
-     "title": "นายกฯ สั่งรับมือสารปนเปื้อน ตรวจเข้มน้ำ-พืชผล-สุขภาพ ประสานร่วมมือข้ามพรมแดน",
-     "url": "https://www.prachachat.net/politics/news-2100357",
+     "title": "รัฐบาลประสานโรงสีรับซื้อ ‘ข้าวเชียงราย’ หาช่องทางขายช่วยเกษตรกร",
+     "url": "https://www.prachachat.net/politics/news-2100425",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-21T14:25:13Z"
+     "date": "2026-11-22T08:30:52Z"
     },
     {
-     "title": "นายกฯ สั่งคุมเข้มสารปนเปื้อน เร่งตรวจน้ำ-พืชผล-สุขภาพประชาชน ประสานความร่วมมือต่างชาติ",
-     "url": "https://www.infoquest.co.th/2026/683587",
-     "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-21T09:22:45Z"
-    },
-    {
-     "title": "ค้าภายใน จัดสินค้าถูก ลดภาระชุมชน ชวนซื้อ ‘ลำไย–พริก’",
-     "url": "https://www.matichon.co.th/economy/news_5984054",
+     "title": "ไทย-จีน ลงนามพิธีสารทุเรียนฉบับใหม่ เพิ่มโอกาสทุเรียนสดไทย คุมเข้มคุณภาพ ลดเสี่ยงถูกกักด่าน",
+     "url": "https://www.matichon.co.th/economy/news_5985271",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-20T11:05:15Z"
+     "date": "2026-11-22T03:22:29Z"
+    },
+    {
+     "title": "DITP เร่งจับคู่ หาตลาดส่งออกลำไยไทย เป้าดันให้ถึง 200,000 ตัน",
+     "url": "https://www.matichon.co.th/economy/news_5985242",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-22T02:12:28Z"
+    }
+   ]
+  },
+  {
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-holistic.html#read-20"
+   },
+   "items": [
+    {
+     "title": "เลขา สมช.ลุยเชียงราย ตรวจสารพิษเหมืองเมียนมา จ่อคุมส่งออกสารเคมีชายแดน",
+     "url": "https://www.matichon.co.th/politics/news_5985580",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-22T08:26:48Z"
+    },
+    {
+     "title": "PM rejects Cambodia conciliation",
+     "url": "https://www.bangkokpost.com/thailand/general/3358985/pm-rejects-cambodia-conciliation",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-21T22:52:00Z"
     }
    ]
   },
@@ -104,160 +154,44 @@
    ]
   },
   {
-   "id": "cyber",
-   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
-   "en": "Cyber and defence industry",
-   "icon": "cs-security",
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
+   "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/cyber",
-    "credit": "Christopher Bowns",
-    "lic": "CC BY-SA 2.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
-    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
-    "alt_en": "An aisle between server racks in a data centre"
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
    },
    "outlets": 1,
-   "count": 3,
+   "count": 1,
    "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
-    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
-    "url": "military/2569/sub-cyber.html"
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 25,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-cyber.html#read-25"
-   },
-   "items": [
-    {
-     "title": "กัน จอมพลัง ไลฟ์โต้ปมบัญชีม้าเว็บพนัน-โชว์สเตทเมนท์ ชี้เลิกใช้ก่อนเปิดมูลนิธิ",
-     "url": "https://www.matichon.co.th/local/news_5985202",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-22T00:07:18Z"
-    },
-    {
-     "title": "ไชยชนก ชวนสตาร์ทอัพทั่วโลกลงทุนไทย เปิดประตูสู่อาเซียน 700 ล้านคน จับมือพัฒนานวัตกรรม-คุมภัยไซเบอร์",
-     "url": "https://www.matichon.co.th/economy/news_5984003",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-20T10:58:37Z"
-    },
-    {
-     "title": "ภัยไซเบอร์-ระบบขัดข้อง : ความเสี่ยงทางเศรษฐกิจยุคดิจิทัล",
-     "url": "https://www.matichon.co.th/economy/news_5982338",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-20T05:15:37Z"
-    }
-   ]
-  },
-  {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
-   },
-   "outlets": 1,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 11,
-    "date": "2026-11-12",
-    "url": "committee-archive-2569/sub-disaster.html#read-11"
-   },
-   "items": [
-    {
-     "title": "น้ำป่าทะลักท่วมบ้านควนขนุน พัทลุง กว่า 50 ครัวเรือน ถนนกลางเมืองน้ำท่วมสูง 30 ซม.",
-     "url": "https://www.matichon.co.th/region/news_5985224",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-22T01:01:09Z"
-    },
-    {
-     "title": "ครบรอบ 1 ปี มหาอุทกภัยหาดใหญ่ แถมฝนตกหนักลงมาทำชาวสงขลายังผวา",
-     "url": "https://www.matichon.co.th/region/news_5984991",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-21T11:49:34Z"
-    }
-   ]
-  },
-  {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
-   },
-   "outlets": 1,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
    },
    "meeting": {
     "n": 20,
     "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
+    "url": "labour/2569/sub-socialsec.html#read-20"
    },
    "items": [
     {
-     "title": "PM rejects Cambodia conciliation",
-     "url": "https://www.bangkokpost.com/thailand/general/3358985/pm-rejects-cambodia-conciliation",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-21T22:52:00Z"
-    },
-    {
-     "title": "Ties with Myanmar stay despite ICJ ruling: PM",
-     "url": "https://www.bangkokpost.com/thailand/general/3358955/ties-with-myanmar-stay-despite-icj-ruling-pm",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-21T22:09:00Z"
+     "title": "‘แม็กซ์’ โต้ ‘จอม’ 5 ปมร่างประกันสังคม จี้เถียงด้วยตัวบท ถาม ‘3 คืน’ เปลี่ยนเป็น ‘3 ขอ’ เมื่อไร",
+     "url": "https://www.matichon.co.th/politics/news_5985458",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-22T07:45:13Z"
     }
    ]
   },
@@ -304,44 +238,52 @@
    ]
   },
   {
-   "id": "socialsec",
-   "th": "ประกันสังคม",
-   "en": "Social security",
-   "icon": "cs-labour",
+   "id": "cyber",
+   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
+   "en": "Cyber and defence industry",
+   "icon": "cs-security",
    "photo": {
-    "src": "hot/img/socialsec",
-    "credit": "SquidHomme",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
-    "alt_th": "ป้ายกระทรวงแรงงาน",
-    "alt_en": "The Ministry of Labour sign"
+    "src": "hot/img/cyber",
+    "credit": "Christopher Bowns",
+    "lic": "CC BY-SA 2.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
+    "alt_en": "An aisle between server racks in a data centre"
    },
    "outlets": 1,
-   "count": 1,
+   "count": 2,
    "body": {
-    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
-    "en": "Subcommittee on Social Security",
-    "url": "labour/2569/sub-socialsec.html"
+    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
+    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
+    "url": "military/2569/sub-cyber.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
    },
    "meeting": {
-    "n": 20,
+    "n": 25,
     "date": "2026-11-11",
-    "url": "labour/2569/sub-socialsec.html#read-20"
+    "url": "military/2569/sub-cyber.html#read-25"
    },
    "items": [
     {
-     "title": "กฎหมายประกันสังคมใหม่ รื้อสิทธิมนุษย์เงินเดือน-กองทุน 3 ล้านล้าน",
-     "url": "https://www.prachachat.net/politics/news-2099742",
+     "title": "ไชยชนก ชวนสตาร์ทอัพทั่วโลกลงทุนไทย เปิดประตูสู่อาเซียน 700 ล้านคน จับมือพัฒนานวัตกรรม-คุมภัยไซเบอร์",
+     "url": "https://www.matichon.co.th/economy/news_5984003",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-21T06:11:18Z"
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T10:58:37Z"
+    },
+    {
+     "title": "ภัยไซเบอร์-ระบบขัดข้อง : ความเสี่ยงทางเศรษฐกิจยุคดิจิทัล",
+     "url": "https://www.matichon.co.th/economy/news_5982338",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-20T05:15:37Z"
     }
    ]
   }
