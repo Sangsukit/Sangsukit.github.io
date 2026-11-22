@@ -1,0 +1,356 @@
+{
+ "main40": {
+  "n": 40,
+  "date": "2026-11-23",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=54GY29lcYnFe-Ur4kTLSiTSbsdrHQBv8o7wu3BH4df1zUuMTuxtPomaLhZ212wrxooU5PPub9tPyauNLyiPQ_6ePd0fV3v-Rqn3rn6hycPANCpARSguz1tSGMZ3vKKOgi6kJ9BaYdEUPLEl1zS1DaPbK_NI1sr8zp7kEiA==&ref=11217028"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZYJru-WrOtjip4saUnY"
+   }
+  ],
+  "media": {},
+  "chair": "นายสุนทร เชาว์กิจค้า",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "พิจารณาร่างรายงานการศึกษาเรื่องเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากลเพื่อสิ่งแวดล้อมและความยั่งยืน",
+  "summary": "การประชุมวันจันทร์ที่ 23 พฤศจิกายน 2569 เวลา 14.00 น. ห้อง CA 331 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระสำคัญคือการพิจารณาร่างรายงานการพิจารณาศึกษา เรื่อง การบริหารเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากลเพื่อสิ่งแวดล้อมและความยั่งยืน พร้อมวาระรับรองบันทึกการประชุม เรื่องสืบเนื่อง และเรื่องเพื่อทราบ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "รับรองบันทึกการประชุม เรื่องสืบเนื่อง และเรื่องเพื่อทราบ",
+    "วาระที่ 2–4",
+    "other"
+   ],
+   [
+    "พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง การบริหารเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากลเพื่อสิ่งแวดล้อมและความยั่งยืน",
+    "วาระที่ 5",
+    "other"
+   ],
+   [
+    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
+    "วาระที่ 6",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "ระบบเกษตรครบวงจร",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ "share_v40": "fcab4bd0",
+ "cal40": {
+  "ics": "cal/40.ics",
+  "g": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1+%E0%B8%81%E0%B8%A1%E0%B8%98.%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C+%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2+%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88+40%2F2569&dates=20261123T070000Z%2F20261123T100000Z&details=%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%88+%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1+%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87+%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2+%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%93+%28%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1+%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%29%0A%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%3A+https%3A%2F%2Fparliamentx.com%2Fagriculture%2F2569%2F%23read-40&location=%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3+CA+331+%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99+3+%E0%B8%AD%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2+%28%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%9B%E0%B8%B2%E0%B8%A2%E0%B8%B0%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99+1111+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%99+%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%29&ctz=Asia%2FBangkok"
+ },
+ "subs_meet": {
+  "livestock": {
+   "n": 21,
+   "date": "2026-11-25",
+   "docs": [
+    {
+     "k": "notice",
+     "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pFswvjfy-JopEVQg52SjZSU-oi9JK4z282x2xMNx4DxUs4ihGTb_9s6DDvLMYUxP18F5B-iecCoPSiH68aicUdX1vjIwg8Bqp0N0TUe8CQx4GOPKbcvCk444UudYHeaBbgbfC9DVZ5CjqOq1n4Jc7zccnxKw9s9Cu72Scw==&ref=11216523"
+    },
+    {
+     "k": "agenda",
+     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QlOPMT5Pf5aZW4igTdY"
+    }
+   ]
+  },
+  "water": {
+   "n": 21,
+   "date": "2026-11-24",
+   "docs": [
+    {
+     "k": "notice",
+     "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JcTDvQTUG_wRH4I4Bxeb89idfcwTcHr8HJxOO5CLsfBmjlJ4BCqmnaBBm18XlqzxaKx1SVvFx_QtPx6c1ojbezWDoJ34mi7EarIjLjmUSI9ykj4WFq9bXStbflJmB0t1_DcvFWAXzaf3KfddW1NbLY2iPLyL-QA8K6PBEw==&ref=11216382"
+    },
+    {
+     "k": "agenda",
+     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=uQ8T6gsC4cwVuwHI9Jg"
+    }
+   ]
+  }
+ },
+ "subs_fetched": "2026-11-22",
+ "main40_json": {
+  "n": 40,
+  "date": "2026-11-23",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=54GY29lcYnFe-Ur4kTLSiTSbsdrHQBv8o7wu3BH4df1zUuMTuxtPomaLhZ212wrxooU5PPub9tPyauNLyiPQ_6ePd0fV3v-Rqn3rn6hycPANCpARSguz1tSGMZ3vKKOgi6kJ9BaYdEUPLEl1zS1DaPbK_NI1sr8zp7kEiA==&ref=11217028"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZYJru-WrOtjip4saUnY"
+   }
+  ],
+  "media": {},
+  "chair": "นายสุนทร เชาว์กิจค้า",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "พิจารณาร่างรายงานการศึกษาเรื่องเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากลเพื่อสิ่งแวดล้อมและความยั่งยืน",
+  "summary": "การประชุมวันจันทร์ที่ 23 พฤศจิกายน 2569 เวลา 14.00 น. ห้อง CA 331 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระสำคัญคือการพิจารณาร่างรายงานการพิจารณาศึกษา เรื่อง การบริหารเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากลเพื่อสิ่งแวดล้อมและความยั่งยืน พร้อมวาระรับรองบันทึกการประชุม เรื่องสืบเนื่อง และเรื่องเพื่อทราบ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "รับรองบันทึกการประชุม เรื่องสืบเนื่อง และเรื่องเพื่อทราบ",
+    "วาระที่ 2–4",
+    "other"
+   ],
+   [
+    "พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง การบริหารเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากลเพื่อสิ่งแวดล้อมและความยั่งยืน",
+    "วาระที่ 5",
+    "other"
+   ],
+   [
+    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
+    "วาระที่ 6",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "ระบบเกษตรครบวงจร",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ "water21": {
+  "n": 21,
+  "date": "2026-11-24",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JcTDvQTUG_wRH4I4Bxeb89idfcwTcHr8HJxOO5CLsfBmjlJ4BCqmnaBBm18XlqzxaKx1SVvFx_QtPx6c1ojbezWDoJ34mi7EarIjLjmUSI9ykj4WFq9bXStbflJmB0t1_DcvFWAXzaf3KfddW1NbLY2iPLyL-QA8K6PBEw==&ref=11216382"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=uQ8T6gsC4cwVuwHI9Jg"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "พิจารณาร่างรายงานการศึกษาเรื่องน้ำนอกเขตชลประทาน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา",
+  "summary": "ระเบียบวาระ: พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา",
+    "พิจารณาตามระเบียบวาระ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "นอกเขตชลประทาน"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ "water_share_v21": "7f7b6dbb",
+ "water_tl": [
+  [
+   "2026-11-24",
+   null,
+   "cal",
+   "นัดประชุมครั้งที่ 21/2569",
+   "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
+   "plan",
+   21
+  ]
+ ],
+ "water_cal21": {
+  "ics": "cal-sub/water/21.ics",
+  "g": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%8A%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99+%28%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2%29+%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88+21%2F2569&dates=20261124T070000Z%2F20261124T100000Z&details=%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%88+%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1+%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87+%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2+%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%93+%28%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1+%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%29%0A%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%3A+https%3A%2F%2Fparliamentx.com%2Fagriculture%2F2569%2Fsub-water.html%23read-21&location=%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3+CA+320+%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99+3+%E0%B8%AD%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2+%28%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%9B%E0%B8%B2%E0%B8%A2%E0%B8%B0%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99+1111+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%99+%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%29&ctz=Asia%2FBangkok"
+ },
+ "water21_json": {
+  "n": 21,
+  "date": "2026-11-24",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JcTDvQTUG_wRH4I4Bxeb89idfcwTcHr8HJxOO5CLsfBmjlJ4BCqmnaBBm18XlqzxaKx1SVvFx_QtPx6c1ojbezWDoJ34mi7EarIjLjmUSI9ykj4WFq9bXStbflJmB0t1_DcvFWAXzaf3KfddW1NbLY2iPLyL-QA8K6PBEw==&ref=11216382"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=uQ8T6gsC4cwVuwHI9Jg"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "พิจารณาร่างรายงานการศึกษาเรื่องน้ำนอกเขตชลประทาน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา",
+  "summary": "ระเบียบวาระ: พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา",
+    "พิจารณาตามระเบียบวาระ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "นอกเขตชลประทาน"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ "livestock21": {
+  "n": 21,
+  "date": "2026-11-25",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 319 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pFswvjfy-JopEVQg52SjZSU-oi9JK4z282x2xMNx4DxUs4ihGTb_9s6DDvLMYUxP18F5B-iecCoPSiH68aicUdX1vjIwg8Bqp0N0TUe8CQx4GOPKbcvCk444UudYHeaBbgbfC9DVZ5CjqOq1n4Jc7zccnxKw9s9Cu72Scw==&ref=11216523"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QlOPMT5Pf5aZW4igTdY"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "พิจารณาร่างรายงานการศึกษาของคณะอนุกรรมาธิการ",
+  "summary": "ระเบียบวาระตามหนังสือนัดประชุม: รับรองบันทึกการประชุมครั้งที่ 20/2569 (วันพุธที่ 18 พฤศจิกายน 2569) และพิจารณาร่างรายงานการพิจารณาศึกษาของคณะอนุกรรมาธิการ บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "รับรองบันทึกการประชุม ครั้งที่ 20/2569 (วันพุธที่ 18 พฤศจิกายน 2569)",
+    "วาระที่ 2",
+    "other"
+   ],
+   [
+    "พิจารณา (ร่าง) รายงานการพิจารณาศึกษาของคณะอนุกรรมาธิการ",
+    "วาระที่ 3",
+    "other"
+   ],
+   [
+    "กำหนดวันและเวลาในการประชุมครั้งต่อไป",
+    "วาระที่ 4",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 319 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ "livestock_share_v21": "47de0200",
+ "livestock_tl": [
+  [
+   "2026-11-25",
+   null,
+   "cal",
+   "นัดประชุมครั้งที่ 21/2569",
+   "ห้องประชุมกรรมาธิการ CA 319 ชั้น 3 อาคารรัฐสภา",
+   "plan",
+   21
+  ]
+ ],
+ "livestock_cal21": {
+  "ics": "cal-sub/livestock/21.ics",
+  "g": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A8%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C+%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%87+%28%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2%29+%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88+21%2F2569&dates=20261125T070000Z%2F20261125T100000Z&details=%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%88+%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1+%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87+%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%A0%E0%B8%B2+%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%93+%28%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1+%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%29%0A%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%3A+https%3A%2F%2Fparliamentx.com%2Fagriculture%2F2569%2Fsub-livestock.html%23read-21&location=%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3+CA+319+%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99+3+%E0%B8%AD%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2+%28%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%9B%E0%B8%B2%E0%B8%A2%E0%B8%B0%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99+1111+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%99+%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%29&ctz=Asia%2FBangkok"
+ },
+ "livestock21_json": {
+  "n": 21,
+  "date": "2026-11-25",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 319 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pFswvjfy-JopEVQg52SjZSU-oi9JK4z282x2xMNx4DxUs4ihGTb_9s6DDvLMYUxP18F5B-iecCoPSiH68aicUdX1vjIwg8Bqp0N0TUe8CQx4GOPKbcvCk444UudYHeaBbgbfC9DVZ5CjqOq1n4Jc7zccnxKw9s9Cu72Scw==&ref=11216523"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QlOPMT5Pf5aZW4igTdY"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "พิจารณาร่างรายงานการศึกษาของคณะอนุกรรมาธิการ",
+  "summary": "ระเบียบวาระตามหนังสือนัดประชุม: รับรองบันทึกการประชุมครั้งที่ 20/2569 (วันพุธที่ 18 พฤศจิกายน 2569) และพิจารณาร่างรายงานการพิจารณาศึกษาของคณะอนุกรรมาธิการ บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "รับรองบันทึกการประชุม ครั้งที่ 20/2569 (วันพุธที่ 18 พฤศจิกายน 2569)",
+    "วาระที่ 2",
+    "other"
+   ],
+   [
+    "พิจารณา (ร่าง) รายงานการพิจารณาศึกษาของคณะอนุกรรมาธิการ",
+    "วาระที่ 3",
+    "other"
+   ],
+   [
+    "กำหนดวันและเวลาในการประชุมครั้งต่อไป",
+    "วาระที่ 4",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 319 ชั้น 3 อาคารรัฐสภา"
+  }
+ }
+}
