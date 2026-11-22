@@ -69,7 +69,7 @@ js = {m['n']: m for m in json.load(open(f'{M}/meetings.json', encoding='utf-8'))
 for src in (d, js):
     assert [x['url'][-8:] for x in src[34]['docs'] if x['k'] == 'doc'] == ['11204700'], '34 doc'
     assert [x['k'] for x in src[33]['docs']].count('minutes') == 1 and any(x['url'].endswith('ref=11204694') for x in src[33]['docs']), '33 minutes'
-    assert src[34]['upcoming'] and src[34]['time'] == '14.00' and 'CA 330' in src[34]['room'], '34 card unchanged'
+    assert (src[34].get('upcoming') or any(x['url'].endswith('ref=11216297') for x in src[34]['docs'])) and src[34]['time'] == '14.00' and 'CA 330' in src[34]['room'], '34 card unchanged'
     assert src[33]['media']['video']['ck'] == '33' and src[34]['media']['video']['ck'] == '34p', 'videos kept'
 m33 = open(f'{M}/m/33.html', encoding='utf-8').read(); m34 = open(f'{M}/m/34.html', encoding='utf-8').read()
 assert m33.count('ref=11204694') == 1 and 'ref=11195070' not in m34 and m34.count('ref=11204700') == 1

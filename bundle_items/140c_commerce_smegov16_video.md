@@ -28,4 +28,6 @@ poster cbec75f1190c19f3e87cffec155f32f8).
 Delivery (18 Nov 12:20 UTC): 140c replaces 140b. The payload is embedded in the .sh (base64 tar), so the item is ONE .sh + this .md;
 the video, vtt and poster are still read from committees/commerce/media/ (mp4 7da97fc9e2ea3b30ecd95993ea9bbf69).
 
+22 Nov 2569 update: only the final self-check changed, so it also passes after item 146 (which marks smegov 17 as past). Same edits as before.
+
 STATUS: READY
