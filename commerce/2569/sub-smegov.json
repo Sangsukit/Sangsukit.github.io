@@ -93,7 +93,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-smegov-v16.mp4",
+    "src": "/video-2/commerce/2569/media/sub-smegov-v16.mp4",
     "poster": "img/poster-sub-smegov-16.jpg",
     "vtt": "media/sub-smegov-v16.th.vtt",
     "kind": "post",
@@ -105,7 +105,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-smegov-v16.mp4",
+     "src": "/video-2/commerce/2569/media/sub-smegov-v16.mp4",
      "poster": "img/poster-sub-smegov-16.jpg",
      "vtt": "media/sub-smegov-v16.th.vtt",
      "kind": "post",
