@@ -469,6 +469,18 @@
    "published": "2026-11-22T23:36:23Z"
   },
   {
+   "id": "s417-2569-42-video_pre",
+   "topic": "s417",
+   "kind": "video_pre",
+   "n": 42,
+   "year": 2569,
+   "date_th": "อังคารที่ 24 พฤศจิกายน 2569 เวลา 14.00 น.",
+   "title": "เรื่องร้องเรียนการบุกรุกป่าต้นน้ำเพื่อปลูกขิง และการปนเปื้อนโลหะหนักในแม่น้ำกก แม่น้ำสาย แม่น้ำรวก และแม่น้ำโขง",
+   "page": "https://parliamentx.com/environment/2569/s/v-42-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YUB0ECZBsWbGEE1TJxOHaRgjAjDh5LN9j2h0wr3zVJe50VxknlJV_LbCj7sMvwznG2294UwHmf-opgjSK_vtPVGrPnaVks_Qn6o31hgwvbDt977vI66nImJs91eDqlkDQETJO0NRQhRb37lu2UQ6z-gidGcMuFNetL7ZRg==&ref=11227765",
+   "published": "2026-11-22T23:41:32Z"
+  },
+  {
    "id": "s417-2569-42-pre",
    "topic": "s417",
    "kind": "pre",
@@ -695,6 +707,18 @@
    "page": "https://parliamentx.com/environment/2569/s/v-climate-4-pre.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mejdOSaXf9FJOCFhSSfLI4wsfeJ9lC-Eor498ZFzrdy0lIBw-WXnOkLRxRY2M2giVt4ez7_x0GVJqs7laJEvHTFjLibmUM3-PIjSX5p9l0c9scY4P9Ntnk7B4lfI03caaGUrfvh2HgKpWupyAaxc2sKI231lrtaM_-eteQ==&ref=11185271",
    "published": "2026-11-16T12:31:44Z"
+  },
+  {
+   "id": "s417-climate-2569-4-video_post",
+   "topic": "s417-climate",
+   "kind": "video_post",
+   "n": 4,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 19 พฤศจิกายน 2569 เวลา 13.30 น.",
+   "title": "เลื่อนการศึกษาดูงานคาร์บอนเครดิตภาคป่าชายเลนที่จังหวัดตราด และเตรียมประเด็นรายงานฝุ่น PM2.5 ต่อวุฒิสภา",
+   "page": "https://parliamentx.com/environment/2569/s/v-climate-4.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EZVRoIH8tDSjYuivyj2a9no-ZNxsrhPsYYhR_hcUvLPi04ZsJFuouenSO6r3GLcBtMKhAMSZKXyc6_o3ptgijZUcrKP5TH4xjt0A-WJNuAAn24BXP-ieo4DNGN4qTABlj3UwOvIWaj8dXASRxTfF4yPEboKr9Oeob7DXBw==&ref=11227922",
+   "published": "2026-11-22T23:41:32Z"
   },
   {
    "id": "s417-climate-2569-4-pre",
@@ -1463,6 +1487,18 @@
    "page": "https://parliamentx.com/environment/2569/s/v-41-pre.html",
    "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=QYiuGM64HsPtJphTVlxSGu38fVGl5MPDvsxLnX1OL5j7HYlcLO9lykqeV6d-ambaNzC1mqE8rw71zlOpHRayFB7_TsdGggTpIl_mUiUgOvezSuYUaX67Q7G9yJuLuX11LS5t7qvkU2EXsdho-dIPHa40xsv7oJUgVJAipw==&ref=11175171",
    "published": "2026-11-16T03:38:06Z"
+  },
+  {
+   "id": "s417-2569-41-video_post",
+   "topic": "s417",
+   "kind": "video_post",
+   "n": 41,
+   "year": 2569,
+   "date_th": "อังคารที่ 17 พฤศจิกายน 2569 เวลา 14.30 น.",
+   "title": "เรื่องร้องเรียนการบุกรุกป่าต้นน้ำเพื่อปลูกขิง อำเภอไชยปราการ และอนุมัติการศึกษาดูงานคาร์บอนเครดิตที่จังหวัดตราด",
+   "page": "https://parliamentx.com/environment/2569/s/v-41.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=32JN-2UqofaNtRPBFyIiOflfGnVW9IENHD3MPaCTuhYSt2IYTQYtDqJmfRjYZGyW4Exh8MnMRAg9HPlgfu_RYUpSs-gom_X_yrsS9NrIiCRyBh2j4y-VHHAEWj-mRD5s62J_oAr7Ug84vpo7XiJGu2ujBooRElRN0ebL0g==&ref=11226642",
+   "published": "2026-11-22T23:41:32Z"
   },
   {
    "id": "s417-2569-41-pre",
