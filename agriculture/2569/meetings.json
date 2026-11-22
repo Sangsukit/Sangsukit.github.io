@@ -14,7 +14,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZYJru-WrOtjip4saUnY"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v40pre.mp4",
+    "poster": "img/poster40pre.jpg",
+    "vtt": "media/v40pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:08",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "40p",
+    "size": 5045646
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v40pre.mp4",
+     "poster": "img/poster40pre.jpg",
+     "vtt": "media/v40pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:08",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "40p",
+     "size": 5045646
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
