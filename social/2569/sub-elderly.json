@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=X5y4FfZQxXsTZEwVybY"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "media/sub-elderly-v26pre.mp4",
+     "poster": "img/poster-sub-elderly-26pre.jpg",
+     "vtt": "media/sub-elderly-v26pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:27",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "elderly-26p",
+     "size": 5720910
+    }
+   ],
+   "video": {
+    "src": "media/sub-elderly-v26pre.mp4",
+    "poster": "img/poster-sub-elderly-26pre.jpg",
+    "vtt": "media/sub-elderly-v26pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:27",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "elderly-26p",
+    "size": 5720910
+   }
+  },
   "chair": "",
   "chair_role": "",
   "headline": "ร่างรายงานการศึกษา กองทุนผู้สูงอายุ และคนไร้บ้านและคนขอทาน",
