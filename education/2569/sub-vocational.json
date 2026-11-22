@@ -146,22 +146,22 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wa0S88nZ6UTE6kqRSUEqongjsn9EQ09otz4lLLDoVb9q6yHrx3FZtAODYz53tJDMKSMkb29ZFx-vzob7bQchXeoT7fYsuishYN8Z7ovR4SOkyrISFWE1C1bEIjvjTGglz_dG4zFuCYzkMdPzBTa1XEPh3CHfS8OCnrxxaQ==&ref=11029586",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8y0VxBvy4DRD4Y2PwDLamKlaPEM_BCd5CMsJbAUP5dAfae4or3NFlIXeQtjDl4dlg_A4rWgcyh29dwl6t2RS4f_8TiPtLjZAJpWEaOUoXJbsfE0XeQUQedTm42qdcvloaZ7Kad-5qFnO_WlgasU5d4Qi9vTnP3bRn6xRNg==&ref=11029586",
     "size": 135127
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UVdfdBExLKl9ksOLnulmF6RQq-boVorawwJ-Axm7JLa_SNYZCHuntBKYXHcracCduogS5pp7dgA2iNdbbar_YQ_Ks6YjGGX6u8bvmIq0-_TPfsl7YLouEzzuLi8dGasE8fgexP36hW7lQv6ZLYMpdWF8QpNJW5iTv8dJ2Q==&ref=11030092",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hH0ruiaAgVJFfGqcIF1YMBaVIDxte4i9ej22DwMlYX4cWObTJhofw4oBUR488k9k3jNpKwufiJcHv3ONciac4HBwXrRLikELnQdNDHjI9I_758KNcgeq7v4k-Gjm6VApRGEt7KW5jYgPaB8TyHFK3RqyYPM_99WKpgEdAw==&ref=11030092",
     "size": 135127
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kdFwGLFx6JM_mZOQdfPM_lB9CHx3l9cwQnIjTznQOQt-HjTwzoxTPsvIS4AWi-S7uG2bWB4hbEvG3wZOSYg88TGkIY6jGeaaDD0o_8Xyia0x5ZdEUv55OH4dyeUj6IIIkc__HnfQoyIW-zf1_7UR59RFw2F64UtCyjchWw==&ref=11069863",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=w-3UXOtGIzpiryTmkFeX5sYv8CCPlKu0EjeE6Sa1QE6eYPZzsvNtBv7A3BLbH-9FV-r_FefyQqt47yv1_bGzFR6Y2GiEr6u1pLS2yCdOJAM10ykEWkPYvHpZuctxQiw1gmln2lVG9fXZUlT0_y5OD0kLStRxGsq3Dr3Qsg==&ref=11069863",
     "size": 1150388
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=34wZuMfD0jT4zY6W8Wc"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=APS37esdB8Y0Fe2nZKg"
    }
   ],
   "media": {
@@ -190,15 +190,24 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 32/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายสุทิน แก้วพนา",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ความคืบหน้าข้อเสนอเชิงนโยบายขยายและยกระดับอาชีวศึกษาทวิภาคี (ภาคอุตสาหกรรมและการลงทุน)",
+  "summary": "ที่ประชุมพิจารณาความคืบหน้าการดำเนินงานของคณะทำงานจัดทำข้อเสนอแนะเชิงนโยบายเกี่ยวกับการขยายและยกระดับการจัดอาชีวศึกษาระบบทวิภาคี โดยเชิญคณะทำงานและหน่วยงานที่เกี่ยวข้องเข้าร่วมประชุม ได้แก่ สภาอุตสาหกรรมแห่งประเทศไทย และสำนักงานคณะกรรมการส่งเสริมการลงทุน (BOI) ตามเอกสารข่าวที่วุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "ความคืบหน้าของคณะทำงานจัดทำข้อเสนอแนะเชิงนโยบายเกี่ยวกับการขยายและยกระดับการจัดอาชีวศึกษาทวิภาคี (สภาอุตสาหกรรมแห่งประเทศไทย และสำนักงานคณะกรรมการส่งเสริมการลงทุน)",
+    "พิจารณา",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "อาชีวศึกษา",
+   "ทวิภาคี"
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "suthin"
  },
  {
   "n": 31,
@@ -208,22 +217,22 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RZz4CcR93zXuR6JKoc0InURQFjDuPqqHV3HqmDjVKGZFT1a6wpu-dJFbXaDAn4tLYODou-MhDRfshzRx3ldRTdUOhhFrXbLJudi8yWAZ4LWxQ9PFOJnZbzyZnBSCUqQ95--huiS9P-bkeLdtoEtFtKglP9La3Prn5zAv8g==&ref=10971882",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gYleq_CoK_56CECtZVFu_gUAly0ka5pi-gOFy_jugEcMvrM4oaIje5120Tbt8B-3Waj7Dx4lFFaeO03CmmbzFYDnBgyklUfmo4nv5R93LVbew5xSkqk0kjVPY_VcNA4Bri0YGRnp_CRXO1vFekKlfk8b6Kb4zT63HUptYQ==&ref=10971882",
     "size": 136216
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2xXtdOIoMBSjM77SVQlC5mkwbE19z_ELwrxkqXwBDLSO4GRbXr95XFlt8iwNdIMPYlWG4Gg9SA3A4oZ-G6Qb_VJCJpBNM0DB6J20_geYxoCd9Ieht6pujwbIzPEAevV2rzaprqyJAhemQi3GM6f1bBU_hmbsff9hFHh3ig==&ref=10972073",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pCyYmofFKzM_5Z1iou_fnzdWyuREJHqcdgOe-upnLHlvhVbnKwGd6OBVAE4udT-kxqOmCUY-_A6HPkRBJdXnJJuYDzAp_IMxxEnoyqEMQyJnTBBN1jBuT7wO9wXZ_Of5MmkYeGZj3jwDzveDmddttG-pacD_Dz40YgI3GQ==&ref=10972073",
     "size": 136216
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6j17bkJG2L9UvUoMtGK7n3nISwnLpZwUyPe8CeT-YHWvCkVL3_qq4PJ819qVajC8HCYsDH5vQOL2PI7CjbKSww9rZ8RLLeGr3XyE0o0iuDwZ8W64WtRsom_HyGaOAi-c_yI1-seFXWxwW6WWfY2g_FKcPUfVy_LUOqrnFQ==&ref=11040799",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nzZD-vn4H4sdCA9iBVPXBd2nF-O_obhy8vWShP7AV6-ChGyoA2tDpCSMkd9i_D6lWobPuhDeo6V_Nm1VVll72vPECLPXKbGRO0aZvpLtNtBpRo2TfSyW9nA0RV5pmeAXwMIkZDwxpZ5C6mn7I16WjLhJ1DaxCeo4bWumdA==&ref=11040799",
     "size": 978235
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rPnmAxjjViRBCOTqMpE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=eIPvq0gB5MJ4S3JKrfY"
    }
   ],
   "media": {
@@ -252,15 +261,24 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 31/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายสุทิน แก้วพนา",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ความคืบหน้าข้อเสนอเชิงนโยบายการส่งเสริมความสามารถในการแข่งขัน (PISA)",
+  "summary": "ที่ประชุมพิจารณาความคืบหน้าการดำเนินงานของคณะทำงานจัดทำข้อเสนอแนะเชิงนโยบายเกี่ยวกับการส่งเสริมความสามารถในการแข่งขัน (PISA) โดยเชิญคณะทำงานและหน่วยงานที่เกี่ยวข้องเข้าร่วมประชุม ที่ประชุมรับทราบผลการดำเนินงาน และมอบหมายให้คณะทำงานจัดทำรายงานการพิจารณาศึกษาเพื่อเสนอต่อคณะอนุกรรมาธิการต่อไป ตามเอกสารข่าวที่วุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "ความคืบหน้าของคณะทำงานจัดทำข้อเสนอแนะเชิงนโยบายเกี่ยวกับการส่งเสริมความสามารถในการแข่งขัน (PISA)",
+    "รับทราบ",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "PISA",
+   "ความสามารถในการแข่งขัน"
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "suthin"
  },
  {
   "n": 30,
@@ -270,22 +288,22 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8vtwAGzYbvFJ2tSzgJebmKZ2c759L2uV5IzYlACfFbymFaTyHsorHugl0dMjwViGkaUu2OeTHnNXO_FA1UQ7Zp7wgF1mkSkHfC19767i9uNa9nO-huCg0CKkXjSR6gSSGcZhE8sli1lhQwDWa3La462zQwOAj50RGfGWiw==&ref=10921923",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ywR574-CAi80U3G0liiwT4SWVyrgsqB30JH9X8cQ1yAiTySzwmpxx103qAl-LHiQUg-lLY6QmcXjaWYLQJWet1E3wLepVfYuVyHsqDvjSYcw1krIsvjEY7GjU1iq1dA9tnDMWONw4wVuKen7buYqEgddwOd6feNgpOus7g==&ref=10921923",
     "size": 135560
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DKNddHxSJrt0nm9sr2Okae3TCV7tuqDQF9yHniL4c4yOdnjedIYZ8mqWHiDJnTPu8DG04kJt3Kn9aBPdAHEjgyiGHm_QsHbEPA4OJMD_R2VSkWSKJmkEnPhYA15u55VHwwTKZRURnqJHZt9wuL-_oPubn2IKFD4ouXk7Hw==&ref=10972055",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TiJ2lOQEUNzujC4V0T6sheCnhR73ZSSpJ9Hpki91BSLE01o1yBLOc5ndqfyo6XZ79KE-5rY-nA4stHvCb5b-56_hPO5yvJRimeo4JnUT77b2jUVrIj17e6dwSbm0hPWmL5fCpLRxI0RE238ZdSuhjOkwIKW8NMB9o3CbEA==&ref=10972055",
     "size": 135560
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JoXxMk8LZJzdMDFwNSw1q_hY6HJpV53l_QYFvnbus1pxBLvaKgyXzI5oRusiQG7QiI5ukNZszVEPACRLOZMt8RArzdmyjZ_YtaNVZoD4ZJjhUA-xd4mkgjn-GROd5fx5QiTaIFLgZUnnsrWgscVZbQqqhoGiT2uhfdGn8A==&ref=10972064",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sVIyAfhquvG5ea29Py-Dw5scONJiuRkQIiTBZQF_bJcrX4-gv4l_WCk7vyIPBp_lJW2oQJ8RySZqW7T-iOh6pdk_dpGIA31qrMIb4CYHI0LhxP5XyYgm-KuEX7PovqHvLNsW3bsWFcry6H-w-m6cyBdDzyNi5XgpdwCIUg==&ref=10972064",
     "size": 742516
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=p_D7-OxwPWKIiWzE6FE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WTH5wCby3hvCOG1DVc4"
    }
   ],
   "media": {
@@ -314,15 +332,25 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 30/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายสุทิน แก้วพนา",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "แนวทางและแผนการดำเนินงานปีงบประมาณ 2570",
+  "summary": "ที่ประชุมพิจารณาแนวทางและแผนการดำเนินงานของคณะอนุกรรมาธิการ ประจำปีงบประมาณ พ.ศ. 2570 และเห็นควรกำหนดประเด็นที่จะพิจารณาศึกษา โดยเน้นติดตามและเร่งรัดเรื่องที่อยู่ระหว่างพิจารณาให้แล้วเสร็จโดยเร็ว และกำหนดประเด็นสำคัญที่อยู่ในหน้าที่และอำนาจของคณะอนุกรรมาธิการ เช่น ร่างพระราชบัญญัติการศึกษาแห่งชาติ และแนวทางการบริหารจัดการโรงเรียนขนาดเล็ก ตามเอกสารข่าวที่วุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "แนวทางและแผนการดำเนินงาน ปีงบประมาณ พ.ศ. 2570: ร่างพระราชบัญญัติการศึกษาแห่งชาติ และการบริหารจัดการโรงเรียนขนาดเล็ก",
+    "เห็นควร",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "อาชีวศึกษา",
+   "ร่าง พ.ร.บ. การศึกษาแห่งชาติ",
+   "โรงเรียน"
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "suthin"
  },
  {
   "n": 30,

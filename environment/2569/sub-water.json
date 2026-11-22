@@ -82,17 +82,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1gGu_zlZvi_aBtUAF5Nzi1-Ptrf8K5FHcQGI8Ewa4_r0zK-n2CJF07dyPJ9hcopLeHw323lBiDOvQ5VAk3lQeC-P4BayyZxwyjO4uCU3TquPCh0jNuT2ZBF7pjc6e9owjyT4Rugli8Vv2Hpsq-T0kLembCGrwpatvVCg1w==&ref=11059396",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8HELlIbkvBZjmppGZWKex0m7jGc8cKKy3ulAsksTDtQVOYA4cpZzij9ZLqEIb0jZr1ZzivxsfXWXzEDZMgpoLYz6iU2nvmiB7g2IkyV0tzneqwferPFhlIFrL7l_5z6JXGTgiLPlzHAyH3k_nzVeioA3uytdR8KirYWZEA==&ref=11059396",
     "size": 138217
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aq5cVMFt6UKtbCdfQGBHEk4_3VJh9z8mLWw-d_st0fYet-ZIuwOlSSa3UCbyvKcD5sjqRDBhxJzIuurnVh0lWhPmTOaye5euNoJP2Ovd1oqMSG-2y4hlO8jvwglRB2W6eo6mshMEE6zMJBhTpzgzLRZOwdwURkD-6QZseA==&ref=11073241",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=o_m6c4JG2E-xxRmk0hU88U57nesLCbc4l-zCIRAOVP2dGz3RE9nj5d3OoYHWPpPDaPHVlYWKhnFNi1oFwwNbOgjIXFqgn68wtndYGjBHiB4DI9GY8Ig_A_i2kvFACbIdptLS2w2KKEjznHIVxY4Yj3Sg0jYpRE9biBCF-w==&ref=11073241",
     "size": 14757069
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lXkMx9njzqGua2nyxxA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=IvYaT4um_t748C51v8g"
    }
   ],
   "media": {
@@ -121,15 +121,32 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 3/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
-  "upcoming": false
+  "chair": "นางสาวรัชนีกร ทองทิพย์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "มลพิษทางน้ำและน้ำท่วมในจังหวัดปราจีนบุรี",
+  "summary": "ที่ประชุมพิจารณาศึกษาแนวทางป้องกันและแก้ไขปัญหามลพิษทางน้ำในจังหวัดปราจีนบุรี ได้แก่ กรณีพบน้ำสีดำเข้มไหลจากพื้นที่น้ำท่วมผ่านประตูระบายน้ำเพชรเอิมและบึงหนองบอน รวมถึงแม่น้ำปราจีนบุรี กรณีพบคราบคล้ายน้ำมันบนผิวน้ำไหลลงสู่บึงหนองบอนและแหล่งน้ำสาธารณะ และสถานการณ์น้ำท่วมในอำเภอบ้านสร้าง โดยเชิญกระทรวงอุตสาหกรรม กรมอนามัย กรมควบคุมมลพิษ และองค์การบริหารส่วนตำบลวังดาล มาให้ข้อมูล ที่ประชุมรับทราบผลการตรวจสอบและวิเคราะห์คุณภาพน้ำ แนวทางหาสาเหตุและแหล่งกำเนิดมลพิษ การกำกับดูแลโรงงานตามกฎหมาย การประเมินผลกระทบต่อสุขภาพ และการเปิดเผยข้อมูลต่อสาธารณะ",
+  "items": [
+   [
+    "มลพิษทางน้ำในจังหวัดปราจีนบุรี: น้ำสีดำเข้มจากพื้นที่น้ำท่วม และคราบคล้ายน้ำมันในบึงหนองบอนและแหล่งน้ำสาธารณะ",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "สถานการณ์น้ำท่วมในอำเภอบ้านสร้าง และผลการตรวจคุณภาพน้ำ การหาแหล่งกำเนิดมลพิษ และการประเมินผลกระทบต่อสุขภาพ",
+    "รับฟังข้อมูล",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "น้ำท่วม",
+   "สิ่งแวดล้อม",
+   "แหล่งน้ำ"
+  ],
+  "places": [
+   "ปราจีนบุรี"
+  ],
+  "upcoming": false,
+  "chair_key": "ratchaneekorn"
  },
  {
   "n": 2,
@@ -139,17 +156,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iMA44u8aGzxdoOmE_WgFl_16N90ocFOmDDr2CsZyZ9r_WQSzVjVsdOZy5ZdgQxj__J30CEyU-nisHIFV-T02KQYhrsyFr_spenMhXMaFRYHuIAqTmZ7KgOyon5hWmvSdaf9C-pQ-c1gsOjUDIi40xwZiHHfn9w2shTD21Q==&ref=11000329",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=huZTyS83SJyeUILapDW34m0rPpDJl5JTo7D52S_KzO_U1HJN5XzrGf-iahshs_0-TW8AnlzFLo0_zOQusCmg-SA-79v2YnXMaDRyA276Xx-qukKHelLoeZluaZoTjtVJjtIh2ggjFXKloOdUnc-NCzSmhMtXFXr52QUOPw==&ref=11000329",
     "size": 144384
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=af52fkCqKsI8aHTr_n0tVUaJ04nOb8iYUq1IxtXjZoxpTvMt2p8z4M0EcjijZeZhTujLJbkJpKz3ASZ0KyC6KdtGeGdlDqCRDkcVvf8KxjuxCGJ4hYfxjEWyv2bPmorkfJLukLVlwfgJpHB0gx4niUunRptpnBIRLXhPOQ==&ref=11041407",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IkceLkp_JQG2MJnK_zLbe3ZDTOMbfLrjdvjIq3rVH3raA43hdjf8hj0MCGopBRQyi6xe09MdKjnJXvYSNlO-XCWBVYfUrEb-x3leUyjHtEYN8F7w5dddJgspJ_5UnlWpOARhg8SPNzOcuv-95adi2sElW3VH7auM3p--yA==&ref=11041407",
     "size": 5687246
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=oa_vwJbaPZg_qCibSnE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZPR3pZfydt6JR3SxecE"
    }
   ],
   "media": {
@@ -178,15 +195,36 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 2/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นางสาวรัชนีกร ทองทิพย์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "เตรียมเสวนาระบบรับมือภัยพิบัติ และเห็นชอบร่างรายงาน 2 ฉบับ",
+  "summary": "ที่ประชุมพิจารณาเตรียมการจัดเสวนาเรื่องแนวทางการพัฒนาระบบรับมือภัยพิบัติและระบบสนับสนุนการตัดสินใจ ในวันศุกร์ที่ 27 พฤศจิกายน 2569 และเห็นชอบร่างรายงาน 2 ฉบับ คือ ร่างรายงานการพิจารณาศึกษา เรื่อง แนวทางการแก้ไขปัญหาการลักลอบทิ้งกากของเสียอุตสาหกรรม ขยะพลาสติก ขยะอันตราย และขยะอิเล็กทรอนิกส์ และร่างรายงานการพัฒนาระบบสนับสนุนการตัดสินใจ (Single DSS) และนัดประชุมครั้งต่อไปวันที่ 29 ตุลาคม 2569 เพื่อพิจารณาแนวทางป้องกันและแก้ไขปัญหามลพิษทางน้ำในจังหวัดปราจีนบุรี",
+  "items": [
+   [
+    "เตรียมการจัดเสวนาแนวทางการพัฒนาระบบรับมือภัยพิบัติและระบบสนับสนุนการตัดสินใจ (27 พฤศจิกายน 2569)",
+    "เห็นควร",
+    "sub"
+   ],
+   [
+    "ร่างรายงานการพิจารณาศึกษา เรื่อง แนวทางการแก้ไขปัญหาการลักลอบทิ้งกากของเสียอุตสาหกรรม ขยะพลาสติก ขยะอันตราย และขยะอิเล็กทรอนิกส์",
+    "เห็นชอบ",
+    "sub"
+   ],
+   [
+    "ร่างรายงานการพัฒนาระบบสนับสนุนการตัดสินใจ (Single DSS)",
+    "เห็นชอบ",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "กากอุตสาหกรรม",
+   "ขยะพลาสติก",
+   "ขยะอันตราย",
+   "รายงานการศึกษา"
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "ratchaneekorn"
  },
  {
   "n": 1,
@@ -196,21 +234,21 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aXIfbmf3c6ZEkI6eeLtzdPcC4UXVMQXu8nFf-bjWeCLTVEWe0zNg-skbqZtNtZKRXhaas_1Rcv0ZZnDFUSjAvJQvMxazDQ-rMkKOh-a5zIJb8v2d4lAX2TtQKk283Jcl8mLWtXEmvSAxko__qc6Y2SMj9f4ONsp-jKwBNA==&ref=10962303",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=eCQwFnH99s3AfeE4PJ2GvdTLyBWTM6UqXg8WUAj8KWYbccyJH4ouWeNOHEdLJVliOE6sKKUd-YVCDp-5AvWo3hG3EIeyIuDIC_V6-bOJs4xwGp_s2tYNi-qQc--U2q-Wsc8A7Zg_6mP8TVois0-1yFEZF9aVRn7Ft8luRA==&ref=10962303",
     "size": 142458
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lG5dsbxbgTQXYxpGkbc8X6T3uPko_3y4loV9a1knNDMRz0pvWQExTBdnMdKscW7H7nHUnhrBOwhHM99bZQs8tB-SV4C3MWw7fSbCpNcNBMAuYMTFQDzv83TjxfL6VyHdBx-kMzPKQOp18_5r5ML-lnC_Lol5EvSb-6dq0g==&ref=10972483",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ge7tlaW-S1qH_jryH5mqsCJ3hQ06dmoTarSj8g9tenG31m9BYUNSL-zirqyRORUPwzxqweX_HKvvX-z_YLYKhWxjnqT7bd6Q4azjMnf0WJuwDmlveqNag-XSBXB27vpI-GkmoG_u6RWronINiGAp39IukgJQQCGQIwGYrw==&ref=10972483",
     "size": 6839050
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1aCdV2N9qY_DFTmNgT5QMQBC-T9gwUrWL2ETWq_dNyuBwMs2oRiZ1j96OoVQbdBgR-Hb2RLVrxHJoL7irdHZL2gSVRjRk_JUsWGC8i9eF5f5x1Y5F_Rxj0UMqIIxnSKB_XhKO0GAnlM2YtPa8krzsxOZv45EWxR9jdvCHw==&ref=11059185"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hK9jsOkzIQbqo6n_Ub_YDt6EOCnBOiH_1csh-hw_PyFMkODeyLz1tE3T5VsdcAYHpkYyz1_7vUpBgA63AzFQXtLCMZkLfL6igqMoWoUvCZDni01FYS8tb2sck_L3Noi1ieoqg8MQ3iEfJcAVRvU2VKRHYUS9oXO-Ss37_A==&ref=11059185"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WqIWdN0DCi-XQ4Kaj6g"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=PMj0E2NzwjKsZeP3p_I"
    }
   ],
   "media": {
@@ -239,14 +277,25 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 1/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
-  "upcoming": false
+  "chair": "นางสาวรัชนีกร ทองทิพย์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "การบริหารจัดการน้ำในภาวะวิกฤต กรุงเทพมหานครและปริมณฑล",
+  "summary": "ที่ประชุมพิจารณาศึกษาการบริหารจัดการน้ำในภาวะวิกฤตในพื้นที่กรุงเทพมหานครและปริมณฑล โดยหารือ 5 เรื่อง คือ การเตรียมความพร้อมก่อนเกิดเหตุ การรับมือและการสื่อสารในภาวะวิกฤต ผังเมืองและผังน้ำในพื้นที่กรุงเทพมหานคร ความชัดเจนของการเตือนภัย และการบูรณาการระหว่างหน่วยงานเพื่อสร้างความเชื่อมั่นให้ประชาชน",
+  "items": [
+   [
+    "การบริหารจัดการน้ำในภาวะวิกฤตในพื้นที่กรุงเทพมหานครและปริมณฑล: การเตรียมความพร้อม การสื่อสาร ผังเมืองและผังน้ำ การเตือนภัย และการบูรณาการหน่วยงาน",
+    "พิจารณา",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "น้ำท่วม",
+   "การระบายน้ำ"
+  ],
+  "places": [
+   "กรุงเทพมหานคร"
+  ],
+  "upcoming": false,
+  "chair_key": "ratchaneekorn"
  }
 ]

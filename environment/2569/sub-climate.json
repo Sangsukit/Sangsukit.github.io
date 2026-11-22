@@ -178,17 +178,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SKx-gPQO2IA-anxs3ncrLcGaU54KhUWV_XORTfdnLLi1LkfIyZ-gtDTaAW9fd_fOGrblCOVA84DJtVt_oF9lste3SA-zhPEP4xBtKuQAZcwRCMglGzX2RvbVZFAOCOk7p-LKFqvFQrspVOTUsF5eSnsq6wF2Trg54T6jAw==&ref=11013636",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9PzNAZ1jbd5DU-G72NUazhmvqQrZbaT2R4nqQXUB-XY-LVopbwKM6Bgfh8AhoKmpHivj2G3RHDdpiIovselv_7Og0X594LpkGPsqoFnNTQzcoi9KLFnYDICV3o6X7MM0BcKqF75ePTf-DUvDFASrTQyg0A5psYyR3-vPeQ==&ref=11013636",
     "size": 92924
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FRAJS20Z666VAnE9Oiwxmx0RiK7oDWAJrmAhM7QnYhXUALMnVEAZKz8LAZxEg1aAczyaBQHAaHF2O5KvQ0CQNY-7kMIz329EecekYE7O6fnQCJYc9Xf1hG7slW2ZnsN4pAJJVs5_e4-DmLcT60pM3l32agf04aaxtiN8Hw==&ref=11059070",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=41CHQyv04M746okKpoWKxnB4HjHCg2Z6jKec7PeLtm9Y8dPWTT9S9lbUA8mdVfLp3duAG24lpIlFaL3_LJ6mlF0-_3vrTm2ukWOn-vI8nAvZ0UuiavTu4dHaz10P59o5Cb8omcYGVF_71hsXGszKlFfbDRn1vJQwRybsHw==&ref=11059070",
     "size": 5141295
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Ov04T6iMN1VUhTPVQ7U"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=i0E5PcCJCtHr5DG2WMM"
    }
   ],
   "media": {
@@ -219,12 +219,29 @@
   },
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 2/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "headline": "เตรียมนำเสนอรายงานฝุ่น PM2.5 และเพิ่มข้อเสนอเรื่องลดการเผาในพื้นที่เกษตร",
+  "summary": "ที่ประชุมพิจารณาเตรียมความพร้อมนำเสนอรายงานการพิจารณาศึกษา เรื่อง ปัญหาฝุ่น PM2.5 ในเขตพื้นที่วิกฤตกรุงเทพมหานคร ปริมณฑล และภาคเหนือตอนบน และเห็นควรตั้งประเด็นคำถาม เพื่อให้การอภิปรายในที่ประชุมวุฒิสภานำไปสู่ข้อเสนอเชิงนโยบายที่ปฏิบัติได้จริง ที่ประชุมยังพิจารณาข้อคิดเห็นที่ได้รับเมื่อนำเสนอรายงานต่อคณะกรรมาธิการเมื่อวันที่ 20 ตุลาคม 2569 เช่น การลดการเผาในพื้นที่เกษตร ด้วยการสร้างความตระหนักรู้ การสื่อสาร และแรงจูงใจ ซึ่งคณะอนุกรรมาธิการจะเพิ่มประเด็นนี้ในรายงานให้ชัดเจนขึ้น และนัดประชุมครั้งต่อไปวันพฤหัสบดีที่ 29 ตุลาคม 2569",
+  "items": [
+   [
+    "เตรียมความพร้อมนำเสนอรายงานการพิจารณาศึกษา เรื่อง ปัญหาฝุ่น PM2.5 ต่อที่ประชุมวุฒิสภา",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ข้อคิดเห็นจากคณะกรรมาธิการ (20 ตุลาคม 2569): การลดการเผาในพื้นที่เกษตร",
+    "พิจารณา",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "PM2.5",
+   "ฝุ่น",
+   "รายงานการศึกษา"
+  ],
+  "places": [
+   "กรุงเทพมหานคร",
+   "ภาคเหนือ"
+  ],
   "upcoming": false
  },
  {
@@ -235,21 +252,21 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vZmMih2rymG4iJAiFv04o-Npfl02ZerFMb8IG4x0lduREP4xfgubcdRtyXZ4mpvIU6bJS3B_LeEBujU1leL_CHnGPMjTgLz9V3p8EbZ_nMErRx8AwEkLRmBX2fVHB1jKlBA2TOnUIBuyuq0GiQHVPhT5NzzHQHF_J_9iNQ==&ref=10962654",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DJbJdV2VLTmvlZrqlgQXDIVN63mogNvrNWsqnpDzgWhQl3fXbDAsLLEkEfkUfjOEnww7bGfYc654kY9MaG0XuLCYvNKg9Kzyqk8VtD7r0bVkCg8Dg7jAqYdT4y1NbK9WRmaq1sniJZ0mHbIu3lpcON5C36HHb4sscUFwWw==&ref=10962654",
     "size": 126064
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Qc_FcXggzThTHnhlx64W7rPWal5WZbFBXihp0Qfz2hho7go7C_YBkuk4D-83NB7ghRf_EzH3d-49MK7wd-BxBZWfyMm7A2OBXLYGk99RqLzeIDv2eFg5ygIN1BYLfcCsB240WStBmIUYGfPfYOEuTYDslnB3e87uhsE-LQ==&ref=10985693",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wMFzadebNnxPnepIXIu3ziuTW0OebZmoZhCFi3QRCAKp7_KtmGQpo5j8sjOwgFW_rpsUGYIYmQzYcqEI2E8zjDG7iSjvs4KIg3OZPeDF07x_xAqLr9K0QMkI3UWal_vHKTFnM8_OeUZukIQfduWsbAWyQcN_kJfvipvLnA==&ref=10985693",
     "size": 828308
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XFdXR7KZLeHCdoAx2AiWNbx6n5QF9vF34OG4AfcBv72UDaFTFSTY7lfXf87FmFcF5BpL_4sg-pGPc3i4f80WSOXFiY_yvcITx052Iz1F0ay4afGuhgUJ63GKin5wlJF5zwFkbCRmdGiEIk-d4P1OV81V7owRJaLwFBNmoA==&ref=11159411"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6jjB5GBrncrA-YvqBmzYb4mIzvnDsP_O5dZBFgwizCa2ZKQVWpwn7dDvYlVE3-OA-dDyzbTYwPGLO8QDzspn2WSQ_RJMual8GKY6_9GE6jZx0UQxn9wwL3dzqItqvNIYeQmp3WSF60Ea5ZOmDYlPGDOFy387zE2nAv7TjQ==&ref=11159411"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=1TYFKmOrlkUZ5IoZEOA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=5oWFY3ju-42L5uuKqaM"
    }
   ],
   "media": {
@@ -280,12 +297,24 @@
   },
   "chair": "",
   "chair_role": "",
-  "headline": "การประชุมครั้งที่ 1/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
-  "places": [],
-  "pending": true,
+  "headline": "ร่างรายงานการศึกษาปัญหาฝุ่น PM2.5 และการเตรียมนำเสนอต่อวุฒิสภา",
+  "summary": "ที่ประชุมพิจารณาร่างรายงานการพิจารณาศึกษา เรื่อง ปัญหาฝุ่นละอองขนาดไม่เกิน 2.5 ไมครอน (PM2.5) ในเขตพื้นที่วิกฤตกรุงเทพมหานคร ปริมณฑล และภาคเหนือตอนบน และให้ข้อคิดเห็นเรื่องการนำเสนอรายงานต่อที่ประชุมวุฒิสภา โดยเห็นว่านอกจากเอกสารประกอบการนำเสนอแล้ว ควรเตรียมประเด็นคำถามและคำตอบที่สำคัญประมาณ 4–5 ประเด็น ที่กระชับและช่วยให้สมาชิกวุฒิสภาและประชาชนเข้าใจสาระสำคัญของรายงาน โดยเฉพาะรายละเอียดที่ไม่สามารถกล่าวได้ครบในเวลานำเสนอที่จำกัด และนัดประชุมครั้งต่อไปวันพฤหัสบดีที่ 22 ตุลาคม 2569",
+  "items": [
+   [
+    "ร่างรายงานการพิจารณาศึกษา เรื่อง ปัญหาฝุ่น PM2.5 ในเขตพื้นที่วิกฤตกรุงเทพมหานคร ปริมณฑล และภาคเหนือตอนบน: การนำเสนอต่อที่ประชุมวุฒิสภาและการเตรียมคำถามคำตอบ",
+    "พิจารณา",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "PM2.5",
+   "ฝุ่น",
+   "รายงานการศึกษา"
+  ],
+  "places": [
+   "กรุงเทพมหานคร",
+   "ภาคเหนือ"
+  ],
   "upcoming": false
  }
 ]
