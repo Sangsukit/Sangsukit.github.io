@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=VAZhQgAVl7YuMJbatac"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/v35pre.mp4",
+    "poster": "img/poster35pre.jpg",
+    "vtt": "media/v35pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:37",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "35p",
+    "size": 6181145
+   },
+   "videos": [
+    {
+     "src": "media/v35pre.mp4",
+     "poster": "img/poster35pre.jpg",
+     "vtt": "media/v35pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:37",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "35p",
+     "size": 6181145
+    }
+   ]
+  },
   "chair": "นายวิวรรธน์ ไกรพิสิทธิ์กุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -73,17 +98,28 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/commerce/2569/media/v34pre.mp4",
-    "poster": "img/poster34pre.jpg",
-    "vtt": "media/v34pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:57",
+    "src": "media/v34.mp4",
+    "poster": "img/poster34.jpg",
+    "vtt": "media/v34.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:24",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "34p",
-    "size": 4709846
+    "ck": "34",
+    "size": 10190537
    },
    "videos": [
+    {
+     "src": "media/v34.mp4",
+     "poster": "img/poster34.jpg",
+     "vtt": "media/v34.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:24",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "34",
+     "size": 10190537
+    },
     {
      "src": "/video-1/commerce/2569/media/v34pre.mp4",
      "poster": "img/poster34pre.jpg",
