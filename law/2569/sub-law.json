@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TbT1-3nYAMTYwbDa0Q0"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-law-v21pre.mp4",
+    "poster": "img/poster-sub-law-21pre.jpg",
+    "vtt": "media/sub-law-v21pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:04",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "law-21p",
+    "size": 5300973
+   },
+   "videos": [
+    {
+     "src": "media/sub-law-v21pre.mp4",
+     "poster": "img/poster-sub-law-21pre.jpg",
+     "vtt": "media/sub-law-v21pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:04",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "law-21p",
+     "size": 5300973
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "agenda_only": true,
@@ -63,7 +88,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=d17VutMtM0T-URbL0h4"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-law-v20pre.mp4",
+    "poster": "img/poster-sub-law-20pre.jpg",
+    "vtt": "media/sub-law-v20pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:40",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "law-20p",
+    "size": 4270826
+   },
+   "videos": [
+    {
+     "src": "media/sub-law-v20pre.mp4",
+     "poster": "img/poster-sub-law-20pre.jpg",
+     "vtt": "media/sub-law-v20pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:40",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "law-20p",
+     "size": 4270826
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "agenda_only": true,
