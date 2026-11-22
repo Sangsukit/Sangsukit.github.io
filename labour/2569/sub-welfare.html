@@ -1650,7 +1650,7 @@ const SHARE_P="welfare-",SHARE_V={"25": "e4326a8d", "24": "c7c7f456", "23": "006
 const sdir=()=>(BASE_URL||location.href.split("#")[0].split("?")[0]).replace(/[^/]*$/,"");
 const spath=n=>"s/"+SHARE_P+n+".html"+(SHARE_V[n]?"?v="+SHARE_V[n]:"");
 const slink=n=>SHARE_V[n]?sdir()+spath(n):link("read-"+n);
-const VSHARE=/*VSHARE*/{"25":"s/v-welfare-25-pre.html?v=044dfe32","24":"s/v-welfare-24.html?v=99cbbbc5","23":"s/v-welfare-23.html?v=3f36b158","22":"s/v-welfare-22.html?v=0b78e526","21":"s/v-welfare-21.html?v=35e60dbb"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
+const VSHARE=/*VSHARE*/{"25":"s/v-welfare-25-pre.html?v=372cea47","24":"s/v-welfare-24.html?v=99cbbbc5","23":"s/v-welfare-23.html?v=3f36b158","22":"s/v-welfare-22.html?v=0b78e526","21":"s/v-welfare-21.html?v=35e60dbb"};const vlink=n=>VSHARE[n]?sdir()+VSHARE[n]:slink(n);
 
 const norm=s=>String(s).toLowerCase().replace(/[๐-๙]/g,c=>"๐๑๒๓๔๕๖๗๘๙".indexOf(c)).replace(/[\s​‌‍﻿]+/g,"");
 DATA.forEach(m=>{m.hay=norm([m.n,`ครั้งที่${m.n}`,`${m.n}/2569`,thaiDate(m),m.chair,m.room,m.headline,m.summary,(m.items||[]).map(i=>i.join(" ")).join(" "),(m.tags||[]).join(" "),(m.places||[]).join(" "),m.cancelled?"ยกเลิก งดประชุม":""].join(" "))});
