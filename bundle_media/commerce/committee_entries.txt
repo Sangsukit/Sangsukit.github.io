@@ -1,0 +1,7 @@
+# committees/commerce/committee.py — Commerce video entries (22 Nov 2569). All need cc=_CC as in the file.
+# VIDEOS: replace the existing single 34 entry with this list, and add 35:
+    34: [dict(src="media/v34pre.mp4", poster="img/poster34pre.jpg", vtt="media/v34pre.th.vtt", kind="pre", label="วิดีโอก่อนการประชุม", dur="1:57", cc=_CC),   # 18 พ.ย. 2569 (หนังสือนัด ว๑๐๑๔)
+         dict(src="media/v34.mp4", poster="img/poster34.jpg", vtt="media/v34.th.vtt", kind="post", label="วิดีโอสรุปผลการประชุม", dur="4:24", cc=_CC)],   # สรุปผล ฉบับที่ 34/2569 (11216297)
+    35: dict(src="media/v35pre.mp4", poster="img/poster35pre.jpg", vtt="media/v35pre.th.vtt", kind="pre", label="วิดีโอก่อนการประชุม", dur="2:37", cc=_CC),   # 25 พ.ย. 2569 (หนังสือนัด ว๑๐๔๐ ลว. 19 พ.ย. 2569, 11216585)
+# SUB_VIDEOS["smegov"]: add 18:
+               18: dict(src="media/sub-smegov-v18pre.mp4", poster="img/poster-sub-smegov-18pre.jpg", vtt="media/sub-smegov-v18pre.th.vtt", kind="pre", label="วิดีโอก่อนการประชุม", dur="1:47", cc=_CC),   # 24 พ.ย. 2569 (หนังสือนัด ว๑๐๕๐ ลว. 20 พ.ย. 2569, 11225978)
