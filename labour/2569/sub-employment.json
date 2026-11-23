@@ -43,6 +43,17 @@
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "employment-24p",
      "size": 4346242
+    },
+    {
+     "src": "/video-2/labour/2569/media/sub-employment-v24.mp4",
+     "poster": "img/poster-sub-employment-24.jpg",
+     "vtt": "media/sub-employment-v24.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:14",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "employment-24",
+     "size": 7900598
     }
    ]
   },
