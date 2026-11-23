@@ -23,6 +23,9 @@ EN_SUB = {
    items=["OTP's proposed network of 16 bus routes, and the Department of Land Transport's data on 172 existing routes",
           "5 observations, such as overlap criteria, ring routes, local government powers and fares",
           "OTP and the Department of Land Transport to prepare more information for the next stage of the study"]),
+  5: dict(headline="Lessons from public bus services in Chiang Mai, Khon Kaen and Phuket",
+   summary="Meeting on Thursday 3 December 2569 at 09.30 hrs, Meeting Room 202, floor 2, Parliament House. At its meeting on 18 November 2569 the subcommittee decided not to meet on Wednesday 25 November 2569 and to hold its next meeting on this day. The agenda is to consider how public bus services are managed, lessons from their operation, problems and obstacles, and ways to develop them in Chiang Mai, Khon Kaen and Phuket provinces. Representatives of public bus operators in the three provinces are invited, as set out in the meeting notice. A summary will be added after the Senate publishes the meeting summary.",
+   items=["How public bus services are managed: lessons, problems, obstacles and ways to develop them in Chiang Mai, Khon Kaen and Phuket"]),
  },
  "ridehail": {
   1: dict(headline="Setting the scope of the study: safety of ride-hailing cars booked through apps",
