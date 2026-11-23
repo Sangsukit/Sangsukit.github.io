@@ -14,7 +14,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ZYJru-WrOtjip4saUnY"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v40pre.mp4",
+    "poster": "img/poster40pre.jpg",
+    "vtt": "media/v40pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:08",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "40p",
+    "size": 5045646
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v40pre.mp4",
+     "poster": "img/poster40pre.jpg",
+     "vtt": "media/v40pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:08",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "40p",
+     "size": 5045646
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -116,27 +141,38 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/agriculture/2569/media/v39pre.mp4",
-    "poster": "img/poster39pre.jpg",
-    "vtt": "media/v39pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:25",
+    "src": "/video-2/agriculture/2569/media/v39.mp4",
+    "poster": "img/poster39.jpg",
+    "vtt": "media/v39.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:06",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "39p",
-    "size": 3583230
+    "ck": "39",
+    "size": 7251430
    },
    "videos": [
     {
+     "src": "/video-2/agriculture/2569/media/v39.mp4",
+     "poster": "img/poster39.jpg",
+     "vtt": "media/v39.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "39",
+     "size": 7251430
+    },
+    {
      "src": "/video-1/agriculture/2569/media/v39pre.mp4",
+     "size": 3583230,
      "poster": "img/poster39pre.jpg",
      "vtt": "media/v39pre.th.vtt",
      "kind": "pre",
      "label": "วิดีโอก่อนการประชุม",
      "dur": "1:25",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-     "ck": "39p",
-     "size": 3583230
+     "ck": "39p"
     }
    ]
   }
@@ -208,7 +244,32 @@
    "สุพรรณบุรี",
    "สิงห์บุรี"
   ],
-  "media": {}
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v38.mp4",
+    "poster": "img/poster38.jpg",
+    "vtt": "media/v38.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:45",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "38",
+    "size": 8454086
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v38.mp4",
+     "poster": "img/poster38.jpg",
+     "vtt": "media/v38.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:45",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "38",
+     "size": 8454086
+    }
+   ]
+  }
  },
  {
   "n": 37,
@@ -259,7 +320,32 @@
    "กระบี่",
    "ตรัง"
   ],
-  "media": {}
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v37.mp4",
+    "poster": "img/poster37.jpg",
+    "vtt": "media/v37.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:04",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "37",
+    "size": 7143098
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v37.mp4",
+     "poster": "img/poster37.jpg",
+     "vtt": "media/v37.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:04",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "37",
+     "size": 7143098
+    }
+   ]
+  }
  },
  {
   "n": 36,
@@ -289,7 +375,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fMadKXgjYeMjorwrXUg"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v36.mp4",
+    "poster": "img/poster36.jpg",
+    "vtt": "media/v36.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:16",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "36",
+    "size": 9812859
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v36.mp4",
+     "poster": "img/poster36.jpg",
+     "vtt": "media/v36.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:16",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "36",
+     "size": 9812859
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "มติคณะรัฐมนตรีด้านการเกษตร: ราคาข้าวและการช่วยเหลือผู้ประสบอุทกภัย และกำหนดดูงานด้านน้ำที่ตรัง",
@@ -382,7 +493,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=f4uKFOQSOYKhcAeq6wo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v35.mp4",
+    "poster": "img/poster35.jpg",
+    "vtt": "media/v35.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:15",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "35",
+    "size": 9872757
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v35.mp4",
+     "poster": "img/poster35.jpg",
+     "vtt": "media/v35.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:15",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "35",
+     "size": 9872757
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ติดตามโครงการเขื่อนแควน้อย กาญจนบุรี ปัญหาต้นยางพาราในระยอง และหนังสือตอบเรื่องราคาสินค้าเกษตร",
@@ -485,7 +621,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=yyaquMISVUhiVWucRuA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v34.mp4",
+    "poster": "img/poster34.jpg",
+    "vtt": "media/v34.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:43",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "34",
+    "size": 8437808
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v34.mp4",
+     "poster": "img/poster34.jpg",
+     "vtt": "media/v34.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:43",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "34",
+     "size": 8437808
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "เห็นชอบข้อสังเกตเพิ่มเติมท้ายรายงานความมั่นคงทางอาหาร และติดตามงานของคณะอนุกรรมาธิการ",
@@ -582,47 +743,69 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=szcPfH1HOJiYXQXM70hzaalU1UofeEG8MkQW5TFNG16X2wt1TFo07zOc0lBnaRHx9jAv-FhwfhtCsTV9yP5hI6qer6xUuVcGo2-lThY4i-OaQg3IhMwBCa1GmQgeyKx4l6JSYQ497B-7RGN1rZwhzfzcYK5rG-NKYTndow==&ref=10836641",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zfohs7AIQkGBZk2FBkhAG3JxFIcoJuanFXGsXm4-PTEflIE8pja79ptLUDkwcTYO-Iai0Ggcb3Z_-89tiuHmhReJt_CRkYs07HDrkXTkeYsUtnEE2WRSESW8kQ9vVNqxJBYGPwrCb10DCqxcInwB1sJ65xBQ0hZe2Hmagw==&ref=10836641",
     "size": 128217
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zVRhfTu_jRJdaMtPTKoKuWUxyW-h1nkdI4oH58LO_sTj8dsHw4D8a3bwnvMygbPIfHdj7HfgKWZZnsWD2JDup3HcLm1annK51VQmp9d7JSEGvcVHO8lJ2NYXiZcIejTm7p0oj3KBWY8hfh0sJEC5SgaVA_xikj9nL0S0_w==&ref=10991456"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rIWP_EnUg_KDU8h9YFHPYE4Jj_NY1Pmka8nuQ-3rh1JJUoNfMNg0In-ahQjmkVh7Sb5iGEXdUR3aM506yTCsoqD6zYe6A474Q9wJJ9bzpWex_i8YcS93wMZ9rHdxdEU_M-RZAFkNg8gjqZ8c7wE6sZc0EoC1yf9hk3hnjg==&ref=10991456"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TdjyhQpLQAXe1O1mbSe4M5VS0s5cHi8QiK3Qf08hYNyg7HmbHlPDufad7m2OMIt--dm2wnnTLw-ki27wRMaiTsinSrD8CbhScbEbfxBMTJiUQzDGVjnf4jUVGtuoMIugrHOgfqOXxIo40a6Anfe7jYcps1xfLOVglJCsXA==&ref=11195012",
+    "size": 1948276
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hMxFplgudEMfAGn59C_LfNPU_Ibtmc58-19mofJIJMODzBWSDEQrZjTANvvUeGce_ne99A9qExnagMXI52qPGQlYnooG5gAqTS5tLKP6J2XOSR5qaqgiGZrjwUlzRdomAcZ3vl3WNECbFnmqkfmuuv-CU7nOz1IySngjfA==&ref=11195014"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=VIIb3gsmqDp99pd991M"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=GgOkbvDhyLhdk91PrLg"
    }
   ],
-  "media": {},
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "agenda_only": true,
-  "headline": "พันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว: เชิญอธิบดีกรมการข้าวมาให้ข้อมูล",
-  "summary": "วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ รายการด้านล่างเป็นระเบียบวาระตามหนังสือนัดประชุม คือ การปรับปรุงพัฒนาพันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว เพื่อส่งเสริมและพัฒนาเกษตรกรไทย โดยเชิญอธิบดีกรมการข้าวมาให้ข้อมูล และความคืบหน้าของคณะอนุกรรมาธิการ",
+  "headline": "กรมการข้าวให้ข้อมูลการพัฒนาและคุ้มครองพันธุ์ข้าว และติดตามงานของคณะอนุกรรมาธิการ",
+  "summary": "ที่ประชุมรับทราบข้อมูลจากรองอธิบดีกรมการข้าวและเจ้าหน้าที่ที่เกี่ยวข้อง เรื่องการปรับปรุงพัฒนาพันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว โดยเฉพาะแนวทางคุ้มครองสิทธิของเกษตรกรในการเก็บ แลกเปลี่ยน และขยายพันธุ์ข้าวไว้ปลูกต่อ และผลกระทบต่อเกษตรกรภายใต้ระบบคุ้มครองพันธุ์พืชใหม่ตามอนุสัญญา UPOV 1991 จากนั้นรับฟังความคืบหน้าของคณะอนุกรรมาธิการ 3 คณะ ได้แก่ แนวทางจัดตั้ง “เขตอุตสาหกรรมเกษตรมูลค่าเพิ่มครบวงจร” บนที่ราชพัสดุ โดยใช้ตลาดนำการผลิต สรุปผลดูงานการบริหารจัดการน้ำนอกเขตชลประทานที่ จ.สระบุรี และ จ.ลพบุรี 17–18 ก.ย. 2569 พร้อมกำหนดดูงานที่ จ.ชัยนาท จ.สุพรรณบุรี และ จ.สิงห์บุรี 8–9 ต.ค. 2569 และแนวทางป้องกันและแก้ไขปัญหาโรคพิษสุนัขบ้า ซึ่งปี 2569 พบผู้เสียชีวิต 11 ราย และพบโรคในสัตว์ 300 ราย",
   "items": [
    [
-    "การปรับปรุงพัฒนาพันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว (เชิญอธิบดีกรมการข้าวมาให้ข้อมูล)",
-    "วาระที่ 5.1",
+    "การปรับปรุงพัฒนาพันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว: สิทธิของเกษตรกรในการเก็บ แลกเปลี่ยน และขยายพันธุ์ข้าว และผลกระทบจากระบบคุ้มครองพันธุ์พืชใหม่ตามอนุสัญญา UPOV 1991",
+    "รองอธิบดีกรมการข้าวมาให้ข้อมูล",
     "other"
    ],
    [
-    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 5.2",
+    "ความคืบหน้าของคณะอนุกรรมาธิการศึกษาเครือข่ายระบบเกษตรครบวงจรตามมาตรฐานสากล: แนวทางจัดตั้ง “เขตอุตสาหกรรมเกษตรมูลค่าเพิ่มครบวงจร” บนที่ราชพัสดุ ศูนย์บริการแบบ One Stop Service และให้ตลาดร่วมกำหนดชนิด ปริมาณ คุณภาพ และราคาล่วงหน้า",
+    "พิจารณา",
     "sub"
    ],
    [
-    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
-    "วาระที่ 6",
-    "other"
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทาน: สรุปผลดูงาน จ.สระบุรี และ จ.ลพบุรี 17–18 ก.ย. 2569 เสนอพื้นที่นำร่อง (Sandbox) และจุดประสานงานกลางเพื่อลดขั้นตอนการขออนุญาตพัฒนาแหล่งน้ำ",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านปศุสัตว์และการประมง: บทบาทฝ่ายปกครองและท้องถิ่นในการป้องกันโรคพิษสุนัขบ้า การฉีดวัคซีน การทำหมัน วัคซีนชนิดกิน (ORV) และระบบ Rabies One Data",
+    "พิจารณา",
+    "sub"
    ]
   ],
   "tags": [
    "ข้าว",
    "พันธุ์พืช",
-   "วาระการประชุม"
+   "อนุกรรมาธิการ",
+   "อุตสาหกรรมเกษตร",
+   "บริหารจัดการน้ำ",
+   "โรคพิษสุนัขบ้า"
   ],
-  "places": []
+  "places": [
+   "สระบุรี",
+   "ลพบุรี",
+   "ชัยนาท",
+   "สุพรรณบุรี",
+   "สิงห์บุรี"
+  ],
+  "media": {}
  },
  {
   "n": 32,

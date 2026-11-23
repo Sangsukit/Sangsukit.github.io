@@ -1,5 +1,73 @@
 [
  {
+  "n": 52,
+  "date": "2026-11-24",
+  "time": "15.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DSXyvlJCEmPDkssjIW38gYxixzpxNH6M7CiMREjx1A8HlRiBirW0aZ3_9c3_OVfgYNZt3ProUy3PoYC91rfHZ71um-AbOHr9wgMpBGfXHnbXTwemPkNJqiDsVL_8NmjYod9Opj9NexfYBmAf6jjhoOY-pNBa_wduPdwWOg==&ref=11216654",
+    "size": 153619
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=_7Cjsojvz_P9oD81hLU"
+   }
+  ],
+  "chair": "นายพรเพิ่ม ทองศรี",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "พิจารณาความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน",
+  "summary": "การประชุมวันอังคารที่ 24 พฤศจิกายน 2569 เวลา 15.00–17.00 น. ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงาน สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน",
+    "วาระที่ 3",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "คณะอนุกรรมาธิการ",
+   "วาระการประชุม"
+  ],
+  "places": [
+   "อาคารรัฐสภา"
+  ],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 427 ชั้น 4 อาคารรัฐสภา"
+  },
+  "media": {
+   "video": {
+    "src": "/video-2/energy/2569/media/v52pre.mp4",
+    "poster": "img/poster52pre.jpg",
+    "vtt": "media/v52pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:25",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "52p",
+    "size": 5584530
+   },
+   "videos": [
+    {
+     "src": "/video-2/energy/2569/media/v52pre.mp4",
+     "poster": "img/poster52pre.jpg",
+     "vtt": "media/v52pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:25",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "52p",
+     "size": 5584530
+    }
+   ]
+  }
+ },
+ {
   "n": 51,
   "date": "2026-11-17",
   "time": "14.00",
@@ -1706,30 +1774,30 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=5Pm7bHo_WmtxnPX2B22wgG7ccxtFUcsnCSgWD2jJ93lLG1pS2JxWVNB_Xw325BFqkfbnJrPg7g2eWoXCJqnIKwwGfIfN9vX012f348w59CE673zRvSBM-w4E1purU9wjWIBP209JadGLpaibUqj7RiHeRYQptbYiVhQ=&ref=9860596",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=s1oAitqtB5Ozskk9wD7NBeB2czN5ds30-rnZ-OlaHN4IZUdxjGk1dRefnYn-5QVT_xyEQCivYMvpTmXlXHhOO2Woej9RCfWy-xry4ai48g4yqeXPMDcpWSx7hHG-sj5Gwzsq644OLXS9XGCpaCIGql7Vl1W4Ap0CHi0=&ref=9860596",
     "size": 196193
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=L5o8kz9ErNDyjo7whTKNy-2qFuJkiORWYjdFXQNDczESRfIHt5S_HPR5CooQDmKQxNPfKVvW7yz9Fe1JZ8mk6iJKsRhM4eKA2p3mnLqMxmpTdEy8gCSyIT_5qNTmWClPIKt0vDrXm6jIDQH9H7pY1a-x4eDgVGDmXByqGw==&ref=10010191"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=eyApxrg2shrRfk96MzJ_KnD0t0PM-vWNB_-3jpRp_uVaj6S-IkotLhFMYu2s3r9ZAE6XZle4HveeBkaPCyMEtMT9DgyW2OzWpSUczpYp32ZP0E3hnmy6ha0HyABeNvTX3lJHwlFSUB2ws0S--rqjdWXTij3WW5OWaVCyXw==&ref=10010191"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=o7Dq_FNlj5roL4UTtg2JalrPhnVtLHG6ymkt3UcYGwuw4TxKxd6bgSC-Hta1wDsAsbDYP-sCb45TUC0_F-rKu-AovgudPwALYZcuXJeyyQ-EqJJ5Sk_iTtRuow_-Wtci-aH33vfxWkNIt5ZMZusrF-fuEERZWBr3P-LqtA==&ref=10155630",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6Bkrut0uvzBnp58WjpCiywuiXkNsSh08QgouFJ5V_g2vaFrBjZN2gtIOhvMeVrF9iprQR5BAYcPhWQbOhcdLIM3hm-fkbF4Z1JiDy4YBiV4U9QcysTFVtfIGnavf23IAP3WH9XgDGQ1BorsVmTOIPwd-SV5G61n5PCwKuQ==&ref=10155630",
     "size": 4088604
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=prp4mv3xis33CHwmVqItX7ILs-Tls8kHmwXozaTbVCjpWKd0rJGggKJKzMQI0p-Kn-DJmNZY6qRUbrIAGV77s_leJuAIbgYv6myE5M02u8YkCY28bp1ew6EPl-EE9ddz8MZC1MW5LBwcvyPZ8KJ02qrluD60K1g9Id4D_Q==&ref=10354300"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=9360cHy9q6j0WvEHIZzQoPRbCBlcyz92IxetMRnZyC7B7CIdtrHUVZjndo0a37o3QrnflW7IADpG3-YtDzprf297gDHNobTfHAL8TRkMpYVHjLaNUCnQnrHPBlMT1ZhXGgdZRHUVjML1muFWmroazKFewEGHNY_TuIdmSg==&ref=10354300"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WBK6k45-I7QSn0HRPKw"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=GyqAdoh7diyCO7yZtl0"
    }
   ],
   "media": {},
-  "chair": "นายพรเพิ่ม ทองศรี",
-  "chair_role": "ประธานคณะกรรมาธิการ",
+  "chair": "นายสัมพันธ์ ชัยวิเศษจินดา",
+  "chair_role": "รองประธานคณะกรรมาธิการ คนที่สาม ทำหน้าที่ประธานในที่ประชุม",
   "headline": "ศึกษาตลาดคาร์บอนเครดิต และมาตรการ CBAM ของสหภาพยุโรป",
   "summary": "คณะกรรมาธิการจัดประชุมศึกษาข้อมูลเรื่องตลาดคาร์บอนเครดิตและมาตรการปรับราคาคาร์บอนก่อนข้ามพรมแดนของสหภาพยุโรป (CBAM) เช่น รูปแบบการซื้อขายคาร์บอนเครดิต บทบาทขององค์การบริหารจัดการก๊าซเรือนกระจก ผลกระทบต่อการส่งออก และการเปลี่ยนผ่านสู่เศรษฐกิจสีเขียว โดยเชิญหน่วยงานที่เกี่ยวข้องมาให้ข้อมูล",
   "items": [

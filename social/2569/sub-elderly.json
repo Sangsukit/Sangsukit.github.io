@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=X5y4FfZQxXsTZEwVybY"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/sub-elderly-v26pre.mp4",
+     "poster": "img/poster-sub-elderly-26pre.jpg",
+     "vtt": "media/sub-elderly-v26pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:27",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "elderly-26p",
+     "size": 5720910
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/sub-elderly-v26pre.mp4",
+    "poster": "img/poster-sub-elderly-26pre.jpg",
+    "vtt": "media/sub-elderly-v26pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:27",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "elderly-26p",
+    "size": 5720910
+   }
+  },
   "chair": "",
   "chair_role": "",
   "headline": "ร่างรายงานการศึกษา กองทุนผู้สูงอายุ และคนไร้บ้านและคนขอทาน",
@@ -73,7 +98,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tjUTEhYcPz-k1QPRIsQ"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/sub-elderly-v25.mp4",
+     "poster": "img/poster-sub-elderly-25.jpg",
+     "vtt": "media/sub-elderly-v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:41",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "elderly-25",
+     "size": 4247690
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/sub-elderly-v25.mp4",
+    "poster": "img/poster-sub-elderly-25.jpg",
+    "vtt": "media/sub-elderly-v25.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:41",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "elderly-25",
+    "size": 4247690
+   }
+  },
   "chair": "ศาสตราจารย์ชาญณรงค์ พรรุ่งโรจน์",
   "chair_key": "channarong",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",

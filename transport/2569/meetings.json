@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rLYYrlysKVracbJFYJI"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/transport/2569/media/v27pre.mp4",
+    "poster": "img/poster27pre.jpg",
+    "vtt": "media/v27pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:33",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "27p",
+    "size": 6112929
+   },
+   "videos": [
+    {
+     "src": "/video-2/transport/2569/media/v27pre.mp4",
+     "poster": "img/poster27pre.jpg",
+     "vtt": "media/v27pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:33",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "27p",
+     "size": 6112929
+    }
+   ]
+  },
   "chair": "นายวุฒิชาติ กัลยาณมิตร",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,

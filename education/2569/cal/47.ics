@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//education-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:education-2569-m47@sangsukit.github.io
+DTSTAMP:20261122T203602Z
+DTSTART:20261125T033000Z
+DTEND:20261125T063000Z
+SUMMARY:ประชุม กมธ.การศึกษาฯ วุ
+ ฒิสภา ครั้งที่ 47/2569
+LOCATION:ห้องประชุมกรรมาธิการ CA 
+ 426 ชั้น 4 อาคารรัฐสภา (สัปปาย
+ ะสภาสถาน 1111 ถนนสามเสน เขตด
+ ุสิต กรุงเทพมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/education/2569/#read-4
+ 7
+URL:https://parliamentx.com/education/2569/#read-47
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุม กมธ.การศึกษาฯ ว
+ ุฒิสภา ครั้งที่ 47/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

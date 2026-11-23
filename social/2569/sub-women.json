@@ -20,7 +20,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JIZfhcxgbbLsw9FzwWM"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/sub-women-v28.mp4",
+     "poster": "img/poster-sub-women-28.jpg",
+     "vtt": "media/sub-women-v28.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:19",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-28",
+     "size": 5390123
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/sub-women-v28.mp4",
+    "poster": "img/poster-sub-women-28.jpg",
+    "vtt": "media/sub-women-v28.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:19",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-28",
+    "size": 5390123
+   }
+  },
   "chair": "นางอจลา ณ ระนอง",
   "chair_key": "achala",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
@@ -72,7 +97,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hIg29tT0pFBDzu4swmo"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/sub-women-v27.mp4",
+     "poster": "img/poster-sub-women-27.jpg",
+     "vtt": "media/sub-women-v27.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:48",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-27",
+     "size": 4391422
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/sub-women-v27.mp4",
+    "poster": "img/poster-sub-women-27.jpg",
+    "vtt": "media/sub-women-v27.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:48",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-27",
+    "size": 4391422
+   }
+  },
   "chair": "นางอจลา ณ ระนอง",
   "chair_key": "achala",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",

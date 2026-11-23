@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=0cM-ZeNDVbHp0BVLnkc"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/transport/2569/media/sub-andamanport-v6pre.mp4",
+    "poster": "img/poster-sub-andamanport-6pre.jpg",
+    "vtt": "media/sub-andamanport-v6pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:39",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "andamanport-6p",
+    "size": 6375947
+   },
+   "videos": [
+    {
+     "src": "/video-2/transport/2569/media/sub-andamanport-v6pre.mp4",
+     "poster": "img/poster-sub-andamanport-6pre.jpg",
+     "vtt": "media/sub-andamanport-v6pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:39",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "andamanport-6p",
+     "size": 6375947
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "ความต้องการขนส่งสินค้าทางทะเลของภาคอุตสาหกรรม และท่าเรืออัจฉริยะ",

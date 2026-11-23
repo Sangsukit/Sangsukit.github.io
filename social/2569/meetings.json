@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=BndybG7stqfQiSurUiI"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/v37pre.mp4",
+     "poster": "img/poster37pre.jpg",
+     "vtt": "media/v37pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:23",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "37p",
+     "size": 5934251
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/v37pre.mp4",
+    "poster": "img/poster37pre.jpg",
+    "vtt": "media/v37pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:23",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "37p",
+    "size": 5934251
+   }
+  },
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,

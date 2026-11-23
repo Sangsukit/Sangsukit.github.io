@@ -1,5 +1,77 @@
 [
  {
+  "n": 35,
+  "date": "2026-11-25",
+  "time": "13.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 328 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=dIm-mUmVSO8nSaQkdGQ9ECzmIOD9Ge-Zyt9dNPrr_RvWDSVD70k2lbYRb5yLwyJmC0N94H_rxj4H1eI-hGuMzjcnsAjjC3Bo9gaXu9yqGPkgBryN8Rv8W9dJdi1Pd10mnxBX0SzCY6hyEkzQW0pPNzN7MnLM4WQVZpYIJQ==&ref=11216360",
+    "size": 137404
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sNJTbnTbY1uSPSv4z7PI29PsYVp3IhUCtdbJLLsDwelC88OXxtLsogS7q4uEF3UI3wCQXEZSWfjjLBoquSQpl3Hpomx7gFtblUlHgKKH5Cq0viMopVeRn5Kv2I5nHKY9MvWNHTSdD2nTa281geTWCw1nVhOtTY_Rrn42hw==&ref=11217794",
+    "size": 137409
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=wIv8Qz8MwoOxUNOv3qs"
+   }
+  ],
+  "chair": "",
+  "chair_role": "",
+  "headline": "ร่างรายงานการอาชีวศึกษาระบบทวิภาคี เพื่อยกระดับกำลังคนอาชีวศึกษาสมรรถนะสูง",
+  "summary": "นัดประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 13.30 น. ห้องประชุมกรรมาธิการ CA 328 ชั้น 3 อาคารรัฐสภา วาระคือการพิจารณาร่างรายงานการพิจารณาศึกษาการอาชีวศึกษาระบบทวิภาคีของสถานศึกษาอาชีวศึกษารัฐและเอกชน เพื่อพัฒนาข้อเสนอเชิงนโยบายการยกระดับคุณภาพกำลังคนอาชีวศึกษาสมรรถนะสูง รองรับความต้องการของสถานประกอบการและการพัฒนาประเทศ โดยเชิญคณะทำงานและหน่วยงานที่เกี่ยวข้องเข้าร่วมประชุม ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "ร่างรายงานการพิจารณาศึกษาการอาชีวศึกษาระบบทวิภาคีของสถานศึกษาอาชีวศึกษารัฐและเอกชน",
+    "วาระที่ 3",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "อาชีวศึกษา",
+   "ทวิภาคี",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 328 ชั้น 3 อาคารรัฐสภา"
+  },
+  "media": {
+   "video": {
+    "src": "/video-2/education/2569/media/sub-vocational-v35pre.mp4",
+    "poster": "img/poster-sub-vocational-35pre.jpg",
+    "vtt": "media/sub-vocational-v35pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:06",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "vocational-35p",
+    "size": 4939835
+   },
+   "videos": [
+    {
+     "src": "/video-2/education/2569/media/sub-vocational-v35pre.mp4",
+     "poster": "img/poster-sub-vocational-35pre.jpg",
+     "vtt": "media/sub-vocational-v35pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "vocational-35p",
+     "size": 4939835
+    }
+   ]
+  }
+ },
+ {
   "n": 34,
   "date": "2026-11-18",
   "time": "13.30",
@@ -7,27 +79,43 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FdcSDzwGJfm96dr6gv7TrU6uSHp8DIRFzckjx68h-AcKf9ECFTl5V_Ox0wyS5PmjK9WctNZtR8SsMVrEROyLmJkJJhunfRRckzP7m_Btr2Q0JNnTN7YoWwRjLcwxaQTsld4aMqJqv14AD-fzaAQcbmybZMWgRxTL9fRwSQ==&ref=11137425",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Z0F1TiVC1iCkhkt-Js4q4S4G1EJFpidPlvbyhNdl--n2tYOzBc_zWnECvzwLWTB1z5iHqM-qLiP1dqZcDp0J6HvxdXxXwuwyLPjZKeShcbnYxWeX61t-lQdrwXSW310HRkxG3nQsX-GSaeIIOduV_Iq1YV6bGoP6Cb8cZw==&ref=11137425",
     "size": 137204
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TtYKCNcf7ZjnzUhTpMNBy7JESSiuMKdVckHPtrANRhxH6OIzMmIOk39qpqHWPvQrXkbby_OaBV2zHrN6zsUlpDc3cF95A5mt7PnUN4fCA4BtmR3-dfe8fgmHSt-AStyjH9t_ncKl0n0kjLvS2kQPCiFk8HDj0NymP7Bdsw==&ref=11216662",
+    "size": 961902
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=i8jKmVvUhxK5pS2x0kI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=BEALMGcTYNl4igNTr_8"
    }
   ],
   "media": {
    "video": {
-    "src": "/video-1/education/2569/media/sub-vocational-v34pre.mp4",
-    "poster": "img/poster-sub-vocational-34pre.jpg",
-    "vtt": "media/sub-vocational-v34pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:56",
+    "src": "/video-2/education/2569/media/sub-vocational-v34.mp4",
+    "poster": "img/poster-sub-vocational-34.jpg",
+    "vtt": "media/sub-vocational-v34.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:19",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "vocational-34p",
-    "size": 4474624
+    "ck": "vocational-34",
+    "size": 3414549
    },
    "videos": [
+    {
+     "src": "/video-2/education/2569/media/sub-vocational-v34.mp4",
+     "poster": "img/poster-sub-vocational-34.jpg",
+     "vtt": "media/sub-vocational-v34.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:19",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "vocational-34",
+     "size": 3414549
+    },
     {
      "src": "/video-1/education/2569/media/sub-vocational-v34pre.mp4",
      "poster": "img/poster-sub-vocational-34pre.jpg",
@@ -41,30 +129,25 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "ร่างรายงานข้อเสนอเชิงนโยบายการส่งเสริมความสามารถในการแข่งขัน (PISA)",
-  "summary": "นัดประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 13.30 น. ห้องประชุมกรรมาธิการ CA 328 ชั้น 3 อาคารรัฐสภา วาระคือการพิจารณาร่างรายงานการพิจารณาศึกษา เรื่อง ข้อเสนอแนะเชิงนโยบายเกี่ยวกับการส่งเสริมความสามารถในการแข่งขัน (PISA) โดยเชิญคณะทำงานและหน่วยงานที่เกี่ยวข้องเข้าร่วมประชุม ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "chair": "นายสุทิน แก้วพนา",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ร่างรายงานข้อเสนอแนะเชิงนโยบายการส่งเสริมความสามารถในการแข่งขัน (PISA)",
+  "summary": "ที่ประชุมพิจารณาร่างรายงานการพิจารณาศึกษา เรื่อง ข้อเสนอแนะเชิงนโยบายเกี่ยวกับการส่งเสริมความสามารถในการแข่งขัน (PISA) โดยเชิญคณะทำงานและสถาบันส่งเสริมการสอนวิทยาศาสตร์และเทคโนโลยี (สสวท.) เข้าร่วมประชุม ที่ประชุมเห็นควรเชิญหน่วยงานที่เกี่ยวข้องมาให้ข้อเสนอแนะต่อร่างรายงานดังกล่าวต่อไป",
   "items": [
    [
-    "ร่างรายงานการพิจารณาศึกษา ข้อเสนอแนะเชิงนโยบายเกี่ยวกับการส่งเสริมความสามารถในการแข่งขัน (PISA)",
-    "วาระที่ 3",
+    "ร่างรายงานการพิจารณาศึกษา เรื่อง ข้อเสนอแนะเชิงนโยบายเกี่ยวกับการส่งเสริมความสามารถในการแข่งขัน (PISA): เชิญหน่วยงานที่เกี่ยวข้องให้ข้อเสนอแนะ (สสวท.)",
+    "เห็นควร",
     "sub"
    ]
   ],
   "tags": [
    "PISA",
    "ความสามารถในการแข่งขัน",
-   "วาระการประชุม"
+   "สสวท."
   ],
   "places": [],
   "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 328 ชั้น 3 อาคารรัฐสภา"
-  }
+  "chair_key": "suthin"
  },
  {
   "n": 33,
