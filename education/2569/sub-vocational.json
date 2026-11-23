@@ -79,17 +79,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Z0F1TiVC1iCkhkt-Js4q4S4G1EJFpidPlvbyhNdl--n2tYOzBc_zWnECvzwLWTB1z5iHqM-qLiP1dqZcDp0J6HvxdXxXwuwyLPjZKeShcbnYxWeX61t-lQdrwXSW310HRkxG3nQsX-GSaeIIOduV_Iq1YV6bGoP6Cb8cZw==&ref=11137425",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nBXGTbd4VjkHoPXF4ZnK_JL00T63cJbEC9ynQgb9Cwdhv2dKQ5dNXoT3YiU-bEvNE-_ahXE6VDPZ58WfcRu3hvLbabt9wD2WGsPzAfVeMvXR2YfcDKlVXYHqIliwnHlsq2jzbx7dLIdMn20VH7kHwz7VgXdnPrKdF5bbMA==&ref=11137425",
     "size": 137204
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TtYKCNcf7ZjnzUhTpMNBy7JESSiuMKdVckHPtrANRhxH6OIzMmIOk39qpqHWPvQrXkbby_OaBV2zHrN6zsUlpDc3cF95A5mt7PnUN4fCA4BtmR3-dfe8fgmHSt-AStyjH9t_ncKl0n0kjLvS2kQPCiFk8HDj0NymP7Bdsw==&ref=11216662",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=y-7nlU_pcEsVF_bLPBwnhoghdEwWCH-p-2foWHlWX2wgdB5u1nwzZXX8Tt_b6AP-q56miSRXRHnIGErVddVUGMRGrPFx2DNOoPxIGpFFzsBy12Kj5A_Ig9VDGHz4ua0dVSbymsllZWVBWn4UGv7p0Yd32Inv4qal6P1sRA==&ref=11216662",
     "size": 961902
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=BEALMGcTYNl4igNTr_8"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=2tjz6ZEA7YwqTcpfFG4"
    }
   ],
   "media": {
@@ -146,7 +146,7 @@
    "สสวท."
   ],
   "places": [],
-  "upcoming": true,
+  "upcoming": false,
   "chair_key": "suthin"
  },
  {
