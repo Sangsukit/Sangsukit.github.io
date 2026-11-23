@@ -22,7 +22,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-cyber-v26.mp4",
+    "src": "/video-2/military/2569/media/sub-cyber-v26.mp4",
     "poster": "img/poster-sub-cyber-26.jpg",
     "vtt": "media/sub-cyber-v26.th.vtt",
     "kind": "post",
@@ -34,7 +34,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-cyber-v26.mp4",
+     "src": "/video-2/military/2569/media/sub-cyber-v26.mp4",
      "poster": "img/poster-sub-cyber-26.jpg",
      "vtt": "media/sub-cyber-v26.th.vtt",
      "kind": "post",

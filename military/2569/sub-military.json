@@ -113,7 +113,7 @@
   ],
   "media": {
    "video": {
-    "src": "media/sub-military-v31.mp4",
+    "src": "/video-2/military/2569/media/sub-military-v31.mp4",
     "poster": "img/poster-sub-military-31.jpg",
     "vtt": "media/sub-military-v31.th.vtt",
     "kind": "post",
@@ -125,7 +125,7 @@
    },
    "videos": [
     {
-     "src": "media/sub-military-v31.mp4",
+     "src": "/video-2/military/2569/media/sub-military-v31.mp4",
      "poster": "img/poster-sub-military-31.jpg",
      "vtt": "media/sub-military-v31.th.vtt",
      "kind": "post",
