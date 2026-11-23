@@ -1,0 +1,284 @@
+{
+ "fetched": "2026-11-23",
+ "groups": [
+  {
+   "key": "main",
+   "scid": null,
+   "url": "https://www.senate.go.th/view/421/members/TH-TH/?cid=79773&ctype=1",
+   "senators": [
+    {
+     "name": "นายวุฒิชาติ กัลยาณมิตร",
+     "pos": "ประธานคณะกรรมาธิการ",
+     "img": "25671217_150500.jpg",
+     "src": "/webstatic/commissionmember/25671217_150500.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "พลตำรวจโท วันไชย เอกพรพิชญ์",
+     "pos": "รองประธานคณะกรรมาธิการ คนที่หนึ่ง",
+     "img": "25670711_134744.jpg",
+     "src": "/webstatic/commissionmember/25670711_134744.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายภมร เชาว์ศิริกุล",
+     "pos": "รองประธานคณะกรรมาธิการ คนที่สอง",
+     "img": "25681006_112657.jpg",
+     "src": "/webstatic/commissionmember/25681006_112657.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นางจุฑารัตน์ นิลเปรม",
+     "pos": "รองประธานคณะกรรมาธิการ คนที่สาม",
+     "img": "25680303_143704.jpg",
+     "src": "/webstatic/commissionmember/25680303_143704.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นางธารนี ปรีดาสันติ์",
+     "pos": "รองประธานคณะกรรมาธิการ คนที่สี่",
+     "img": "25670711_151336.jpg",
+     "src": "/webstatic/commissionmember/25670711_151336.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายชูชีพ เอื้อการณ์",
+     "pos": "รองประธานคณะกรรมาธิการ คนที่ห้า",
+     "img": "25690507_132522.jpg",
+     "src": "/webstatic/commissionmember/25690507_132522.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายเอนก วีระพจนานันท์",
+     "pos": "เลขานุการคณะกรรมาธิการ",
+     "img": "25690623_155702.jpg",
+     "src": "/webstatic/commissionmember/25690623_155702.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายพิชาญ พรศิริประทาน",
+     "pos": "โฆษกคณะกรรมาธิการ",
+     "img": "25690519_103539.jpg",
+     "src": "/webstatic/commissionmember/25690519_103539.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายมานะ มหาสุวีระชัย",
+     "pos": "ประธานที่ปรึกษาคณะกรรมาธิการ",
+     "img": "25670715_092917.jpg",
+     "src": "/webstatic/commissionmember/25670715_092917.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายธีระศักดิ์ อรัญพิทักษ์",
+     "pos": "กรรมาธิการ",
+     "img": "25690312_144618.jpg",
+     "src": "/webstatic/commissionmember/25690312_144618.jpg",
+     "start": "2026-05-18"
+    },
+    {
+     "name": "ร้อยตำรวจเอก ฉลอง ทองนะ",
+     "pos": "กรรมาธิการ",
+     "img": "25691001_111955.jpg",
+     "src": "/webstatic/commissionmember/25691001_111955.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นางณัฏฐินีภรณ์ จันทรโณทัย",
+     "pos": "กรรมาธิการ",
+     "img": "25690708_131759.jpg",
+     "src": "/webstatic/commissionmember/25690708_131759.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายธนกร ถาวรชินโชติ",
+     "pos": "กรรมาธิการ",
+     "img": "25670711_153540.jpg",
+     "src": "/webstatic/commissionmember/25670711_153540.jpg",
+     "start": "2026-05-18"
+    },
+    {
+     "name": "นายธนชัย แซ่จึง",
+     "pos": "กรรมาธิการ",
+     "img": "25670711_140259.jpg",
+     "src": "/webstatic/commissionmember/25670711_140259.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นางสาวนิชาภา สุวรรณนาค",
+     "pos": "กรรมาธิการ",
+     "img": "25670712_100058.jpg",
+     "src": "/webstatic/commissionmember/25670712_100058.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายปราณีต เกรัมย์",
+     "pos": "กรรมาธิการ",
+     "img": "25670712_113123.jpg",
+     "src": "/webstatic/commissionmember/25670712_113123.jpg",
+     "start": "2024-09-23"
+    },
+    {
+     "name": "นายมังกร ศรีเจริญกูล",
+     "pos": "กรรมาธิการ",
+     "img": "25670715_091754.jpg",
+     "src": "/webstatic/commissionmember/25670715_091754.jpg",
+     "start": "2026-05-18"
+    },
+    {
+     "name": "นางสาวอัจฉรพรรณ หอมรส",
+     "pos": "กรรมาธิการ",
+     "img": "25670710_222815.jpg",
+     "src": "/webstatic/commissionmember/25670710_222815.jpg",
+     "start": "2026-05-25"
+    }
+   ],
+   "others": {
+    "ผู้ช่วยเลขานุการประจำคณะกรรมาธิการตามข้อบังคับฯ": 2
+   },
+   "former": []
+  },
+  {
+   "key": "andamanport",
+   "scid": 84987,
+   "url": "https://www.senate.go.th/view/421/subcommittee-detail/TH-TH/?cid=79773&ctype=1&scid=84987",
+   "senators": [
+    {
+     "name": "นางสาวนิชาภา สุวรรณนาค",
+     "pos": "ประธานคณะอนุกรรมาธิการ",
+     "img": "25670712_100058.jpg",
+     "src": "/webstatic/commissionmember/25670712_100058.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นายธนชัย แซ่จึง",
+     "pos": "รองประธานคณะอนุกรรมาธิการ",
+     "img": "25670711_140259.jpg",
+     "src": "/webstatic/commissionmember/25670711_140259.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นายมังกร ศรีเจริญกูล",
+     "pos": "อนุกรรมาธิการ",
+     "img": "25670715_091754.jpg",
+     "src": "/webstatic/commissionmember/25670715_091754.jpg",
+     "start": "2026-10-01"
+    }
+   ],
+   "others": {
+    "เลขานุการคณะอนุกรรมาธิการ": 1,
+    "อนุกรรมาธิการ": 8
+   },
+   "former": []
+  },
+  {
+   "key": "ridehail",
+   "scid": 85080,
+   "url": "https://www.senate.go.th/view/421/subcommittee-detail/TH-TH/?cid=79773&ctype=1&scid=85080",
+   "senators": [
+    {
+     "name": "นายปราณีต เกรัมย์",
+     "pos": "ประธานคณะอนุกรรมาธิการ",
+     "img": "25670712_113123.jpg",
+     "src": "/webstatic/commissionmember/25670712_113123.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นายพิชาญ พรศิริประทาน",
+     "pos": "รองประธานคณะอนุกรรมาธิการ คนที่หนึ่ง",
+     "img": "25690519_103539.jpg",
+     "src": "/webstatic/commissionmember/25690519_103539.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นางสาวอัจฉรพรรณ หอมรส",
+     "pos": "รองประธานคณะอนุกรรมาธิการ คนที่สอง",
+     "img": "25670710_222815.jpg",
+     "src": "/webstatic/commissionmember/25670710_222815.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นายเอนก วีระพจนานันท์",
+     "pos": "รองประธานคณะอนุกรรมาธิการ คนที่สาม",
+     "img": "25690623_155702.jpg",
+     "src": "/webstatic/commissionmember/25690623_155702.jpg",
+     "start": "2026-10-01"
+    }
+   ],
+   "others": {
+    "อนุกรรมาธิการ": 8
+   },
+   "former": []
+  },
+  {
+   "key": "isantransit",
+   "scid": 85211,
+   "url": "https://www.senate.go.th/view/421/subcommittee-detail/TH-TH/?cid=79773&ctype=1&scid=85211",
+   "senators": [
+    {
+     "name": "นางธารนี ปรีดาสันติ์",
+     "pos": "ประธานคณะอนุกรรมาธิการ",
+     "img": "25691027_111620.jpg",
+     "src": "/webstatic/commissionmember/25691027_111620.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นายภมร เชาว์ศิริกุล",
+     "pos": "รองประธานคณะอนุกรรมาธิการ คนที่หนึ่ง",
+     "img": "25681006_112657.jpg",
+     "src": "/webstatic/commissionmember/25681006_112657.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นายพิชาญ พรศิริประทาน",
+     "pos": "รองประธานคณะอนุกรรมาธิการ คนที่สอง",
+     "img": "25690519_103539.jpg",
+     "src": "/webstatic/commissionmember/25690519_103539.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นายธีระศักดิ์ อรัญพิทักษ์",
+     "pos": "รองประธานคณะอนุกรรมาธิการ คนที่สาม",
+     "img": "25690312_144618.jpg",
+     "src": "/webstatic/commissionmember/25690312_144618.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นางณัฏฐินีภรณ์ จันทรโณทัย",
+     "pos": "อนุกรรมาธิการ",
+     "img": "25690708_131759.jpg",
+     "src": "/webstatic/commissionmember/25690708_131759.jpg",
+     "start": "2026-11-11"
+    },
+    {
+     "name": "นางนงลักษณ์ ก้านเขียว",
+     "pos": "อนุกรรมาธิการ",
+     "img": "25691109_115149.jpg",
+     "src": "/webstatic/commissionmember/25691109_115149.jpg",
+     "start": "2026-11-11"
+    },
+    {
+     "name": "นายมานะ มหาสุวีระชัย",
+     "pos": "ประธานที่ปรึกษาคณะอนุกรรมาธิการ",
+     "img": "25670715_092917.jpg",
+     "src": "/webstatic/commissionmember/25670715_092917.jpg",
+     "start": "2026-10-01"
+    },
+    {
+     "name": "นางสาวนิชาภา สุวรรณนาค",
+     "pos": "ที่ปรึกษาคณะอนุกรรมาธิการ",
+     "img": "25670712_100058.jpg",
+     "src": "/webstatic/commissionmember/25670712_100058.jpg",
+     "start": "2026-11-11"
+    }
+   ],
+   "others": {
+    "อนุกรรมาธิการ": 6,
+    "ที่ปรึกษาคณะอนุกรรมาธิการ": 2
+   },
+   "former": []
+  }
+ ],
+ "directory_size": 200,
+ "approved": "2026-11-23"
+}
