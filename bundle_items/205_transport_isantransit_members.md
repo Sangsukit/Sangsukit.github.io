@@ -2,7 +2,9 @@
 
 **Thread:** Site: Add Transport and Foreign Affairs committees · **Asked by:** Site: Update automatically three times a day (23 Nov 2569)
 
-**Needs Sukit's OK before publishing** (members.py rule 6: member-list changes need legal check + Sukit's OK).
+STATUS: READY
+
+**Sukit's OK given** in this thread on 23 Nov 2569 15:49 UTC ("yes"), as members.py rule 6 requires.
 
 ## What changed on the Senate lists (fetched 23 Nov 2569 ~12:13 UTC)
 - Transport committee, Andaman port and ride-hailing subcommittees: no change against the published list (13 Nov).
