@@ -1,0 +1,16 @@
+--- a/build/build.py	2026-11-23 06:38:31.166380505 +0000
++++ b/build/build.py	2026-11-23 06:38:31.168292267 +0000
+@@ -73,8 +73,11 @@
+               label="วิดีโอก่อนการประชุม", dur="1:40")],
+     # 37: pre-meeting video (EN burned in, 12 Nov 2569, bundle item 49_pa37_pre_video). The post video, when made,
+     # gets media/v37post.* and goes first in a list, as for 36.
+-    37: dict(src="media/v37.mp4", poster="img/poster37.jpg", vtt="media/v37.th.vtt", kind="pre",
+-             label="วิดีโอก่อนการประชุม", dur="1:58", cc="เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ"),
++    # 37 after-meeting video: 23 Nov 2569, bundle item 189_pa37_post_video (EN burned in).
++    37: [dict(src="media/v37post.mp4", poster="img/poster37post.jpg", vtt="media/v37post.th.vtt", kind="post",
++              label="วิดีโอสรุปผลการประชุม", dur="5:01", cc="เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ"),
++         dict(src="media/v37.mp4", poster="img/poster37.jpg", vtt="media/v37.th.vtt", kind="pre",
++              label="วิดีโอก่อนการประชุม", dur="1:58", cc="เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ")],
+     # 38: pre-meeting video (EN burned in, 23 Nov 2569, bundle item 178_pa_nov25_pre_videos).
+     38: dict(src="media/v38.mp4", poster="img/poster38.jpg", vtt="media/v38.th.vtt", kind="pre",
+              label="วิดีโอก่อนการประชุม", dur="1:40", cc="เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ"),
