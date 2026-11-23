@@ -43,6 +43,17 @@
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "isantransit-4p",
      "size": 4875881
+    },
+    {
+     "src": "/video-2/transport/2569/media/sub-isantransit-v4.mp4",
+     "poster": "img/poster-sub-isantransit-4.jpg",
+     "vtt": "media/sub-isantransit-v4.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:45",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "isantransit-4",
+     "size": 8465128
     }
    ]
   },
