@@ -17,7 +17,7 @@
   "media": {
    "videos": [
     {
-     "src": "media/sub-women-v29pre.mp4",
+     "src": "/video-2/social/2569/media/sub-women-v29pre.mp4",
      "poster": "img/poster-sub-women-29pre.jpg",
      "vtt": "media/sub-women-v29pre.th.vtt",
      "kind": "pre",
@@ -29,7 +29,7 @@
     }
    ],
    "video": {
-    "src": "media/sub-women-v29pre.mp4",
+    "src": "/video-2/social/2569/media/sub-women-v29pre.mp4",
     "poster": "img/poster-sub-women-29pre.jpg",
     "vtt": "media/sub-women-v29pre.th.vtt",
     "kind": "pre",

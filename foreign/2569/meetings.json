@@ -14,7 +14,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6uoHzKjdGpJvfFS2Rtw"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/foreign/2569/media/v30pre.mp4",
+    "poster": "img/poster30pre.jpg",
+    "vtt": "media/v30pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:31",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "30p",
+    "size": 6014677
+   },
+   "videos": [
+    {
+     "src": "/video-2/foreign/2569/media/v30pre.mp4",
+     "poster": "img/poster30pre.jpg",
+     "vtt": "media/v30pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:31",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "30p",
+     "size": 6014677
+    }
+   ]
+  },
   "chair": "นายนิรัตน์ อยู่ภักดี",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
