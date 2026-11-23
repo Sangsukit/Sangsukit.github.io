@@ -84,12 +84,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qudZEsVvZdhbp96WSHtshT5ZqlncCMfDQ8n-BwdQly7KRqgfsCO8Q0VlzSXR6twwzSA5u_aiVgPJWYdk071DRX3cIqCzIv-dG2LOGlNN7fTFh5MGz677H83VeYQZpS11N6XksAJg7N72UaHBbqIO-V4eBtG-0XsAlifK7g==&ref=11127498",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=n1jHs9CBBa4SplyrLoL-QZZbZMc8T-VLCfwt1gOyx5adQiZtmWCHjgyUEx3YjXROFuR6YueCISmB5odCIlNFLEYam_2dYj_cCGHEl3pFW2ByFn3seDLWTNciSrE9J6Pr82FIaL0Hfg_m-XW_K9rAEtZUXXISCTuad5ab5A==&ref=11127498",
     "size": 111307
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=mQMjpBKfhPeepk8HLAc"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WATeND1CZuG6DrZfnmg"
    }
   ],
   "media": {
@@ -120,7 +120,7 @@
   },
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
+  "agenda_only": true,
   "headline": "สรุปการสัมมนาโครงสร้างประชากร และเตรียมลงพื้นที่เชียงใหม่–ลำปาง",
   "summary": "การประชุมวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 เวลา 09.00 น. ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการสรุปผลการสัมมนาเรื่อง “โครงสร้างประชากรและการพัฒนาคุณภาพชีวิต” (12 พ.ย. 2569) ร่างกำหนดการลงพื้นที่จังหวัดเชียงใหม่และลำปาง การร่วมกิจกรรมโครงการประกวดวาดภาพสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี หัวข้อ “สมเด็จพระกนิษฐาธิราชเจ้าที่เรารัก” ของคณะอนุกรรมาธิการด้านผู้สูงอายุฯ และรายงานความคืบหน้าของกรรมาธิการที่เป็นกรรมาธิการวิสามัญ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
   "items": [
