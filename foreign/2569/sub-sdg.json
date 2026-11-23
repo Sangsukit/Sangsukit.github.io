@@ -1,5 +1,78 @@
 [
  {
+  "n": 31,
+  "date": "2026-11-25",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rwN9vFyjNVvzABOLtpB13i0Zah883h0GeobhrGazN4YtSmV6z6kgzFZoAHF_dKuxRrPQ6Wtih1YkKqFFlM5PB_bQc_U-uIYJ_qNQceu6J3SM871zizACentBZUJACo0J4UgF_CS3TKkeph_9FQw87Ekn7Ya-Bn7ZbjVMFQ==&ref=11226568",
+    "size": 191408
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=8tB1DUVFwE4puY2YHWQ_NZgGRy-HhcgaURaUQIZzG0hEqlPUS_KGWaA2Jh858kHVAzzpoLFLYFwvhNSYzpuLwXAuUUeVyBBHBsL6DQUqrOoqQGqZ7WnsT9th5RktKKr3kILfVOf6ADOrGlEjNcDlnsUEUJJ5vuciN6Wdsw==&ref=11226576",
+    "size": 191408
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8vylXWmSJET4Zx5em_s"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-1/foreign/2569/media/sub-sdg-v31pre.mp4",
+    "poster": "img/poster-sub-sdg-31pre.jpg",
+    "vtt": "media/sub-sdg-v31pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:30",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "sdg-31p",
+    "size": 5960118
+   },
+   "videos": [
+    {
+     "src": "/video-1/foreign/2569/media/sub-sdg-v31pre.mp4",
+     "poster": "img/poster-sub-sdg-31pre.jpg",
+     "vtt": "media/sub-sdg-v31pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:30",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "sdg-31p",
+     "size": 5960118
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "ติดตามการให้สัตยาบันอนุสัญญา ILO ฉบับที่ 87 และ 98: รับฟังภาคเอกชนและฝ่ายนายจ้าง",
+  "summary": "นัดประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 10.00 น. ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา วาระคือการพิจารณาและติดตามกระบวนการให้สัตยาบันอนุสัญญาองค์การแรงงานระหว่างประเทศ (ILO) ฉบับที่ 87 และ 98 และประเด็นที่เกี่ยวข้อง โดยเชิญผู้แทนภาคเอกชนและองค์การฝ่ายนายจ้างมาร่วมประชุม ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "พิจารณาและติดตามกระบวนการให้สัตยาบันอนุสัญญา ILO ฉบับที่ 87 และ 98 และประเด็นที่เกี่ยวข้อง (รับฟังภาคเอกชนและฝ่ายนายจ้าง)",
+    "วาระที่ 3",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "ILO",
+   "แรงงาน",
+   "อนุสัญญาระหว่างประเทศ",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 30,
   "date": "2026-11-18",
   "time": "10.00",
@@ -7,17 +80,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=p5zVW3NGiW2a2K-rgw7x4myoo9aHFHtqq_ViHUcAEF3eqnHsgJpvZB5stHZNu3WfjrD18dvX47RuRxw7Msmdt72Ckpw1dbKor9lVz_Xzoql5nnAY-7wndbyIFriwvLitVgo8IJ4rtC73zwK5eERHVba-m3VXdhAJbNxosg==&ref=11175762",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Pf8ZRo_svCcffZ-qEWMh9ed1xqnYdq5iZmVz5dqsywXFIHqw-q5nOZ8Y9p4CGpNSMuiIt0ZBUpgaYXS0E9rgRsjfFH25q9SPCHQYd9BeOcvBIJUVVBtN7ycBV5Clz5hOckQCvTiFEZKuhHCbCp9YtRNh-9pADf24WlS_xQ==&ref=11175762",
     "size": 158082
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aGpQtHoIgsGjRTm6hQDtOIHdF1m-erYf-XNrGrBYTZ8YT4huH34yb7q6N8hAWv1Yr02EzNkKQ1SC2Mf-XJbmJ6-euSObGMmL2KO08qg8ImLSE1cJdJJVoiURFU0oIoUAymo5_8ZEfnHtetlP2hfVMt07ovBvmxo3DfJSeg==&ref=11175763",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TmgQ-YXYByR2IF1LYsENR115A9jnnwBrR9uMdW3t9W293wLzBrxxp2Zt2PJiPbPc9zTCo7wlDm8rWsE32PBPt6iRs4aujvFgF9Ak_JpN9lvRJnZXT9mE2Lr22E24r-uCLQxshbCEwXFBtQV_ZgaH-fnwUrx7mTrLApSC-g==&ref=11175763",
     "size": 158082
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=QEZD6DZ9Az_9e8aToqs"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=_hBBN5UCr9MnQrY4aKs"
    }
   ],
   "media": {
@@ -64,13 +137,7 @@
    "วาระการประชุม"
   ],
   "places": [],
-  "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา"
-  }
+  "upcoming": false
  },
  {
   "n": 29,

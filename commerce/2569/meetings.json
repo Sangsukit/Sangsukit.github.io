@@ -1,5 +1,77 @@
 [
  {
+  "n": 35,
+  "date": "2026-11-25",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xo7Bj22H_If2HkcP4hQyY9F15pobz8a1KSSqA4VClo5sAqUdz9gZG4q8HPyXyuXW3k7TypEQDITGLvfDX_2EiEq3h8B2eTE0NqXeMVmNWmN-_k_nn2jcPpO2GO0dWQ5e3_Sv15dBQ3lH4hEFMpuIFGB9RA8p_RCE_FUUMw==&ref=11216585",
+    "size": 120034
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=VAZhQgAVl7YuMJbatac"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/commerce/2569/media/v35pre.mp4",
+    "poster": "img/poster35pre.jpg",
+    "vtt": "media/v35pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:37",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "35p",
+    "size": 6181145
+   },
+   "videos": [
+    {
+     "src": "/video-2/commerce/2569/media/v35pre.mp4",
+     "poster": "img/poster35pre.jpg",
+     "vtt": "media/v35pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:37",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "35p",
+     "size": 6181145
+    }
+   ]
+  },
+  "chair": "นายวิวรรธน์ ไกรพิสิทธิ์กุล",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "ติดตามความคืบหน้าของคณะอนุกรรมาธิการ และพิจารณาเรื่องร้องเรียนเกี่ยวกับระบบการรับรองอาหารฮาลาล",
+  "summary": "การประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงานคณะต่าง ๆ และการพิจารณาเรื่องร้องเรียนที่ขอให้ตรวจสอบระบบการรับรองอาหารฮาลาลของประเทศไทยและพัฒนาระบบรับรองทางเลือกภายใต้การกำกับดูแลของรัฐ โดยพิจารณาขอบเขตอำนาจตามพระราชบัญญัติการบริหารองค์กรศาสนาอิสลาม พ.ศ. 2540 พระราชบัญญัติมาตรฐานสินค้าเกษตร พ.ศ. 2551 และพระราชบัญญัติเครื่องหมายการค้า พ.ศ. 2534 สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงานคณะต่าง ๆ",
+    "วาระที่ 3.1",
+    "sub"
+   ],
+   [
+    "เรื่องร้องเรียน: ขอให้ตรวจสอบระบบการรับรองอาหารฮาลาลของประเทศไทย และพัฒนาระบบรับรองทางเลือกภายใต้การกำกับดูแลของรัฐ (พิจารณาขอบเขตอำนาจตามกฎหมายที่เกี่ยวข้อง)",
+    "วาระที่ 3.2",
+    "complaint"
+   ]
+  ],
+  "tags": [
+   "ฮาลาล",
+   "เรื่องร้องเรียน",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 34,
   "date": "2026-11-18",
   "time": "14.00",
@@ -12,7 +84,12 @@
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Po5tUpcdD00rKOGQUHKG7jOlZSfdACG4qNiH86QMG7vcNo6lO80Hc6i0ajps0fo2Zgeo6ZKvJbCFe3SFCqnF0HNyCGlPk8DEVe3OqVoPOTuCkJ-4Co1kxuTkC5WmPg6vKChTSj6K3w5eyHolXXATiFZl3XCbDt_GoGdJew==&ref=11195070"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KN2ZfAxpnUspaBniWDp93XaybIBcEIzuuQyOjrceD_cQfDFcPDkUFGAk_aIOQRjzfAXnXxDg4M5Zw94W0mGVrngfF26O7Jteh72qEwMi6yV6YSVkB56c6uIKAR2x2o9AiGV2SvRKy5hXJe04Fw_YT42L4aLz-syacAricQ==&ref=11204700"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2mEaVuylPo5ZZtQvu3IiT0zGN3hTsOFcFluNDx2q8Vle620ZjWPveX_1H6OjIOTT7va31KLcn-HrkMzOezPxQnaglZQithw5u_aEvqXko1SIgdfRItXOmjSx9ls-kZWpu4vwH_4HVp6YOoxxWh5fXOFcQEjG2gnrgEBwZQ==&ref=11216297",
+    "size": 1704249
    },
    {
     "k": "agenda",
@@ -21,17 +98,28 @@
   ],
   "media": {
    "video": {
-    "src": "/video-1/commerce/2569/media/v34pre.mp4",
-    "poster": "img/poster34pre.jpg",
-    "vtt": "media/v34pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:57",
+    "src": "/video-2/commerce/2569/media/v34.mp4",
+    "poster": "img/poster34.jpg",
+    "vtt": "media/v34.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:24",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "34p",
-    "size": 4709846
+    "ck": "34",
+    "size": 10190537
    },
    "videos": [
+    {
+     "src": "/video-2/commerce/2569/media/v34.mp4",
+     "poster": "img/poster34.jpg",
+     "vtt": "media/v34.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:24",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "34",
+     "size": 10190537
+    },
     {
      "src": "/video-1/commerce/2569/media/v34pre.mp4",
      "poster": "img/poster34pre.jpg",
@@ -47,21 +135,39 @@
   },
   "chair": "นายวิวรรธน์ ไกรพิสิทธิ์กุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
-  "headline": "ติดตามความคืบหน้าของคณะอนุกรรมาธิการและคณะทำงาน",
-  "summary": "การประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงานคณะต่าง ๆ ในคณะกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "ร่างรายงานเซมิคอนดักเตอร์และกำลังคน ข้อเสนอช่วยเหลือ SMEs “สุราษฎร์โมเดล” ความโปร่งใสในการจัดซื้อภาครัฐ และปัญหาบุคคลอำพรางในภาคอุตสาหกรรม",
+  "summary": "ที่ประชุมพิจารณาความคืบหน้าของคณะอนุกรรมาธิการ 3 คณะและคณะทำงาน 1 คณะ คณะอนุกรรมาธิการอุตสาหกรรมปรับปรุงร่างรายงานการพิจารณาศึกษา 2 เรื่อง ได้แก่ การยกระดับอุตสาหกรรมเซมิคอนดักเตอร์ (เพิ่มบทวิเคราะห์ตำแหน่งของประเทศไทยในห่วงโซ่อุปทาน มาตรการส่งเสริมการลงทุนของประเทศคู่แข่ง และข้อเสนอการจัดตั้งกองทุนและกลไกขับเคลื่อนเชิงยุทธศาสตร์) และการพัฒนาสมรรถนะกำลังคนสู่อุตสาหกรรมเซมิคอนดักเตอร์ (เชื่อมการพัฒนาทักษะกับการทำงานจริง การใช้ห้องปฏิบัติการร่วมกัน การกระจายศูนย์ฝึกอบรม และการรักษาบุคลากรที่มีความเชี่ยวชาญ) คณะอนุกรรมาธิการช่วยเหลือ SMEs ระยะเร่งด่วนฯ เสนอร่างรายงานที่ใช้จังหวัดสุราษฎร์ธานีเป็นกรณีศึกษา พบปัญหาสำคัญ 4 ประการ คือ ภาระหนี้และสภาพคล่อง ความไม่พร้อมในการเข้าสู่ระบบและยกระดับธุรกิจ ความเสียเปรียบในการแข่งขัน และการขาดการบูรณาการมาตรการของภาครัฐ และเสนอแนวทาง 5 ด้าน รวมถึงการทดลองรูปแบบเชิงพื้นที่ “สุราษฎร์โมเดล” ที่ประชุมเสนอเพิ่มกลไก “พี่ช่วยน้อง” ให้ผู้ประกอบการที่เข้มแข็งร่วมสนับสนุน SMEs ในพื้นที่ โดยเริ่มทดลองที่จังหวัดสุราษฎร์ธานีก่อนขยายผล คณะอนุกรรมาธิการส่งเสริมเอสเอ็มอีฯ รายงานข้อมูลจากผู้แทนองค์กรภาคเอกชนด้านการต่อต้านคอร์รัปชันเกี่ยวกับความเสี่ยงในกระบวนการจัดซื้อจัดจ้างภาครัฐ พร้อมข้อเสนอ เช่น การเปิดเผยข้อมูลผู้รับประโยชน์ที่แท้จริง การจัดทำทะเบียนผู้รับจ้างช่วง และการส่งเสริมระบบ e-Shopping และจะจัดเสวนา “SME Connect : ปลดล็อก SME ไทย เชื่อมตลาดรัฐสู่โอกาสทางธุรกิจ” ในวันที่ 8 ธันวาคม 2569 ณ อาคารรัฐสภา ส่วนคณะทำงานศึกษาและติดตามการบริหารจัดการกากอุตสาหกรรมรายงานความคืบหน้าการผลักดันการแก้ไขปัญหาการใช้บุคคลอำพรางและทุนสีเทาในภาคอุตสาหกรรม ซึ่งหน่วยงานที่เกี่ยวข้องได้เพิ่มความเข้มข้นในการตรวจสอบและบังคับใช้กฎหมาย",
   "items": [
    [
-    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการและคณะทำงานคณะต่าง ๆ",
-    "วาระที่ 3",
+    "คณะอนุกรรมาธิการอุตสาหกรรม: ปรับปรุงร่างรายงานการพิจารณาศึกษา 2 เรื่อง (การยกระดับอุตสาหกรรมเซมิคอนดักเตอร์ และการพัฒนาสมรรถนะกำลังคนสู่อุตสาหกรรมเซมิคอนดักเตอร์)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "คณะอนุกรรมาธิการช่วยเหลือ SMEs ระยะเร่งด่วนฯ: ร่างรายงานกรณีศึกษาจังหวัดสุราษฎร์ธานี ข้อเสนอ 5 ด้าน “สุราษฎร์โมเดล” และกลไก “พี่ช่วยน้อง”",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "คณะอนุกรรมาธิการส่งเสริมเอสเอ็มอีฯ: ความโปร่งใสในการจัดซื้อจัดจ้างภาครัฐ และเสวนา “SME Connect” (8 ธ.ค. 2569)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "คณะทำงานศึกษาและติดตามการบริหารจัดการกากอุตสาหกรรม: ความคืบหน้าการแก้ไขปัญหาบุคคลอำพรางและทุนสีเทาในภาคอุตสาหกรรม",
+    "พิจารณา",
     "sub"
    ]
   ],
   "tags": [
+   "เซมิคอนดักเตอร์",
    "SMEs",
-   "วาระการประชุม"
+   "จัดซื้อจัดจ้างภาครัฐ",
+   "กากอุตสาหกรรม"
   ],
-  "places": [],
+  "places": [
+   "สุราษฎร์ธานี"
+  ],
   "map": {
    "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
    "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
@@ -82,12 +188,16 @@
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=azzkZQ0jE64QC5sINoKr4PSq-mwAqiuhnQ1MzvY3lWWBv4HcsilVGgiRN27g5CEdLKd4-fpJkT_gkAU39FPY7pn_fQqt-eS6luKdR7sraLZmLa5BFBbbfxYZY6HiwWg2ur3mJcZKE2rojOIReu9kc70xWVis4Lqf4BtFqg==&ref=11147054"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BWSVgFu0qKg0VY553q9M5oRDbq6EP_Q6pLNykvTLFcy9dJZISXU8xiZd-rknzQfpjdEFzjATrLQk_E0jYqpQqhztWHULJX0WQsoVTRAMQgA4PmihrCzRApoDFj808QPD_8WbupeE-qZ_ZgxwA8qm7VUAsaKvp6Qkf-Pyow==&ref=11216651"
    },
    {
     "k": "summary",
     "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VnICNaPXusgpVaKG6S5e-7tVvTKSsU8CqSQTVtcYqNRBkwAmmpb3cedkqmUz_zkv5Hm3EsFsDCEw1jjwJSyAxKhfoPDQYxiHE6dJqz9AR19R0wERG5oFS8li8BWEkdVA7yFrkPrmuxzBNOCyaqOvRRl8w_onHbru_I2CLQ==&ref=11174492",
     "size": 1920505
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0RHe-IaAalkXwv1n3zfOVJarFRhaaj3kANlYd_gQxoiPtCRfGpR-R8Kjgg3ULOlBT5XvBu4Ddxb_xWfJ__L_DaSOUpPnbwCHUHPGRMgVz2_68ucll4yqjpHm9QQDT1X6JlY3KSwMolwuEQ8Y29s_6HJ-m86MhCKc0bkfSQ==&ref=11204694"
    },
    {
     "k": "agenda",
@@ -459,7 +569,7 @@
    },
    {
     "k": "minutes",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YWakNnqKVM8KK5RqwpnQt7LgDqSu4y1XtvbR-TMaVDjA8LBoNcwQjBLM4nzZvVcWdL81lzaF4A9OKcSj903a26yRngvN-2vWJJbZZCliLPn2QYD4c6106dKMcm1_pI3At9XpKC2u-91gWYMbbxUjJnnGtw5Y9dNoHSncSA==&ref=10921054"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=g_bR34mqBNIgxVODJ7_uqC2Zi-aFlpSkolryOBuFgpHt_dkv05lhP_BU16xv4rn5hcb2viVqZ285sOgN1t86Et-RrZmSekTy-JduOXZYlcpd3lPm-vp8rJ0xGRoQF8IAsmIAIAnsjasi-WgCmPhI6bjF38gqpcqLQpnyaQ==&ref=11194781"
    },
    {
     "k": "agenda",

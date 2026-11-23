@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:51:06Z",
+ "updated": "2026-11-23T01:50:18Z",
  "feeds_ok": 11,
  "window_h": 72,
  "topics": [
@@ -18,7 +18,7 @@
     "alt_en": "Rows of rubber trees in a plantation"
    },
    "outlets": 2,
-   "count": 9,
+   "count": 10,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -26,18 +26,18 @@
    },
    "parent": null,
    "meeting": {
-    "n": 35,
-    "date": "2026-10-19",
-    "url": "agriculture/2569/#read-35"
+    "n": 39,
+    "date": "2026-11-16",
+    "url": "agriculture/2569/#read-39"
    },
    "items": [
     {
-     "title": "สรวงศ์ ให้กำลังใจสมาคมชาวไร่อ้อย ย้ำร่วมทุกข์ร่วมสุขกันกว่า 25 ปี พร้อมเคียงข้างเกษตรกร",
-     "url": "https://www.matichon.co.th/politics/news_5985894",
+     "title": "รัฐบาล ยัน ผลตรวจข้าวแม่สาย 10 ตัวอย่าง ผ่านมาตรฐานสารหนูสากล คลายกังวลเกษตรกร-ผู้บริโภค",
+     "url": "https://www.matichon.co.th/politics/news_5985961",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-22T13:56:34Z"
+     "date": "2026-11-23T01:13:00Z"
     },
     {
      "title": "รัฐบาลประสานโรงสีรับซื้อ ‘ข้าวเชียงราย’ หาช่องทางขายช่วยเกษตรกร",
@@ -48,62 +48,12 @@
      "date": "2026-11-22T08:30:52Z"
     },
     {
-     "title": "‘อนุสรณ์’ กาง 3 ปม ART จี้เปิดร่างให้สภาตรวจสอบ ป้องเกษตรกร-ลดภาษีเท่าคู่แข่ง",
-     "url": "https://www.matichon.co.th/politics/news_5985843",
+     "title": "พณ.แจงไทม์ไลน์ถกภาษีมะกัน ยังมีเวลาอีก 1-2 ปี หลังลงนาม ยันมีแผนเยียวยาธุรกิจ-เกษตรกร",
+     "url": "https://www.matichon.co.th/economy/news_5985834",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-22T12:38:11Z"
-    }
-   ]
-  },
-  {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
-   },
-   "items": [
-    {
-     "title": "เลขา สมช.ลุยเชียงราย ตรวจสารพิษเหมืองเมียนมา จ่อคุมส่งออกสารเคมีชายแดน",
-     "url": "https://www.matichon.co.th/politics/news_5985580",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-22T08:26:48Z"
-    },
-    {
-     "title": "PM rejects Cambodia conciliation",
-     "url": "https://www.bangkokpost.com/thailand/general/3358985/pm-rejects-cambodia-conciliation",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-21T22:52:00Z"
+     "date": "2026-11-22T23:39:24Z"
     }
    ]
   },
@@ -130,9 +80,9 @@
    },
    "parent": null,
    "meeting": {
-    "n": 35,
-    "date": "2026-10-19",
-    "url": "agriculture/2569/#read-35"
+    "n": 36,
+    "date": "2026-10-26",
+    "url": "agriculture/2569/#read-36"
    },
    "items": [
     {
@@ -196,90 +146,6 @@
    ]
   },
   {
-   "id": "socialsec",
-   "th": "ประกันสังคม",
-   "en": "Social security",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/socialsec",
-    "credit": "SquidHomme",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
-    "alt_th": "ป้ายกระทรวงแรงงาน",
-    "alt_en": "The Ministry of Labour sign"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
-    "en": "Subcommittee on Social Security",
-    "url": "labour/2569/sub-socialsec.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "labour/2569/sub-socialsec.html#read-20"
-   },
-   "items": [
-    {
-     "title": "‘แม็กซ์’ โต้ ‘จอม’ 5 ปมร่างประกันสังคม จี้เถียงด้วยตัวบท ถาม ‘3 คืน’ เปลี่ยนเป็น ‘3 ขอ’ เมื่อไร",
-     "url": "https://www.matichon.co.th/politics/news_5985458",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-22T07:45:13Z"
-    }
-   ]
-  },
-  {
-   "id": "livestock",
-   "th": "ปศุสัตว์และประมง",
-   "en": "Livestock and fisheries",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/livestock",
-    "credit": "Love Krittaya",
-    "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
-    "alt_th": "วัวกินหญ้าในทุ่งนา",
-    "alt_en": "A cow grazing in a rice field"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
-    "en": "Subcommittee on Livestock and Fisheries Standards",
-    "url": "agriculture/2569/sub-livestock.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "meeting": {
-    "n": 7,
-    "date": "2026-07-15",
-    "url": "agriculture/2569/sub-livestock.html#read-7"
-   },
-   "items": [
-    {
-     "title": "สารพิษแม่น้ำกกทำลายวิถีชีวิต อาชีพประมงพื้นบ้านล่มสลาย",
-     "url": "https://www.prachachat.net/economic/local-economy/news-2100348",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-21T13:39:03Z"
-    }
-   ]
-  },
-  {
    "id": "cyber",
    "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
    "en": "Cyber and defence industry",
@@ -306,9 +172,9 @@
     "url": "military/2569/"
    },
    "meeting": {
-    "n": 25,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-cyber.html#read-25"
+    "n": 26,
+    "date": "2026-11-18",
+    "url": "military/2569/sub-cyber.html#read-26"
    },
    "items": [
     {
