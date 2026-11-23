@@ -1,5 +1,77 @@
 [
  {
+  "n": 27,
+  "date": "2026-11-25",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CB 411 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kSAGwPbSyXv0JoBOh5JD4JPKI37p8iMSCa9VqKjCveFWbkn3iRHjVH33oXwJaP4ddZL81xOI61nMJwCD4qGGC4lprUTmd-PEpxNxnHWQYutUzd2T9oHKn_RxFpO38afk_FPPfusprDznoblZKKwWxAvjJ8goFXWAyfenMQ==&ref=11216957",
+    "size": 145481
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rLYYrlysKVracbJFYJI"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/transport/2569/media/v27pre.mp4",
+    "poster": "img/poster27pre.jpg",
+    "vtt": "media/v27pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:33",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "27p",
+    "size": 6112929
+   },
+   "videos": [
+    {
+     "src": "/video-2/transport/2569/media/v27pre.mp4",
+     "poster": "img/poster27pre.jpg",
+     "vtt": "media/v27pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:33",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "27p",
+     "size": 6112929
+    }
+   ]
+  },
+  "chair": "นายวุฒิชาติ กัลยาณมิตร",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "สายการบินขนาดเล็ก และแนวคิดการลงทุนโครงการเมืองใหม่คลองไทย",
+  "summary": "การประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CB 411 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาศึกษาแนวทางส่งเสริมสายการบินขนาดเล็กเพื่อเชื่อมโยงโครงข่ายการคมนาคมทางอากาศ และการพิจารณาข้อเสนอแนวคิดเกี่ยวกับรูปแบบการลงทุนในโครงการเมืองใหม่คลองไทย โดยเชิญผู้แทนคณะกรรมาธิการการเศรษฐกิจ การเงิน และการคลัง วุฒิสภา เข้าร่วมประชุม สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "แนวทางส่งเสริมสายการบินขนาดเล็กเพื่อเชื่อมโยงโครงข่ายการคมนาคมทางอากาศ",
+    "วาระที่ 3.1",
+    "other"
+   ],
+   [
+    "ข้อเสนอแนวคิดเกี่ยวกับรูปแบบการลงทุนในโครงการเมืองใหม่คลองไทย (เชิญคณะกรรมาธิการการเศรษฐกิจ การเงิน และการคลัง วุฒิสภา)",
+    "วาระที่ 3.2",
+    "other"
+   ]
+  ],
+  "tags": [
+   "สายการบินขนาดเล็ก",
+   "คลองไทย",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CB 411 ชั้น 4 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 26,
   "date": "2026-11-18",
   "time": "14.00",
@@ -7,16 +79,21 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=BhfvXZha83zVa1xVItxR8Ee77YjtU_M0-morFb2kdPlMEl9Fn73udsMBY4bXV3vK_YpdnAl2LE55epZG-HOC0ZRFfz6XFknt_40XAsb9ve2iaUsoS8ltm2TJE9PtFllGQ4285JkToYqQu1NFk4h6I4ldEXgzGOAvhEGhNQ==&ref=11165507",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Z7zvuJOSSN_ePIrBlJhYNgEtBsDxeQChUFwLyHP-zZq80L0Dm_670z2H3hSw04Fxv6e91-3Td2pEk7Lq6BzaAOz_8Cio0IEqJbeJN8fymuIUp9ULXVT3Xwj_ZUueMeghGpsZvr6oFuec4NAT9c7XGJyiirNCP_YlAq3F5Q==&ref=11165507",
     "size": 148966
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_x6I-otJx6LJ2jeeaWTLWZ1Wo_cSZv_R7IrnKvHIed05vlnwijypIWoxyZPWtujRVC75MBuUDqyzpM82390JuSkAlGEMuMEAN1Ksu7Ct_qwx8F95KT0Q75QSXJNALGTry415VggURbuotdeNq3lV5gXRJToIMgG-VTm7ng==&ref=11194703"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SGBrybD6Q3PrVsbtlJubMfnaLxArhMuQVLeqN963Hoqn9DTn0_IOhO_Mlvoet9UQ86wRIv2sOHrnN-VrcmZsYoKtjyjopj-IHuUmrBKly7JXRgQpQozRkhqwc2dHsHExa_oMkSzcRNbBPs0fz-xE2095mMw5KAPY2ZdEzg==&ref=11194703"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=n2j--oTHeqmQLzwR4pH-V3W7uJJCDhxdjboKGnB9NEBYZzb7TJf_Q4O1dyA4usf6RlDKOkjgbOjdeMx7nmfD7HQZ10cHCkIMAxravhiH9DV03r9CMFii-k3Gww1C7S-FHuTeprZD8MZQxWgwUIKkaKkFJRlNVt0-mCr6mw==&ref=11216407",
+    "size": 7526097
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=HCbAonmMUnW_unkCnUM"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=kNV8NuZF0e3hIKJOP1g"
    }
   ],
   "media": {
@@ -42,41 +119,51 @@
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "26p",
      "size": 6405233
+    },
+    {
+     "src": "/video-2/transport/2569/media/v26.mp4",
+     "poster": "img/poster26.jpg",
+     "vtt": "media/v26.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:21",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "26",
+     "size": 9727354
     }
    ]
   },
   "chair": "นายวุฒิชาติ กัลยาณมิตร",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
-  "headline": "ส่งเสริมสายการบินขนาดเล็ก และติดตามโครงสร้างพื้นฐานคมนาคมภูเก็ต",
-  "summary": "การประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CB 411 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาศึกษาแนวทางส่งเสริมสายการบินขนาดเล็กเพื่อเชื่อมโยงโครงข่ายการคมนาคมทางอากาศ โดยเชิญผู้ให้บริการเครื่องบินขนาดเล็กและเครื่องบินน้ำมาให้ข้อมูล และการติดตามความก้าวหน้าโครงการพัฒนาโครงสร้างพื้นฐานด้านคมนาคมในจังหวัดภูเก็ต สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "ส่งเสริมสายการบินขนาดเล็กและเครื่องบินน้ำ และเร่งแก้ปัญหาจราจรในภูเก็ต",
+  "summary": "ที่ประชุมพิจารณาแนวทางส่งเสริมอากาศยานขนาดเล็กและอากาศยานขึ้นลงบนผิวน้ำ (Seaplane) เพื่อใช้ประโยชน์จากท่าอากาศยานภูมิภาคและเชื่อมเมืองหลักกับเมืองรอง โดยให้อากาศยานขนาดประมาณ 7–15 ที่นั่งเป็นสายการบินเชื่อมต่อ เพื่อส่งเสริมการท่องเที่ยวและเศรษฐกิจท้องถิ่น ผู้ประกอบการสะท้อนปัญหา เช่น ค่าธรรมเนียมขึ้นลงและค่าบริการภาคพื้นดินที่ไม่สอดคล้องกับขนาดอากาศยาน บางแห่งสูงถึง 30,000 บาทต่อเที่ยวบิน ข้อจำกัดทางกฎหมายในการใช้สนามบินบางประเภท ขั้นตอนขออนุญาตตั้งสนามบินน้ำที่เกี่ยวข้องกับหลายหน่วยงาน การขาดแคลนนักบินที่มีความเชี่ยวชาญ และเวลาทำการของท่าอากาศยานภูมิภาค กองบัญชาการตำรวจตระเวนชายแดนนำเสนอการใช้อากาศยานไร้คนขับ (UAV) ขนส่งเสบียงไปยังพื้นที่ห่างไกล ที่ประชุมเสนอให้ปรับค่าธรรมเนียมและค่าบริการภาคพื้นดินให้เหมาะกับอากาศยานไม่เกิน 15 ที่นั่ง ปรับปรุงหลักเกณฑ์ทางกฎหมาย และส่งเสริมโครงการนำร่องอากาศยานขึ้นลงบนผิวน้ำ เช่น เส้นทางกระบี่–ภูเก็ต และเกาะหลีเป๊ะ จังหวัดสตูล โดยอาจอนุญาตให้นักบินต่างชาติที่มีความเชี่ยวชาญทำงานเป็นการชั่วคราวควบคู่กับการพัฒนาบุคลากรไทย มติให้ฝ่ายเลขานุการรวบรวมปัญหาและข้อเสนอ และให้ผู้ประกอบการส่งข้อมูลต้นทุนเพื่อพิจารณาอัตราค่าธรรมเนียมที่เหมาะกับขนาดอากาศยาน สำหรับจังหวัดภูเก็ต ที่ประชุมติดตามโครงการคมนาคม เนื่องจากการจราจรติดขัดมาก โดยเฉพาะทางหลวงหมายเลข 402 ที่เชื่อมท่าอากาศยานภูเก็ตกับพื้นที่ตอนใต้ของจังหวัด โครงการสำคัญ ได้แก่ การขยายทางหลวงหมายเลข 4027 เป็น 4 ช่องจราจร ถนนเชื่อมท่าอากาศยานภูเก็ตและทางเลี่ยงแยกท่าเรือ ทางพิเศษกะทู้–ป่าตอง 3.98 กิโลเมตร ทางพิเศษสนามบินภูเก็ต–เกาะแก้ว–กะทู้ 30.62 กิโลเมตร และระบบขนส่งมวลชนจังหวัดภูเก็ต (LRT) ประมาณ 42 กิโลเมตร ซึ่งอยู่ระหว่างทบทวนรูปแบบ และมีแผนเปิดให้บริการในปี 2575 บางโครงการยังติดขั้นตอนขออนุญาตใช้พื้นที่ การเวนคืนที่ดิน และการประเมินผลกระทบสิ่งแวดล้อม ที่ประชุมเสนอให้เร่งถนนคู่ขนาน โดยเฉพาะทางหลวงหมายเลข 4027 และทางพิเศษ ก่อนก่อสร้างโครงการขนาดใหญ่บนทางหลวงหมายเลข 402 และให้มีกลไกติดตามในระดับพื้นที่ มติรับทราบรายงานความคืบหน้า",
   "items": [
    [
-    "แนวทางส่งเสริมสายการบินขนาดเล็กเพื่อเชื่อมโยงโครงข่ายการคมนาคมทางอากาศ (รับฟังผู้ให้บริการ)",
-    "วาระที่ 3.1",
+    "แนวทางส่งเสริมสายการบินขนาดเล็กและอากาศยานขึ้นลงบนผิวน้ำ (Seaplane)",
+    "พิจารณา",
+    "other"
+   ],
+   [
+    "รวบรวมปัญหาและข้อเสนอ และให้ผู้ประกอบการส่งข้อมูลต้นทุน เพื่อปรับค่าธรรมเนียมให้เหมาะกับขนาดอากาศยาน",
+    "พิจารณา",
     "other"
    ],
    [
     "ความก้าวหน้าโครงการพัฒนาโครงสร้างพื้นฐานด้านคมนาคมในจังหวัดภูเก็ต",
-    "วาระที่ 3.2",
+    "รับทราบ",
     "other"
    ]
   ],
   "tags": [
    "สายการบินขนาดเล็ก",
    "Seaplane",
-   "ภูเก็ต",
-   "วาระการประชุม"
-  ],
-  "places": [
    "ภูเก็ต"
   ],
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CB 411 ชั้น 4 อาคารรัฐสภา"
-  }
+  "places": [
+   "ภูเก็ต",
+   "กระบี่",
+   "สตูล"
+  ]
  },
  {
   "n": 25,
@@ -86,21 +173,25 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Gr9SeFrLxX0CHSVT4-p_rNWTSOH-Yud8APNuUftFn2ngXEmGbFW1SS1e5emWlGUg3H6Uqh5NOOw8hn6bS_1iJbM9fDnB0BME8RreqH_owJXhk0mrLHk3RUqvXyEtYh0NCy-R-IW6tVTlD-HOQPcGarFP8HS0eusQoXbWHg==&ref=11088433",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=M4YHuQU4XkfUZIn6MzYW9ExBlHkNYN2-fAkB13-6cV2HeF8v53Wvd3ETTMxqPahek9-CxvMkbPL8wxpWKOovKyWz-SdVPAbjyegkW_G2QoPj_3M3h2KlgBUG4BKSITWO-ja4vk46BwK4cc-muMe29vXDsufAcRjyCYUhIg==&ref=11088433",
     "size": 128506
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=fVvSQQBHeUzfNXQsMC0FNP6HXgIApK3JCwfRd786Vj4YImBBLaa_Dq-qZuSsPpMkOUMx4aYW3lzJSKrryW6m1QkZg3tXn1sQXEvFCl2oHCYkQz6LwpTxPFuhX9sBjBpQXrMsYkDDctTGkLuNNyZTjMpc0qv0wMTOrDzAOw==&ref=11146584"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=HiTc848nfDw4OMSiEPrTmphCuHadWwmCfYRtmYjTZQO1jnDB1MlaRXcjXE3fqrwJGpaxGU_Tt9VTT7Cz8CkLh-9ySAh7YQcslOlgo6_Kr503et9FfQPh334Uli-e_W2zkkxUyNYR4yWEuCoKnvkOuIMjxYv8D5TySoHf-A==&ref=11146584"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=iSLJABmp2EFSXeefSHOUliCAmMJwsf4gtVnGLnnYRqoyyPEmLvdeSOphAF0AvS-65kPRz3kFkiKObSb-zAdVmFKsvxvxItZFA6oZf4E9J0dm5v438p9D7QLe4fUs5zmD2vpEDbE5hkF66_bu8HYiuVXZQXhL2LshdG6RAA==&ref=11165539",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Y_5zkN33cToy7y6P5K0fgXS1yEaGwHbd0yPzjotnglP9W3PeHxflHA2pfb_q1s4Y_l6mcl7wOBkiatBHzYNgInjvdVgYf81lfjiG-k5sNxg0T1Iy4iQMHaozCmbt6IbqLH6QWTc6e8qUvfo5dlu56gqsgaF0U6u3IqSJow==&ref=11165539",
     "size": 12379673
    },
    {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aJRqN2Fb-JkeMVCgEZ1rZ3WCuRmOVduwfb25qMI0ytYc4gKOTm0tXlePIJLwis18zZRMZKq-SJgGgvqhznTWF2HGAqrkEP_mN7q7P5vY1-2UfQfki0yWwGVt5XKNyMtwA6rynze3qRJHR2yaT5yI1cf-IEW1votbUfYWoA==&ref=11216802"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hHmZC7zljzFNGDehYlE"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=2FrDE2ljgmHIPsFBkc0"
    }
   ],
   "media": {

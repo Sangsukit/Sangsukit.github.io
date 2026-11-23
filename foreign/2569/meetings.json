@@ -1,5 +1,69 @@
 [
  {
+  "n": 30,
+  "date": "2026-11-25",
+  "time": "13.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 428 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TvgUa_7XuQHvdXsJmsEuvjk1zT9-Kd1ffBNmA8k9RfRIwSKuIAa3MFKoQoNJrHuMfI-usduKDVdGWOxxc_nAgM61aZyQDBTgj3MUBBLyJF56pVpsbszy7kx76Y-S2a5iEY7guKBl1qWtrUrZnAKVbBYHIXU7ZMDZ_HdM5g==&ref=11235113"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6uoHzKjdGpJvfFS2Rtw"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/foreign/2569/media/v30pre.mp4",
+    "poster": "img/poster30pre.jpg",
+    "vtt": "media/v30pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:31",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "30p",
+    "size": 6014677
+   },
+   "videos": [
+    {
+     "src": "/video-2/foreign/2569/media/v30pre.mp4",
+     "poster": "img/poster30pre.jpg",
+     "vtt": "media/v30pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:31",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "30p",
+     "size": 6014677
+    }
+   ]
+  },
+  "chair": "นายนิรัตน์ อยู่ภักดี",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "พิจารณากิจการด้านต่างประเทศ",
+  "summary": "การประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 13.30 น. ห้องประชุมกรรมาธิการ CA 428 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณากิจการด้านต่างประเทศ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "พิจารณากิจการด้านต่างประเทศ",
+    "วาระที่ 4",
+    "other"
+   ]
+  ],
+  "tags": [
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 428 ชั้น 4 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 29,
   "date": "2026-11-18",
   "time": "13.30",
@@ -7,12 +71,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3xtjsIhGagY6fWEDOlZGIuEVLTNmb1NXlew_hEY1-_gzNkOlqvdt9zXxB-7Afh8IUjDMcRDsMIsTnUbmrmQhLt-Cs7PihhhMTv_gITfnBrEeRK1yh-dZWL7e6gUyimuFjBEuj38FIhuRVyCwV8hsVRt0RuXHE8ea6qYwJQ==&ref=11175752",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=muT4MNhAy_IUMXnoKuxtMGbxHseXsCSlBUonWy76J_PcsO8_wS6RSTLWe4A79iaTQjRMIDYpuMksJL147K9MnFwpKE6qU9mxWo6a5ZbCO3WJFdIgHV1MIQSj6YekQv8zhrH1uXQPdZ4kO26hBcYB1MWl-u0R0iUqD9yj4w==&ref=11175752",
     "size": 189135
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lUwEZLavz-8-wGaSdv8"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=O61e__xBK6E_FK9-Qhc"
    }
   ],
   "media": {
@@ -43,9 +107,9 @@
   },
   "chair": "นายนิรัตน์ อยู่ภักดี",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
+  "agenda_only": true,
   "headline": "พิจารณากิจการด้านต่างประเทศ",
-  "summary": "การประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 13.30 น. ห้องประชุมกรรมาธิการ CA 428 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณากิจการด้านต่างประเทศ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "summary": "การประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 13.30 น. ห้องประชุมกรรมาธิการ CA 428 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณากิจการด้านต่างประเทศ (วุฒิสภาเผยแพร่เฉพาะหนังสือนัดประชุม ยังไม่มีสรุปผลการประชุม)",
   "items": [
    [
     "พิจารณากิจการด้านต่างประเทศ",
@@ -56,13 +120,7 @@
   "tags": [
    "วาระการประชุม"
   ],
-  "places": [],
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 428 ชั้น 4 อาคารรัฐสภา"
-  }
+  "places": []
  },
  {
   "n": 28,
