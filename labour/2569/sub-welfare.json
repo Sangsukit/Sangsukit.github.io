@@ -53,6 +53,17 @@
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "welfare-25p",
      "size": 5684843
+    },
+    {
+     "src": "/video-2/labour/2569/media/sub-welfare-v25.mp4",
+     "poster": "img/poster-sub-welfare-25.jpg",
+     "vtt": "media/sub-welfare-v25.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:47",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "welfare-25",
+     "size": 6968624
     }
    ]
   },

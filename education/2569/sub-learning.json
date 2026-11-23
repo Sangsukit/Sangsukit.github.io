@@ -7,22 +7,22 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=4H_sPi6kIosgjEdlht1n72Uis3dJdgRMNXdkIoX0VZCUONozdbTVSGWK9Xc3vEDWptYc6flrnXUVuK1j_ZY5cwnBTDj7JOE15DQdAvPibNe7aAzrQ5aCD57y0cqzvjGGaMvAYa1jfy0xkP3VWm_WoybnlKG8tZU5RgSeEQ==&ref=11175192",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IVv5Cl59vr8xzoGbHEFHxRSHC4fQHokpzsDYYpv4gTzTOObkwdfyggVZnyo71KauvhFGFIoyuTASbkwzQGuE1wGc_rYja37H31hfj7TwUogZ6wnCPZWc1Dch_-REL_I-xhPluWcKWTgxp1sb0MDfJW7l_G3dmn-4DFJ1Ow==&ref=11175192",
     "size": 123897
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CY_PSo1irwp4UG7DMbTr_CLeE8p99WRdHqmjU3sjSYONWgYCVeHQGVSVAZk092yIPRSQL0kPhbRIoMNBEHhxEG097_iqdG7nWV4LcD947XzWZywf7dbCfU2yw1HsdWXM3NFI6h7_rH_yhHcuHYeq32TS6QA0oRqzKLKrJg==&ref=11175270",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=p-7Igo9nEmr81OJfr0XOPhTZ-RhqHQuFZy4E-YqB1TKSBr6Myx3EAq7ltSzVgcRGeT05Ml3CMmZE2x9FKO7S-sWtXh5F_STn097YMGRYxWoWUCOaNyC00rJRGPtxOvstJ8e72mkGSmMyZgxzKzrFZ2FNBrxaRqVOTgqvzQ==&ref=11175270",
     "size": 123898
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=HDmD-ikXS_OnsG28TVI0ze3KKZyB-B8AKfzfrdXg2gU30xxxPis0W4mg7wIC8VhqmbdzbCQejOgE_kSOWQWC78EjB2eiDpHSp-2RtF5NzduJx0cV9XzuiuHqFolAPcRxnj4iAz0wdufasSGSjnbR84qSmW99CNmvoO-aJg==&ref=11216597",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kSzzBlQ3mNAXUXuTAH3nvaHwKS8TMQSiDO5T9X1Rz1jJm4ZsjiUwVAfWhfkFqzXH9UZYjUHOAwmWZUVbwkO0g2EV4LBNLKvPpH-knwSBeI2ENySNunut04a8dhLXUauqhZGRE3ftWyh1yQsjKzhl5PoQUVtY07EqOq_ENQ==&ref=11216597",
     "size": 781819
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=dOvwEe5TFLWv8WbMhzk"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6uPBB79fV8Ot0dhCXAw"
    }
   ],
   "media": {
@@ -89,7 +89,7 @@
    "นครราชสีมา",
    "ภูเก็ต"
   ],
-  "upcoming": true,
+  "upcoming": false,
   "chair_key": "wiwat"
  },
  {

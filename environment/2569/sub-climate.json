@@ -7,17 +7,17 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mejdOSaXf9FJOCFhSSfLI4wsfeJ9lC-Eor498ZFzrdy0lIBw-WXnOkLRxRY2M2giVt4ez7_x0GVJqs7laJEvHTFjLibmUM3-PIjSX5p9l0c9scY4P9Ntnk7B4lfI03caaGUrfvh2HgKpWupyAaxc2sKI231lrtaM_-eteQ==&ref=11185271",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JH1nxgrsCRTfpeTnhsmza26E7af56frsjKoxpPNjYp7-a-iQJnp-RzNow1cSi-vU8P0OF5iSZo-ohdz7bysXSX-d5iIWukMn9OVUYNcTXLdBnIYX84yEh6eycDp1GH_d78DE8PeWUudNW9VIUAI8oiopnGnU1Kw1TeFmxg==&ref=11185271",
     "size": 93390
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=EZVRoIH8tDSjYuivyj2a9no-ZNxsrhPsYYhR_hcUvLPi04ZsJFuouenSO6r3GLcBtMKhAMSZKXyc6_o3ptgijZUcrKP5TH4xjt0A-WJNuAAn24BXP-ieo4DNGN4qTABlj3UwOvIWaj8dXASRxTfF4yPEboKr9Oeob7DXBw==&ref=11227922",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xDLoW4uloDzXYAbA4qhjqopxMyRCWG83ivi4w-pgMmQzJSEZCF374k_41dTzeds3S-1XQwy9aoZ76q-71TdT_xFmeKaACB32FQa66dxvB994K4kHAeXRyNWeqqeCs9sYOERCPesLLlY72dTYDjEH12mnUKN1W933iLNBtA==&ref=11227922",
     "size": 924142
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=89uHQxKaEJORRUiiqg8"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=E4fuJVlNEDke14DOaOk"
    }
   ],
   "chair": "",
@@ -44,7 +44,7 @@
   "places": [
    "ตราด"
   ],
-  "upcoming": true,
+  "upcoming": false,
   "media": {
    "video": {
     "src": "/video-1/environment/2569/media/sub-climate-v4pre.mp4",
