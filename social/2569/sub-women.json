@@ -14,7 +14,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AJYzcur4bhJnlOFLUpY"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "media/sub-women-v29pre.mp4",
+     "poster": "img/poster-sub-women-29pre.jpg",
+     "vtt": "media/sub-women-v29pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:00",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-29p",
+     "size": 4731360
+    }
+   ],
+   "video": {
+    "src": "media/sub-women-v29pre.mp4",
+    "poster": "img/poster-sub-women-29pre.jpg",
+    "vtt": "media/sub-women-v29pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:00",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-29p",
+    "size": 4731360
+   }
+  },
   "chair": "",
   "chair_role": "",
   "headline": "วางแผนการดำเนินงานของคณะอนุกรรมาธิการในระยะต่อไป",
