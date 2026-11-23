@@ -24,7 +24,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=H2CxywKR4UjWyJJLrMA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/transport/2569/media/sub-ridehail-v3.mp4",
+    "poster": "img/poster-sub-ridehail-3.jpg",
+    "vtt": "media/sub-ridehail-v3.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:39",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "ridehail-3",
+    "size": 8780456
+   },
+   "videos": [
+    {
+     "src": "/video-2/transport/2569/media/sub-ridehail-v3.mp4",
+     "poster": "img/poster-sub-ridehail-3.jpg",
+     "vtt": "media/sub-ridehail-v3.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:39",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "ridehail-3",
+     "size": 8780456
+    }
+   ]
+  },
   "chair": "นายปราณีต เกรัมย์",
   "chair_key": "pranit",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
