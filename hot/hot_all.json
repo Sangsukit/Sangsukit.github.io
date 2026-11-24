@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:21:43Z",
+ "updated": "2026-11-24T13:57:59Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
@@ -17,8 +17,8 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 3,
-   "count": 6,
+   "outlets": 2,
+   "count": 5,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -32,66 +32,28 @@
    },
    "items": [
     {
-     "title": "ภาวะตลาดสินค้าโภคภัณฑ์ CBOT: สินค้าเกษตรปิดบวกทั้งกระดาน รับดีมานด์กากถั่วเหลือง-หวั่นอุปทานข้าวสาลีสะดุด",
-     "url": "https://www.infoquest.co.th/2026/684303",
-     "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-24T01:53:45Z"
-    },
-    {
-     "title": "ทุเรียนไทยส่งออกจีนพุ่ง 30% ทะลุ 4.6 พันล้านดอลลาร์ พิธีสารใหม่ลดเสี่ยงถูกกักด่าน",
-     "url": "https://www.prachachat.net/economic/news-2100838",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-23T08:57:13Z"
-    },
-    {
-     "title": "สอน.เร่งปั้น “แปลงต้นแบบอ้อยสีเขียว” ใช้นวัตกรรมฟื้นดิน ลดต้นทุน เพิ่มกำไรชาวไร่",
-     "url": "https://www.matichon.co.th/economy/news_5986285",
+     "title": "สุริยะ สั่งด่วนตั้ง ‘มิสเตอร์ลำไย’ รับมือลำไยนอกฤดู 4.8 แสนตัน เร่งส่งออก-ระบายผลผลิต",
+     "url": "https://www.matichon.co.th/economy/news_5988066",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-23T01:46:06Z"
-    }
-   ]
-  },
-  {
-   "id": "labour",
-   "th": "แรงงาน",
-   "en": "Labour",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/labour",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
-    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
-    "alt_en": "A car assembly line"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 31,
-    "date": "2026-11-19",
-    "url": "labour/2569/#read-31"
-   },
-   "items": [
+     "date": "2026-11-24T09:31:02Z"
+    },
     {
-     "title": "ทักษะแรงงานไทย 2027-2030 จะเปลี่ยนทันไหม",
-     "url": "https://www.prachachat.net/columns/opinion-column-11/news-2097703",
+     "title": "“สุริยะ” สั่งรับมือลำไยนอกฤดู 4.8 แสนตัน ตั้งมิสเตอร์ลำไย เร่งส่งออก-ระบายผลผลิต",
+     "url": "https://www.prachachat.net/economic/news-2101518",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-23T12:20:12Z"
+     "date": "2026-11-24T08:40:12Z"
+    },
+    {
+     "title": "พณ.เร่งระบายลำไย ‘แสนสิริ’ รับซื้อ 1 หมื่นโล แจกลูกบ้าน-ชุมชน ปลื้มอินโดนีเซียเพิ่มออเดอร์",
+     "url": "https://www.matichon.co.th/economy/news_5987814",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T07:24:23Z"
     }
    ]
   },
@@ -110,7 +72,7 @@
     "alt_en": "A border checkpoint building"
    },
    "outlets": 1,
-   "count": 1,
+   "count": 2,
    "body": {
     "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
     "en": "Subcommittee on Holistic Security",
@@ -128,50 +90,272 @@
    },
    "items": [
     {
-     "title": "ชื่นมื่น 2 สมาคมไทย-เมียนมา ประชุมส่งเสริมสัมพันธ์และความร่วมมือ",
-     "url": "https://www.prachachat.net/politics/news-2100819",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-23T08:25:57Z"
+     "title": "CP All to exit 7-Eleven business in Cambodia",
+     "url": "https://www.bangkokpost.com/business/general/3360475/cp-all-to-exit-7eleven-business-in-cambodia",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-24T12:20:00Z"
+    },
+    {
+     "title": "Myanmar man accused of chopping up his wife",
+     "url": "https://www.bangkokpost.com/thailand/general/3360381/myanmar-man-accused-of-chopping-up-his-wife",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-24T05:40:00Z"
     }
    ]
   },
   {
-   "id": "rice",
-   "th": "ข้าวและชาวนา",
-   "en": "Rice and rice farmers",
-   "icon": "cs-agri",
+   "id": "civilservice",
+   "th": "ระบบราชการและข้าราชการ",
+   "en": "Government services and civil servants",
+   "icon": "cs-admin",
    "photo": {
-    "src": "hot/img/rice",
-    "credit": "Eerin25",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
-    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
-    "alt_en": "Green rice paddies with a bamboo walkway"
+    "src": "hot/img/civilservice",
+    "credit": "Per Meistrup",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bangkok-highways-and-airport-train_IMG_9206.jpg",
+    "alt_th": "ภาพมุมสูงของกรุงเทพมหานคร",
+    "alt_en": "Aerial view of Bangkok"
    },
    "outlets": 1,
    "count": 1,
    "body": {
+    "th": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ",
+    "en": "Subcommittee on Public Administration and Civil Service Development",
+    "url": "committee-archive-2569/sub-dev.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 15,
+    "date": "2026-10-28",
+    "url": "committee-archive-2569/sub-dev.html#read-15"
+   },
+   "items": [
+    {
+     "title": "สุชาติฮึ่ม สั่ง ฉก.ควบคุมมลพิษ ลุยตรวจบ่อขยะศรีราชา ปล่อยน้ำเสียลงคลอง-ไร้ใบอนุญาต",
+     "url": "https://www.matichon.co.th/local/news_5988504",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T12:10:51Z"
+    }
+   ]
+  },
+  {
+   "id": "drought",
+   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
+   "en": "Drought and water for farms",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/drought",
+    "credit": "NASA image created by Jesse Allen",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
+    "alt_en": "Satellite image of drought in Southeast Asia"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
+    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
+    "url": "agriculture/2569/sub-water.html"
+   },
+   "parent": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
     "url": "agriculture/2569/"
    },
-   "parent": null,
    "meeting": {
-    "n": 36,
-    "date": "2026-10-26",
-    "url": "agriculture/2569/#read-36"
+    "n": 19,
+    "date": "2026-11-11",
+    "url": "agriculture/2569/sub-water.html#read-19"
    },
    "items": [
     {
-     "title": "ลั่นดีลภาษีสหรัฐฯ ไม่ยอมเสียท่าใคร อนุทินชี้เก็บประโยชน์ทุกเม็ด ‘ชาวนา’โอดข้าวถูก-จี้รัฐพยุง",
-     "url": "https://www.matichon.co.th/economy/news_5984941",
+     "title": "แม่สามแลบ จี้ สุชาติ เร่งหาแหล่งน้ำสำรอง หลังสาละวินปนเปื้อนสารหนู 4 เท่า เจอในร่างกายชาวบ้านด้วย",
+     "url": "https://www.matichon.co.th/region/news_5988269",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-21T23:30:48Z"
+     "date": "2026-11-24T10:30:53Z"
+    }
+   ]
+  },
+  {
+   "id": "livestock",
+   "th": "ปศุสัตว์และประมง",
+   "en": "Livestock and fisheries",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/livestock",
+    "credit": "Love Krittaya",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "alt_th": "วัวกินหญ้าในทุ่งนา",
+    "alt_en": "A cow grazing in a rice field"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
+    "en": "Subcommittee on Livestock and Fisheries Standards",
+    "url": "agriculture/2569/sub-livestock.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "meeting": {
+    "n": 7,
+    "date": "2026-07-15",
+    "url": "agriculture/2569/sub-livestock.html#read-7"
+   },
+   "items": [
+    {
+     "title": "บอร์ดโคนมเคาะนำเข้านมปี’70 กว่า 1.26 แสนตัน เร่งแก้วิกฤตน้ำนมดิบล้นตลาด",
+     "url": "https://www.prachachat.net/economic/news-2101530",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-24T08:42:14Z"
+    }
+   ]
+  },
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
+   "meeting": {
+    "n": 11,
+    "date": "2026-11-12",
+    "url": "committee-archive-2569/sub-disaster.html#read-11"
+   },
+   "items": [
+    {
+     "title": "Thai auto output falls 35% in October due to flood impact",
+     "url": "https://www.bangkokpost.com/business/general/3360419/thai-auto-output-falls-35-in-october-due-to-flood-impact",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-24T07:11:00Z"
+    }
+   ]
+  },
+  {
+   "id": "jobs",
+   "th": "การหางานและแรงงานต่างชาติ",
+   "en": "Jobs and migrant workers",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/jobs",
+    "credit": "Bigcitydata",
+    "lic": "CC BY 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
+    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
+    "alt_en": "Office towers in Silom, Bangkok"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
+    "en": "Subcommittee on Employment and Skills",
+    "url": "labour/2569/sub-employment.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 24,
+    "date": "2026-11-18",
+    "url": "labour/2569/sub-employment.html#read-24"
+   },
+   "items": [
+    {
+     "title": "ภาวะดิสเล็กเซียคืออะไร ? และทำไมบางคนเลือกไม่บอกนายจ้างว่าตนเองมีภาวะนี้",
+     "url": "https://www.bbc.com/thai/articles/c6vg2qle0p3no?at_medium=RSS&at_campaign=rss",
+     "lang": "th",
+     "outlet_th": "บีบีซีไทย",
+     "outlet_en": "BBC News Thai",
+     "date": "2026-11-24T06:53:12Z"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
+   "en": "Cyber and defence industry",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/cyber",
+    "credit": "Christopher Bowns",
+    "lic": "CC BY-SA 2.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
+    "alt_en": "An aisle between server racks in a data centre"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
+    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
+    "url": "military/2569/sub-cyber.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 26,
+    "date": "2026-11-18",
+    "url": "military/2569/sub-cyber.html#read-26"
+   },
+   "items": [
+    {
+     "title": "ภัยไซเบอร์",
+     "url": "https://www.matichon.co.th/bullet-news-today/news_5986618",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T05:03:11Z"
     }
    ]
   }
