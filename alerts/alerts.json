@@ -73,6 +73,30 @@
    "published": "2026-11-22T20:46:32Z"
   },
   {
+   "id": "s417-water-2569-5-video_pre",
+   "topic": "s417-water",
+   "kind": "video_pre",
+   "n": 5,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 26 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การลักลอบทิ้งกากของเสียอุตสาหกรรม และการนำเข้าขยะพลาสติกและขยะอิเล็กทรอนิกส์โดยผิดกฎหมาย",
+   "page": "https://parliamentx.com/environment/2569/s/v-water-5-pre.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=InFIZl0eTmZsAz3hQ4YoRi3URHTkWxZ37bOU_x4R79ajebW9VUJQO6zpo48FW804a-Bg1U4gRUj4YEh3k_csq2xAmsKC0m1WbHRYQpptiCJsE_fHZQHfTXvkwjzubNVAeI0Kr9ssUibhJL593sZQmaB-lamIjorbWF-KBA==&ref=11236547",
+   "published": "2026-11-24T06:24:16Z"
+  },
+  {
+   "id": "s417-water-2569-5-pre",
+   "topic": "s417-water",
+   "kind": "pre",
+   "n": 5,
+   "year": 2569,
+   "date_th": "พฤหัสบดีที่ 26 พฤศจิกายน 2569 เวลา 09.30 น.",
+   "title": "การลักลอบทิ้งกากของเสียอุตสาหกรรม และการนำเข้าขยะพลาสติกและขยะอิเล็กทรอนิกส์โดยผิดกฎหมาย",
+   "page": "https://parliamentx.com/environment/2569/s/water-5.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=InFIZl0eTmZsAz3hQ4YoRi3URHTkWxZ37bOU_x4R79ajebW9VUJQO6zpo48FW804a-Bg1U4gRUj4YEh3k_csq2xAmsKC0m1WbHRYQpptiCJsE_fHZQHfTXvkwjzubNVAeI0Kr9ssUibhJL593sZQmaB-lamIjorbWF-KBA==&ref=11236547",
+   "published": "2026-11-24T06:24:16Z"
+  },
+  {
    "id": "s414-disaster-2569-12-video_pre",
    "topic": "s414-disaster",
    "kind": "video_pre",
