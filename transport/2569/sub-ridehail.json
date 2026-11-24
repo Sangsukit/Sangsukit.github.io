@@ -14,7 +14,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TfbyYuOMjfHKnITvKCA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/transport/2569/media/sub-ridehail-v4pre.mp4",
+    "poster": "img/poster-sub-ridehail-4pre.jpg",
+    "vtt": "media/sub-ridehail-v4pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:55",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "ridehail-4p",
+    "size": 4542665
+   },
+   "videos": [
+    {
+     "src": "/video-2/transport/2569/media/sub-ridehail-v4pre.mp4",
+     "poster": "img/poster-sub-ridehail-4pre.jpg",
+     "vtt": "media/sub-ridehail-v4pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:55",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "ridehail-4p",
+     "size": 4542665
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "แผนพัฒนา ควบคุม และติดตามการให้บริการรถรับจ้างผ่านแอปพลิเคชัน",
