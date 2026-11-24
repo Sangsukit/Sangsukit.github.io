@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:57:59Z",
+ "updated": "2026-11-24T23:57:29Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
@@ -17,8 +17,8 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 2,
-   "count": 5,
+   "outlets": 3,
+   "count": 6,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -31,6 +31,14 @@
     "url": "agriculture/2569/#read-40"
    },
    "items": [
+    {
+     "title": "ระดมเจ้าหน้าที่-เรือลุยเก็บกระทงตลอดคืน เร่งคัดแยกวัสดุธรรมชาติส่งแปรรูปเป็นปุ๋ย",
+     "url": "https://www.dailynews.co.th/news/6387546/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-24T17:15:00Z"
+    },
     {
      "title": "สุริยะ สั่งด่วนตั้ง ‘มิสเตอร์ลำไย’ รับมือลำไยนอกฤดู 4.8 แสนตัน เร่งส่งออก-ระบายผลผลิต",
      "url": "https://www.matichon.co.th/economy/news_5988066",
@@ -46,14 +54,56 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-24T08:40:12Z"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
+   "en": "Cyber and defence industry",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/cyber",
+    "credit": "Christopher Bowns",
+    "lic": "CC BY-SA 2.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
+    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
+    "alt_en": "An aisle between server racks in a data centre"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
+    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
+    "url": "military/2569/sub-cyber.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 26,
+    "date": "2026-11-18",
+    "url": "military/2569/sub-cyber.html#read-26"
+   },
+   "items": [
+    {
+     "title": "AI cyber-attacks raise security concerns",
+     "url": "https://www.bangkokpost.com/business/general/3360654/ai-cyberattacks-raise-security-concerns",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-24T22:53:00Z"
     },
     {
-     "title": "พณ.เร่งระบายลำไย ‘แสนสิริ’ รับซื้อ 1 หมื่นโล แจกลูกบ้าน-ชุมชน ปลื้มอินโดนีเซียเพิ่มออเดอร์",
-     "url": "https://www.matichon.co.th/economy/news_5987814",
+     "title": "ภัยไซเบอร์",
+     "url": "https://www.matichon.co.th/bullet-news-today/news_5986618",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-24T07:24:23Z"
+     "date": "2026-11-24T05:03:11Z"
     }
    ]
   },
@@ -90,20 +140,20 @@
    },
    "items": [
     {
-     "title": "CP All to exit 7-Eleven business in Cambodia",
-     "url": "https://www.bangkokpost.com/business/general/3360475/cp-all-to-exit-7eleven-business-in-cambodia",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-24T12:20:00Z"
+     "title": "‘3ชาติ’ ผนึกแก้สารพิษแม่น้ำ จีนหนุนไทย-เมียนมาสู้ ‘ยศชนัน’ ชงปิดเหมือง 6ด. กห.จ่อห้ามส่งออก ‘เคมี’ ผวา 10 สัตว์น้ำปนเปื้อน",
+     "url": "https://www.matichon.co.th/politics/news_5988624",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T23:00:03Z"
     },
     {
-     "title": "Myanmar man accused of chopping up his wife",
-     "url": "https://www.bangkokpost.com/thailand/general/3360381/myanmar-man-accused-of-chopping-up-his-wife",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-24T05:40:00Z"
+     "title": "AIS Sport Academy จับมือ สิงห์ เชียงราย จัด LANNA DREAM ให้เยาวชนชายแดนภาคเหนือ",
+     "url": "https://www.matichon.co.th/sport/footballlocal/news_5988214",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T15:05:02Z"
     }
    ]
   },
@@ -146,48 +196,6 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-24T12:10:51Z"
-    }
-   ]
-  },
-  {
-   "id": "drought",
-   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
-   "en": "Drought and water for farms",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/drought",
-    "credit": "NASA image created by Jesse Allen",
-    "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
-    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
-    "alt_en": "Satellite image of drought in Southeast Asia"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
-    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
-    "url": "agriculture/2569/sub-water.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "meeting": {
-    "n": 19,
-    "date": "2026-11-11",
-    "url": "agriculture/2569/sub-water.html#read-19"
-   },
-   "items": [
-    {
-     "title": "แม่สามแลบ จี้ สุชาติ เร่งหาแหล่งน้ำสำรอง หลังสาละวินปนเปื้อนสารหนู 4 เท่า เจอในร่างกายชาวบ้านด้วย",
-     "url": "https://www.matichon.co.th/region/news_5988269",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-24T10:30:53Z"
     }
    ]
   },
