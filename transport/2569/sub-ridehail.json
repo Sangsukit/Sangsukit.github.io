@@ -1,5 +1,71 @@
 [
  {
+  "n": 4,
+  "date": "2026-11-25",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 432 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KnFIaRGE3KLb3so8gxEG6IXEc6aannuWgAt4dcu8sCXAIptBHLM9kEizI9PRGWMReDPCAbWQcwW6uiQpFMgymDvPU4c9ZQSHl1IPUQMvNxxiD3UDjrPdTMHx5Maou3Y5J11cANPQRe_GUAUq6zkvg3Wu5u90sizpYJsYUQ==&ref=11243929"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TfbyYuOMjfHKnITvKCA"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/transport/2569/media/sub-ridehail-v4pre.mp4",
+    "poster": "img/poster-sub-ridehail-4pre.jpg",
+    "vtt": "media/sub-ridehail-v4pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:55",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "ridehail-4p",
+    "size": 4542665
+   },
+   "videos": [
+    {
+     "src": "/video-2/transport/2569/media/sub-ridehail-v4pre.mp4",
+     "poster": "img/poster-sub-ridehail-4pre.jpg",
+     "vtt": "media/sub-ridehail-v4pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:55",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "ridehail-4p",
+     "size": 4542665
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "แผนพัฒนา ควบคุม และติดตามการให้บริการรถรับจ้างผ่านแอปพลิเคชัน",
+  "summary": "นัดประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 10.00 น. ห้องประชุมกรรมาธิการ CA 432 ชั้น 4 อาคารรัฐสภา แทนการประชุมวันพุธที่ 18 พฤศจิกายน 2569 ซึ่งงดไป วาระคือการพิจารณาแผนงานการพัฒนา การควบคุม และการติดตามการให้บริการรถรับจ้างสาธารณะผ่านระบบแอปพลิเคชัน โดยเชิญผู้บริหารของผู้ให้บริการแพลตฟอร์มเรียกรถเข้าร่วมประชุม ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "แผนงานการพัฒนา การควบคุม และการติดตามการให้บริการรถรับจ้างสาธารณะผ่านระบบแอปพลิเคชัน",
+    "วาระที่ 3",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "รถรับจ้างผ่านแอป",
+   "แพลตฟอร์ม",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 432 ชั้น 4 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 3,
   "date": "2026-11-12",
   "time": "10.00",

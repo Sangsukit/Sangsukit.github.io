@@ -1,5 +1,18 @@
 [
  {
+  "n": 5,
+  "date": "2026-11-26",
+  "cancelled": true,
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=p2jaXi23JxxcSkQ4ZKaU6IbnZdKHeZ-OzQXcHwdoZJ3hmf4vjQIwSTeTJ-Upq2slmwduID0CNE_ivXPYt9a75qzcEZ0q7VnXKcJwv7z_rf1xX2GMlgZFAAjvLLorTUpvhkw1Je6vaxdtLxceW37ScHlJq-gYsGXiTYfuEw==&ref=11244958"
+   }
+  ],
+  "time": "",
+  "room": ""
+ },
+ {
   "n": 4,
   "date": "2026-11-19",
   "time": "13.30",

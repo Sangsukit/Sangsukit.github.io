@@ -7,12 +7,15 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kSAGwPbSyXv0JoBOh5JD4JPKI37p8iMSCa9VqKjCveFWbkn3iRHjVH33oXwJaP4ddZL81xOI61nMJwCD4qGGC4lprUTmd-PEpxNxnHWQYutUzd2T9oHKn_RxFpO38afk_FPPfusprDznoblZKKwWxAvjJ8goFXWAyfenMQ==&ref=11216957",
-    "size": 145481
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Vy7GUt77pfmOsBdlhk2ogp4IUaz00dot3SKvtETPaBo5_hEebyVU9ZR5Oid_j7jnrw2R2kzCmL4I67zGSasUYHAC3q16HwttqQSPwQZU8qiCGiXZAYY6yjNOeTXEQwcsMtdCZQHOkqz1Hui9nz_0cljsm57nVhVvr99o3Q==&ref=11216957"
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vMBRftuY3yKQfDZ3I5xy-wyS6mJT-6_WqNudNXBaGJBVMLrA6-iUdeeIXnkgs189i37U__eLAWcKarwBytz4JRkzhFdI5hJTdF-MvmQnM-nnDLuyUGQiPvIKxMp6zPlES1hryuxd_ajuFW1aKpk4g4yAaKfCGez9BFHXXQ==&ref=11244188"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=rLYYrlysKVracbJFYJI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=isK_aFYphrCiByENb_E"
    }
   ],
   "media": {
@@ -22,10 +25,10 @@
     "vtt": "media/v27pre.th.vtt",
     "kind": "pre",
     "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:33",
+    "dur": "2:53",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
     "ck": "27p",
-    "size": 6112929
+    "size": 6768660
    },
    "videos": [
     {
@@ -34,10 +37,10 @@
      "vtt": "media/v27pre.th.vtt",
      "kind": "pre",
      "label": "วิดีโอก่อนการประชุม",
-     "dur": "2:33",
+     "dur": "2:53",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "27p",
-     "size": 6112929
+     "size": 6768660
     }
    ]
   },
@@ -45,7 +48,7 @@
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
   "headline": "สายการบินขนาดเล็ก และแนวคิดการลงทุนโครงการเมืองใหม่คลองไทย",
-  "summary": "การประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CB 411 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาศึกษาแนวทางส่งเสริมสายการบินขนาดเล็กเพื่อเชื่อมโยงโครงข่ายการคมนาคมทางอากาศ และการพิจารณาข้อเสนอแนวคิดเกี่ยวกับรูปแบบการลงทุนในโครงการเมืองใหม่คลองไทย โดยเชิญผู้แทนคณะกรรมาธิการการเศรษฐกิจ การเงิน และการคลัง วุฒิสภา เข้าร่วมประชุม สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "summary": "การประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CB 411 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุมและระเบียบวาระการประชุม วาระคือการพิจารณาศึกษาแนวทางส่งเสริมสายการบินขนาดเล็กเพื่อเชื่อมโยงโครงข่ายการคมนาคมทางอากาศ โดยรับฟังข้อมูลจากสำนักงานนโยบายและแผนการขนส่งและจราจร (สนข.) และสำนักงานการบินพลเรือนแห่งประเทศไทย (กพท.) และการพิจารณาข้อเสนอแนวคิดเกี่ยวกับรูปแบบการลงทุนในโครงการเมืองใหม่คลองไทย โดยเชิญผู้แทนคณะกรรมาธิการการเศรษฐกิจ การเงิน และการคลัง วุฒิสภา เข้าร่วมประชุม นอกจากนี้มีรายงานความคืบหน้าการพิจารณาร่างพระราชบัญญัติที่มีผู้แทนของคณะกรรมาธิการร่วมพิจารณา และเรื่องร้องเรียน เช่น ข้อเสนอให้คงเที่ยวบินเส้นทางดอนเมือง–น่าน สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
   "items": [
    [
     "แนวทางส่งเสริมสายการบินขนาดเล็กเพื่อเชื่อมโยงโครงข่ายการคมนาคมทางอากาศ",
@@ -56,6 +59,16 @@
     "ข้อเสนอแนวคิดเกี่ยวกับรูปแบบการลงทุนในโครงการเมืองใหม่คลองไทย (เชิญคณะกรรมาธิการการเศรษฐกิจ การเงิน และการคลัง วุฒิสภา)",
     "วาระที่ 3.2",
     "other"
+   ],
+   [
+    "รายงานความคืบหน้าการพิจารณาร่างพระราชบัญญัติที่มีผู้แทนของคณะกรรมาธิการร่วมพิจารณา เช่น ร่างพระราชบัญญัติการเดินเรือในน่านน้ำไทย",
+    "วาระที่ 3.3",
+    "bill"
+   ],
+   [
+    "เรื่องร้องเรียน: จุดกลับรถบนทางหลวงหมายเลข 403 จังหวัดตรัง และข้อเสนอให้คงเที่ยวบินเส้นทางดอนเมือง–น่าน",
+    "วาระที่ 3.4",
+    "complaint"
    ]
   ],
   "tags": [
