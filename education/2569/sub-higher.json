@@ -1,33 +1,126 @@
 [
  {
-  "n": 40,
-  "date": "2026-11-17",
-  "time": "09.30",
-  "room": "ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา",
+  "n": 41,
+  "date": "2026-11-23",
+  "time": "10.30",
+  "room": "ห้องประชุม 301 ชั้น 3 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Ta6bh7wz9Uil_SfrhIpykfyj8DLGXjumv4biDoCPBxbcxazlsHZ7R9xPZuJAsgUNxvjoYENTV6XahKbCtGv-9zGiQXdV62URxuOLLmkd609oBbmepl1i80DG3BSwu12VJRBBRdn-OWX7tnBiQ0tRaer8RBtCNrkYtsj1BA==&ref=11165666",
-    "size": 98701
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xrdgO4JxaJl8jLhtKFgofg4hBOsWti-er7_crUXndlO5vMxBu-spO8EF_nvfGJUMGF_x9TretQxXj-k38f8qXoS3J5ViS4L1tFFtkKbq-6IiOTR7Z9J6qzE6FzyY4oeK1FPBi-KwZUmPIXyIUiMhWlLsJ3AFn239F-FxsA==&ref=11205183",
+    "size": 79298
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=aeUB4D0EDvxVVOfeLQpWiYLl1WtxZ6oOQQutHTv9WhQNdYQGst-5h2ePchq5xHods3nblLxKMWFKLUCWoOQkS9br3A0ooPAojptDFYw_s7vRd8N39EJMUrUp7QL2tkdPblCMWIThDqennS43RtBDPylfCUTePwdmw68EBg==&ref=11216527",
+    "size": 79301
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zqcLlM8p58Fs6lpYtT0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=-N80LEDSM85OXDgStdE"
+   }
+  ],
+  "chair": "",
+  "chair_role": "",
+  "headline": "ผลกระทบของปัญญาประดิษฐ์ (AI) ต่อการอุดมศึกษา",
+  "summary": "นัดประชุมวันจันทร์ที่ 23 พฤศจิกายน 2569 เวลา 10.30 น. ห้องประชุม 301 ชั้น 3 อาคารรัฐสภา และผ่านสื่ออิเล็กทรอนิกส์ วาระคือการพิจารณาศึกษาเรื่อง “ผลกระทบของปัญญาประดิษฐ์ (AI) ต่อการอุดมศึกษา” โดยเชิญผู้แทนสำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม (สป.อว.) สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.) และสถาบันอุดมศึกษาเข้าร่วมประชุม ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "พิจารณาศึกษาเรื่อง ผลกระทบของปัญญาประดิษฐ์ (AI) ต่อการอุดมศึกษา (สป.อว. สวทช. และสถาบันอุดมศึกษา)",
+    "วาระที่ 3",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "ปัญญาประดิษฐ์ (AI)",
+   "อุดมศึกษา",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุม 301 ชั้น 3 อาคารรัฐสภา"
+  },
+  "media": {
+   "video": {
+    "src": "/video-2/education/2569/media/sub-higher-v41pre.mp4",
+    "poster": "img/poster-sub-higher-41pre.jpg",
+    "vtt": "media/sub-higher-v41pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:33",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "higher-41p",
+    "size": 6015619
+   },
+   "videos": [
+    {
+     "src": "/video-2/education/2569/media/sub-higher-v41pre.mp4",
+     "poster": "img/poster-sub-higher-41pre.jpg",
+     "vtt": "media/sub-higher-v41pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:33",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "higher-41p",
+     "size": 6015619
+    }
+   ]
+  }
+ },
+ {
+  "n": 40,
+  "date": "2026-11-17",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DERvD2B-nPnouO4lFRZ4x9kFpQYQfrIVyKpDTBsrfTFNyXuHsymEfHuo-ktuILvgsvududk-qlKPFtaZrd8U0Jfen4fR23HXJFLYe256gJ-siEWwfohjJ1lzpJ8wUdr9JnInoq00maOCxfD30RLw4rJTAYuEPfi9DMLmgw==&ref=11165666",
+    "size": 98701
+   },
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0TezXPS5qxuZR9pJp9uu6JtvM3eomgr5GbPPqMyaYg5ZKKbxRjnC6UMB_llGJ0mGScxC10CUIlp9sXvYaQothjHQnzIolQHFzgAEIuEA_XmfH3DPDdJgvdqDiBAP9G1FOnDvMgE08J8uBw9PrRB3S90oPLVwwhzrbVJWyA==&ref=11216617",
+    "size": 98705
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=mUL7JxYrpiBlKJHc6IS-1fVVd1jOnzj12KDXKtAlRfyQFlGi8QMpXlJuv28M7RoZWKdNKG11oMm32b6IOQPwWjHy4prduBqr31Nw3ZVO96hDpRPPVw81OfcjkIqJRMZdVHfIUcgvCQ_yBBEig683QLBVNUtndsCPRfPthg==&ref=11216622",
+    "size": 586852
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Lse774szDV7kjYsbDTA"
    }
   ],
   "media": {
    "video": {
-    "src": "/video-1/education/2569/media/sub-higher-v40pre.mp4",
-    "poster": "img/poster-sub-higher-40pre.jpg",
-    "vtt": "media/sub-higher-v40pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:18",
+    "src": "/video-2/education/2569/media/sub-higher-v40.mp4",
+    "poster": "img/poster-sub-higher-40.jpg",
+    "vtt": "media/sub-higher-v40.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:50",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "higher-40p",
-    "size": 5473740
+    "ck": "higher-40",
+    "size": 6435777
    },
    "videos": [
+    {
+     "src": "/video-2/education/2569/media/sub-higher-v40.mp4",
+     "poster": "img/poster-sub-higher-40.jpg",
+     "vtt": "media/sub-higher-v40.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:50",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "higher-40",
+     "size": 6435777
+    },
     {
      "src": "/video-1/education/2569/media/sub-higher-v40pre.mp4",
      "poster": "img/poster-sub-higher-40pre.jpg",
@@ -41,29 +134,33 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "แนวทางการดำเนินงานของคณะอนุกรรมาธิการ",
-  "summary": "นัดประชุมวันอังคารที่ 17 พฤศจิกายน 2569 เวลา 09.30 น. ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา และผ่านสื่ออิเล็กทรอนิกส์ วาระคือการพิจารณาแนวทางการดำเนินงานของคณะอนุกรรมาธิการ ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "chair": "นายอมรศักดิ์ กิจธนานันท์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "กรอบประเด็นศึกษาปีงบประมาณ พ.ศ. 2570 และร่างกำหนดการศึกษาดูงานจังหวัดชลบุรี",
+  "summary": "ที่ประชุมพิจารณาประเด็นที่คณะอนุกรรมาธิการจะศึกษาในปีงบประมาณ พ.ศ. 2570 จำนวน 7 ประเด็น ได้แก่ 1) ความเหลื่อมล้ำในการเข้าถึงอุดมศึกษาของผู้เรียนกลุ่มด้อยโอกาส ผู้พิการ และผู้ขาดแคลนทุนทรัพย์ โดยเสนอให้มีกลไกสนับสนุนสถาบันอุดมศึกษาในท้องถิ่นและวิทยาลัยชุมชนอย่างเป็นระบบ 2) การบริหารจัดการและธรรมาภิบาลในสถาบันอุดมศึกษาหลังการเปลี่ยนเป็นมหาวิทยาลัยในกำกับของรัฐ เช่น กระบวนการสรรหาผู้บริหาร ความโปร่งใสในการใช้งบประมาณ และการพิจารณาตำแหน่งทางวิชาการที่ใช้เวลานาน โดยเสนอให้ศึกษาผลของการเปลี่ยนสถานภาพ ทบทวนกลไกจัดสรรงบประมาณให้คำนึงถึงความจำเป็นและความคุ้มค่า และส่งเสริมการหารือร่วมกันในที่ประชุมอธิการบดี 3) การพัฒนาระบบการเรียนรู้ตลอดชีวิต ให้สถาบันอุดมศึกษาเป็นศูนย์กลางการเรียนรู้สำหรับทุกช่วงวัย (Upskill และ Reskill) 4) การสร้างความเชี่ยวชาญเฉพาะทางของสถาบันอุดมศึกษาและลดการเปิดหลักสูตรซ้ำซ้อน โดยใช้การจัดสรรงบประมาณเชิงยุทธศาสตร์ 5) การพัฒนากำลังคนด้าน STEM โดยสร้างแรงจูงใจตั้งแต่ระดับมัธยมศึกษาและร่วมมือกับภาคอุตสาหกรรม 6) การส่งเสริมผู้ประกอบการวิสาหกิจเริ่มต้น (Start-Up) ให้สถาบันอุดมศึกษาเป็นศูนย์บ่มเพาะธุรกิจ และมีกลไกทางกฎหมายให้ร่วมลงทุนกับภาคเอกชนได้คล่องตัวขึ้น และ 7) ผลกระทบของปัญญาประดิษฐ์ (AI) ต่อการอุดมศึกษา นอกจากนี้ ที่ประชุมพิจารณาร่างกำหนดการศึกษาดูงานและสัมมนาที่จังหวัดชลบุรี ซึ่งรวมถึงการเยี่ยมชมสถาบันอุดมศึกษาในพื้นที่ และการจัดสัมมนาเพื่อรับฟังความคิดเห็นจากภาครัฐ ท้องถิ่น และภาคเอกชน เกี่ยวกับผลการพิจารณาศึกษาของคณะอนุกรรมาธิการ",
   "items": [
    [
-    "แนวทางการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 3",
+    "ประเด็นศึกษาปีงบประมาณ พ.ศ. 2570 (7 ประเด็น): ความเหลื่อมล้ำในการเข้าถึงอุดมศึกษา ธรรมาภิบาลในสถาบันอุดมศึกษา การเรียนรู้ตลอดชีวิต ความเชี่ยวชาญเฉพาะทาง กำลังคนด้าน STEM ผู้ประกอบการ Start-Up และผลกระทบของ AI",
+    "พิจารณา",
     "sub"
+   ],
+   [
+    "ร่างกำหนดการศึกษาดูงานและสัมมนา จังหวัดชลบุรี",
+    "พิจารณา",
+    "visit"
    ]
   ],
   "tags": [
    "อุดมศึกษา",
-   "วาระการประชุม"
+   "ธรรมาภิบาล",
+   "STEM",
+   "ปัญญาประดิษฐ์ (AI)"
   ],
-  "places": [],
-  "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุม 202 ชั้น 2 อาคารรัฐสภา"
-  }
+  "places": [
+   "ชลบุรี"
+  ],
+  "upcoming": false,
+  "chair_key": "amornsak"
  },
  {
   "n": 39,
@@ -73,26 +170,26 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vufvnorp7NlgT0my5GOzGHBW0YSLDWxOmmD7e2DC5LEH1d2rWXUebXN-SLCe3n1Y12hAEIRJOvHtImO9wh9-GOnSvozu6FjprdGPCiMuykdS3V8xdJAR8ktSTHWwOVom8baWv3Gu2S3TBWXa3wDLWisalSSeqLnkGIfggw==&ref=11108659",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KnT7rv0iNqb3bY7Ne-IIUu7oy5AVWqjKKyIcOTW7ROJxv-2jjbMSvWhzApNg6UnMN8IqO5mWSZJg3QtvYjUmJnnzORV9KsHSlV13A_SRLoaxUGmX-98W0UvaGq9f9jae4t6XGFURbapELFwW1e6UL7xK79sHN4N7vqk4Iw==&ref=11108659",
     "size": 99650
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=u84yN_56iBbftap0ZZAbPYifw5qXgq4sw21ZSAcBNHhV3PtG7EEsjK076Ncmi7iZ4gi6wPhB6Xnq5zYgt6m2E_terqfs4SQONcL63hafJy0LQrbbM6UD2tScNSKnZ4NjrKsk5TTIqmwnfSLiM0_SMDbKPtTVVx40tbnplQ==&ref=11127154",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=V79-oUOoq8GvLK7QwLnMHpGlRlTo0uyakg6Xp9nd9hh2qZAivyudMpl42jLyh1qZO9tOe07uPi3LJNLxXvdOud6cRsMwn20i1-uFVNQaQ3_3j81JC20bFzugxuLqm-dE6OoylvbUeiK7AlbNa8tOL1dIbR0IgrGAXazZPQ==&ref=11127154",
     "size": 99650
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kdpfJJeSSis8Io48hv7vvslirEw4TpQrAP4aP9BmexP_eFD3yCeB_x696j29xZ2_yhPhSj7Siu_2RFUv1tCZXqN3AlMvg7by3BNU2WYcWcwVm5WmfXijCbIgKu3VPmGbUxoUwsUMtKx9_HqulDQJCWT_5Wbkruhxl3h1yg==&ref=11185157"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=WgHE5IDvZA4BRXlbSVlFTOAjV2AVHvwUS6ubyqRkTbs8qQWwsqa74jFQk9cpzpO2FvNSGhsZaa1blQU9DV1Ouw4sb0Pts6IyDxXgO9kuKpC6xs-2122nRk--CslLj_fxJmhFwYiKXU0PmtGX6NAq91S0FYAI2e4wo29RFg==&ref=11185157"
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=AOMBtHG46hcHaLbMhLvylZNWw-AWYYD5raVBc3yz6eYNA1XpcaKQWZNeInvNVHQLJlVzfDto8qo-GFnsD8YJePUatcEqnK3Pvdnm141qUichv6V6bMZV-iVtF69-86og-bi6fTrY7ec276OxXj5IVymVOjOqoxUTCNsexg==&ref=11185162",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wAchRM9vl8-KUeTDNvYIa9eyr-ZMohpTO61H8Zb1hqZtBGHLZBvRx5iDMAjEI25mxcNgxrJnpBAU6XwguZ_wUGQyZBhGwwQ3wmi7_gWdhrgMSshUdn12kRDz5iR5Eei6LNik11UkT0h3hoPbbr6b8ea1rmaYW7X9MGL6KQ==&ref=11185162",
     "size": 596077
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Zf-Yecr1YKzW9eiLchI"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fcIubpUsKWOVVwhh__I"
    }
   ],
   "media": {
@@ -121,15 +218,36 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 39/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายอมรศักดิ์ กิจธนานันท์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ติดตามผลรายงานพัฒนาบัณฑิตให้ตรงตลาดแรงงาน และประเด็นศึกษาปีงบประมาณ 2570",
+  "summary": "ที่ประชุมพิจารณา 3 เรื่อง เรื่องแรกคือการติดตามผลรายงานการพิจารณาศึกษา เรื่อง ข้อเสนอแนะเชิงนโยบายการพัฒนาบัณฑิตให้มีความรู้ สมรรถนะและคุณธรรม ตรงตามความต้องการของตลาดแรงงาน ซึ่งคณะรัฐมนตรีมีมติรับทราบผลการพิจารณาเมื่อวันที่ 22 กันยายน พ.ศ. 2568 หน่วยงานที่เกี่ยวข้องเห็นด้วยในหลักการ เช่น หลักสูตรฐานสมรรถนะ ระบบคลังหน่วยกิต การศึกษาเชิงบูรณาการกับการทำงาน (CWIE) และมาตรการ Thailand Plus Package ที่ให้หักลดหย่อนภาษีได้ 2.5 เท่า เรื่องที่สองคือประเด็นสำคัญที่จะศึกษาในปีงบประมาณ พ.ศ. 2570 เช่น ความเท่าเทียมในการเข้าถึงการศึกษา การปฏิรูปธรรมาภิบาลมหาวิทยาลัย การเรียนรู้ตลอดชีวิต การพัฒนากำลังคนด้าน STEM และการฝึกปฏิบัติงานเข้มข้น 8 เดือนในภาคการศึกษาสุดท้ายของชั้นปีที่ 4 เรื่องที่สามคือประเด็นสวัสดิภาพของพนักงานมหาวิทยาลัยที่คณะกรรมาธิการมอบหมายให้พิจารณา เช่น การเตรียมความพร้อมรองรับการเกษียณ และเงินสมทบกองทุนสำรองเลี้ยงชีพ ที่ประชุมเห็นควรให้จัดทำรายงานในประเด็นสำคัญตามแผนการดำเนินงานปีงบประมาณ พ.ศ. 2570 ที่กำหนดไว้แล้วก่อน",
+  "items": [
+   [
+    "ติดตามผลรายงานการพิจารณาศึกษา เรื่อง ข้อเสนอแนะเชิงนโยบายการพัฒนาบัณฑิตให้ตรงตามความต้องการของตลาดแรงงาน (คณะรัฐมนตรีรับทราบ 22 กันยายน 2568)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ประเด็นสำคัญและแผนการศึกษาดูงาน ปีงบประมาณ พ.ศ. 2570: การเข้าถึงการศึกษา ธรรมาภิบาลมหาวิทยาลัย การเรียนรู้ตลอดชีวิต กำลังคนด้าน STEM และ CWIE",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ประเด็นสวัสดิภาพและการบริหารทรัพยากรบุคคลของพนักงานมหาวิทยาลัย (คณะกรรมาธิการมอบหมาย)",
+    "เห็นควร",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "บัณฑิต",
+   "ตลาดแรงงาน",
+   "CWIE",
+   "พนักงานมหาวิทยาลัย"
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "amornsak"
  },
  {
   "n": 39,
@@ -167,22 +285,22 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tSWO6mY0EG9ZJEJzyvq0QHxDLXSMsLkZRVlr1B3uQR300voHHybxekHqITSiVUlCh5wOX9oCdXiEtHO7EQjXsucXwk1j64pixADUppBUSXH_L4nEqqVkgnauAXOZs11IE3dKng76hLPahz8wVg0_l067bmszAKduFvhOOw==&ref=11049812",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cdLdDvPdBkB-2s1bcWHGRIvw5VwX1AIIPAXyswIDinnbAz6h5k12s25xN8YQwdws7HX5YP3lYuxWrNl_7yWRQV4x0LJd5dvgYMXS3Ew1rbjrVxDhQoWDjxDnPCdWJYnm9PVyjnCExThfzZVAYWhQWyEKi8Iht8m9HIYJFQ==&ref=11049812",
     "size": 79072
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Tsn8NgFNWNXloMXKo2CNSlsNbnXnuTCeeaxWpMZqQzRAjOvfRJRV8nyHg_qQSbxTt-Q-MRVvOk1f1WdZLYVc8Q8iAEObD9j8mkfiy2XVe49-Kmo4pqdYettL8KGJtiUQi7Ix67ZkR1c5JPkZkA0k_0dsjYptUg7xeA1fzA==&ref=11049866",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CnK97fhhnWQgjqCec4jOJoBdRYOWnKHm36QeQQVTybo6dEZ9Hxvib2r_pZGj4cigmG-Lq_w9lam2MYAapmK1W7f-MIp7-q1Oe38lv9nKKJ95A_rOrmWI-Vuqw3Zexf8gSHZx3A0onQmHrLKGX1WiAwfGizithoYvoIAhGA==&ref=11049866",
     "size": 79072
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yI1PAMYnHWqK-XsFrlESPlEFnlTGJYqu_MvxZisVarefiAGoCEQl8OBY5RYHpfxFouoR_ICLuMoB6wzFF5kLJhjRvZ06YtBOsmvlV7ZV4WZ-TNJ5LJ1fkca1pR5zEB_sDglhy8x-QR5KdbEYNESAJ2EHzgeGqn2yciDkKA==&ref=11118325",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=L4OiOYA3ZJt0H9e5Ej_t6Tdpps7NG_o4hYS377u-xY_xT8XaH8ngQUIP8359ZUQR4N24MXug7DGDWX76gc4cVLUeSv11WNCYM-lZxxuoKwJ5BwKuGeMLklk5YAmZwYSfFdASQGopBNHft2v4OowxCJr38f0NQikulE3WiA==&ref=11118325",
     "size": 835574
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ahj-FRxZ9un5aavcv-Q"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=l-qBDAeOOvC4Y-s8NpU"
    }
   ],
   "media": {
@@ -211,15 +329,41 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 38/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายอมรศักดิ์ กิจธนานันท์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ระบบข้อมูลวิจัยและนวัตกรรมแห่งชาติ กับการกำหนดโจทย์วิจัยและลดความซ้ำซ้อน",
+  "summary": "ที่ประชุมพิจารณาระบบข้อมูลสารสนเทศวิจัยและนวัตกรรมแห่งชาติ และแนวทางใช้ฐานข้อมูลการวิจัยเพื่อกำหนดโจทย์วิจัย ลดความซ้ำซ้อน และสนับสนุนมหาวิทยาลัยให้มีความเชี่ยวชาญเฉพาะทาง โดยเชิญสำนักงานคณะกรรมการส่งเสริมวิทยาศาสตร์ วิจัยและนวัตกรรม (สกสว.) และสำนักงานการวิจัยแห่งชาติ (วช.) มาให้ข้อมูล สกสว. ให้ข้อมูลว่า งบประมาณกองทุนส่งเสริม ววน. แบ่งเป็น 3 กรอบ คือ งบสนับสนุนงานมูลฐาน ร้อยละ 32 ซึ่งจัดสรรตรงไปยังมหาวิทยาลัยประมาณ 200 แห่งและหน่วยงานวิจัย งบสนับสนุนงานเชิงกลยุทธ์ ร้อยละ 64 ซึ่งจัดสรรผ่านหน่วยบริหารและจัดการทุน และงบโครงการพัฒนาวิทยาศาสตร์และเทคโนโลยี ร้อยละ 4 แผน ววน. ปัจจุบัน (พ.ศ. 2566–2570) มี 4 ยุทธศาสตร์ และ 15 แผนงานสำคัญ ส่วนแผนฉบับที่ 4 (พ.ศ. 2571–2575) อยู่ระหว่างรับฟังความคิดเห็น วช. ให้ข้อมูลเรื่องระบบ NRIIS ซึ่งเป็นศูนย์กลางข้อมูลด้านการวิจัย ตั้งแต่การเสนอโครงการจนถึงการจัดเก็บผลงาน และการสร้างความเข้าใจเรื่องกฎหมายคุ้มครองข้อมูลส่วนบุคคล ที่ประชุมมีข้อเสนอ เช่น เปิดเผยข้อมูลทั่วไปต่อสาธารณะและจำกัดสิทธิ์ข้อมูลเชิงลึก รวมงบประมาณเพื่อพัฒนาโมเดลภาษาไทยขนาดใหญ่ (Thai LLM) ส่งเสริมแนวคิด One Research One Product และให้กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม เป็นหน่วยงานหลักประสานให้ข้อมูลโครงการวิจัยทั้งหมดเข้าสู่ฐานข้อมูลกลางของประเทศ",
+  "items": [
+   [
+    "ระบบข้อมูลสารสนเทศวิจัยและนวัตกรรมแห่งชาติ และการใช้ฐานข้อมูลการวิจัยเพื่อกำหนดโจทย์วิจัยและลดความซ้ำซ้อน",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "การจัดสรรงบประมาณกองทุนส่งเสริม ววน. 3 กรอบ และแผน ววน. พ.ศ. 2566–2570 (สกสว.)",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "ระบบ NRIIS การบริหารจัดการข้อมูลการวิจัย และสิทธิในผลงานวิจัยตามพระราชบัญญัติส่งเสริมการใช้ประโยชน์ผลงานวิจัยและนวัตกรรม พ.ศ. 2564 (วช.)",
+    "รับฟังข้อมูล",
+    "law"
+   ],
+   [
+    "ข้อเสนอ: เปิดเผยข้อมูลทั่วไปและจำกัดสิทธิ์ข้อมูลเชิงลึก พัฒนา Thai LLM ส่งเสริม One Research One Product และให้มีหน่วยงานหลักรวบรวมข้อมูลวิจัยเข้าฐานข้อมูลกลาง",
+    "พิจารณา",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "งานวิจัย",
+   "นวัตกรรม",
+   "ปัญญาประดิษฐ์ (AI)",
+   "สกสว."
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "amornsak"
  },
  {
   "n": 37,
@@ -229,22 +373,22 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vCYV67I3zeTIma9B79XXNFbVJA4ogVrAJMpumdqAzTC5ZobP8TSiBxWuIpENITiP9pjJ-NGOrUpCaDlBiFPNkJtYt7vT5-F1T8V3C5wwWVlO_yE7sWECX9_MJjvFzDbxOYl7rb5F9bxiLo4DNT4IonowKtV6YrFizgdxrg==&ref=10981109",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kpdihtc6CtTotZ7G4QRqMF2vUuoGXL-3iRrlUao3_Y3qs-x0UnA6-zmdnTbCIMDd8qAVOP28laCkOal_kB9aMQJ3F6idBv-moTdhbkoSt3pbdmHH0ewcEgFFkHw7tMA9nvSGHEiaydYCotcxs34QE4J-gXyl4Z0XLpozKw==&ref=10981109",
     "size": 258192
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bXJS-jYOhBjaU1wMac9gCUJDwcqytU_qphV6KIdTzKzzTflboq37cZzLao_BNiF8-U8EcKvao3tBjJXE2LqJIz2FTIWGT7LCosjXBOo5HBo8eqw_24C4ZdluUGmOuLM6O5rL_vIh9zQxrePg_LesQex0-rvzPB57-v7XmQ==&ref=11041126",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=oEZGA2NS1hWklrkk83AfCbVL6xxpryLXTp7drg8D96cqRZwd4KUqnioE2DUEuD5wwHr7y3K-2jNiEw9lBWPFt2LTmBaLkRn8XROCKnqNCtKDd5QahwsMPFG6FsVCT2Zz8EuIHdbf-z40CHwVJ3T4OcjNAqbH5qTYGyQEbw==&ref=11041126",
     "size": 258192
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pwsWnZctYMgjp-HBxA9p_ilBl2iPgX-lkOW2Vx0k7HiYcq1XdlTFIRJL2eGMKAveo9Gs3pomaNbyDkgmBcYPStW-1DHnKs8DiTALoe3VWj9kHLKWi1tkMTQNKMgb_KTpovae7Sq7t9s3B7tlBbdfzl5FpdS22CfOJYYePg==&ref=11041138",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=vDK0eX1YflPQuFrLVDTHWUMExokMgiM738c1u30yoG-at7dzi-NPKV5bae_Us9C7eZCssaUNLAm6xfQs77mQmJAuZLdq3Z6NRVnHBpx2DrQgh1p2r-TzWqqWI3v6wakZzutoOOzPVeay3CNWfOEACV5lNboixRMeQhclEA==&ref=11041138",
     "size": 788259
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=B8LZsDmgyMmWhOPPqno"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=-mrHg4Ntz8qACdRWuMc"
    }
   ],
   "media": {
@@ -273,15 +417,36 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 37/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายอมรศักดิ์ กิจธนานันท์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "แนวทางความร่วมมือด้านการอุดมศึกษากับมหาวิทยาลัยในสหราชอาณาจักร",
+  "summary": "ที่ประชุมพิจารณาแนวทางความร่วมมือด้านการอุดมศึกษาระหว่างประเทศ โดยประชุมร่วมกับผู้แทนมหาวิทยาลัยจากสหราชอาณาจักร และผู้แทนกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม ฝ่ายมหาวิทยาลัยนำเสนอตัวอย่างรูปแบบความร่วมมือ เช่น การจัดการศึกษาข้ามพรมแดน (Transnational Education) การเรียนปริญญาเอกสำหรับอาจารย์และนักวิจัยไทยโดยไม่ต้องพำนักในต่างประเทศตลอดเวลา และการสร้างเครือข่ายศิษย์เก่า ที่ประชุมหารือแนวทางความร่วมมือด้านการเรียนรู้ตลอดชีวิต เช่น หลักสูตรออนไลน์สำหรับผู้ทำงานที่เชื่อมกับระบบธนาคารหน่วยกิตของไทยในสาขาเศรษฐกิจชีวภาพ เศรษฐกิจหมุนเวียน และเศรษฐกิจสีเขียว (BCG) ปัญญาประดิษฐ์ พลังงานสะอาด และวิทยาศาสตร์สุขภาพ ความร่วมมือกับหน่วยงานไทย เช่น สถาบันวิจัยดาราศาสตร์แห่งชาติ และพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ รวมทั้งข้อเสนอเรื่องทุนการศึกษาสำหรับนักศึกษาไทยในระดับปริญญาตรี ปริญญาโท ปริญญาเอก และการเรียนทางไกล",
+  "items": [
+   [
+    "แนวทางความร่วมมือด้านการอุดมศึกษาระหว่างประเทศไทยกับมหาวิทยาลัยในสหราชอาณาจักร (ร่วมกับกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "รูปแบบความร่วมมือ: การศึกษาข้ามพรมแดน ปริญญาเอกแบบไม่ต้องพำนักตลอดเวลา เครือข่ายศิษย์เก่า และหลักสูตรออนไลน์ที่เชื่อมกับธนาคารหน่วยกิต",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "ข้อเสนอเรื่องทุนการศึกษาสำหรับนักศึกษาไทย และความร่วมมือกับสถาบันวิจัยดาราศาสตร์แห่งชาติและพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ",
+    "รับฟังข้อมูล",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "อุดมศึกษา",
+   "นานาชาติ",
+   "สหราชอาณาจักร",
+   "การเรียนรู้ตลอดชีวิต"
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "amornsak"
  },
  {
   "n": 36,
@@ -291,32 +456,32 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JQGdRAXMLcVKXz7c7zU2-892cav4rZni9UnAGG3Zmp7kmAEOikyYsB8q1xVd4WCPjygUeoyomyCWWniP7UYnI5bchoYglm4yRhWORT6aXbIJRwKOXcJtq0P98oQ7xVd82SwYclLWpkthPQCDm16jLJpC7GVAqroXUuW5Cw==&ref=10879521",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Oe_Jp2942WaxwRcrJb35LBBAR3HQfnD390C4Q3j87R29whL_vCJ8uuGycH3hwgdJevNd8hQjIjydRmEulbMdegGJYpL4aytplNQIfIBZF7h6AtGQ3CcgwbUyTjkn1lxpvExafQu0N6Dpx2OlG_gaaczALIZak6HgCHhsQg==&ref=10879521",
     "size": 79019
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=NEOLhPxpDe_6EiYQOV7l2aaOg25Myg6IfAKw44zOizVH3kFfmolyz93Sl-4-O1Na62BuUSasW7ZcLoLiE5lvvn-hzJ2JLm-0beTz0B2PAtUXUnVaTgKJ4eEyZ7M84HWEyfF4dCjgJXhB03rjlhv4JpI5hzwELJ_rS_52KQ==&ref=10889013",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=x4-bQ0zu0Vk0CRamz4mPXCwqRSqQ2quoao0lkw35PTq-Qoz4T9e-bb0b1HTlceHKfRB0LHxS5x30p9K2wNiqcbmw9Q3j-d6YXbhMaaTSlHhvICwm_l9RDXjfrNseEUL-mT6djrd9R2ADNCaVHz1UBmaVZCuRJGp2aYVosA==&ref=10889013",
     "size": 79019
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=H1HsUzxhCJSpmE1Wh_3YzAWUSQ1dR01rsg6683rFnqEa9wCQrkgVsjT7dMv0uY9Kuodg1ZPAjBY4LqWdIjW0ZQiALDpryLpJ9Eha-EjBKoMWGrA3VQvQIi7QqTZL_wfuUksFwCoW5sP6Nwsk2q0LqFfDhi8oP28HYYXlmA==&ref=10904762",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=xs5lqFtPRXAe4Yip0Q-MKUS26NLTfBfW8QVqyBTa9sAHdfETsZboUef6ybGleOy4E6xcAeBnWju6Iw5Dml0EWufWiT0WLZ3Tc5BAEEGuRPhtlmOBGAqYM9L-EmsduLrcQZfT5zcjgFjPKn1wr2Lix0fWr7tNfZ9SxX03kw==&ref=10904762",
     "size": 79019
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=S4crjzX85K7oRrTlGYEvecSGeQ9QfSIgVByUyb-3MDwmMTIdetCj6N-nu-GuPDozILh0si56Uf7mheJe0dIgK8CDHeWv6iuyA7rg3oaw-xFtC_4F3n48j0xAaXOXHpfcPaSk_e_LM4sMBy7WQGYBzhB1ZpxyppkjS1fupQ==&ref=10932340",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1DhabIClm5VeXXvIbE6IZtES_zhZ-zoeyGDtJCLvlDtWtSS692Y2PKafQG4iuvk9DL_VURpjwTzrdybpynd66dXa6f1RdaQoOaUPpT9WAmj2NO2kHDdcO0s38C-fzQHnG_HTFrQP7U2K5enZhg5MGTBpSU6h09aVi8axsA==&ref=10932340",
     "size": 79019
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=-z8sET-n-7z9A5CjTL72VsamVVTYFsmgo3U0MR6giWZsTylz4KqBxOaEfKOhEzBox76Srl2-XzesLq2JujeZrnyDbmaJ7vtuerEWlJUkAr9EGtSv424FYQO2llrMbOLbqHQvahxvsmn6O-6b5_rqe_uqaM7iSbCgEs67VA==&ref=10980837",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=B0V6GpTI_QRv9KjkLtAHczusxpuhTtWWM2SNDdbkUY8hZM76LJI69IlHS6L58IJ5M5XyqmOjH_FBHx0ZfBd5DWnOVkxaJPfVtvIsqCZw1BXtQ0nrCPDIfU14qozZaeqliAow3k8o77e3IEB71iXtZy1ZdUubBsINFCczRA==&ref=10980837",
     "size": 691516
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=j_Aw9jAlR7lS5M-uI-o"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=XqmiFfinlrxtQuHpJLE"
    }
   ],
   "media": {
@@ -345,15 +510,36 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "การประชุมครั้งที่ 36/2569",
-  "summary": "เปิดอ่านสรุปผลการประชุมฉบับทางการของวุฒิสภาได้จากหน้ารายละเอียด",
-  "items": [],
-  "tags": [],
+  "chair": "นายอมรศักดิ์ กิจธนานันท์",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ลดความเหลื่อมล้ำในการเข้าถึงอุดมศึกษา การเรียนรู้ตลอดชีวิต และกำลังคนด้าน STEM",
+  "summary": "ที่ประชุมพิจารณาแนวนโยบายการลดความเหลื่อมล้ำ สร้างความเสมอภาคในการเข้าถึงการอุดมศึกษา และการพัฒนากำลังคนด้านวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ และคณิตศาสตร์ (STEM) โดยเชิญกองยกระดับคุณภาพการจัดการศึกษาระดับอุดมศึกษา และกองส่งเสริมและพัฒนากำลังคน สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม มาให้ข้อมูล หน่วยงานให้ข้อมูลเรื่องระบบคลังหน่วยกิตกลางระดับอุดมศึกษา (National Credit Bank) ที่ให้ผู้เรียนทุกช่วงวัยสะสมหน่วยกิตได้ตลอดชีวิต และเทียบโอนผลการเรียนรู้จากการอบรมหรือประสบการณ์ทำงาน คาดว่าระบบจะแล้วเสร็จในปี พ.ศ. 2571 ส่วนด้านความเสมอภาค มีทุนการศึกษาสำหรับผู้ขาดแคลนทุนทรัพย์และผู้อยู่ในพื้นที่ห่างไกล และเงินอุดหนุนสำหรับนักศึกษาพิการ ในปีงบประมาณ พ.ศ. 2569 มีผู้รับทุน 8,678 คน และมีการอุดหนุนค่าสมัครสอบคัดเลือกกลาง (TCAS) ด้านกำลังคน ความต้องการกำลังคนในช่วงปี พ.ศ. 2568–2572 สูงที่สุดในงานการบินและโลจิสติกส์ และอยู่ระหว่างจัดทำร่างแผนด้านการอุดมศึกษาเพื่อผลิตและพัฒนากำลังคนของประเทศ พ.ศ. 2571–2575",
+  "items": [
+   [
+    "การสร้างความเสมอภาคและการเรียนรู้ตลอดชีวิตในระดับอุดมศึกษา: ระบบคลังหน่วยกิตกลาง (National Credit Bank) และการเทียบโอนผลการเรียนรู้",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "การลดความเหลื่อมล้ำในการเข้าถึงการอุดมศึกษา: ทุนการศึกษา เงินอุดหนุนนักศึกษาพิการ และค่าสมัคร TCAS",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "การพัฒนากำลังคนด้าน STEM และร่างแผนด้านการอุดมศึกษาเพื่อผลิตและพัฒนากำลังคนของประเทศ พ.ศ. 2571–2575",
+    "รับฟังข้อมูล",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "อุดมศึกษา",
+   "ความเหลื่อมล้ำ",
+   "การเรียนรู้ตลอดชีวิต",
+   "STEM"
+  ],
   "places": [],
-  "pending": true,
-  "upcoming": false
+  "upcoming": false,
+  "chair_key": "amornsak"
  },
  {
   "n": 36,

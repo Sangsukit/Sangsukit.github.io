@@ -1,5 +1,91 @@
 [
  {
+  "n": 32,
+  "date": "2026-11-24",
+  "time": "14.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=jyUJof-qyEVtHcWEQEg1-d-860I6Oy9r7q9ZHP4okITEMN41oHcExxZHoN0wmfVvqnWzt01djy46fqOl4NFioQB5REv4uRJTdrcLULDhlspYFZIdrZeqywV9PWBGuEVlWMYhCllyTD1Kt2q7eg__qhR0pwmu6KKJbz-04w==&ref=11225702",
+    "size": 179531
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=y2pbT80OYmZyWQqsPWKEthAfWGHH9b0qbPaQpRTDTTS8VP02gWzgIggXriZRg1zmx7CrC8AwTnxbpwfuZquzy2STfpNZgOOfTHfq2MZ-FO71ABPVqqPCSkj3mFlibbkp8l-M-beDSnx67VrUxd411wzkicLpETWX5jShcg==&ref=11236468"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ECVaCSxkx4a5IWY7VpA"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/military/2569/media/v32pre.mp4",
+    "poster": "img/poster32pre.jpg",
+    "vtt": "media/v32pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:34",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "32p",
+    "size": 6388240
+   },
+   "videos": [
+    {
+     "src": "/video-2/military/2569/media/v32pre.mp4",
+     "poster": "img/poster32pre.jpg",
+     "vtt": "media/v32pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:34",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "32p",
+     "size": 6388240
+    }
+   ]
+  },
+  "chair": "นายสมบูรณ์ หนูนวล",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "ประชุมด่วน: กรอบการศึกษาการแก้ไขปัญหาความไม่สงบชายแดนใต้แบบองค์รวม และติดตามงานคณะอนุกรรมาธิการ",
+  "summary": "การประชุม (นัดเป็นเรื่องด่วน) วันอังคารที่ 24 พฤศจิกายน 2569 เวลา 14.30 น. ห้องประชุม 301 ชั้น 3 (ฝั่งวุฒิสภา) อาคารรัฐสภา ตามหนังสือนัดประชุม วาระสำคัญคือกรอบแนวทางการพิจารณาศึกษาการแก้ไขปัญหาความไม่สงบในพื้นที่จังหวัดชายแดนภาคใต้ เพื่อยกระดับการพัฒนาคุณภาพในทุกมิติแบบองค์รวม นอกจากนี้มีการติดตามงานของคณะอนุกรรมาธิการ รายงานผลการศึกษาดูงานจังหวัดสงขลาและจังหวัดปัตตานี (30–31 ต.ค. 2569) ร่างรายงานสรุปผลการดำเนินงานประจำปีงบประมาณ 2569 และการแต่งตั้งที่ปรึกษากิตติมศักดิ์ ประจำปีงบประมาณ 2570 (เพิ่มเติม)",
+  "items": [
+   [
+    "กรอบแนวทางการพิจารณาศึกษาการแก้ไขปัญหาความไม่สงบในจังหวัดชายแดนภาคใต้ เพื่อยกระดับการพัฒนาคุณภาพในทุกมิติแบบองค์รวม",
+    "วาระที่ 3.1",
+    "other"
+   ],
+   [
+    "ติดตามงาน รายงานผล และขออนุมัติการดำเนินงานของคณะอนุกรรมาธิการทั้ง 3 คณะ",
+    "วาระที่ 3.2",
+    "sub"
+   ],
+   [
+    "รายงานผลการศึกษาดูงานเรื่องการฟื้นฟูเยียวยาในจังหวัดชายแดนภาคใต้ (สงขลา ปัตตานี 30–31 ต.ค. 2569)",
+    "วาระที่ 3.3",
+    "visit"
+   ],
+   [
+    "ร่างรายงานสรุปผลการดำเนินงานของคณะกรรมาธิการ ปีงบประมาณ 2569",
+    "วาระที่ 3.4",
+    "other"
+   ],
+   [
+    "แต่งตั้งที่ปรึกษากิตติมศักดิ์คณะกรรมาธิการ ปีงบประมาณ 2570 (เพิ่มเติม)",
+    "วาระที่ 3.5",
+    "appoint"
+   ]
+  ],
+  "tags": [
+   "ชายแดนใต้",
+   "ความมั่นคงแบบองค์รวม",
+   "รายงานประจำปี",
+   "วาระการประชุม"
+  ],
+  "places": []
+ },
+ {
   "n": 31,
   "date": "2026-11-19",
   "time": "09.00",
@@ -9,6 +95,10 @@
     "k": "notice",
     "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tDtaW1llhIFftPYQ6tqpNZM3RQ2-WWed9b3XYP4md9cc5pK-JRph7CG7nywbjwudVa3oY9CJRTVVVvCDIuJ7ikESB8-5qAT7dAec_mvXudWtlRB8jAjVpy7q6_mZCJgihUdkrgjMw2i5WR4GsxfNTQ2S2fialAeeGPQloQ==&ref=11175760",
     "size": 192912
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hujlPwxZkjGY8Y2iV5c8Y4QO-uzlr-kWJB7OtuZnRG_xNbWEeE-tVIcbcUzHamMoShatobabUajwO56H687GGAqb7SDZ51O5PbJpx3sEAE-RhVDAIQdp381EPOJZPpDLZU23mjNkxPC6tbDK2UXfQ5Denn0oqPqqXjcjEg==&ref=11207571"
    },
    {
     "k": "agenda",
