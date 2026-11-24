@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:15:00Z",
+ "updated": "2026-11-24T02:21:43Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
@@ -17,8 +17,8 @@
     "alt_th": "สวนยางพาราเรียงเป็นแถว",
     "alt_en": "Rows of rubber trees in a plantation"
    },
-   "outlets": 2,
-   "count": 7,
+   "outlets": 3,
+   "count": 6,
    "body": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
     "en": "Committee on Agriculture and Cooperatives",
@@ -26,11 +26,19 @@
    },
    "parent": null,
    "meeting": {
-    "n": 39,
-    "date": "2026-11-16",
-    "url": "agriculture/2569/#read-39"
+    "n": 40,
+    "date": "2026-11-23",
+    "url": "agriculture/2569/#read-40"
    },
    "items": [
+    {
+     "title": "ภาวะตลาดสินค้าโภคภัณฑ์ CBOT: สินค้าเกษตรปิดบวกทั้งกระดาน รับดีมานด์กากถั่วเหลือง-หวั่นอุปทานข้าวสาลีสะดุด",
+     "url": "https://www.infoquest.co.th/2026/684303",
+     "lang": "th",
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-24T01:53:45Z"
+    },
     {
      "title": "ทุเรียนไทยส่งออกจีนพุ่ง 30% ทะลุ 4.6 พันล้านดอลลาร์ พิธีสารใหม่ลดเสี่ยงถูกกักด่าน",
      "url": "https://www.prachachat.net/economic/news-2100838",
@@ -46,14 +54,6 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-23T01:46:06Z"
-    },
-    {
-     "title": "เปิดเส้นทางใหม่ผลไม้ไทยบุกจีน ท่าเรือโขงโต 16 เท่า เร่งสปีดด่านบก-ดันลำไยส่งออก 2 แสนตัน",
-     "url": "https://www.prachachat.net/economic/news-2100656",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-23T05:28:05Z"
     }
    ]
   },
@@ -96,90 +96,6 @@
    ]
   },
   {
-   "id": "socialsec",
-   "th": "ประกันสังคม",
-   "en": "Social security",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/socialsec",
-    "credit": "SquidHomme",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
-    "alt_th": "ป้ายกระทรวงแรงงาน",
-    "alt_en": "The Ministry of Labour sign"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
-    "en": "Subcommittee on Social Security",
-    "url": "labour/2569/sub-socialsec.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "labour/2569/sub-socialsec.html#read-20"
-   },
-   "items": [
-    {
-     "title": "‘จุลพันธ์’ นำทีมประกันสังคมลุยเกตเวย์ซิตี้ ช่วยผู้ประกันตน 500 คน ฟื้นฟูสุขภาพ-เยียวยาหลังน้ำลด",
-     "url": "https://www.matichon.co.th/local/quality-life/news_5986905",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-23T10:20:33Z"
-    }
-   ]
-  },
-  {
-   "id": "armed",
-   "th": "กองทัพและกิจการทหาร",
-   "en": "Armed forces and military affairs",
-   "icon": "cs-security",
-   "photo": {
-    "src": "hot/img/armed",
-    "credit": "Mobius1TH",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Royal_Thai_Air_Force_S-70i,_Childrens_Day_2025.png",
-    "alt_th": "เฮลิคอปเตอร์ของกองทัพอากาศไทยจอดบนลานบิน",
-    "alt_en": "A Thai air force helicopter on the apron"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านกิจการทหาร",
-    "en": "Subcommittee on Military Affairs",
-    "url": "military/2569/sub-military.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
-   "meeting": {
-    "n": 28,
-    "date": "2026-10-21",
-    "url": "military/2569/sub-military.html#read-28"
-   },
-   "items": [
-    {
-     "title": "กลาโหม ตั้ง 4 อนุกรรมการ สกัดชิ้นส่วนประกอบปืน ลุยคุมยุทธภัณฑ์หลุดบัญชี",
-     "url": "https://www.matichon.co.th/politics/news_5986828",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-23T09:22:54Z"
-    }
-   ]
-  },
-  {
    "id": "border",
    "th": "ชายแดนและความมั่นคง",
    "en": "Borders and security",
@@ -218,6 +134,44 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-23T08:25:57Z"
+    }
+   ]
+  },
+  {
+   "id": "rice",
+   "th": "ข้าวและชาวนา",
+   "en": "Rice and rice farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/rice",
+    "credit": "Eerin25",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
+    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
+    "alt_en": "Green rice paddies with a bamboo walkway"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 36,
+    "date": "2026-10-26",
+    "url": "agriculture/2569/#read-36"
+   },
+   "items": [
+    {
+     "title": "ลั่นดีลภาษีสหรัฐฯ ไม่ยอมเสียท่าใคร อนุทินชี้เก็บประโยชน์ทุกเม็ด ‘ชาวนา’โอดข้าวถูก-จี้รัฐพยุง",
+     "url": "https://www.matichon.co.th/economy/news_5984941",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-21T23:30:48Z"
     }
    ]
   }
