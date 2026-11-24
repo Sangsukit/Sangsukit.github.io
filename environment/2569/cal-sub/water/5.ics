@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:environment-2569-water-m5@sangsukit.github.io
-DTSTAMP:20261123T115802Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
+DTSTAMP:20261124T055854Z
+DTSTART:20261126T023000Z
+DTEND:20261126T053000Z
 SUMMARY:ประชุมคณะอนุกรรมาธิกา
  รการบริหารจัดการน้ำทั้งร
  ะบบ มลพิษและสิ่งแวดล้อม (ว
  ุฒิสภา) ครั้งที่ 5/2569
-LOCATION:
+LOCATION:ห้องประชุมกรรมาธิการ CA 
+ 331 ชั้น 3 อาคารรัฐสภา (สัปปาย
+ ะสภาสถาน 1111 ถนนสามเสน เขตด
+ ุสิต กรุงเทพมหานคร)
 DESCRIPTION:นัดประชุมตามหนังสือน
  ัดประชุมที่วุฒิสภาเผยแพร
  ่ ใส่ปฏิทินเพื่อติดตามเท
