@@ -72,7 +72,8 @@
     m: ["การประชุม", "Meetings"], v: ["วิดีโอ", "Videos"], c: ["คณะกรรมาธิการ", "Committees"], p: ["สมาชิกวุฒิสภา", "Senators"], t: ["หัวข้อ", "Topics"], doc: ["มีเอกสารทางการ", "With official document"]
   };
   var DOC = { summary: ["สรุปผลการประชุม (ฉบับทางการ)", "Official meeting summary"], notice: ["หนังสือนัดประชุม", "Meeting notice"], minutes: ["บันทึกการประชุม", "Meeting minutes"], agenda: ["ระเบียบวาระ", "Agenda"], doc: ["เอกสารประกอบ", "Supporting document"], brief: ["เอกสารผู้ชี้แจง", "Briefing document"] };
-  var FIELD = [["ชื่อเรื่อง", "title"], ["คำสำคัญ", "keywords"], ["วาระการประชุม", "agenda items"], ["สรุปผล", "summary"], ["ชื่อบุคคล", "names"], ["ชื่อคณะ", "committee name"], ["คำบรรยายวิดีโอ", "video narration"], ["", ""]];
+  var XDOC = [["สรุปผลการประชุม", "Meeting summary"], ["บันทึกการประชุม", "Minutes"], ["เอกสารประกอบ", "Supporting document"], ["เอกสารผู้ชี้แจง", "Briefing document"]];
+  var FIELD = [["ชื่อเรื่อง", "title"], ["คำสำคัญ", "keywords"], ["วาระการประชุม", "agenda items"], ["สรุปผล", "summary"], ["ชื่อบุคคล", "names"], ["ชื่อคณะ", "committee name"], ["คำบรรยายวิดีโอ", "video narration"], ["", ""], ["เอกสารต้นฉบับ (PDF)", "official PDF"]];
   var today = eng.today;
 
   /* ---------- highlight + excerpt ---------- */
@@ -144,8 +145,18 @@
       if (iHit >= 0 && sHit < 0) ex += '<p class="ex"><span class="lab">' + esc(!en && items[iHit] && items[iHit][1] ? items[iHit][1] : L("วาระ", "Agenda item")) + ":</span> " + mark(cut(itemsT[iHit], firstHit(itemsT[iHit]), 150)) + "</p>";
     }
     var where = [];
-    FIELD.forEach(function (f, i) { if (f[0] && (mask & (1 << i)) && i !== 5) where.push(L(f[0], f[1])); });
+    FIELD.forEach(function (f, i) { if (f[0] && (mask & (1 << i)) && i !== 5 && i !== 8) where.push(L(f[0], f[1])); });
     var mi = where.length ? '<p class="mi">' + esc(L("พบคำค้นใน: ", "Found in: ") + where.join(L(" · ", ", "))) + "</p>" : "";
+    var xf = "";
+    if (c.xf && c.xf.length) {
+      // the Senate's own file: show where the words are (page), and quote only from the official summary
+      var sumQ = c.xf.filter(function (f) { return f.k === 0 && f.s && firstHit(f.s) >= 0; })[0];
+      if (sumQ && (c.ph || !ex)) ex = '<p class="ex"><span class="lab">' + esc(L("จากสรุปผลการประชุมฉบับทางการ:", "From the official summary:")) + "</span> " + mark(cut(sumQ.s, firstHit(sumQ.s), 180)) + "</p>";
+      xf = '<p class="xf">' + ic("i-doc") + "<span>" + esc(L("พบคำค้นในเอกสารต้นฉบับ:", "Found in the official file:")) + "</span> " + c.xf.map(function (f) {
+        var nm = XDOC[f.k] || XDOC[2];
+        return '<a href="' + esc(safeUrl(f.u) + (f.np > 1 && f.pg > 1 ? "#page=" + f.pg : "")) + '" target="_blank" rel="noopener">' + esc(L(nm[0], nm[1])) + (f.np > 1 ? esc(L(" หน้า " + f.pg, ", page " + f.pg)) : "") + ic("i-ext") + "</a>";
+      }).join(" · ") + "</p>";
+    }
     var tags = (en ? c.tge || c.tg : c.tg) || [];
     var tg = tags.length ? '<div class="tg">' + tags.slice(0, 5).map(function (x, i) { return '<button type="button" data-q="' + esc((c.tg || [])[i] || x) + '">' + mark(x) + "</button>"; }).join("") + "</div>" : "";
     var act = '<div class="act">';
@@ -157,7 +168,7 @@
     });
     if (c.du0) act += '<a class="btn ghost" href="' + esc(safeUrl(c.du0)) + '" target="_blank" rel="noopener">' + ic("i-ext") + esc(L((DOC[c.dk0] || DOC.doc)[0], (DOC[c.dk0] || DOC.doc)[1])) + "</a>";
     act += "</div>";
-    return '<li class="card">' + kind + '<h3><a href="' + esc(safeUrl(c.u || "#")) + '">' + mark(t) + "</a></h3>" + meta + ex + mi + tg + act + "</li>";
+    return '<li class="card">' + kind + '<h3><a href="' + esc(safeUrl(c.u || "#")) + '">' + mark(t) + "</a></h3>" + meta + ex + mi + xf + tg + act + "</li>";
   }
   function video(c) {
     var en = lang === "en";
@@ -256,7 +267,8 @@
       "<li>" + esc(L("วาระการประชุม คำสำคัญ ชื่อประธาน และคำแปลภาษาอังกฤษของสรุปแต่ละครั้ง", "Agenda items, keywords, chairs and the English translation of each summary")) + "</li>" +
       "<li>" + esc(L("คำบรรยายในวิดีโอ " + (ct.videos || 0) + " เรื่อง", "Narration of " + (ct.videos || 0) + " videos")) + "</li>" +
       "<li>" + esc(L("คณะกรรมาธิการ " + ct.committees + " คณะ คณะอนุกรรมาธิการ " + ct.subcommittees + " คณะ และสมาชิกวุฒิสภา " + ct.senators + " ท่าน", ct.committees + " committees, " + ct.subcommittees + " subcommittees and " + ct.senators + " senators")) + "</li></ul>" +
-      "<p><b>" + esc(L("ยังไม่ได้ค้นข้อความภายในไฟล์ PDF ของสำนักงานเลขาธิการวุฒิสภา", "The text inside the Senate Secretariat's PDF files is not searched yet.")) + "</b> " + esc(L("หากไม่พบ โปรดเปิดเอกสารทางการของการประชุมนั้นโดยตรง", "If you cannot find something, please open that meeting's official document.")) + "</p>" +
+      (m.x && m.x.N ? "<p>" + esc(L("ค้นข้อความภายในไฟล์ PDF ทางการที่เปิดเผยต่อสาธารณะด้วย " + m.x.N.toLocaleString() + " ไฟล์ (บันทึกการประชุม เอกสารประกอบ และสรุปผลของการประชุมที่ยังไม่มีสรุปอ่านง่าย)", "Also searches the text of " + m.x.N.toLocaleString() + " public official PDF files (minutes, supporting documents, and the summaries of meetings without an easy-read summary)")) + "</p><p><b>" + esc(L("ไฟล์ที่เป็นภาพสแกน " + ((m.x.stats || {}).scanned || 0).toLocaleString() + " ไฟล์ ยังค้นข้อความภายในไม่ได้", ((m.x.stats || {}).scanned || 0).toLocaleString() + " scanned files have no text to search yet.")) + "</b> " + esc(L("ข้อความจากไฟล์ PDF อาจคลาดเคลื่อนบางคำ โปรดตรวจกับเอกสารต้นฉบับเสมอ", "Text read from PDF files can contain small errors; please always check the original file.")) + "</p>"
+        : "<p><b>" + esc(L("ยังไม่ได้ค้นข้อความภายในไฟล์ PDF ของสำนักงานเลขาธิการวุฒิสภา", "The text inside the Senate Secretariat's PDF files is not searched yet.")) + "</b> " + esc(L("หากไม่พบ โปรดเปิดเอกสารทางการของการประชุมนั้นโดยตรง", "If you cannot find something, please open that meeting's official document.")) + "</p>") +
       (built ? "<p>" + esc(L("ปรับปรุงข้อมูลสำหรับค้นหาล่าสุด: ", "Search data last updated: ") + built) + "</p>" : "");
   }
   function skeleton() { $("list").innerHTML = '<li class="skel"></li><li class="skel"></li><li class="skel"></li>'; }
@@ -283,7 +295,7 @@
       shown = 0; $("list").innerHTML = "";
       var bestIds = r.best || [];
       var first = r.ids.slice(0, PAGE);
-      return eng.cards(bestIds.concat(first), lang).then(function (cs) {
+      return eng.cards(bestIds.concat(first), lang, r).then(function (cs) {
         if (my !== seq) return;
         var b = cs.slice(0, bestIds.length).filter(Boolean);
         $("best").innerHTML = b.length ? "<h2>" + esc(L("ตรงกับคำค้นที่สุด", "Best matches")) + "</h2>" + b.map(function (c) { return ent(c); }).join("") : "";
@@ -308,7 +320,7 @@
   }
   $("more").addEventListener("click", function () {
     if (!R) return; var r = R, ids = r.ids.slice(shown, shown + PAGE);
-    eng.cards(ids, lang).then(function (cs) {
+    eng.cards(ids, lang, r).then(function (cs) {
       if (r !== R) return;
       var tmp = document.createElement("ol"); tmp.innerHTML = cs.map(function (c) { return card(c, r); }).join("");
       var firstNew = tmp.firstElementChild;

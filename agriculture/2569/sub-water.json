@@ -1,5 +1,71 @@
 [
  {
+  "n": 21,
+  "date": "2026-11-24",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=JcTDvQTUG_wRH4I4Bxeb89idfcwTcHr8HJxOO5CLsfBmjlJ4BCqmnaBBm18XlqzxaKx1SVvFx_QtPx6c1ojbezWDoJ34mi7EarIjLjmUSI9ykj4WFq9bXStbflJmB0t1_DcvFWAXzaf3KfddW1NbLY2iPLyL-QA8K6PBEw==&ref=11216382"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=uQ8T6gsC4cwVuwHI9Jg"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/sub-water-v21pre.mp4",
+    "poster": "img/poster-sub-water-21pre.jpg",
+    "vtt": "media/sub-water-v21pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:16",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-21p",
+    "size": 5762324
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/sub-water-v21pre.mp4",
+     "poster": "img/poster-sub-water-21pre.jpg",
+     "vtt": "media/sub-water-v21pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:16",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-21p",
+     "size": 5762324
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "พิจารณาร่างรายงานการศึกษาเรื่องน้ำนอกเขตชลประทาน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา",
+  "summary": "ระเบียบวาระ: พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน ฉบับสมบูรณ์ เพื่อเสนอต่อที่ประชุมวุฒิสภา",
+    "พิจารณาตามระเบียบวาระ",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "นอกเขตชลประทาน"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 320 ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 20,
   "date": "2026-11-18",
   "time": "09.30",

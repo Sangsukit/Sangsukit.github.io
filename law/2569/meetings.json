@@ -1,5 +1,27 @@
 [
  {
+  "n": 31,
+  "date": "2026-11-25",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=7XkG917Rs-syxsJZmj0"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 31/2569",
+  "summary": "เปิดอ่านเอกสารต้นฉบับของรัฐสภาได้จากหน้ารายละเอียด",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": true,
+  "upcoming": true
+ },
+ {
   "n": 30,
   "date": "2026-11-18",
   "time": "14.00",
@@ -7,12 +29,24 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ZEkNL9b756pEHrowG7au-KhLSMu2TPXAEBp3edlPuMd0Ofsl96_wh80_XBNcqs7eNUCF4TbpiwVovuVg_pLc-R1B3OdI2G-vkWWRB4hjr3hJo9tVsgmeBLhRifotOe0cr5B9sEGKMkXDqRnvqX2TifXRZMtzcIvv3Bszmw==&ref=11175773",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lkqPS77v9K_8Yff8iwDM1E93jECJhisjnlpFjYtHJFZvbJI1XJID_M_oMje4RfYxLHEAlLqMOk77vSs0BBrE7iwEXyFSkxgyAVyz-mlyf87Eet9nIAq7RY4AMZz5kRaCW4F5c34qJSKDLzVzekz1WwZ7PgoN1-YAt-oNXA==&ref=11215972",
     "size": 158974
    },
    {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Goybsq9zjMe8D2AFi_pi9CEppy4E4c0w130Wx5rDVALN_aLoS6FtqR5-gZci6TYJNIvUFySXE3zX-UR5zJmG8QcHULf1tMEAvXKPLtJ1CRBqoilzGV4WAJnmwjtL-M67oxKK2jMkj7_s8-qwkx64PjfbiVi1TyAvPumCFw==&ref=11216430"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=CyHstUA6GFGkstQGC_ABq7uf4tgXtu3v0xDWji0cmljgtxYFONHoZXTFkbMOV2ElJmIe_vuVvGW6wdlT9XnGr_1Wp6Coed69TOdHBXCs36QYZZ1ofsqVUxCiMqGQrOOMjDFwLc_TpffVHHkjuqfmAhbbtEBmPHg6WJvDNA==&ref=11236372"
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=ep164s0PbogiYQFvIWC4k_EbjXfLTaPkaQzyDylkzh4B_AGh7VCqQSrjoYkqzHpgNimXTOFvDnx7KtdMpmVPTbryppGCqt5w96QNo_Sim-Ez0VmX-MA2cHuv96WL9Nk7jc-EuE0kgvgVGvPgqoFa1zwJ1p5PeIfouDHLpg==&ref=11236379"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=5IRUGj1Cfy0U_DxI_38"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fwRvAGPnmhE9ayscjYE"
    }
   ],
   "media": {
@@ -38,34 +72,57 @@
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "30p",
      "size": 4888814
+    },
+    {
+     "src": "/video-2/law/2569/media/v30.mp4",
+     "poster": "img/poster30.jpg",
+     "vtt": "media/v30.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:25",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "30",
+     "size": 5892814
     }
    ]
   },
   "chair": "พลตำรวจโท บุญจันทร์ นวลสาย",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
-  "headline": "ติดตามงานของคณะอนุกรรมาธิการ เรื่องที่ส่งมาถึงคณะกรรมาธิการและเรื่องร้องเรียนของประชาชน",
-  "summary": "การประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม ระเบียบวาระคือ รับรองบันทึกการประชุมครั้งที่ 29/2569 พิจารณาผลการดำเนินงานของคณะอนุกรรมาธิการ พิจารณาเรื่องที่ประธานวุฒิสภาหรือคณะกรรมาธิการอื่นส่งมา และเรื่องร้องเรียนของประชาชน รวมทั้งเรื่องที่อยู่ในหน้าที่และอำนาจของคณะกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "รับเรื่องร้องเรียน 2 เรื่อง ปัญหาการโอนกรรมสิทธิ์ที่อยู่อาศัยของคู่สมรสชาวต่างชาติ และเชิญหน่วยงานชี้แจงเรื่องการปฏิบัติหน้าที่ของเจ้าหน้าที่ท่าอากาศยาน",
+  "summary": "การประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา พลตำรวจโท บุญจันทร์ นวลสาย ประธานคณะกรรมาธิการ เป็นประธานการประชุม ที่ประชุมรับทราบความคืบหน้าของคณะอนุกรรมาธิการ 3 คณะ (การกฎหมาย · การยุติธรรม · การตำรวจ) และคณะทำงานศึกษาการส่งเสริมการลงทุนจากต่างประเทศที่สุจริตโปร่งใสควบคู่กับมาตรการป้องกันโครงสร้างนอมินี พิจารณาเรื่องร้องเรียนของประชาชน 2 เรื่อง และมีมติรับไว้พิจารณาในเบื้องต้น โดยจะเชิญผู้ร้องเรียนและผู้เกี่ยวข้องมาให้ข้อมูลเพิ่มเติม รับประเด็นปัญหาและอุปสรรคในการโอนกรรมสิทธิ์ที่อยู่อาศัยของคู่สมรสชาวไทยที่สมรสกับชาวต่างชาติไว้พิจารณาในเบื้องต้น และเห็นชอบให้เชิญหน่วยงานที่เกี่ยวข้องมาชี้แจงเรื่องการบังคับใช้กฎหมายและระเบียบเกี่ยวกับการปฏิบัติหน้าที่ของเจ้าหน้าที่ท่าอากาศยานไทย ในวันพุธที่ 25 พฤศจิกายน 2569 นัดประชุมครั้งต่อไปวันพุธที่ 25 พฤศจิกายน 2569 เวลา 13.00 น. ห้องประชุม 401 ชั้น 4 อาคารรัฐสภา",
   "items": [
    [
-    "ผลการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 3.1",
+    "ติดตามงานของคณะอนุกรรมาธิการ 3 คณะ (การกฎหมาย · การยุติธรรม · การตำรวจ) และคณะทำงานด้านการลงทุนจากต่างประเทศกับมาตรการป้องกันโครงสร้างนอมินี",
+    "รับทราบ",
     "sub"
    ],
    [
-    "เรื่องที่ประธานวุฒิสภาหรือคณะกรรมาธิการอื่นส่งมา และเรื่องร้องเรียนของประชาชน",
-    "วาระที่ 3.2",
+    "เรื่องร้องเรียน: ผู้ร้องขอความเป็นธรรม กล่าวอ้างว่าการเพิกถอนหนังสือรับรองการทำประโยชน์ (น.ส. 3 ก.) ที่ผู้ร้องเห็นว่าออกโดยไม่ชอบด้วยกฎหมายเป็นไปอย่างล่าช้า ยังไม่มีข้อวินิจฉัย",
+    "รับไว้พิจารณาเบื้องต้น · เชิญผู้ร้องเรียนและผู้เกี่ยวข้องมาให้ข้อมูล",
     "complaint"
    ],
    [
-    "เรื่องที่อยู่ในหน้าที่และอำนาจของคณะกรรมาธิการ",
-    "วาระที่ 3.3",
+    "เรื่องร้องเรียนขอความเป็นธรรมและขอให้ตรวจสอบกรณีที่เกี่ยวข้องกับวัดพระธาตุพนมวรมหาวิหาร ยังไม่มีข้อวินิจฉัย",
+    "รับไว้พิจารณาเบื้องต้น · เชิญผู้ร้องเรียนและผู้เกี่ยวข้องมาให้ข้อมูล",
+    "complaint"
+   ],
+   [
+    "ปัญหาและอุปสรรคในการโอนกรรมสิทธิ์ที่อยู่อาศัยของคู่สมรสชาวไทยที่สมรสกับชาวต่างชาติ",
+    "รับไว้พิจารณาเบื้องต้น · เชิญผู้เกี่ยวข้องมาให้ข้อมูล",
+    "other"
+   ],
+   [
+    "การบังคับใช้กฎหมายและระเบียบเกี่ยวกับการปฏิบัติหน้าที่ของเจ้าหน้าที่ท่าอากาศยานไทย",
+    "เชิญหน่วยงานที่เกี่ยวข้องมาชี้แจง 25 พ.ย. 2569",
     "other"
    ]
   ],
   "tags": [
    "คณะอนุกรรมาธิการ",
-   "เรื่องร้องเรียน"
+   "เรื่องร้องเรียน",
+   "ที่ดิน",
+   "คู่สมรสชาวต่างชาติ",
+   "ท่าอากาศยาน"
   ],
   "places": []
  },

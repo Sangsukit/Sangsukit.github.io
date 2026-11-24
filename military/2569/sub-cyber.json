@@ -3,31 +3,47 @@
   "n": 26,
   "date": "2026-11-18",
   "time": "09.30",
-  "room": "ห้องประชุมกรรมาธิการ\nCA 433 ชั้น 4 อาคารรัฐสภา",
+  "room": "ห้องประชุมกรรมาธิการ CA 433 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TDOXoao1dU5Inqm-2y7SYXJ7vjr6O9cmmR_RGOT5qM2QmYDqZdIK-sggv5Kr-_0M7_5zSErlnMchRAWwpfSSrw3MxC66cLH8NOahkARg7UWc4KqB1mHY4ZpJjQG_fUQKOoZcFaNo1piB2fj2HzH86OAiQx0aT7yxYWAFEQ==&ref=11175032",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Lyqflxdf7vyO2wN75eKmqRu7MPUnqWiUDyzUlBJc7NxD9xHCUHDgjrOOt0tLlwObGzhgEISAwd6r9CHGFr3DOmegPQd8u_fDAVLjEyx4FbqUJmaDEAnZAGf5MeGbfnLa1YcmlVCYSY67V2uLB6YGAL5aGRR7S6mcejXRrw==&ref=11175032",
     "size": 217757
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bSpeqOjuxyya8IWCTHFoCa3AWjBj7rBlHhrrKNp1LDmw-pt6qLpmUzQSFi48reG4ISUM6DSjseB9wuR7ZSLQQUbBgyUnWxdT2OhdsDEShv5m6HzRjDsJurraL-1XwOixxa00Vu0DaJc_WGGblEBmc76WpUGCDfnzrzuNfA==&ref=11216786",
+    "size": 3071395
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=tRBK2-L7qoxkO5Lzm88"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=PKvjYwJvpkJ5hJ5O6QM"
    }
   ],
   "media": {
    "video": {
-    "src": "/video-1/military/2569/media/sub-cyber-v26pre.mp4",
-    "poster": "img/poster-sub-cyber-26pre.jpg",
-    "vtt": "media/sub-cyber-v26pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:08",
+    "src": "/video-2/military/2569/media/sub-cyber-v26.mp4",
+    "poster": "img/poster-sub-cyber-26.jpg",
+    "vtt": "media/sub-cyber-v26.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:33",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "cyber-26p",
-    "size": 5571732
+    "ck": "cyber-26",
+    "size": 6386472
    },
    "videos": [
+    {
+     "src": "/video-2/military/2569/media/sub-cyber-v26.mp4",
+     "poster": "img/poster-sub-cyber-26.jpg",
+     "vtt": "media/sub-cyber-v26.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:33",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "cyber-26",
+     "size": 6386472
+    },
     {
      "src": "/video-1/military/2569/media/sub-cyber-v26pre.mp4",
      "poster": "img/poster-sub-cyber-26pre.jpg",
@@ -41,35 +57,29 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "รับฟังหน่วยงานภาครัฐเรื่องอุตสาหกรรมป้องกันประเทศ: เรื่องเร่งด่วน ข้อขัดข้องด้านกฎหมาย และข้อเสนอ",
-  "summary": "ประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 09.30 นาฬิกา ณ ห้องประชุมกรรมาธิการ CA 433 ชั้น 4 อาคารรัฐสภา ระเบียบวาระ: รับทราบข้อมูล ข้อเท็จจริง และข้อคิดเห็นเกี่ยวกับภาพรวมของอุตสาหกรรมป้องกันประเทศ เรื่องเร่งด่วนที่ต้องได้รับการผลักดันส่งเสริมจากรัฐบาล ประเด็นข้อขัดข้องด้านกฎหมาย และปัญหาอุปสรรคกับข้อเสนอของหน่วยงานที่เกี่ยวข้อง โดยเชิญผู้แทนหน่วยงานภาครัฐที่เกี่ยวข้องเข้าร่วมประชุม และรับทราบความคืบหน้าการดำเนินงานของคณะทำงาน (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "chair": "นายไชยยงค์ มณีรุ่งสกุล",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "หารือหน่วยงานภาครัฐเรื่องปัญหา อุปสรรค และข้อเสนอเพื่อพัฒนาระบบนิเวศอุตสาหกรรมป้องกันประเทศ",
+  "summary": "ที่ประชุมเชิญผู้แทนหน่วยงานภาครัฐที่เกี่ยวข้อง อาทิ ศูนย์การอุตสาหกรรมป้องกันประเทศและพลังงานทหาร กรมศุลกากร กรมการปกครอง กรมโยธาธิการและผังเมือง กรมโรงงานอุตสาหกรรม สำนักงานสภานโยบายการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรมแห่งชาติ กรมทรัพย์สินทางปัญญา สำนักงานคณะกรรมการส่งเสริมการลงทุน สถาบันเทคโนโลยีป้องกันประเทศ สำนักงาน กสทช. และสำนักงาน ป.ป.ช. มาให้ข้อมูลเรื่องภาพรวมอุตสาหกรรมป้องกันประเทศ เรื่องเร่งด่วนที่ต้องการให้รัฐบาลผลักดันส่งเสริม ข้อขัดข้องด้านกฎหมาย และปัญหาอุปสรรค และแลกเปลี่ยนความเห็นเรื่องระบบนิเวศอุตสาหกรรมป้องกันประเทศ (Defence Industry Ecosystem) ทั้งด้านนโยบาย กฎหมาย กฎระเบียบ การลงทุน การวิจัยและพัฒนา และการผลิต ข้อมูลที่ได้จะใช้ประกอบการศึกษาและจัดทำข้อเสนอแนะต่อหน่วยงานที่เกี่ยวข้องต่อไป",
   "items": [
    [
-    "ภาพรวมอุตสาหกรรมป้องกันประเทศ เรื่องเร่งด่วนที่ต้องการให้รัฐบาลส่งเสริม ข้อขัดข้องด้านกฎหมาย และปัญหาอุปสรรคกับข้อเสนอของหน่วยงาน",
-    "เชิญ ผู้แทนหน่วยงานภาครัฐที่เกี่ยวข้อง",
+    "ภาพรวมอุตสาหกรรมป้องกันประเทศ เรื่องเร่งด่วน ข้อขัดข้องด้านกฎหมาย และปัญหาอุปสรรค (เชิญหน่วยงานภาครัฐที่เกี่ยวข้อง)",
+    "รับฟังข้อมูลและข้อเสนอ นำไปประกอบการศึกษาและจัดทำข้อเสนอแนะ",
     "other"
    ],
    [
-    "ความคืบหน้าการดำเนินงานของคณะทำงาน",
-    "พิจารณาตามระเบียบวาระ",
+    "ระบบนิเวศอุตสาหกรรมป้องกันประเทศ ด้านนโยบาย กฎหมาย การลงทุน การวิจัยและพัฒนา และการผลิต",
+    "แลกเปลี่ยนความเห็น",
     "other"
    ]
   ],
   "tags": [
    "อุตสาหกรรมป้องกันประเทศ",
-   "กฎหมาย"
+   "กฎหมาย",
+   "การลงทุน"
   ],
   "places": [],
-  "agenda_only": true,
-  "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ\nCA 433 ชั้น 4 อาคารรัฐสภา"
-  }
+  "upcoming": false
  },
  {
   "n": 25,

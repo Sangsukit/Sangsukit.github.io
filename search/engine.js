@@ -56,6 +56,17 @@
       return out;
     });
   };
+  /* official PDF text (x/): separate word lists, fetched together with the main ones */
+  P.xpostings = function (terms) {
+    const X = this.man.x, need = new Map();
+    terms.forEach(t => { const s = C.hash(t) % X.shards; if (!need.has(s)) need.set(s, []); need.get(s).push(t); });
+    return Promise.all([...need.keys()].map(s => this.get("x/p/" + String(s).padStart(X.shards > 1000 ? 4 : 3, "0") + ".json"))).then(arr => {
+      const out = new Map(); let i = 0;
+      for (const s of need.keys()) { const sh = arr[i++]; for (const t of need.get(s)) if (sh[t]) out.set(t, sh[t]); }
+      return out;
+    });
+  };
+  P.xidf = function (L) { const N = this.man.x.N, df = L.length / 2; return Math.log(1 + (N - df + 0.5) / (df + 0.5)); };
   P.idf = function (L) { const df = L.length / 2; return Math.log(1 + (this.N - df + 0.5) / (df + 0.5)); };
   P.vshard = function (pre) { return this.get("v/" + String(C.hash(pre.slice(0, 2)) % this.man.vshards).padStart(3, "0") + ".json"); };
   // words starting with `pre` (most common first); names are left out unless names=true
@@ -132,6 +143,12 @@
     plan.clauses.forEach(c => c.alts.forEach(addAlt));
     plan.bonus.forEach(t => allT.add(t));
     plan.runsTh.forEach(t => allT.add(t));
+    const useX = !!(this.man.x && this.man.x.N) && o.pdf !== false;
+    // a Thai stretch typed without spaces must also stand together in a long PDF file (its word pairs), not just
+    // appear as scattered words over 30 pages
+    // (three words or more: a two-word stretch such as ฟลู+ไรด์ is rare enough on its own)
+    const runPairs = plan.runsTh.map(r => [...new Set(C.terms(r, this.stop).pairs)]).filter(a => a.length >= 2);
+    const XP0 = useX ? Promise.all([this.xpostings([...new Set([...allT].concat(...runPairs))]), this.get("x/meta.json")]).catch(() => null) : null;
     let PL = await this.postings([...allT]);
     // unknown words: Thai stretches / English words the index has never seen -> close spellings, then word starts
     const extra = new Set();
@@ -199,6 +216,47 @@
       best.forEach((v, d) => { score[d] += v; hit[d]++; });
     });
     plan.bonus.forEach(t => { const m = dm(t); if (!m) return; const idf = this.idf(PL.get(t)); m.forEach((v, d) => { if (score[d] > 0) score[d] += 0.5 * idf * (v >> 8) / 100; }); });
+    // text inside the official PDF files: a file counts only when it holds every searched part; it adds to its
+    // meeting (or brings the meeting in, ranked below matches in the site's own text)
+    const xm = new Map();
+    if (XP0 && nc) {
+      const xr = await XP0;
+      if (xr) {
+        const [XL, XM] = xr;
+        if (extra.size) { const more = await this.xpostings([...extra].filter(t => !XL.has(t))).catch(() => new Map()); more.forEach((v, k) => XL.set(k, v)); }
+        const xcommon = this.xcommon || (this.xcommon = new Set(this.man.x.common || []));
+        const xs = new Map(), xh = new Map(), xpg = new Map();
+        let ncx = 0;   // parts of the query that the PDF lists can tell apart (all-common parts are left out)
+        plan.clauses.forEach(c => {
+          const best = new Map();
+          if (c.alts.some(a => a.words.some(t => XL.has(t)))) ncx++;
+          c.alts.forEach(a => {
+            const per = new Map(), cnt = new Map(), pg = new Map(), pc = new Map();
+            const needP = a.pairs.filter(t => XL.has(t)).length;   // pairs the index knows: the words must also stand together
+            a.words.forEach(t => { const L = XL.get(t); if (!L) return; const idf = this.xidf(L); let d = 0; for (let i = 0; i < L.length; i += 2) { d += L[i]; const v = L[i + 1]; per.set(d, (per.get(d) || 0) + idf * (v >> 6) / 100); cnt.set(d, (cnt.get(d) || 0) + 1); if (!pg.has(d)) pg.set(d, v & 63); } });
+            a.pairs.forEach(t => { const L = XL.get(t); if (!L) return; const idf = this.xidf(L); let d = 0; for (let i = 0; i < L.length; i += 2) { d += L[i]; if (per.has(d)) { per.set(d, per.get(d) + 0.6 * idf * (L[i + 1] >> 6) / 100); pg.set(d, L[i + 1] & 63); pc.set(d, (pc.get(d) || 0) + 1); } } });
+            const nw = a.words.filter(t => !xcommon.has(t) && !this.stop.has(t)).length || 1;   // words in most files are not listed
+            per.forEach((sc, d) => { const f = Math.min(1, cnt.get(d) / nw); if (nw > 1 && f < 0.75) return; if (needP && (pc.get(d) || 0) < Math.ceil(needP / 2)) return; const v = a.w * sc * f * f; const b = best.get(d); if (!b || v > b.v) best.set(d, { v, pg: pg.get(d) }); });
+          });
+          best.forEach((b, d) => { xs.set(d, (xs.get(d) || 0) + b.v); xh.set(d, (xh.get(d) || 0) + 1); if (!xpg.has(d)) xpg.set(d, b.pg); });
+        });
+        const pairDocs = new Map(); runPairs.forEach(a => a.forEach(t => { if (pairDocs.has(t)) return; const L = XL.get(t), st = new Set(); if (L) { let d = 0; for (let i = 0; i < L.length; i += 2) { d += L[i]; st.add(d); } } pairDocs.set(t, st); }));
+        const together = x => runPairs.every(a => a.filter(t => pairDocs.get(t).has(x)).length >= Math.ceil(a.length / 2));
+        xs.forEach((sc, x) => {
+          if (!ncx || xh.get(x) < ncx || !together(x)) return;
+          const m = XM.m[x]; if (m == null || M.k[m] !== 4) return;
+          let a = xm.get(m); if (!a) xm.set(m, a = []);
+          a.push([x, XM.k[x], xpg.get(x) || 1, sc]);
+        });
+        xm.forEach((a, m) => {
+          a.sort((p, q) => q[3] - p[3]);
+          const top = a[0][3];
+          if (score[m] > 0) score[m] += 0.25 * top;
+          else { score[m] = 0.4 * top; hit[m] = nc; }
+          mask[m] |= 256;
+        });
+      }
+    }
     // which records, before filters
     const cands = [];
     if (nc) {
@@ -259,7 +317,7 @@
     facets.type.doc = cands.filter(d => M.k[d] === 4 && (M.fl[d] & 2) && pass(d, "type")).length;
     // order
     const sortNew = F.sort === "new", sortOld = F.sort === "old";
-    let top = 0; list.forEach(d => { if (score[d] > top) top = score[d]; });
+    let top = 0; list.forEach(d => { if (M.k[d] >= 4 && score[d] > top) top = score[d]; });   // meetings and videos only (a senator's own record scores far higher)
     if ((sortNew || sortOld) && nc) list = list.filter(d => score[d] >= top * 0.3 || M.k[d] < 4);
     const ent = list.filter(d => M.k[d] < 4), docs = list.filter(d => M.k[d] >= 4);
     const cmp = (a, b) => sortNew ? (M.d[b] - M.d[a] || score[b] - score[a]) : sortOld ? (M.d[a] - M.d[b] || score[b] - score[a]) : (score[b] - score[a] || M.d[b] - M.d[a]);
@@ -279,22 +337,31 @@
     plan.clauses.forEach(c => c.alts.forEach(a => { if (a.form && a.form.length >= 2) hl.add(C.norm(a.form)); a.words.forEach(w => { if (w.length >= 2 && !/^[a-z]{1,2}$/.test(w)) hl.add(w); }); a.pairs.forEach(w => hl.add(w)); }));
     plan.bonus.forEach(w => hl.add(w));
     return {
-      q, parsed: P0, filters: F, total: ordered.length, ids: ordered, best: typeOnly ? [] : best, score, mask,
+      q, parsed: P0, filters: F, total: ordered.length, ids: ordered, best: typeOnly ? [] : best, score, mask, xm,
       facets, related, notes, hl: [...hl].filter(Boolean).sort((a, b) => b.length - a.length),
       clauses: plan.clauses.map(c => ({ label: c.label, alts: c.alts.map(a => a.form) })), peopleHit: this.people.filter(p => p.hit)
     };
   };
 
   /* ---------- cards ---------- */
-  P.cards = function (ids, lang) {
+  P.cards = function (ids, lang, r) {
     const per = this.man.per, need = [...new Set(ids.map(d => Math.floor(d / per)))];
     const pads = s => String(s).padStart(3, "0");
-    return Promise.all(need.map(s => Promise.all([this.get("d/" + pads(s) + ".json"), lang === "en" ? this.get("e/" + pads(s) + ".json") : Promise.resolve(null)]))).then(arr => {
+    const xm = r && r.xm, X = this.man.x;
+    const xids = []; if (xm && X) ids.forEach(d => { const a = xm.get(d); if (a) a.slice(0, 3).forEach(f => xids.push(f[0])); });
+    const xneed = [...new Set(xids.map(x => Math.floor(x / X.per)))];
+    const xsum = []; if (xm && X) ids.forEach(d => { const a = xm.get(d); if (a) a.slice(0, 3).forEach(f => { if (f[1] === 0) xsum.push(f[0]); }); });
+    const xP = Promise.all(xneed.map(s => this.get("x/d/" + pads(s) + ".json").catch(() => [])).concat(xsum.map(x => this.get("x/s/" + x + ".json").catch(() => null)))).then(arr => {
+      const by = new Map(); xneed.forEach((s, i) => by.set(s, arr[i])); by.sum = new Map(); xsum.forEach((x, i) => by.sum.set(x, arr[xneed.length + i])); return by; });
+    return Promise.all([xP].concat(need.map(s => Promise.all([this.get("d/" + pads(s) + ".json"), lang === "en" ? this.get("e/" + pads(s) + ".json") : Promise.resolve(null)])))).then(all => {
+      const xby = all[0], arr = all.slice(1);
       const by = new Map(); need.forEach((s, i) => by.set(s, arr[i]));
       return ids.map(d => {
         const [th, en] = by.get(Math.floor(d / per)); const o = th[d % per]; if (!o) return null;
         const r = Object.assign({ id: d }, o);
         if (en && en[d % per]) { const e = en[d % per]; Object.assign(r, { te: e.te, se: e.se, tge: e.tge, cre: e.cre, re: e.re, ite: e.it, ve: e.v }); }
+        const xa = xm && xm.get(d);
+        if (xa) r.xf = xa.slice(0, 3).map(f => { const sh = xby.get(Math.floor(f[0] / X.per)) || [], c = sh[f[0] % X.per] || {}; const st = xby.sum.get(f[0]); return { k: f[1], pg: f[2], u: c.u || "", np: c.np || 0, s: st ? (st[f[2] - 1] || st.join(" ")) : "" }; }).filter(f => f.u);
         return r;
       });
     });

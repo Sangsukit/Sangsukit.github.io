@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//social-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:social-2569-elderly-m26@sangsukit.github.io
+DTSTAMP:20261122T203436Z
+DTSTART:20261125T030000Z
+DTEND:20261125T060000Z
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รกิจการผู้สูงอายุ คนพิกา
+ ร และผู้ด้อยโอกาส (วุฒิสภา
+ ) ครั้งที่ 26/2569
+LOCATION:ห้องประชุม 302 ชั้น 3 อาคา
+ รรัฐสภา (สัปปายะสภาสถาน 1111 
+ ถนนสามเสน เขตดุสิต กรุงเท
+ พมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/social/2569/sub-elderl
+ y.html#read-26
+URL:https://parliamentx.com/social/2569/sub-elderly.html#read-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารกิจการผู้สูงอายุ คนพิก
+ าร และผู้ด้อยโอกาส (วุฒิสภ
+ า) ครั้งที่ 26/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

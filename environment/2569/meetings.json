@@ -1,18 +1,105 @@
 [
  {
-  "n": 41,
-  "date": "2026-11-17",
-  "time": "",
-  "room": "",
+  "n": 42,
+  "date": "2026-11-24",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=heeVb54lNtS_6Zoni3J8OZy8Epma2M-llEslC0OuhDgbkJ-5m1eYT8-6Qx-b2ciXnRtMILbaBB5ZufDkMgCzFTbcjJpkPUaawry8ktSeDNoxeu1WA_JUcoRTiAC8Fkpo2c3GSsOhoN2nOyipG5FV9iQiSePKKRIKRd5U3Q==&ref=11175171",
-    "size": 127434
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YUB0ECZBsWbGEE1TJxOHaRgjAjDh5LN9j2h0wr3zVJe50VxknlJV_LbCj7sMvwznG2294UwHmf-opgjSK_vtPVGrPnaVks_Qn6o31hgwvbDt977vI66nImJs91eDqlkDQETJO0NRQhRb37lu2UQ6z-gidGcMuFNetL7ZRg==&ref=11227765",
+    "size": 133242
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=cjIhbprdc4gyUL8_Rb0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=4EOdZIxnUzZ9GpZAhsc"
+   }
+  ],
+  "chair": "นายชีวะภาพ ชีวะธรรม",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "เรื่องร้องเรียนการบุกรุกป่าต้นน้ำเพื่อปลูกขิง และการปนเปื้อนโลหะหนักในแม่น้ำกก แม่น้ำสาย แม่น้ำรวก และแม่น้ำโขง",
+  "summary": "การประชุมวันอังคารที่ 24 พฤศจิกายน 2569 เวลา 14.00 น. ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาการดำเนินงานของคณะอนุกรรมาธิการ เรื่องร้องเรียนกรณีการบุกรุกพื้นที่ป่าต้นน้ำเพื่อเพาะปลูกขิงในอำเภอไชยปราการ จังหวัดเชียงใหม่ โดยเชิญกรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช และการพิจารณาศึกษาการแก้ไขปัญหาการปนเปื้อนสารโลหะหนักในแม่น้ำกก แม่น้ำสาย แม่น้ำรวก และแม่น้ำโขง จังหวัดเชียงรายและจังหวัดใกล้เคียง โดยเชิญกรมควบคุมมลพิษ กรมอนามัย กรมวิชาการเกษตร และกรมศุลกากร มาให้ข้อมูล สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "การดำเนินงานของคณะอนุกรรมาธิการ",
+    "วาระที่ 3.1",
+    "sub"
+   ],
+   [
+    "เรื่องร้องเรียนการบุกรุกป่าต้นน้ำเพื่อปลูกขิง อำเภอไชยปราการ จังหวัดเชียงใหม่ (กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช)",
+    "วาระที่ 3.2",
+    "complaint"
+   ],
+   [
+    "การแก้ไขปัญหาการปนเปื้อนสารโลหะหนักในแม่น้ำกก แม่น้ำสาย แม่น้ำรวก และแม่น้ำโขง (กรมควบคุมมลพิษ กรมอนามัย กรมวิชาการเกษตร กรมศุลกากร)",
+    "วาระที่ 3.3",
+    "other"
+   ]
+  ],
+  "tags": [
+   "ป่าต้นน้ำ",
+   "โลหะหนัก",
+   "แม่น้ำกก",
+   "วาระการประชุม"
+  ],
+  "places": [
+   "เชียงใหม่",
+   "เชียงราย",
+   "อาคารรัฐสภา"
+  ],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา"
+  },
+  "media": {
+   "video": {
+    "src": "/video-2/environment/2569/media/v42pre.mp4",
+    "poster": "img/poster42pre.jpg",
+    "vtt": "media/v42pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:56",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "42p",
+    "size": 6757916
+   },
+   "videos": [
+    {
+     "src": "/video-2/environment/2569/media/v42pre.mp4",
+     "poster": "img/poster42pre.jpg",
+     "vtt": "media/v42pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:56",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "42p",
+     "size": 6757916
+    }
+   ]
+  }
+ },
+ {
+  "n": 41,
+  "date": "2026-11-17",
+  "time": "14.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YaReYRL5jnHujaO8sMq9Kztie6FyKbOBkXJAGZ1xXTjX1oUA3Rkd0DgMy-CiK7-spYKLPj3wDidM0W44pew5cwd95PvfkoEbrAOgodvVaBKpskASKoqZsfsJXsy42Cx_-6yBQnc_63UMlf8tR2rcelfX65PWq04i1L5NJA==&ref=11175171",
+    "size": 127434
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Yhyh-LY2HtrMsuOwxvWoGMi77-rlbnREb7v8CBj9qkSjwillMBu0NrQt20HXphn6F-UQ8nl4Ft81FciqO9RCJ_K3QbKDn0-WdeeUyCQw8MZgnj2qkouyE6rl4hjizIdV_30w60IyCgeO4wXgJSc2clvSAXeC3dRvhjEHJw==&ref=11226642",
+    "size": 1589428
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=TjKjoag8uEz1LQMqoy0"
    }
   ],
   "media": {
@@ -38,34 +125,45 @@
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
      "ck": "41p",
      "size": 5966777
+    },
+    {
+     "src": "/video-2/environment/2569/media/v41.mp4",
+     "poster": "img/poster41.jpg",
+     "vtt": "media/v41.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:29",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "41",
+     "size": 9829024
     }
    ]
   },
   "chair": "นายชีวะภาพ ชีวะธรรม",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
-  "headline": "งานของคณะอนุกรรมาธิการ และเรื่องร้องเรียนการบุกรุกป่าต้นน้ำเพื่อปลูกขิง",
-  "summary": "การประชุมวันอังคารที่ 17 พฤศจิกายน 2569 เวลา 14.30 น. ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาการดำเนินงานของคณะอนุกรรมาธิการ และเรื่องร้องเรียนกรณีการบุกรุกพื้นที่ป่าต้นน้ำเพื่อเพาะปลูกขิงในอำเภอไชยปราการ จังหวัดเชียงใหม่ โดยเชิญกรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช กรมป่าไม้ กรมการปกครอง สคทช. จังหวัดเชียงใหม่ อ.อ.ป. และ บก.ปทส. มาให้ข้อมูล สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "เรื่องร้องเรียนการบุกรุกป่าต้นน้ำเพื่อปลูกขิง อำเภอไชยปราการ และอนุมัติการศึกษาดูงานคาร์บอนเครดิตที่จังหวัดตราด",
+  "summary": "คณะกรรมาธิการพิจารณาเรื่องร้องเรียนกรณีการบุกรุกพื้นที่ป่าต้นน้ำเพื่อเพาะปลูกขิงในอำเภอไชยปราการ จังหวัดเชียงใหม่ โดยเชิญหน่วยงานที่เกี่ยวข้องมาให้ข้อมูล กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช ให้ข้อมูลว่า พื้นที่ที่มีปัญหาอยู่นอกเขตเตรียมการอุทยานแห่งชาติดอยเวียงผา ซึ่งหลังการปรับปรุงแนวเขตเมื่อเดือนกันยายน 2568 มีพื้นที่ประมาณ 189,151 ไร่ กรมป่าไม้ให้ข้อมูลว่า พื้นที่บางส่วนเป็นป่าสงวนแห่งชาติป่าลุ่มน้ำแม่ฝาง ราษฎรที่ผ่านการคัดกรองตามมติคณะรัฐมนตรีวันที่ 26 พฤศจิกายน 2561 จะได้รับหนังสือรับรองสิทธิ ซึ่งห้ามซื้อขาย ให้เช่า หรือโอนสิทธิให้ผู้อื่น หากพบการนำไปให้เช่าจะเพิกถอนสิทธิและยึดคืนพื้นที่ ในพื้นที่นี้การสำรวจยังอยู่ระหว่างคัดกรองคุณสมบัติ และยังไม่มีการรับรองสิทธิใด ๆ กรมการปกครองให้ข้อมูลว่า กำนัน ผู้ใหญ่บ้าน และนายกองค์การบริหารส่วนตำบล มีหน้าที่ป้องกันและสอดส่องไม่ให้เกิดการบุกรุกป่า สคทช. อธิบายเงื่อนไขการจัดที่ดินทำกินให้ชุมชน ซึ่งต้องทำประโยชน์ด้วยตนเองและห้ามเปลี่ยนมือ แต่ตกทอดทางมรดกได้ จังหวัดเชียงใหม่ให้ข้อมูลว่า อำเภอได้ประชุมคณะอนุกรรมการป้องกันและปราบปรามการตัดไม้ทำลายป่าระดับอำเภอ และให้สำรวจพื้นที่ โดยพื้นที่ที่บุกรุกก่อนปี 2557 จะให้ราษฎรทำกินต่อไป ส่วนพื้นที่ที่บุกรุกหลังปี 2557 จะขอคืนทั้งหมดเพื่อฟื้นฟูเป็นป่า และ บก.ปทส. ให้ข้อมูลว่าตั้งแต่เดือนพฤษภาคม 2569 ได้ร่วมดำเนินคดีบุกรุกป่าปลูกขิงในพื้นที่ 5 คดี ที่ประชุมอนุมัติการเดินทางไปศึกษาดูงานด้านคาร์บอนเครดิตที่จังหวัดตราด วันที่ 11–13 ธันวาคม 2569 และนัดประชุมครั้งต่อไปวันอังคารที่ 24 พฤศจิกายน 2569 เรื่องร้องเรียนเป็นข้อกล่าวอ้างที่หน่วยงานอยู่ระหว่างตรวจสอบ",
   "items": [
    [
-    "การดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 3.1",
-    "sub"
+    "เรื่องร้องเรียนการบุกรุกพื้นที่ป่าต้นน้ำเพื่อเพาะปลูกขิง อำเภอไชยปราการ จังหวัดเชียงใหม่ (กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช กรมป่าไม้ กรมการปกครอง สคทช. จังหวัดเชียงใหม่ บก.ปทส.)",
+    "รับฟังข้อมูล",
+    "complaint"
    ],
    [
-    "เรื่องร้องเรียนการบุกรุกป่าต้นน้ำเพื่อปลูกขิง อำเภอไชยปราการ จังหวัดเชียงใหม่",
-    "วาระที่ 3.2",
-    "complaint"
+    "การเดินทางไปศึกษาดูงานด้านคาร์บอนเครดิต จังหวัดตราด (11–13 ธันวาคม 2569)",
+    "อนุมัติ",
+    "visit"
    ]
   ],
   "tags": [
    "ป่าต้นน้ำ",
    "ขิง",
-   "วาระการประชุม"
+   "ป่าสงวนแห่งชาติ",
+   "คาร์บอนเครดิต"
   ],
   "places": [
    "เชียงใหม่",
-   "อาคารรัฐสภา"
+   "ตราด"
   ]
  },
  {
@@ -76,17 +174,21 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=Ujk47H0OmN4WISSj5K6DjfUSZx-fNlPHkMHih4ZArnlJmhZIkekXMVVjFELk8vaGmADY2Wp0REbb8CRovM8aSsSqree908KSgHDlWo7Mjdv4jr2466f4IAj99Aze-NozIl2muCbLMcKC0RrtpH5wdGPpPunwO7CzI9TU3w==&ref=11127083",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kR8h-ABoEzEhI5e_RGKCxQZC9IGAbEloRS_PPw0IV8vU16uteGyCs9YydQav-XWy5Fie51S9BMYHP_VpoFjUkBP-TpWDKlPPjQg_hbf1C6V58h7X5Rrf2mbYfk6zVE8i5CJRtLjSKuDqDOzwGsp1PvYaQ03YB5HcrCuU6w==&ref=11127083",
     "size": 134086
    },
    {
     "k": "summary",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=83mOg2nVpfWmjkw-lku5_KcSIt_pSIiVki1ZcuroFZDjkczDTqcS4nmqtrA-u2fU-QKW5t3yKphFkNeJvjD1aNEehQPowaibi7AG9bM5pfcFrQDWM2TTQQVTR--DjHRyLoLI__HtiQE_PEx54qly1Z_r3KRyH8ufp0U6vA==&ref=11165590",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=6T0gT-5pT3vrsnBqEBtGZhtzetrTTvo9doHN49grODZXZC7myyjmA0M7ZZV2Ynb5Zxizj4p_HpksS3nFXitIBYzr3VqIFwoTCMlEflfW_ml-cIhepwH6aOv7_TmG0CEycNkrT8R51P2M3s6b5Dd0O0-uLq1PYC5GHTDeoQ==&ref=11165590",
     "size": 5233867
    },
    {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=7GHCKPkdbjum1vTyOf4WYk_DmwXKWLFaMiFlpafIaVj1OP4OqZ4MA0jdC0j8y4DAoGov8btcZpMFHJa-jweFfhS4UU31QfEF6XuCU9IuyO23KVw5LSqPtpzv74zlPDYLSpwvxNeBV03hfqq6cFmbFnc-gZd3wZHbhWc6Yg==&ref=11227206"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=HBASPFCbqBCQKG08liU"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=DmOFCZj7EdxiYq_n4l0"
    }
   ],
   "media": {

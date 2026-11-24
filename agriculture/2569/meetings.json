@@ -1,5 +1,128 @@
 [
  {
+  "n": 40,
+  "date": "2026-11-23",
+  "time": "14.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=0Pc1pViuaJAfUjPsYC_GyCI9Qrff7GuALVaNAmwgA01GgxlLFsyO141dIQqtbSbnLMhvggiKfF-X8tweu4IowAQGlBYpVVQ6QkHAeqhvuOlllBmGGuaQIr4OjiK-ummpVtVz63HsdMs7QjW7CNqyeOfsfGWV-sjfRHVLeA==&ref=11217028"
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zIEwiiA2ut7bTSpqGyLnG1gv7X3u-3n7e3bklxl5zn5vWMbudb5JZglRCQailjX8bzaH5KDP9vnuwGFR6Cct48c8NtK5ZZDrRvRLIvvMET2dY6fbsFZW_S5YWWO9Wqc7T3iEqbalLqMUNTruNlKKx2GHhJPitd60Co8uYQ==&ref=11240487"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=pBDkEKj0yIqOeSvB-D4"
+   }
+  ],
+  "chair": "",
+  "chair_role": "",
+  "agenda_only": true,
+  "headline": "ร่างรายงานระบบเกษตรครบวงจร เรื่องร้องเรียนโคเนื้อ จ.ศรีสะเกษ และข้อเสนอเลื่อนดูงาน",
+  "summary": "ระเบียบวาระการประชุมวันจันทร์ที่ 23 พฤศจิกายน 2569 เวลา 14.00 น. ห้อง CA 331 ชั้น 3 อาคารรัฐสภา: พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง การบริหารเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากลเพื่อสิ่งแวดล้อมและความยั่งยืน พิจารณาหนังสือร้องเรียนขอให้ติดตามโครงการโคเนื้อใน จ.ศรีสะเกษ และพิจารณาเลื่อนการศึกษาดูงานมหกรรมพืชสวนโลกออกไปเป็นเดือนมกราคม 2570 (วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ ข้อความนี้จึงเป็นระเบียบวาระการประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "เรื่องที่ประธานแจ้ง: เชิญร่วมการสัมมนาวิชาการ เรื่อง กฎหมาย Lemon Law ก้าวใหม่ของการคุ้มครองผู้บริโภคไทย วันพฤหัสบดีที่ 26 พ.ย. 2569",
+    "วาระที่ 1",
+    "seminar"
+   ],
+   [
+    "รับรองบันทึกการประชุมครั้งที่ 39/2569 (16 พ.ย. 2569)",
+    "วาระที่ 2",
+    "other"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทาน: การจัดทำรายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน หลังจากคณะกรรมาธิการพิจารณาเสร็จแล้ว",
+    "วาระที่ 4.1",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านปศุสัตว์และการประมง",
+    "วาระที่ 4.2",
+    "sub"
+   ],
+   [
+    "การเตรียมการศึกษาดูงานด้านการเกษตรและการบริหารจัดการทรัพยากรน้ำ จ.ตรัง 26–27 พ.ย. 2569",
+    "วาระที่ 4.3",
+    "visit"
+   ],
+   [
+    "กิจกรรมตลาดอาหารสุขภาพที่ดีของวุฒิสภา ครั้งที่ 3: คณะกรรมาธิการร่วมออกบูธมอบต้นไม้ พืชผักสวนครัว วันพุธที่ 25 พ.ย. 2569 เวลา 11.00–12.30 น. บริเวณสระมรกต",
+    "วาระที่ 4.4",
+    "other"
+   ],
+   [
+    "พิจารณา (ร่าง) รายงานการพิจารณาศึกษา เรื่อง การบริหารเครือข่ายระบบเกษตรครบวงจร ตามมาตรฐานสากลเพื่อสิ่งแวดล้อมและความยั่งยืน ซึ่งคณะอนุกรรมาธิการศึกษาเครือข่ายระบบเกษตรครบวงจรฯ เป็นผู้เสนอ",
+    "วาระที่ 5.1",
+    "sub"
+   ],
+   [
+    "หนังสือร้องเรียนจากผู้ประกอบการฟาร์มโคเนื้อ จ.ศรีสะเกษ: ขอให้ติดตามโครงการโคเนื้อที่ขาดเงินทุนหมุนเวียน และขอให้หน่วยงานภาครัฐเร่งประสานการสนับสนุนให้ดำเนินการต่อได้",
+    "วาระที่ 5.2",
+    "complaint"
+   ],
+   [
+    "ข้อเสนอเลื่อนการศึกษาดูงานมหกรรมพืชสวนโลก จ.อุดรธานี และ จ.หนองคาย (เดิม 17–19 ธ.ค. 2569) ออกไปเป็นเดือนมกราคม 2570",
+    "วาระที่ 5.3",
+    "visit"
+   ],
+   [
+    "รายงานสถานการณ์ราคาสินค้าเกษตร",
+    "วาระที่ 6.1",
+    "other"
+   ],
+   [
+    "กำหนดวันประชุมครั้งต่อไป",
+    "วาระที่ 6.2",
+    "other"
+   ]
+  ],
+  "tags": [
+   "รายงานการศึกษา",
+   "ระบบเกษตรครบวงจร",
+   "โคเนื้อ",
+   "เรื่องร้องเรียน",
+   "ศึกษาดูงาน",
+   "ราคาสินค้าเกษตร",
+   "วาระการประชุม"
+  ],
+  "places": [
+   "ศรีสะเกษ",
+   "ตรัง",
+   "อุดรธานี",
+   "หนองคาย"
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v40pre.mp4",
+    "poster": "img/poster40pre.jpg",
+    "vtt": "media/v40pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:08",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "40p",
+    "size": 5045646
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v40pre.mp4",
+     "poster": "img/poster40pre.jpg",
+     "vtt": "media/v40pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:08",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "40p",
+     "size": 5045646
+    }
+   ]
+  }
+ },
+ {
   "n": 39,
   "date": "2026-11-16",
   "time": "15.00",
@@ -7,72 +130,98 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hhUuW6oRnfQ1X2vxFMsmLhx4XhR3ySNxD3g8w_oynynNb1Ac2-kPR2_GHgcUkHROFqX67Wj3oEFGOKDotCem9brcKHXW3-Ox7cZMW3Lxcc086vePWWci0poQGBA3OYg5flCaBYU9Rw1f8MmmknmY9N_SrxVqMs6iZ3th0Q==&ref=11156890",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=RiO8ipNF7vdVUxpwidYiB4Wv7M__AeoKv0w4XAkF8WGeee02kZYGzxD8qstVBnUIw9-JTlE2iFa_rhXKxOu_LXKo6IB2BCycvao9na4hZp8YKXPrpBJeP3uh3CH4ppnL99M9rKlBLYlQI82eLjfSOu_T_TElw1sWGZWLvg==&ref=11156890",
     "size": 119166
    },
    {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=sBG5dGhQg_iQMHK3ZTuaoz574HKwso4euZV0xMOqJc9UhL_N0u9uxwgltw0WHF1-r9FKHzUCGGDfNElkt6ycHFFeh23OWnFMo-VLup12ntZCNBgecscxgeFbJO6PJDVXuJnPHNwGCM2Q3H5Qs_FBcP4i5__ZUlakXydpTg==&ref=11217507"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PiMeJ5QWpogICvSaOc9Jd-Rn3pUBPqMs2H9P_cro1pFv9XduHF7gKtF9AjEN_OZEVlRLVbVKFap1ODPL_LQhhU-ixdrxYSPi3d1-wDGwivghUDsShEFV0AXztgGbRh7e2vt6nZl-G_tFwTYczEHpkYkt43_-ZHz2cZEiqQ==&ref=11225869"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=LfY-u_vNfK_AxR6LU9c"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zlNVuS6-PQfoZUOreME"
    }
+  ],
+  "chair": "นายสุนทร เชาว์กิจค้า",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "headline": "ร่างรายงานเรื่องน้ำในพื้นที่เกษตรนอกเขตชลประทาน เสนอแนวทาง 3 ระยะ และเตรียมดูงานมหกรรมพืชสวนโลก",
+  "summary": "ประธานคณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทานนำเสนอร่างรายงานการพิจารณาศึกษา ผลการศึกษาพบว่า พื้นที่เกษตรนอกเขตชลประทานแต่ละแห่งมีปัญหาต่างกันตามลักษณะภูมิประเทศ แหล่งน้ำต้นทุน และรูปแบบการผลิต หลายพื้นที่ยังพึ่งพาน้ำฝนและแหล่งน้ำธรรมชาติ จึงเสี่ยงขาดแคลนน้ำในช่วงฝนทิ้งช่วงและหน้าแล้ง ข้อเสนอสำคัญ เช่น กำหนดนโยบายและกลไกประสานงานด้านน้ำให้ชัดเจน พัฒนาฐานข้อมูลแหล่งน้ำและพื้นที่เกษตร ปรับปรุงแหล่งน้ำเดิมและระบบกระจายน้ำให้ถึงแปลงเกษตร ส่งเสริมการมีส่วนร่วมของเกษตรกร กลุ่มผู้ใช้น้ำ และองค์กรปกครองส่วนท้องถิ่น และทบทวนกฎหมายที่เป็นอุปสรรค โดยแบ่งการขับเคลื่อนเป็น 3 ระยะ ที่ประชุมมอบหมายให้กรรมาธิการทุกท่านนำร่างรายงานไปพิจารณาในรายละเอียด หากไม่มีผู้ขอแก้ไข ให้ถือว่าที่ประชุมเห็นชอบ นอกจากนี้ ที่ประชุมพิจารณาหนังสือร้องเรียนเรื่องที่ดินสาธารณะใน จ.สุพรรณบุรี หนังสือตอบจากกรมปศุสัตว์เรื่องผลผลิตน้ำนมดิบ และร่างกำหนดการศึกษาดูงานมหกรรมพืชสวนโลกที่ จ.อุดรธานี และ จ.หนองคาย 17–19 ธ.ค. 2569",
+  "items": [
+   [
+    "ร่างรายงานการพิจารณาศึกษา เรื่อง แนวทางการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทานอย่างมีประสิทธิภาพ มั่นคง และยั่งยืน: ข้อเสนอ 3 ระยะ ได้แก่ ระยะเร่งด่วน จัดทำระบบข้อมูลแหล่งน้ำและแก้ปัญหาเฉพาะหน้า ระยะกลาง พัฒนาแหล่งน้ำ โครงสร้างพื้นฐาน และศักยภาพชุมชนท้องถิ่น ระยะยาว บูรณาการแผนงานและสร้างความเข้มแข็งการจัดการน้ำชุมชน",
+    "ให้กรรมาธิการพิจารณารายละเอียด หากไม่มีผู้ขอแก้ไขถือว่าเห็นชอบ",
+    "sub"
+   ],
+   [
+    "หนังสือร้องเรียนขอให้ตรวจสอบข้อเท็จจริงการออกเอกสารและหนังสืออนุญาตให้ใช้ประโยชน์ในที่ดินสาธารณะแปลงดงหนองอีดอก ต.หัวนา อ.เดิมบางนางบวช จ.สุพรรณบุรี",
+    "พิจารณา",
+    "complaint"
+   ],
+   [
+    "หนังสือตอบจากกรมปศุสัตว์: ชี้แจงเรื่องปัญหาผลผลิตน้ำนมดิบ",
+    "พิจารณา",
+    "other"
+   ],
+   [
+    "ร่างกำหนดการศึกษาดูงานมหกรรมพืชสวนโลก จ.อุดรธานี และ จ.หนองคาย 17–19 ธ.ค. 2569",
+    "พิจารณา",
+    "visit"
+   ]
+  ],
+  "tags": [
+   "บริหารจัดการน้ำ",
+   "นอกเขตชลประทาน",
+   "รายงานการศึกษา",
+   "ที่ดินสาธารณะ",
+   "โคนม",
+   "ศึกษาดูงาน",
+   "เรื่องร้องเรียน"
+  ],
+  "places": [
+   "สุพรรณบุรี",
+   "อุดรธานี",
+   "หนองคาย"
   ],
   "media": {
    "video": {
-    "src": "/video-1/agriculture/2569/media/v39pre.mp4",
-    "poster": "img/poster39pre.jpg",
-    "vtt": "media/v39pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "1:25",
+    "src": "/video-2/agriculture/2569/media/v39.mp4",
+    "poster": "img/poster39.jpg",
+    "vtt": "media/v39.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:06",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "39p",
-    "size": 3583230
+    "ck": "39",
+    "size": 7251430
    },
    "videos": [
     {
+     "src": "/video-2/agriculture/2569/media/v39.mp4",
+     "poster": "img/poster39.jpg",
+     "vtt": "media/v39.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "39",
+     "size": 7251430
+    },
+    {
      "src": "/video-1/agriculture/2569/media/v39pre.mp4",
+     "size": 3583230,
      "poster": "img/poster39pre.jpg",
      "vtt": "media/v39pre.th.vtt",
      "kind": "pre",
      "label": "วิดีโอก่อนการประชุม",
      "dur": "1:25",
      "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-     "ck": "39p",
-     "size": 3583230
+     "ck": "39p"
     }
    ]
-  },
-  "chair": "นายสุนทร เชาว์กิจค้า",
-  "chair_role": "ประธานคณะกรรมาธิการ",
-  "headline": "ติดตามความคืบหน้าของคณะอนุกรรมาธิการ",
-  "summary": "การประชุมวันจันทร์ที่ 16 พฤศจิกายน 2569 เวลา 15.00 น. ห้อง CA 331 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม มีวาระรับรองบันทึกการประชุม เรื่องสืบเนื่อง และความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
-  "items": [
-   [
-    "รับรองบันทึกการประชุม และเรื่องสืบเนื่อง",
-    "วาระที่ 2–4",
-    "other"
-   ],
-   [
-    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 5",
-    "sub"
-   ],
-   [
-    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
-    "วาระที่ 6",
-    "other"
-   ]
-  ],
-  "tags": [
-   "อนุกรรมาธิการ",
-   "วาระการประชุม"
-  ],
-  "places": [],
-  "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา"
   }
  },
  {
@@ -83,47 +232,90 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=P8RskrkItP5W1o7rTcBeCve1KEWtOaGD8pLbLmyHPrLPmFNEe9E3by2YIWyna_hBVS9UbXQKMKsHQhPbpr0HoRK7nppskRBumpJJmBY8sDL_l5fj1Z-Z7AO0px-3M1Vh8it2oGvEgVuQyHDo6q9CO9d1SYHM3V-6AE9V7g==&ref=11118048",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kWij0RGgUbvotqVnwGjHHVL3z6MmP90CTdKdQn57dA4-gj44Q87YSW_ro4jYjAAGhZTjcV2yBGpeUUyIl0FXTDjCg_dJZIE1qFsKEJaGgGuS_vBzWH6LojpjudJnQi3cIFXwHVxRFggTJTD3JcKZfX-dyx-eD7JQdSGaUA==&ref=11118048",
     "size": 117080
    },
    {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=axCc2YZSJud-k3XudSeCROi-AGHBAf1w4DgnN5F9gAZd2XklQFvums7VsozJCcr_wRfB3bSuFurZe5dKdR4wbpyN1v9bT2v9gKqxHXz9C5epqXHypwxWmP5CZRze-qdAZ-r27WaKIz4tTWJZtxUrahCyYgpc5HqkfvIxKA==&ref=11217104"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UepuBLWhHk8FY2-XY26WUlJKpZwK4b8HbDEkE24qeP742M_jmESKt4yfBDwqt14SarxmvCUTk4oJ5TRxG1bMsPLWdbKd-wXIdJcaqivtSHbt8IVEtCEhvcECA5iEN3CAKhxg1H2rnens1PGczxDmmCFitFzADXOok-4hxQ==&ref=11217130"
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3h3j0Id4wKq8t5O7B0Bq0-DXglZBTG0e1-nO4SnFcmUqku8gZd1nuNWEjQk8aZCFZSscQOfZFhquD4kQjx3O_ypv3HGtkBah0x7L1RBAUbF9pgziRPyW3YuPIpUREOu6RogrrhEP7oc4polPIPATS7lUn8x96o9MhTZeYA==&ref=11226152"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ncQCDXje0TD-dsN9CYs"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JFCwVa2BdC4BbXNYyo4"
    }
   ],
-  "media": {},
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
-  "headline": "ติดตามความคืบหน้าของคณะอนุกรรมาธิการ",
-  "summary": "การประชุมวันจันทร์ที่ 9 พฤศจิกายน 2569 เวลา 15.00 น. ห้อง CA 331 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม มีวาระรับรองบันทึกการประชุม เรื่องสืบเนื่อง และความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "เสนอเขตอุตสาหกรรมเกษตรครบวงจร สรุปดูงานน้ำ 3 จังหวัด และวิเคราะห์การป้องกันโรคพิษสุนัขบ้า",
+  "summary": "ที่ประชุมรับฟังความคืบหน้าของคณะอนุกรรมาธิการ 3 คณะ คณะอนุกรรมาธิการศึกษาเครือข่ายระบบเกษตรครบวงจรตามมาตรฐานสากลรายงานว่า ห่วงโซ่คุณค่าการเกษตรยังไม่เชื่อมกันเป็นระบบ ฐานข้อมูลของหน่วยงานต่าง ๆ ไม่เชื่อมโยงกัน และเกษตรกรได้ส่วนแบ่งมูลค่าเพิ่มน้อยแต่รับความเสี่ยงมาก จึงเสนอให้จัดตั้ง “เขตอุตสาหกรรมเกษตรมูลค่าเพิ่มครบวงจร” ที่เชื่อมการผลิต การวิจัย การแปรรูป โลจิสติกส์ และการตลาด พร้อมสำนักงานบริการแบบ One Stop Service คณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทานสรุปผลดูงานที่ จ.ชัยนาท จ.สุพรรณบุรี และ จ.สิงห์บุรี 29–30 ต.ค. 2569 ว่าต้องเชื่อมแหล่งน้ำกับระบบกระจายน้ำให้ตรงกับความต้องการของเกษตรกร โดยให้ท้องถิ่นและชุมชนมีส่วนร่วม ส่วนคณะอนุกรรมาธิการด้านปศุสัตว์และการประมงอยู่ระหว่างจัดทำร่างรายงานเรื่องการป้องกันโรคพิษสุนัขบ้า โดยวิเคราะห์จุดแข็ง จุดอ่อน โอกาส และอุปสรรค เช่น ฐานข้อมูล Rabies One Data ยังไม่ครบถ้วน และสัตวแพทย์ภาคสนามยังไม่เพียงพอ นอกจากนี้ ที่ประชุมพิจารณาเรื่องร้องเรียนจากโครงการสมาชิกวุฒิสภาพบประชาชน ภาคใต้ตอนล่าง ขอให้สนับสนุนการชะลอการสิ้นสุดการดำเนินงานของสถาบันบริหารจัดการธนาคารที่ดิน (องค์การมหาชน) และผลักดันการตราพระราชกฤษฎีกาจัดตั้งธนาคารที่ดิน",
   "items": [
    [
-    "รับรองบันทึกการประชุม และเรื่องสืบเนื่อง",
-    "วาระที่ 2–4",
-    "other"
-   ],
-   [
-    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 5",
+    "ความคืบหน้าของคณะอนุกรรมาธิการศึกษาเครือข่ายระบบเกษตรครบวงจรตามมาตรฐานสากล: ร่างรายงานเสนอจัดตั้ง “เขตอุตสาหกรรมเกษตรมูลค่าเพิ่มครบวงจร” บริหาร 3 ระดับ และบริการแบบ One Stop Service",
+    "พิจารณา",
     "sub"
    ],
    [
-    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
-    "วาระที่ 6",
-    "other"
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทาน: สรุปผลดูงาน จ.ชัยนาท จ.สุพรรณบุรี และ จ.สิงห์บุรี 29–30 ต.ค. 2569 (ธนาคารน้ำใต้ดิน การแบ่งน้ำ และพื้นที่ลุ่มต่ำรับน้ำหลาก)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านปศุสัตว์และการประมง: ร่างรายงานเรื่องการป้องกันโรคพิษสุนัขบ้า วิเคราะห์จุดแข็ง จุดอ่อน โอกาส และอุปสรรค (SWOT)",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "เรื่องร้องเรียนจากโครงการสมาชิกวุฒิสภาพบประชาชน ภาคใต้ตอนล่าง: ขอให้สนับสนุนการชะลอการสิ้นสุดการดำเนินงานของสถาบันบริหารจัดการธนาคารที่ดิน (องค์การมหาชน) และผลักดันการตราพระราชกฤษฎีกาจัดตั้งธนาคารที่ดิน",
+    "พิจารณา",
+    "complaint"
    ]
   ],
   "tags": [
    "อนุกรรมาธิการ",
-   "วาระการประชุม"
+   "อุตสาหกรรมเกษตร",
+   "บริหารจัดการน้ำ",
+   "โรคพิษสุนัขบ้า",
+   "ที่ดินทำกิน",
+   "เรื่องร้องเรียน"
   ],
-  "places": [],
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา"
+  "places": [
+   "ชัยนาท",
+   "สุพรรณบุรี",
+   "สิงห์บุรี"
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v38.mp4",
+    "poster": "img/poster38.jpg",
+    "vtt": "media/v38.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:45",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "38",
+    "size": 8454086
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v38.mp4",
+     "poster": "img/poster38.jpg",
+     "vtt": "media/v38.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:45",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "38",
+     "size": 8454086
+    }
+   ]
   }
  },
  {
@@ -134,45 +326,73 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=lQ4XU0oJwktUCadPSSXz7Ajc3S5woX2fBlR2QBQ5VZV32qAKerpAzUOuooaW3tBEve0g_GULXaGUpOuREHmm2nQM1fkPz82LnEKZxBMZg7xzNLMVSUc4Lb2_7oxZucZH1YeGqKDEE77Y8tpfjibJrOqb3tq9mdAocmxsiw==&ref=11069130",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=K3Es8bmVb1ILwM8gHEQdqgeDm-vNFJdUZa4rkN7ddmN_dkQM5Yzo6Tq1E283rtGqChW4idYvJnUstDJCktupeFKvZVpSsgXk-OuUXRUu6BmyATiz4gLJwrL_Bq3DEkjjd9nN2nv9f0akKqvW1l02ED5dBP3S3bTviDispA==&ref=11069130",
     "size": 118081
    },
    {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=MkMnCgD5Cl6VC0eLkRK8dvlarx50VJjGsm20cKkSZ7OXVlv4Kv4Fgiw-7sc-1RyblzjToS_iY0tPVbgkA9Ymm00114U5TYVsgrpvs44ZsrhHPExkHP0oq6P7kl-RT0FIqLUr2I0CbnFrXSy7rrmDTSEqeK1GDoSymIsE_Q==&ref=11216636"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=UvXfHdGaESVxckiiNw07mmUi4tzrSm-6h6ML8kJ3BSIqbGUy3kfEE8B0h5HdhUBH18nT0z_yhSSyTyeKsj_lGedbfoRUsEafp0cQyONvKcSh4Ix-82gTETiGOyxvizJHrnrIZ85wz0ZnZV-4hcmLtvkL5lrudVwlb6ProA==&ref=11217030"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=M2FA1HSzpIatn9GqkV0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=MOTTTs3Yh1EH5DJuVNQ"
    }
   ],
-  "media": {},
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "agenda_only": true,
-  "headline": "ชาวประมงพื้นบ้านกระบี่: ขอขยายเส้นเขตการทำประมงบริเวณเกาะศรีบอยาและเกาะปอ",
-  "summary": "วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ รายการด้านล่างเป็นระเบียบวาระตามหนังสือนัดประชุม คือ การขยายเส้นเขตการทำประมงในจังหวัดกระบี่ เพื่อแก้ไขความเดือดร้อนของชาวประมงพื้นบ้านบริเวณเกาะศรีบอยา อำเภอเหนือคลอง และเกาะปอ อำเภอเกาะลันตา โดยเชิญอธิบดีกรมประมงและผู้แทนชาวประมงในจังหวัดมาให้ข้อมูล และความคืบหน้าของคณะอนุกรรมาธิการ",
+  "headline": "ชาวประมงพื้นบ้านกระบี่ขอขยายเขตทำประมง: กรมประมงจะเสนอคณะกรรมการพิจารณาภายในเดือนธันวาคม 2569",
+  "summary": "ที่ประชุมพิจารณาความเดือดร้อนของชาวประมงพื้นบ้านบริเวณเกาะศรีบอยา อ.เหนือคลอง และเกาะปอ อ.เกาะลันตา จ.กระบี่ ซึ่งร้องเรียนว่าเครื่องมือทำประมงได้รับความเสียหายจากเรือประมงพาณิชย์ จึงขอให้ขยายเขตห้ามใช้อวนลาก อวนรุน เครื่องมือคราดหอย และเครื่องมือปั่นไฟปลากะตักกลางคืน โดยเชิญกรมประมงและสมาคมชาวประมงจังหวัดกระบี่มาร่วมประชุม ผู้แทนสมาคมฯ เสนอขยายเขตจากประมาณ 3 ไมล์ทะเลเป็น 9 ไมล์ทะเล ตามลักษณะพื้นที่และแนวเกาะธรรมชาติ โดยไม่ห้ามชาวประมงจากจังหวัดอื่นเข้ามาทำประมง ผู้แทนกรมประมงชี้แจงว่า ต้องคำนึงถึงชาวประมงหลายจังหวัด โดยเฉพาะตรังและกระบี่ และการขยายเขตเป็นอำนาจของรัฐมนตรีตามกฎหมายว่าด้วยการประมง ขณะนี้รวบรวมข้อมูลแล้ว และจะเสนอคณะกรรมการพิจารณากำหนดมาตรการอนุรักษ์ทรัพยากรสัตว์น้ำภายในเดือนธันวาคม 2569 ที่ประชุมเห็นว่าควรสร้างสมดุลระหว่างการอนุรักษ์ทรัพยากรสัตว์น้ำกับสิทธิในการประกอบอาชีพของชาวประมง และระหว่างรอประกาศ ควรมีมาตรการเร่งด่วนที่ทำได้ตามกฎหมายปัจจุบัน ที่ประชุมมอบหมายให้กรมประมงแจ้งผลการพิจารณาและความคืบหน้าให้คณะกรรมาธิการทราบ และแจ้งสมาคมชาวประมงจังหวัดกระบี่",
   "items": [
    [
-    "การขยายเส้นเขตการทำประมง จ.กระบี่ เพื่อแก้ไขความเดือดร้อนของชาวประมงพื้นบ้าน (เชิญอธิบดีกรมประมงและผู้แทนชาวประมงมาให้ข้อมูล)",
-    "วาระที่ 5.1",
-    "other"
+    "ความเดือดร้อนของชาวประมงพื้นบ้าน เกาะศรีบอยา อ.เหนือคลอง และเกาะปอ อ.เกาะลันตา จ.กระบี่: ขอขยายเขตห้ามใช้อวนลาก อวนรุน คราดหอย และเครื่องมือปั่นไฟปลากะตักกลางคืน จากประมาณ 3 เป็น 9 ไมล์ทะเล",
+    "เชิญกรมประมงและสมาคมชาวประมงจังหวัดกระบี่มาให้ข้อมูล",
+    "complaint"
    ],
    [
-    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 5.2",
-    "sub"
-   ],
-   [
-    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
-    "วาระที่ 6",
+    "ขั้นตอนต่อไป: กรมประมงจะเสนอเรื่องต่อคณะกรรมการพิจารณากำหนดมาตรการอนุรักษ์ทรัพยากรสัตว์น้ำภายในเดือนธันวาคม 2569",
+    "ให้กรมประมงแจ้งผลและความคืบหน้าให้คณะกรรมาธิการทราบ และแจ้งสมาคมชาวประมงจังหวัดกระบี่",
     "other"
    ]
   ],
   "tags": [
    "ประมงพื้นบ้าน",
    "เขตทำประมง",
-   "วาระการประชุม"
+   "เรื่องร้องเรียน"
   ],
   "places": [
-   "กระบี่"
-  ]
+   "กระบี่",
+   "ตรัง"
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v37.mp4",
+    "poster": "img/poster37.jpg",
+    "vtt": "media/v37.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:04",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "37",
+    "size": 7143098
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v37.mp4",
+     "poster": "img/poster37.jpg",
+     "vtt": "media/v37.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:04",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "37",
+     "size": 7143098
+    }
+   ]
+  }
  },
  {
   "n": 36,
@@ -182,42 +402,114 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=YRqeOkwjHadPjDAAfV-O_sxb0IRv5-6kpPjGQdZXAayr90R5m2IN0xj8cpObCpzzk4CSEdew4SKle71-LmhY3BGacbQkmEWjzgCqr4JACjmB3WzuZo0ztkHJlXr-uCz0mBhSa0wbvcMZtktUuh2igqHLNk9TlG1cp16IQQ==&ref=11029559",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IPOOCXMeeoZSruR_3GniJu6l1gf8inXHzavubaHCU2aFbdKkGGS0ya1VDGOMc5kKSNvXFx0Qecybs6gur0sSccrTEMuSKY38Kh_62DOwlNUjCo8UqHLGdKUGVK5dkHOkdeeJBmExLoFMHooLXimaOoe8QOzc23vCgSgrHw==&ref=11029559",
     "size": 115759
    },
    {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=b5ZP9VmW9IP7uJU6u8IbybMF-FDqJ6hIu1noaAJ1zEvqO1bNwtU-rCZJmjnFB8coQMoFHvVHgoMzd9ld7EGKogIG9l_djDCQY4GAh4yLk3862xJuM62D4oA57TLXMZl-3RuczCd2qB2u2iEVZB7X9NIhEttTtMYwskEiWA==&ref=11204388"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=K2okKivEVyok_c_DxyIiMIFCuLTV5iCyTajoGyVPueXGYW-ckVcnYgQ6DDRwwhA7jLjkIHJvN6rOzdsA5qzctAAG3eAbB6l5kcymm9ikOK5PFsGuGWkyissFNmeR2IvzQhGP-_sAE_nd1D5tZRHVuB65TKLwQGgUaYPPZw==&ref=11204391"
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=wLDvOLcovQ33h6_pvxe24A6XJhQ--O2wnwe_2It3_07ZOCx4bFfoUNb7d0BEdWUQCscnrqdxL4pfqwPqalnwEkHakUGjDiPA2RFcf6iq3E3qZKhRi8n3A0U6xmq12lkCgXbvsRP8dnaJoyBuP3yTObmZq9-RyuNPNfoWQg==&ref=11204392"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lnAmXjNRRaDLiiOTG2M"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=fMadKXgjYeMjorwrXUg"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v36.mp4",
+    "poster": "img/poster36.jpg",
+    "vtt": "media/v36.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:16",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "36",
+    "size": 9812859
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v36.mp4",
+     "poster": "img/poster36.jpg",
+     "vtt": "media/v36.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:16",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "36",
+     "size": 9812859
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "agenda_only": true,
-  "headline": "ติดตามความคืบหน้าของคณะอนุกรรมาธิการ",
-  "summary": "วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ รายการด้านล่างเป็นระเบียบวาระตามหนังสือนัดประชุม คือ รับรองบันทึกการประชุม เรื่องสืบเนื่อง และความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการในคณะกรรมาธิการ",
+  "headline": "มติคณะรัฐมนตรีด้านการเกษตร: ราคาข้าวและการช่วยเหลือผู้ประสบอุทกภัย และกำหนดดูงานด้านน้ำที่ตรัง",
+  "summary": "ที่ประชุมรับทราบมติคณะรัฐมนตรีเมื่อ 20 ต.ค. 2569 ที่เกี่ยวกับการเกษตร ได้แก่ มาตรการช่วยเหลือและฟื้นฟูผู้ประสบอุทกภัย ปี 2569 มาตรการรักษาเสถียรภาพราคาข้าวเปลือก 5 โครงการ และมาตรการข้าวโพดเลี้ยงสัตว์ ปีการผลิต 2569/2570 และรับทราบว่าคณะรัฐมนตรีรับทราบผลการพิจารณารายงานการศึกษาเรื่องการบริหารจัดการหนี้สินครัวเรือนเกษตรกรไทยแล้ว คณะอนุกรรมาธิการ 3 คณะรายงานความคืบหน้าของร่างรายงานการศึกษา เรื่องเครือข่ายระบบเกษตรครบวงจร น้ำนอกเขตชลประทาน และการจัดการสัตว์จรจัด ที่ประชุมพิจารณาหนังสือตอบจากกรมปศุสัตว์และกระทรวงพาณิชย์เรื่องการส่งออกเนื้อโคฮาลาล และพิจารณาร่างกำหนดการดูงานการบริหารจัดการทรัพยากรน้ำที่จังหวัดตรัง 26–27 พ.ย. 2569",
   "items": [
    [
-    "รับรองบันทึกการประชุม และเรื่องสืบเนื่อง",
-    "วาระที่ 2–4",
+    "มติคณะรัฐมนตรี 20 ต.ค. 2569 ด้านการเกษตร: ช่วยเหลือและฟื้นฟูผู้ประสบอุทกภัย ปี 2569 รักษาเสถียรภาพราคาข้าวเปลือก 5 โครงการ (กรอบวงเงิน 58,000 ล้านบาท) และข้าวโพดเลี้ยงสัตว์ ปีการผลิต 2569/2570",
+    "รับทราบ",
     "other"
    ],
    [
-    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 5",
+    "รายงานการพิจารณาศึกษาเรื่องการบริหารจัดการหนี้สินครัวเรือนเกษตรกรไทย: คณะรัฐมนตรีรับทราบผลการพิจารณาเมื่อ 29 ก.ย. 2569",
+    "รับทราบ",
+    "other"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการศึกษาเครือข่ายระบบเกษตรครบวงจรตามมาตรฐานสากล: ร่างรายงานระบุปัญหาสำคัญ 8 ประการ เสนอมาตรการระยะเร่งด่วน ระยะกลาง และระยะยาว และโครงการนำร่องในพื้นที่",
+    "พิจารณา",
     "sub"
    ],
    [
-    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
-    "วาระที่ 6",
-    "other"
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทาน: ปรับร่างรายงาน พื้นที่นำร่อง 5 จังหวัด ธนาคารน้ำใต้ดินเป็นทางเลือกตามความเหมาะสมของพื้นที่ และศูนย์ข้อมูลน้ำระดับจังหวัด",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านปศุสัตว์และการประมง: รวบรวมข้อมูลสำหรับร่างรายงาน และกำหนดดูงานสถานพักพิงสุนัขจรจัด จ.อุทัยธานี 12–13 พ.ย. 2569",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "หนังสือตอบจากกรมปศุสัตว์และกระทรวงพาณิชย์: การส่งออกเนื้อโคฮาลาลไปตะวันออกกลาง และราคาโคเนื้อตกต่ำ",
+    "แจ้งผู้ร้องเรียนและยุติเรื่อง",
+    "complaint"
+   ],
+   [
+    "ร่างกำหนดการศึกษาดูงานการบริหารจัดการทรัพยากรน้ำเพื่อการพัฒนาภาคการเกษตร จ.ตรัง 26–27 พ.ย. 2569",
+    "พิจารณา",
+    "visit"
    ]
   ],
   "tags": [
+   "นโยบายเกษตร",
+   "ข้าว",
+   "ราคาสินค้าเกษตร",
+   "อุทกภัย",
+   "หนี้สินเกษตรกร",
    "อนุกรรมาธิการ",
-   "วาระการประชุม"
+   "โคเนื้อ",
+   "ฮาลาล",
+   "เรื่องร้องเรียน",
+   "ศึกษาดูงาน"
   ],
-  "places": []
+  "places": [
+   "ตรัง",
+   "อุทัยธานี",
+   "ชัยนาท",
+   "สิงห์บุรี",
+   "ลพบุรี",
+   "สระบุรี",
+   "สุพรรณบุรี"
+  ]
  },
  {
   "n": 35,
@@ -248,7 +540,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=f4uKFOQSOYKhcAeq6wo"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v35.mp4",
+    "poster": "img/poster35.jpg",
+    "vtt": "media/v35.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:15",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "35",
+    "size": 9872757
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v35.mp4",
+     "poster": "img/poster35.jpg",
+     "vtt": "media/v35.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:15",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "35",
+     "size": 9872757
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "ติดตามโครงการเขื่อนแควน้อย กาญจนบุรี ปัญหาต้นยางพาราในระยอง และหนังสือตอบเรื่องราคาสินค้าเกษตร",
@@ -351,7 +668,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=yyaquMISVUhiVWucRuA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/agriculture/2569/media/v34.mp4",
+    "poster": "img/poster34.jpg",
+    "vtt": "media/v34.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "3:43",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "34",
+    "size": 8437808
+   },
+   "videos": [
+    {
+     "src": "/video-2/agriculture/2569/media/v34.mp4",
+     "poster": "img/poster34.jpg",
+     "vtt": "media/v34.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "3:43",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "34",
+     "size": 8437808
+    }
+   ]
+  },
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "headline": "เห็นชอบข้อสังเกตเพิ่มเติมท้ายรายงานความมั่นคงทางอาหาร และติดตามงานของคณะอนุกรรมาธิการ",
@@ -448,47 +790,69 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=szcPfH1HOJiYXQXM70hzaalU1UofeEG8MkQW5TFNG16X2wt1TFo07zOc0lBnaRHx9jAv-FhwfhtCsTV9yP5hI6qer6xUuVcGo2-lThY4i-OaQg3IhMwBCa1GmQgeyKx4l6JSYQ497B-7RGN1rZwhzfzcYK5rG-NKYTndow==&ref=10836641",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zfohs7AIQkGBZk2FBkhAG3JxFIcoJuanFXGsXm4-PTEflIE8pja79ptLUDkwcTYO-Iai0Ggcb3Z_-89tiuHmhReJt_CRkYs07HDrkXTkeYsUtnEE2WRSESW8kQ9vVNqxJBYGPwrCb10DCqxcInwB1sJ65xBQ0hZe2Hmagw==&ref=10836641",
     "size": 128217
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=zVRhfTu_jRJdaMtPTKoKuWUxyW-h1nkdI4oH58LO_sTj8dsHw4D8a3bwnvMygbPIfHdj7HfgKWZZnsWD2JDup3HcLm1annK51VQmp9d7JSEGvcVHO8lJ2NYXiZcIejTm7p0oj3KBWY8hfh0sJEC5SgaVA_xikj9nL0S0_w==&ref=10991456"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=rIWP_EnUg_KDU8h9YFHPYE4Jj_NY1Pmka8nuQ-3rh1JJUoNfMNg0In-ahQjmkVh7Sb5iGEXdUR3aM506yTCsoqD6zYe6A474Q9wJJ9bzpWex_i8YcS93wMZ9rHdxdEU_M-RZAFkNg8gjqZ8c7wE6sZc0EoC1yf9hk3hnjg==&ref=10991456"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TdjyhQpLQAXe1O1mbSe4M5VS0s5cHi8QiK3Qf08hYNyg7HmbHlPDufad7m2OMIt--dm2wnnTLw-ki27wRMaiTsinSrD8CbhScbEbfxBMTJiUQzDGVjnf4jUVGtuoMIugrHOgfqOXxIo40a6Anfe7jYcps1xfLOVglJCsXA==&ref=11195012",
+    "size": 1948276
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hMxFplgudEMfAGn59C_LfNPU_Ibtmc58-19mofJIJMODzBWSDEQrZjTANvvUeGce_ne99A9qExnagMXI52qPGQlYnooG5gAqTS5tLKP6J2XOSR5qaqgiGZrjwUlzRdomAcZ3vl3WNECbFnmqkfmuuv-CU7nOz1IySngjfA==&ref=11195014"
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=VIIb3gsmqDp99pd991M"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=GgOkbvDhyLhdk91PrLg"
    }
   ],
-  "media": {},
   "chair": "นายสุนทร เชาว์กิจค้า",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "agenda_only": true,
-  "headline": "พันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว: เชิญอธิบดีกรมการข้าวมาให้ข้อมูล",
-  "summary": "วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ รายการด้านล่างเป็นระเบียบวาระตามหนังสือนัดประชุม คือ การปรับปรุงพัฒนาพันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว เพื่อส่งเสริมและพัฒนาเกษตรกรไทย โดยเชิญอธิบดีกรมการข้าวมาให้ข้อมูล และความคืบหน้าของคณะอนุกรรมาธิการ",
+  "headline": "กรมการข้าวให้ข้อมูลการพัฒนาและคุ้มครองพันธุ์ข้าว และติดตามงานของคณะอนุกรรมาธิการ",
+  "summary": "ที่ประชุมรับทราบข้อมูลจากรองอธิบดีกรมการข้าวและเจ้าหน้าที่ที่เกี่ยวข้อง เรื่องการปรับปรุงพัฒนาพันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว โดยเฉพาะแนวทางคุ้มครองสิทธิของเกษตรกรในการเก็บ แลกเปลี่ยน และขยายพันธุ์ข้าวไว้ปลูกต่อ และผลกระทบต่อเกษตรกรภายใต้ระบบคุ้มครองพันธุ์พืชใหม่ตามอนุสัญญา UPOV 1991 จากนั้นรับฟังความคืบหน้าของคณะอนุกรรมาธิการ 3 คณะ ได้แก่ แนวทางจัดตั้ง “เขตอุตสาหกรรมเกษตรมูลค่าเพิ่มครบวงจร” บนที่ราชพัสดุ โดยใช้ตลาดนำการผลิต สรุปผลดูงานการบริหารจัดการน้ำนอกเขตชลประทานที่ จ.สระบุรี และ จ.ลพบุรี 17–18 ก.ย. 2569 พร้อมกำหนดดูงานที่ จ.ชัยนาท จ.สุพรรณบุรี และ จ.สิงห์บุรี 8–9 ต.ค. 2569 และแนวทางป้องกันและแก้ไขปัญหาโรคพิษสุนัขบ้า ซึ่งปี 2569 พบผู้เสียชีวิต 11 ราย และพบโรคในสัตว์ 300 ราย",
   "items": [
    [
-    "การปรับปรุงพัฒนาพันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว (เชิญอธิบดีกรมการข้าวมาให้ข้อมูล)",
-    "วาระที่ 5.1",
+    "การปรับปรุงพัฒนาพันธุ์ข้าว การคุ้มครองพันธุ์ข้าว และการผลิตเมล็ดพันธุ์ข้าว: สิทธิของเกษตรกรในการเก็บ แลกเปลี่ยน และขยายพันธุ์ข้าว และผลกระทบจากระบบคุ้มครองพันธุ์พืชใหม่ตามอนุสัญญา UPOV 1991",
+    "รองอธิบดีกรมการข้าวมาให้ข้อมูล",
     "other"
    ],
    [
-    "ความคืบหน้าการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 5.2",
+    "ความคืบหน้าของคณะอนุกรรมาธิการศึกษาเครือข่ายระบบเกษตรครบวงจรตามมาตรฐานสากล: แนวทางจัดตั้ง “เขตอุตสาหกรรมเกษตรมูลค่าเพิ่มครบวงจร” บนที่ราชพัสดุ ศูนย์บริการแบบ One Stop Service และให้ตลาดร่วมกำหนดชนิด ปริมาณ คุณภาพ และราคาล่วงหน้า",
+    "พิจารณา",
     "sub"
    ],
    [
-    "เรื่องอื่น ๆ และกำหนดวันประชุมครั้งต่อไป",
-    "วาระที่ 6",
-    "other"
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านการบริหารจัดการน้ำนอกเขตชลประทาน: สรุปผลดูงาน จ.สระบุรี และ จ.ลพบุรี 17–18 ก.ย. 2569 เสนอพื้นที่นำร่อง (Sandbox) และจุดประสานงานกลางเพื่อลดขั้นตอนการขออนุญาตพัฒนาแหล่งน้ำ",
+    "พิจารณา",
+    "sub"
+   ],
+   [
+    "ความคืบหน้าของคณะอนุกรรมาธิการด้านปศุสัตว์และการประมง: บทบาทฝ่ายปกครองและท้องถิ่นในการป้องกันโรคพิษสุนัขบ้า การฉีดวัคซีน การทำหมัน วัคซีนชนิดกิน (ORV) และระบบ Rabies One Data",
+    "พิจารณา",
+    "sub"
    ]
   ],
   "tags": [
    "ข้าว",
    "พันธุ์พืช",
-   "วาระการประชุม"
+   "อนุกรรมาธิการ",
+   "อุตสาหกรรมเกษตร",
+   "บริหารจัดการน้ำ",
+   "โรคพิษสุนัขบ้า"
   ],
-  "places": []
+  "places": [
+   "สระบุรี",
+   "ลพบุรี",
+   "ชัยนาท",
+   "สุพรรณบุรี",
+   "สิงห์บุรี"
+  ],
+  "media": {}
  },
  {
   "n": 32,

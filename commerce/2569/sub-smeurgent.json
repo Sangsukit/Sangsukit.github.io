@@ -1,5 +1,27 @@
 [
  {
+  "n": 18,
+  "date": "2026-11-24",
+  "time": "",
+  "room": "",
+  "docs": [
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=SBdzAr9NrGU0ed050CA"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "การประชุมครั้งที่ 18/2569",
+  "summary": "นัดประชุมครั้งนี้ วุฒิสภายังไม่ได้เผยแพร่หนังสือนัดประชุม เปิดอ่านเอกสารต้นฉบับของรัฐสภาได้จากหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [],
+  "tags": [],
+  "places": [],
+  "pending": false,
+  "upcoming": true
+ },
+ {
   "n": 17,
   "date": "2026-11-17",
   "time": "10.30",
@@ -14,12 +36,12 @@
   "chair": "",
   "chair_role": "",
   "headline": "การประชุมครั้งที่ 17/2569",
-  "summary": "นัดประชุมครั้งนี้ ดูระเบียบวาระได้ในหน้ารายละเอียด บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "summary": "เว็บไซต์วุฒิสภายังไม่ได้เผยแพร่สรุปผลการประชุมครั้งนี้ เปิดอ่านหนังสือนัดประชุมและระเบียบวาระได้จากหน้ารายละเอียด",
   "items": [],
   "tags": [],
   "places": [],
-  "pending": false,
-  "upcoming": true
+  "pending": true,
+  "upcoming": false
  },
  {
   "n": 16,

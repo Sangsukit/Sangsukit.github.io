@@ -1,5 +1,82 @@
 [
  {
+  "n": 37,
+  "date": "2026-11-26",
+  "time": "09.00",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GyUcZXz2xjlafyk_yK1eAfsuy4g-Y0tjkHqKkG2V_au5MZfq2mp6Acxk7rqwagXPXqfJ3UXKDU3mMl7OVlkep2mrnvUZ0GQEPmgXDhIz-CXP2XWl0kgCpzpFBgnvoPx9Xx0--qoex93FKCjEkp-JvVBS8MpUO4_lwaNkjQ==&ref=11225916",
+    "size": 128408
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=BndybG7stqfQiSurUiI"
+   }
+  ],
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/v37pre.mp4",
+     "poster": "img/poster37pre.jpg",
+     "vtt": "media/v37pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:23",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "37p",
+     "size": 5934251
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/v37pre.mp4",
+    "poster": "img/poster37pre.jpg",
+    "vtt": "media/v37pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:23",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "37p",
+    "size": 5934251
+   }
+  },
+  "chair": "นายป.ไท มนตรี",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "พิจารณารายงานการศึกษา 2 ฉบับ: กลุ่มชาติพันธุ์ และเด็กเกิดน้อย",
+  "summary": "การประชุมวันพฤหัสบดีที่ 26 พฤศจิกายน 2569 เวลา 09.00 น. ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา และผ่านสื่ออิเล็กทรอนิกส์ ตามหนังสือนัดประชุม วาระคือการแสดงความชื่นชมและให้กำลังใจกรณีพลเมืองดีช่วยเหลือรถเก๋งจมน้ำ การพิจารณารายงานการพิจารณาศึกษา 2 ฉบับ คือ เรื่อง กลไกการบังคับใช้พระราชบัญญัติคุ้มครองและส่งเสริมวิถีชีวิตกลุ่มชาติพันธุ์ พ.ศ. 2569 และเรื่อง แนวทางการรับมือกับการเปลี่ยนแปลงโครงสร้างประชากรจากภาวะเด็กเกิดน้อย และการส่งเสริมการเกิดและเติบโตอย่างมีคุณภาพ และความคืบหน้าโครงการเทิดพระเกียรติพ่อของแผ่นดิน เนื่องในวันชาติและวันพ่อแห่งชาติ ประจำปี 2569 สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "การแสดงความชื่นชมและให้กำลังใจกรณีพลเมืองดีช่วยเหลือรถเก๋งจมน้ำ",
+    "วาระที่ 3.1",
+    "other"
+   ],
+   [
+    "รายงานการพิจารณาศึกษา เรื่อง กลไกการบังคับใช้พระราชบัญญัติคุ้มครองและส่งเสริมวิถีชีวิตกลุ่มชาติพันธุ์ พ.ศ. 2569",
+    "วาระที่ 3.2",
+    "other"
+   ],
+   [
+    "รายงานการพิจารณาศึกษา เรื่อง แนวทางการรับมือกับการเปลี่ยนแปลงโครงสร้างประชากรจากภาวะเด็กเกิดน้อย และการส่งเสริมการเกิดและเติบโตอย่างมีคุณภาพ",
+    "วาระที่ 3.2",
+    "other"
+   ],
+   [
+    "ความคืบหน้าโครงการเทิดพระเกียรติพ่อของแผ่นดิน เนื่องในวันชาติและวันพ่อแห่งชาติ ประจำปี 2569",
+    "วาระที่ 3.3",
+    "other"
+   ]
+  ],
+  "tags": [
+   "กลุ่มชาติพันธุ์",
+   "เด็กเกิดน้อย",
+   "วันพ่อ",
+   "วาระการประชุม"
+  ],
+  "places": []
+ },
+ {
   "n": 36,
   "date": "2026-11-19",
   "time": "09.00",
@@ -7,12 +84,12 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=qudZEsVvZdhbp96WSHtshT5ZqlncCMfDQ8n-BwdQly7KRqgfsCO8Q0VlzSXR6twwzSA5u_aiVgPJWYdk071DRX3cIqCzIv-dG2LOGlNN7fTFh5MGz677H83VeYQZpS11N6XksAJg7N72UaHBbqIO-V4eBtG-0XsAlifK7g==&ref=11127498",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=n1jHs9CBBa4SplyrLoL-QZZbZMc8T-VLCfwt1gOyx5adQiZtmWCHjgyUEx3YjXROFuR6YueCISmB5odCIlNFLEYam_2dYj_cCGHEl3pFW2ByFn3seDLWTNciSrE9J6Pr82FIaL0Hfg_m-XW_K9rAEtZUXXISCTuad5ab5A==&ref=11127498",
     "size": 111307
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=mQMjpBKfhPeepk8HLAc"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=WATeND1CZuG6DrZfnmg"
    }
   ],
   "media": {
@@ -43,7 +120,7 @@
   },
   "chair": "นายป.ไท มนตรี",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
+  "agenda_only": true,
   "headline": "สรุปการสัมมนาโครงสร้างประชากร และเตรียมลงพื้นที่เชียงใหม่–ลำปาง",
   "summary": "การประชุมวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 เวลา 09.00 น. ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการสรุปผลการสัมมนาเรื่อง “โครงสร้างประชากรและการพัฒนาคุณภาพชีวิต” (12 พ.ย. 2569) ร่างกำหนดการลงพื้นที่จังหวัดเชียงใหม่และลำปาง การร่วมกิจกรรมโครงการประกวดวาดภาพสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี หัวข้อ “สมเด็จพระกนิษฐาธิราชเจ้าที่เรารัก” ของคณะอนุกรรมาธิการด้านผู้สูงอายุฯ และรายงานความคืบหน้าของกรรมาธิการที่เป็นกรรมาธิการวิสามัญ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
   "items": [

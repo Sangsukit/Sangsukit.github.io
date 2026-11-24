@@ -1,5 +1,71 @@
 [
  {
+  "n": 29,
+  "date": "2026-11-24",
+  "time": "09.00",
+  "room": "ห้องประชุม 201 ชั้น 2 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=bCF32pintfSZslWNB4EV1RIhoItjb95LAaYgw5IBZ-ZtwdYnB8dHzOTtVqTuM4LTbmI3u6iEeAoFA-lN0nM9zkkrmBUHgwnFQk3E-eypv96xEX7M3KriL1TIvU_egEblIviOAxUDrywBERKIc9GIUkV5e8GD2Uh4h-Z12w==&ref=11235014"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=AJYzcur4bhJnlOFLUpY"
+   }
+  ],
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/sub-women-v29pre.mp4",
+     "poster": "img/poster-sub-women-29pre.jpg",
+     "vtt": "media/sub-women-v29pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:00",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-29p",
+     "size": 4731360
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/sub-women-v29pre.mp4",
+    "poster": "img/poster-sub-women-29pre.jpg",
+    "vtt": "media/sub-women-v29pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:00",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-29p",
+    "size": 4731360
+   }
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "วางแผนการดำเนินงานของคณะอนุกรรมาธิการในระยะต่อไป",
+  "summary": "นัดประชุมวันอังคารที่ 24 พฤศจิกายน 2569 เวลา 09.00 น. ห้องประชุม 201 ชั้น 2 อาคารรัฐสภา และผ่านสื่ออิเล็กทรอนิกส์ วาระคือการพิจารณาแผนการดำเนินงานของคณะอนุกรรมาธิการในระยะต่อไป ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "พิจารณาแผนการดำเนินงานของคณะอนุกรรมาธิการในระยะต่อไป",
+    "วาระที่ 3",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "สตรี",
+   "แผนงาน",
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุม 201 ชั้น 2 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 28,
   "date": "2026-11-17",
   "time": "09.30",
@@ -20,7 +86,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=JIZfhcxgbbLsw9FzwWM"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/sub-women-v28.mp4",
+     "poster": "img/poster-sub-women-28.jpg",
+     "vtt": "media/sub-women-v28.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:19",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-28",
+     "size": 5390123
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/sub-women-v28.mp4",
+    "poster": "img/poster-sub-women-28.jpg",
+    "vtt": "media/sub-women-v28.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:19",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-28",
+    "size": 5390123
+   }
+  },
   "chair": "นางอจลา ณ ระนอง",
   "chair_key": "achala",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
@@ -72,7 +163,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hIg29tT0pFBDzu4swmo"
    }
   ],
-  "media": {},
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/social/2569/media/sub-women-v27.mp4",
+     "poster": "img/poster-sub-women-27.jpg",
+     "vtt": "media/sub-women-v27.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "1:48",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "women-27",
+     "size": 4391422
+    }
+   ],
+   "video": {
+    "src": "/video-2/social/2569/media/sub-women-v27.mp4",
+    "poster": "img/poster-sub-women-27.jpg",
+    "vtt": "media/sub-women-v27.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "1:48",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "women-27",
+    "size": 4391422
+   }
+  },
   "chair": "นางอจลา ณ ระนอง",
   "chair_key": "achala",
   "chair_role": "ประธานคณะอนุกรรมาธิการ",
