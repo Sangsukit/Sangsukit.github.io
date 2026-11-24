@@ -38,6 +38,32 @@
    "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
    "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
    "t": "ห้องประชุมกรรมาธิการ CA 331 ชั้น 3 อาคารรัฐสภา"
+  },
+  "media": {
+   "video": {
+    "src": "/video-2/environment/2569/media/sub-water-v5pre.mp4",
+    "poster": "img/poster-sub-water-5pre.jpg",
+    "vtt": "media/sub-water-v5pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:50",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "water-5p",
+    "size": 4537819
+   },
+   "videos": [
+    {
+     "src": "/video-2/environment/2569/media/sub-water-v5pre.mp4",
+     "poster": "img/poster-sub-water-5pre.jpg",
+     "vtt": "media/sub-water-v5pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:50",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "water-5p",
+     "size": 4537819
+    }
+   ]
   }
  },
  {
