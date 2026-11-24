@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=m1Yewxq_vcMbfylZp3Y"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/military/2569/media/sub-holistic-v22pre.mp4",
+    "poster": "img/poster-sub-holistic-22pre.jpg",
+    "vtt": "media/sub-holistic-v22pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:06",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "holistic-22p",
+    "size": 5291449
+   },
+   "videos": [
+    {
+     "src": "/video-2/military/2569/media/sub-holistic-v22pre.mp4",
+     "poster": "img/poster-sub-holistic-22pre.jpg",
+     "vtt": "media/sub-holistic-v22pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "holistic-22p",
+     "size": 5291449
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "รับฟังกองกำลังเทพสตรีและกองบัญชาการป้องกันชายแดนจันทบุรีและตราด เรื่องเขตแดนและความมั่นคงตามแนวชายแดน",

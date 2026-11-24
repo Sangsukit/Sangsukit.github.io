@@ -7,32 +7,48 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=a8Z8bycDFPHZzTb53iOxmlpzOulrm1ORIgPPQDbKGgFaPJ2YHcr6Ur37NC4hM3alCDkprBI5ZsLhE5SOBvLT7eZR6rM5AN81stVWr4MOyGzRIx2mkyRcMycbKjiqH1GuA6SKC0vnzT1yhaMiLly0nvUm-3k5jpR-kqFbfA==&ref=11175192",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IVv5Cl59vr8xzoGbHEFHxRSHC4fQHokpzsDYYpv4gTzTOObkwdfyggVZnyo71KauvhFGFIoyuTASbkwzQGuE1wGc_rYja37H31hfj7TwUogZ6wnCPZWc1Dch_-REL_I-xhPluWcKWTgxp1sb0MDfJW7l_G3dmn-4DFJ1Ow==&ref=11175192",
     "size": 123897
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=LWP1uj5JAfFfOQSAHxP8xxgttedIRPMVlftYt9Jk7T02VRjJgGtkgt1ia99MtV9IkHiDiX6o3cxlKkSLwh0ESMxc3clY6F-8waQ0RL0OcC00dLrMhMFLFuiDY53lr6u6dDct2dJfp_48tkl2neb9sOaAIHTq9UnWpY451A==&ref=11175270",
-    "size": 123897
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=p-7Igo9nEmr81OJfr0XOPhTZ-RhqHQuFZy4E-YqB1TKSBr6Myx3EAq7ltSzVgcRGeT05Ml3CMmZE2x9FKO7S-sWtXh5F_STn097YMGRYxWoWUCOaNyC00rJRGPtxOvstJ8e72mkGSmMyZgxzKzrFZ2FNBrxaRqVOTgqvzQ==&ref=11175270",
+    "size": 123898
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=kSzzBlQ3mNAXUXuTAH3nvaHwKS8TMQSiDO5T9X1Rz1jJm4ZsjiUwVAfWhfkFqzXH9UZYjUHOAwmWZUVbwkO0g2EV4LBNLKvPpH-knwSBeI2ENySNunut04a8dhLXUauqhZGRE3ftWyh1yQsjKzhl5PoQUVtY07EqOq_ENQ==&ref=11216597",
+    "size": 781819
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Twrd6p4zlT9gnPNwxws"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=6uPBB79fV8Ot0dhCXAw"
    }
   ],
   "media": {
    "video": {
-    "src": "/video-1/education/2569/media/sub-learning-v23pre.mp4",
-    "poster": "img/poster-sub-learning-23pre.jpg",
-    "vtt": "media/sub-learning-v23pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:06",
+    "src": "/video-2/education/2569/media/sub-learning-v23.mp4",
+    "poster": "img/poster-sub-learning-23.jpg",
+    "vtt": "media/sub-learning-v23.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "2:48",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "learning-23p",
-    "size": 5059624
+    "ck": "learning-23",
+    "size": 6528638
    },
    "videos": [
+    {
+     "src": "/video-2/education/2569/media/sub-learning-v23.mp4",
+     "poster": "img/poster-sub-learning-23.jpg",
+     "vtt": "media/sub-learning-v23.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "2:48",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "learning-23",
+     "size": 6528638
+    },
     {
      "src": "/video-1/education/2569/media/sub-learning-v23pre.mp4",
      "poster": "img/poster-sub-learning-23pre.jpg",
@@ -46,30 +62,35 @@
     }
    ]
   },
-  "chair": "",
-  "chair_role": "",
-  "headline": "แนวทางขับเคลื่อนนโยบายเด็กปฐมวัยในสภาวะวิกฤต “3 เร่ง 3 ลด 3 เพิ่ม”",
-  "summary": "นัดประชุมวันพุธที่ 18 พฤศจิกายน 2569 เวลา 13.30 น. ห้องประชุมกรรมาธิการ CA 329 ชั้น 3 อาคารรัฐสภา วาระคือการพิจารณาแนวทางการขับเคลื่อนนโยบายเด็กปฐมวัย เพื่อส่งเสริมพัฒนาการเด็กปฐมวัยในสภาวะวิกฤต โดยเชิญคณะทำงานประชาสัมพันธ์แผนการขับเคลื่อนข้อเสนอเชิงนโยบาย “3 เร่ง 3 ลด 3 เพิ่ม” ในสำนักงานเลขาธิการสภาการศึกษา มานำเสนอข้อมูล ตามหนังสือนัดประชุม บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "chair": "นายวิวัฒน์ รุ้งแก้ว",
+  "chair_role": "ประธานคณะอนุกรรมาธิการ",
+  "headline": "ขับเคลื่อนนโยบายเด็กปฐมวัย “3 เร่ง 3 ลด 3 เพิ่ม” และลดการใช้หน้าจอในเด็กเล็ก",
+  "summary": "ที่ประชุมพิจารณาแนวทางการขับเคลื่อนนโยบายเด็กปฐมวัยเพื่อส่งเสริมพัฒนาการเด็กในสภาวะวิกฤต โดยเชิญคณะทำงานของสำนักงานเลขาธิการสภาการศึกษา (สกศ.) มานำเสนอข้อเสนอเชิงนโยบาย “3 เร่ง 3 ลด 3 เพิ่ม” ซึ่งคณะรัฐมนตรีเห็นชอบแล้ว 3 เร่ง คือ เร่งให้ความรู้แก่พ่อแม่ผู้ปกครอง เร่งส่งเสริมสวัสดิการเด็กถ้วนหน้า และเร่งเสริมความเข้มแข็งขององค์กรปกครองส่วนท้องถิ่น 3 ลด คือ ลดการใช้หน้าจอ ลดความเครียด และลดความรุนแรง 3 เพิ่ม คือ เพิ่มกิจกรรมพัฒนาการผ่านงานบ้าน งานสวน งานครัว เพิ่มการใช้หนังสือนิทาน และเพิ่มเวลาคุณภาพของครอบครัว สกศ. และภาคีเครือข่ายได้ประกาศเจตนารมณ์งดใช้หน้าจอในเด็กอายุต่ำกว่า 2 ปี จัดทำสื่อ รายการวิทยุและโทรทัศน์ และจัดประชุมสร้างความเข้าใจในจังหวัดเชียงใหม่ นครราชสีมา และภูเก็ต ส่วนแผนปี 2570 จะขยายผลไปสู่การลดความรุนแรงควบคู่กับการลดหน้าจอ ส่งเสริมกิจกรรมดนตรี ศิลปะ และกีฬา และสื่อสารไปยัง อสม. และภาคประชาสังคม ที่ประชุมให้ข้อเสนอแนะว่าเด็กปฐมวัยเป็นฐานรากสำคัญของการพัฒนาประเทศ ควรส่งความรู้และแนวทางปฏิบัติไปถึงผู้ปฏิบัติงานด่านหน้า เช่น ครู ผู้บริหารสถานศึกษา ผู้ดูแลเด็กในสังกัดองค์กรปกครองส่วนท้องถิ่น อสม. และพ่อแม่ผู้ปกครอง และประธานคณะอนุกรรมาธิการเสนอให้ สกศ. ศึกษาแนวทางควบคุมการใช้สมาร์ตโฟนและแท็บเล็ตในสถานศึกษาสำหรับเด็กปฐมวัยและวัยเรียน",
   "items": [
    [
-    "แนวทางการขับเคลื่อนนโยบายเด็กปฐมวัยเพื่อส่งเสริมพัฒนาการในสภาวะวิกฤต (สำนักงานเลขาธิการสภาการศึกษา)",
-    "วาระที่ 3",
+    "ข้อเสนอเชิงนโยบาย “3 เร่ง 3 ลด 3 เพิ่ม” เพื่อพัฒนาการเด็กปฐมวัยในสภาวะวิกฤต ผลการดำเนินงาน และแผนปี 2570 (สกศ.)",
+    "รับฟังข้อมูล",
+    "sub"
+   ],
+   [
+    "ข้อเสนอแนะ: ส่งความรู้ถึงผู้ปฏิบัติงานด่านหน้า และศึกษาแนวทางควบคุมการใช้สมาร์ตโฟนและแท็บเล็ตในสถานศึกษา",
+    "พิจารณา",
     "sub"
    ]
   ],
   "tags": [
    "เด็กปฐมวัย",
    "พัฒนาการเด็ก",
-   "วาระการประชุม"
+   "หน้าจอ",
+   "สกศ."
   ],
-  "places": [],
-  "upcoming": true,
-  "map": {
-   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
-   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
-   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
-   "t": "ห้องประชุมกรรมาธิการ CA 329 ชั้น 3 อาคารรัฐสภา"
-  }
+  "places": [
+   "เชียงใหม่",
+   "นครราชสีมา",
+   "ภูเก็ต"
+  ],
+  "upcoming": false,
+  "chair_key": "wiwat"
  },
  {
   "n": 22,

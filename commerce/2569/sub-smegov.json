@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=XE8IS-diHOtXuK545Ps"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/commerce/2569/media/sub-smegov-v18pre.mp4",
+    "poster": "img/poster-sub-smegov-18pre.jpg",
+    "vtt": "media/sub-smegov-v18pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "1:47",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "smegov-18p",
+    "size": 4185461
+   },
+   "videos": [
+    {
+     "src": "/video-2/commerce/2569/media/sub-smegov-v18pre.mp4",
+     "poster": "img/poster-sub-smegov-18pre.jpg",
+     "vtt": "media/sub-smegov-v18pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "1:47",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "smegov-18p",
+     "size": 4185461
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "เตรียมความพร้อมการจัดสัมมนาของคณะอนุกรรมาธิการ",

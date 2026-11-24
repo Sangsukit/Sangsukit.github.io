@@ -20,7 +20,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8vylXWmSJET4Zx5em_s"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-1/foreign/2569/media/sub-sdg-v31pre.mp4",
+    "poster": "img/poster-sub-sdg-31pre.jpg",
+    "vtt": "media/sub-sdg-v31pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:30",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "sdg-31p",
+    "size": 5960118
+   },
+   "videos": [
+    {
+     "src": "/video-1/foreign/2569/media/sub-sdg-v31pre.mp4",
+     "poster": "img/poster-sub-sdg-31pre.jpg",
+     "vtt": "media/sub-sdg-v31pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:30",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "sdg-31p",
+     "size": 5960118
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "ติดตามการให้สัตยาบันอนุสัญญา ILO ฉบับที่ 87 และ 98: รับฟังภาคเอกชนและฝ่ายนายจ้าง",

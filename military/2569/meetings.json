@@ -11,11 +11,40 @@
     "size": 179531
    },
    {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=y2pbT80OYmZyWQqsPWKEthAfWGHH9b0qbPaQpRTDTTS8VP02gWzgIggXriZRg1zmx7CrC8AwTnxbpwfuZquzy2STfpNZgOOfTHfq2MZ-FO71ABPVqqPCSkj3mFlibbkp8l-M-beDSnx67VrUxd411wzkicLpETWX5jShcg==&ref=11236468"
+   },
+   {
     "k": "agenda",
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=ECVaCSxkx4a5IWY7VpA"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "/video-2/military/2569/media/v32pre.mp4",
+    "poster": "img/poster32pre.jpg",
+    "vtt": "media/v32pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:34",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "32p",
+    "size": 6388240
+   },
+   "videos": [
+    {
+     "src": "/video-2/military/2569/media/v32pre.mp4",
+     "poster": "img/poster32pre.jpg",
+     "vtt": "media/v32pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:34",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "32p",
+     "size": 6388240
+    }
+   ]
+  },
   "chair": "นายสมบูรณ์ หนูนวล",
   "chair_role": "ประธานคณะกรรมาธิการ",
   "upcoming": true,
@@ -64,31 +93,47 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tDtaW1llhIFftPYQ6tqpNZM3RQ2-WWed9b3XYP4md9cc5pK-JRph7CG7nywbjwudVa3oY9CJRTVVVvCDIuJ7ikESB8-5qAT7dAec_mvXudWtlRB8jAjVpy7q6_mZCJgihUdkrgjMw2i5WR4GsxfNTQ2S2fialAeeGPQloQ==&ref=11175760",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2nnsqvglNFFnTe6FniSd11bsWf81krpptnfJ1KEZYiPwC729Onsxf-5eFgcMuTJODNrr_UXRqK4lcoBJuWqzWu2WXwi88wK7ETMoMNCx5-pFJ1s6HtKPpliqBLiJlZsmnHS8jEcrQWvmtrEQ9TpFZOu4onf7dWGSibTX9g==&ref=11175760",
     "size": 192912
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=hujlPwxZkjGY8Y2iV5c8Y4QO-uzlr-kWJB7OtuZnRG_xNbWEeE-tVIcbcUzHamMoShatobabUajwO56H687GGAqb7SDZ51O5PbJpx3sEAE-RhVDAIQdp381EPOJZPpDLZU23mjNkxPC6tbDK2UXfQ5Denn0oqPqqXjcjEg==&ref=11207571"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yaYq8bUCadQL4DJ0T3v8jU6UZa3vmChDBnhDzfejJEtbAQLAcbcsnS8dCV9oIhGlx7c-L_1ML-1qvxzx9fEhf8PBucjmJXmFooiroLGhm03w42D_nkw19G5Kk2Z2D7J3uc8Q-p_GY4O9awCUQlov41tMQyJ1ByYbW6VhaQ==&ref=11207571"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=XoeekjxlOKKEEG5LbhFsSgOdrjQzClQegCSOf12xntSUTC0xMvjKdFRdP3_TJO_EG3umYnAZDdU_vXDaizB7fGRPVl9_D7bAD5yNIrM6h2kqzdX5KESF0DV_WcNkaGmK8dwQszlQI7nO-28j-ddO7bczUBo9S_P7J4wRDw==&ref=11244997",
+    "size": 1320449
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=YkZBABLBZU7gW_uy0vo"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hpEemZ6qCVuiEkzYhTw"
    }
   ],
   "media": {
    "video": {
-    "src": "/video-1/military/2569/media/v31pre.mp4",
-    "poster": "img/poster31pre.jpg",
-    "vtt": "media/v31pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:50",
+    "src": "/video-2/military/2569/media/v31.mp4",
+    "poster": "img/poster31.jpg",
+    "vtt": "media/v31.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:07",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "31p",
-    "size": 7206956
+    "ck": "31",
+    "size": 9798244
    },
    "videos": [
+    {
+     "src": "/video-2/military/2569/media/v31.mp4",
+     "poster": "img/poster31.jpg",
+     "vtt": "media/v31.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:07",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "31",
+     "size": 9798244
+    },
     {
      "src": "/video-1/military/2569/media/v31pre.mp4",
      "poster": "img/poster31pre.jpg",
@@ -104,43 +149,55 @@
   },
   "chair": "นายสมบูรณ์ หนูนวล",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
-  "headline": "ความมั่นคงแบบองค์รวม: เชิญหน่วยงานด้านธุรกิจ ภาษี ที่ดิน และการเงิน ร่วมประชุมเรื่องชาวต่างชาติ และรายงานผลการดำเนินงานปี 2569",
-  "summary": "การประชุมวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 เวลา 09.00 น. ห้องประชุม 406–407 ชั้น 4 (ฝั่งวุฒิสภา) อาคารรัฐสภา ตามหนังสือนัดประชุม วาระสำคัญคือการบริหารจัดการรักษาความมั่นคงแบบองค์รวม กรณีการเข้ามาของชาวต่างชาติในลักษณะที่อาจกระทบความมั่นคงและความสงบเรียบร้อย โดยเชิญผู้แทนกรมพัฒนาธุรกิจการค้า กรมสรรพากร กรมที่ดิน กรมโยธาธิการและผังเมือง กรมการศาสนา และเลขาธิการคณะกรรมการป้องกันและปราบปรามการฟอกเงิน ร่วมประชุม นอกจากนี้มีการติดตามงานของคณะอนุกรรมาธิการทั้ง 3 คณะ รายงานผลการศึกษาดูงานจังหวัดสงขลาและจังหวัดปัตตานี (30–31 ต.ค. 2569) ร่างรายงานสรุปผลการดำเนินงานประจำปีงบประมาณ 2569 และการแต่งตั้งที่ปรึกษากิตติมศักดิ์ ประจำปีงบประมาณ 2570 (เพิ่มเติม)",
+  "headline": "ความมั่นคงแบบองค์รวม: กรมธุรกิจ ภาษี ที่ดิน ศาสนา และสำนักงาน ป.ป.ง. ให้ข้อมูลเรื่องชาวต่างชาติ เห็นชอบรายงานเรื่องการต่อต้านโดรน",
+  "summary": "ที่ประชุมเชิญผู้แทน 6 หน่วยงาน ได้แก่ กรมพัฒนาธุรกิจการค้า กรมสรรพากร กรมที่ดิน กรมโยธาธิการและผังเมือง กรมการศาสนา และสำนักงาน ป.ป.ง. มาให้ข้อมูลเรื่องการเข้ามาของชาวต่างชาติในลักษณะที่อาจกระทบความมั่นคง โดยให้คณะอนุกรรมาธิการด้านความมั่นคงแบบองค์รวมสรุปผลการประชุมตลอดเดือนพฤศจิกายน แล้วเสนอแนวทางที่เป็นรูปธรรม เห็นชอบรายงานผลการศึกษาแนวทางส่งเสริมการวิจัยและพัฒนาระบบต่อต้านอากาศยานไร้คนขับ (Counter-UAS) เพื่อเสนอต่อที่ประชุมวุฒิสภา รับทราบงานของคณะอนุกรรมาธิการด้านกิจการทหาร เช่น การดูงานสำนักงานสลากกินแบ่งรัฐบาลเรื่องการส่งเสริมอาชีพทหารผ่านศึก และอนุมัติการเชิญ 11 หน่วยงานทหารมาให้ข้อมูลเรื่องการเตรียมพร้อมรับมือวิกฤตภาวะโลกร้อน 9 ธ.ค. 2569 รับคำเชิญของกองทัพอากาศร่วมพิธีเปิดการทดสอบและประเมินค่าการปฏิบัติการทางอากาศ 26 พ.ย. 2569 จ.ลพบุรี และอนุมัติการแต่งตั้งที่ปรึกษากิตติมศักดิ์เพิ่มเติม 15 คน",
   "items": [
    [
-    "การเข้ามาของชาวต่างชาติในลักษณะที่อาจกระทบความมั่นคง (เชิญกรมพัฒนาธุรกิจการค้า กรมสรรพากร กรมที่ดิน กรมโยธาธิการและผังเมือง กรมการศาสนา และเลขาธิการคณะกรรมการ ป.ป.ง. ร่วมประชุม)",
-    "วาระที่ 3.1",
+    "การเข้ามาของชาวต่างชาติในลักษณะที่อาจกระทบความมั่นคง (เชิญกรมพัฒนาธุรกิจการค้า กรมสรรพากร กรมที่ดิน กรมโยธาธิการและผังเมือง กรมการศาสนา และสำนักงาน ป.ป.ง. มาให้ข้อมูล)",
+    "รับทราบ ให้คณะอนุกรรมาธิการด้านความมั่นคงแบบองค์รวมสรุปผลและเสนอแนวทาง",
     "other"
    ],
    [
-    "ติดตามงาน รายงานผล และขออนุมัติการดำเนินงานของคณะอนุกรรมาธิการทั้ง 3 คณะ",
-    "วาระที่ 3.2",
+    "รายงานผลการศึกษาแนวทางส่งเสริมการวิจัยและพัฒนาระบบต่อต้านอากาศยานไร้คนขับ (Counter-UAS)",
+    "เห็นชอบ เสนอต่อที่ประชุมวุฒิสภา",
     "sub"
    ],
    [
-    "รายงานผลการศึกษาดูงานเรื่องการฟื้นฟูเยียวยาในจังหวัดชายแดนภาคใต้ (สงขลา ปัตตานี 30–31 ต.ค. 2569)",
-    "วาระที่ 3.3",
+    "คณะอนุกรรมาธิการ: การเชิญกองกำลังผาเมืองและกองกำลังนเรศวรมาให้ข้อมูลเรื่องความมั่นคงชายแดน รายงานเรื่องระบบบริหารการรักษาความมั่นคงภายใน การศึกษาเรื่องอุตสาหกรรมป้องกันประเทศ และการดูงานลพบุรี–สระบุรี",
+    "รับทราบและอนุมัติ",
+    "sub"
+   ],
+   [
+    "ข้อเสนอเรื่องผู้ได้รับผลกระทบจากสถานการณ์ในจังหวัดชายแดนภาคใต้",
+    "รับทราบผลการพิจารณา ส่งเรื่องให้ กอ.รมน. พิจารณาต่อไป",
+    "complaint"
+   ],
+   [
+    "เชิญ 11 หน่วยงานทหารมาให้ข้อมูลเรื่องการเตรียมพร้อมรับมือวิกฤตภาวะโลกร้อนและการช่วยเหลือประชาชน 9 ธ.ค. 2569",
+    "อนุมัติ",
+    "disaster"
+   ],
+   [
+    "พิธีเปิดการทดสอบและประเมินค่าการปฏิบัติการทางอากาศของกองทัพอากาศ 26 พ.ย. 2569 จ.ลพบุรี",
+    "รับทราบและเห็นชอบเข้าร่วม",
     "visit"
    ],
    [
-    "ร่างรายงานสรุปผลการดำเนินงานของคณะกรรมาธิการ ปีงบประมาณ 2569",
-    "วาระที่ 3.4",
-    "other"
-   ],
-   [
-    "แต่งตั้งที่ปรึกษากิตติมศักดิ์คณะกรรมาธิการ ปีงบประมาณ 2570 (เพิ่มเติม)",
-    "วาระที่ 3.5",
+    "แต่งตั้งที่ปรึกษากิตติมศักดิ์คณะกรรมาธิการ 15 คน",
+    "เห็นชอบ",
     "appoint"
    ]
   ],
   "tags": [
    "ชาวต่างชาติ",
    "ความมั่นคงแบบองค์รวม",
-   "รายงานประจำปี",
-   "วาระการประชุม"
+   "โดรน",
+   "ภาวะโลกร้อน"
   ],
-  "places": []
+  "places": [
+   "ลพบุรี",
+   "นนทบุรี"
+  ]
  },
  {
   "n": 30,
@@ -150,31 +207,47 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nLIK_Oo6c5kACwR8N7K15XsehwykFwkSiqkPXRt3sJvx2cQNNCOG1IT76sKHKh9eoxSdAx2L_3rTHxbuPH-wgHRa8eiI_TG7DDa8OzZfKQCD8VUPzIa-4_lCyPMrwN4p-opi6iuQ9HLry8pYwtikYKx-taPzFgFxb2a6dA==&ref=11127956",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=1_vjYN6OtVAERM3QcJtexjt2z-Kieed0cJ9CWyyAAYzQkhvabm3R0lKmRy363nd6TzEsvPJrgCZa0MMwJpiuE_1O_IVZEQGqI0w1pq9y_d3PKrsO683sy9FnQj5aqyUWxjmct2o7eLTaNwHxjy78ubqH6zB68MPeNCOTtQ==&ref=11127956",
     "size": 130675
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=C6s0XaLDeRWF91V_Q2GIB9TVPJQi5Aao85hclApBEvrQC0WWMEfU-Khj7S-E_kN6qY1jWICzvQifg2zNu-cQLVb8v_hg_u1I-SPOy-he4Hq2HGfmqFyhhNq7J3Gb8Fmr6V2V_9aHUI9jSRwfg6xbHVXd3VYKnO6wmSS5Ig==&ref=11156088"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=GgvNe65rz4sw8mToL_v7YJ8ClA-vUAK4-B1hgBV9mkXKKYhWbF0sKaK8v-cph_Jh4x6RFpZ4n8-A48WfgQ4n8s42oEjiyPrwI9DoKBHEVVvsyJSHk7kqngS65hCUB-ZnvCDbHkQmDvAuk75BrXDesqgJsjgyGmtc0fJtZg==&ref=11156088"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=DEuOJTcgGXGNRwkIL2ZaYjhl7nSC9Gtd1tNDZUFSjdJoKM9KF3XWNj4zsILIBtbm0xNxj1HSC2x2EZrrs0RttY4I6oC-uTUFJ0gFvWN7EHp1fMpOWJjpgjJc623qMfxITSaXUfmdRoUroG7VAeWnOWBmmKoGSlHmxS6yUA==&ref=11244991",
+    "size": 1205235
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=J9sE5aiS-iN5Ze0Y0aA"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=kLKnuIxCl1Y3P96PCC8"
    }
   ],
   "media": {
    "video": {
-    "src": "/video-1/military/2569/media/v30pre.mp4",
-    "poster": "img/poster30pre.jpg",
-    "vtt": "media/v30pre.th.vtt",
-    "kind": "pre",
-    "label": "วิดีโอก่อนการประชุม",
-    "dur": "2:35",
+    "src": "/video-2/military/2569/media/v30.mp4",
+    "poster": "img/poster30.jpg",
+    "vtt": "media/v30.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:06",
     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
-    "ck": "30p",
-    "size": 6619644
+    "ck": "30",
+    "size": 9617486
    },
    "videos": [
+    {
+     "src": "/video-2/military/2569/media/v30.mp4",
+     "poster": "img/poster30.jpg",
+     "vtt": "media/v30.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:06",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "30",
+     "size": 9617486
+    },
     {
      "src": "/video-1/military/2569/media/v30pre.mp4",
      "poster": "img/poster30pre.jpg",
@@ -190,27 +263,46 @@
   },
   "chair": "นายสมบูรณ์ หนูนวล",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
-  "headline": "ความมั่นคงแบบองค์รวม: เชิญหน่วยงานชี้แจงเรื่องชาวต่างชาติที่อาจกระทบความมั่นคง",
-  "summary": "การประชุมวันพฤหัสบดีที่ 12 พฤศจิกายน 2569 เวลา 09.00 น. ห้องประชุม 406–407 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระสำคัญคือการบริหารจัดการรักษาความมั่นคงแบบองค์รวมกรณีการเข้ามาของชาวต่างชาติในลักษณะที่อาจกระทบความมั่นคงและความสงบเรียบร้อย โดยเชิญหน่วยงาน เช่น สำนักงานสภาความมั่นคงแห่งชาติ สำนักข่าวกรองแห่งชาติ สำนักงานตรวจคนเข้าเมือง และกรมสอบสวนคดีพิเศษ มาชี้แจง สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "ความมั่นคงแบบองค์รวม: 8 หน่วยงานให้ข้อมูลเรื่องชาวต่างชาติที่อาจกระทบความมั่นคง",
+  "summary": "ที่ประชุมเชิญผู้แทน 8 หน่วยงาน ได้แก่ สำนักงานสภาความมั่นคงแห่งชาติ สำนักข่าวกรองแห่งชาติ ศูนย์รักษาความปลอดภัย กองบัญชาการกองทัพไทย กองบัญชาการตำรวจสันติบาล สำนักงานตรวจคนเข้าเมือง ตำรวจภูธรภาค 8 และภาค 9 และกรมสอบสวนคดีพิเศษ มาให้ข้อมูลเรื่องการเข้ามาของชาวต่างชาติในลักษณะที่อาจกระทบความมั่นคงและความสงบเรียบร้อย โดยให้คณะอนุกรรมาธิการด้านความมั่นคงแบบองค์รวมสรุปผลการประชุมตลอดเดือนพฤศจิกายน แล้วเสนอแนวทางที่เป็นรูปธรรมต่อคณะกรรมาธิการ นอกจากนี้ รับทราบความพร้อมการเข้าพบผู้บัญชาการทหารสูงสุด 18 พ.ย. 2569 อนุมัติงานของคณะอนุกรรมาธิการ เช่น การดูงานสำนักงานสลากกินแบ่งรัฐบาลเรื่องสวัสดิการทหารผ่านศึก และสัมมนาเรื่องกำลังพลสำรองยุคใหม่",
   "items": [
    [
-    "การเข้ามาของชาวต่างชาติในลักษณะที่อาจกระทบความมั่นคง (เชิญ สมช. สนข. ศรภ. บช.ส. สตม. บช.ภ.8 บช.ภ.9 และ DSI มาชี้แจง)",
-    "วาระที่ 3.1",
+    "การเข้ามาของชาวต่างชาติในลักษณะที่อาจกระทบความมั่นคง (เชิญ 8 หน่วยงานด้านความมั่นคง การข่าว ตำรวจ ตรวจคนเข้าเมือง และ DSI มาให้ข้อมูล)",
+    "รับทราบ ให้คณะอนุกรรมาธิการด้านความมั่นคงแบบองค์รวมสรุปผลและเสนอแนวทาง",
     "other"
    ],
    [
-    "รายงานความพร้อมการเดินทางและงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 3.2",
+    "ความพร้อมการเข้าพบหารือกับผู้บัญชาการทหารสูงสุด ณ กองบัญชาการกองทัพไทย 18 พ.ย. 2569",
+    "รับทราบ",
+    "visit"
+   ],
+   [
+    "คณะอนุกรรมาธิการ: ดูงานสำนักงานสลากกินแบ่งรัฐบาล (20 พ.ย. 2569) สัมมนาเรื่องการเปลี่ยนผ่านระบบการพัฒนากำลังสำรองยุคใหม่ เชิญหน่วยงานเรื่องภัยพิบัติจากภาวะโลกร้อน เชิญกองกำลังป้องกันชายแดนมาให้ข้อมูล และเตรียมเชิญหน่วยงานเรื่องความพร้อมรับมือภาวะสงครามขนาดใหญ่ (ธ.ค. 2569)",
+    "รับทราบและอนุมัติ",
     "sub"
+   ],
+   [
+    "สัมมนาเชิงปฏิบัติการเรื่องการเปลี่ยนผ่านระบบการพัฒนากำลังสำรองยุคใหม่ 19 ม.ค. 2570",
+    "อนุมัติ",
+    "seminar"
+   ],
+   [
+    "ข้อมูลประกอบการประชุมใหญ่สมัชชารัฐสภาอาเซียน (AIPA) ครั้งที่ 47 ณ กรุงมะนิลา",
+    "รับทราบ",
+    "other"
    ]
   ],
   "tags": [
    "ชาวต่างชาติ",
    "ความมั่นคงแบบองค์รวม",
-   "วาระการประชุม"
+   "กำลังพลสำรอง",
+   "ทหารผ่านศึก"
   ],
-  "places": []
+  "places": [
+   "นนทบุรี",
+   "ลพบุรี",
+   "สระบุรี"
+  ]
  },
  {
   "n": 29,
@@ -220,47 +312,99 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=gAzaxNqsLtNi1CpONiWUbD2wRCk6q9mU4NmVXgbz0SEdGJpF3k8XUHVja9d-xp8iecdLrUXue5NV1UW2uefQPnAVzua8TwwxrHs2QTLOxzJOd-0Qu7T3JipfZWMBsHuEl2lSYcJoETiOINVVMXTAxQhFP6S_ms6iVJWh3A==&ref=11079673",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KgvxJTP5-PVpxwdA_l-Y4wRdsrifR8Wu3sz3vAO-7qw-vFo6dMFzKSrzLIxrSkmr-CfXeG18fV4x2KTDFnSHcnKycJ5bwEiDkoPulqNCmjIL7vOpGY2ACAXv3yaojI08klxO-4q4MExJqiWMny1xZOBooSbQTC8rbQWfsQ==&ref=11079673",
     "size": 189148
    },
    {
     "k": "doc",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=PVbEzLu7Lo7Rjm3WJtXlqx5td1ra08t3dKZq7iBYq1T47pX8kbVgfAd4-MT_MXcZ3azKEmmNvUxz2yWz81ne82a7Jv6PtBY2hdiuiiqSokVTXOEDFn2E2dE9NKv_pZ2nustSlr28ck2KsICf5uhtpqodMwSOzxlAyrs_oQ==&ref=11109084"
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=3dVycxFxTO2YpKpksEY-XhpVOWHnR3SGZJXS8WKrRwZ2voQIQ-R-tEAk0paApfoRuFEiKvSWvKqPLMm7Qkc2AMo67fyYCxWBkjRfHjIM9-ATmASNa5cDabvDKuKqvJjZT8UbN0_SpGoQd6TJU_ayUUikCw67gHFfAJhxZA==&ref=11109084"
+   },
+   {
+    "k": "minutes",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=tEinSWlc41GirEblyZ0J-o3dU6qbbVuvWWv_4SN0twVDoADXGA9FCIEb2FHcRz1afIFAlJUz2zrpEPihmNmqjFHO45Lukz17dpeLTDy4yxmxOdO9zDvI_TsqfmLsU5Su4wdGZ0vUQOqSqw4js2j31RKijC0DvUk8Kmwt2Q==&ref=11244974"
+   },
+   {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=feu019A4OH4nQ-4KlIvRbKM6TvLqIxBJsJQ08Ic1YJDj6DHxuqldgwO7Znz3b1ozdlLg2najVoJK9q7uLpj-la1yHFT4VMMzFeG4dxrlxg1iNO4NyAkU76aUNkKjmPwZJeo3Puf2FYV_vXkllAW9sm3oAno99wTF5i0AmA==&ref=11244987",
+    "size": 1485328
    },
    {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=J1fUBXoczA3lfCldUco"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=zcbb5lXBiABHzlTKp0o"
    }
   ],
-  "media": {},
-  "chair": "นายสมบูรณ์ หนูนวล",
-  "chair_role": "ประธานคณะกรรมาธิการ",
-  "agenda_only": true,
-  "headline": "เรื่องร้องเรียน การเตรียมพบผู้บัญชาการทหารสูงสุด และติดตามงานของคณะอนุกรรมาธิการ",
-  "summary": "การประชุมวันพฤหัสบดีที่ 5 พฤศจิกายน 2569 เวลา 09.30 น. ห้อง CA 327 ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระสำคัญคือเรื่องร้องเรียนและข้อเสนอที่ส่งมายังคณะกรรมาธิการ กำหนดการเข้าพบหารือกับผู้บัญชาการทหารสูงสุดและผู้บังคับบัญชาระดับสูงที่กองบัญชาการกองทัพไทย และการติดตามงานของคณะอนุกรรมาธิการ สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "media": {
+   "videos": [
+    {
+     "src": "/video-2/military/2569/media/v29.mp4",
+     "poster": "img/poster29.jpg",
+     "vtt": "media/v29.th.vtt",
+     "kind": "post",
+     "label": "วิดีโอสรุปผลการประชุม",
+     "dur": "4:11",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "29",
+     "size": 9836204
+    }
+   ],
+   "video": {
+    "src": "/video-2/military/2569/media/v29.mp4",
+    "poster": "img/poster29.jpg",
+    "vtt": "media/v29.th.vtt",
+    "kind": "post",
+    "label": "วิดีโอสรุปผลการประชุม",
+    "dur": "4:11",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "29",
+    "size": 9836204
+   }
+  },
+  "chair": "นายวิรัตน์ รักษ์พันธ์",
+  "chair_role": "รองประธานคณะกรรมาธิการ คนที่สอง ปฏิบัติหน้าที่แทนประธาน",
+  "headline": "รับเรื่องอุปสรรคของอุตสาหกรรมป้องกันประเทศไว้พิจารณา เตรียมพบผู้บัญชาการทหารสูงสุด และมอบศึกษาการรับมือสถานการณ์ความมั่นคงโลก",
+  "summary": "ที่ประชุมรับทราบเรื่องที่วุฒิสภามอบหมาย เช่น การส่งนาวาตรี วุฒิพงศ์ พงศ์สุวรรณ กรรมาธิการ เป็นผู้แทนในคณะกรรมาธิการวิสามัญพิจารณาร่างพระราชบัญญัติการเดินเรือในน่านน้ำไทย รับเรื่องร้องเรียนเรื่องปัญหาอุปสรรคในการพัฒนาอุตสาหกรรมป้องกันประเทศไว้พิจารณา โดยมอบคณะอนุกรรมาธิการด้านไซเบอร์ฯ รวบรวมข้อมูลเบื้องต้น เห็นชอบกำหนดการเข้าพบหารือกับผู้บัญชาการทหารสูงสุด ณ กองบัญชาการกองทัพไทย 18 พ.ย. 2569 (เชิญรัฐมนตรีว่าการกระทรวงกลาโหมร่วมหารือด้วย) ติดตามงานของคณะอนุกรรมาธิการทั้ง 3 คณะ และหารือการเตรียมรับมือสถานการณ์ความมั่นคงของโลกที่อาจกระทบประเทศไทย โดยมอบคณะอนุกรรมาธิการด้านไซเบอร์ฯ ศึกษาเบื้องต้น",
   "items": [
    [
-    "เรื่องร้องเรียน เรื่องขอให้พิจารณา และข้อเสนอที่ส่งมายังคณะกรรมาธิการ",
-    "วาระที่ 3.1",
+    "ผู้แทนคณะกรรมาธิการในคณะกรรมาธิการวิสามัญพิจารณาร่างพระราชบัญญัติการเดินเรือในน่านน้ำไทย (ฉบับที่ ..) พ.ศ. .... (นาวาตรี วุฒิพงศ์ พงศ์สุวรรณ กรรมาธิการ)",
+    "รับทราบ",
+    "other"
+   ],
+   [
+    "เรื่องร้องเรียน: ปัญหาอุปสรรคและข้อจำกัดที่กล่าวอ้างว่ากระทบการพัฒนาอุตสาหกรรมป้องกันประเทศ",
+    "รับไว้พิจารณา มอบคณะอนุกรรมาธิการด้านไซเบอร์ฯ รวบรวมข้อมูลเบื้องต้น",
     "complaint"
    ],
    [
-    "กำหนดการศึกษาดูงานและหารือข้อราชการกับผู้บัญชาการทหารสูงสุด ณ กองบัญชาการกองทัพไทย",
-    "วาระที่ 3.2",
+    "ศึกษาดูงานและหารือข้อราชการกับผู้บัญชาการทหารสูงสุดและผู้บังคับบัญชาระดับสูง ณ กองบัญชาการกองทัพไทย 18 พ.ย. 2569",
+    "เห็นชอบ",
     "visit"
    ],
    [
-    "ติดตามผลการดำเนินงานของคณะอนุกรรมาธิการ",
-    "วาระที่ 3.3",
+    "คณะอนุกรรมาธิการ: ดูงานลพบุรี–สระบุรี (25–26 พ.ย. 2569) รายงานเรื่องกำลังพลสำรองกับการบรรเทาสาธารณภัย รายงานเรื่องการต่อต้านโดรน และการเชิญกองกำลังป้องกันชายแดนมาให้ข้อมูล",
+    "รับทราบและเห็นชอบ",
     "sub"
+   ],
+   [
+    "ร่วมพิธีรำลึกผู้ได้รับผลกระทบจากสงคราม ร่วมกับเอกอัครราชทูตสหราชอาณาจักรประจำประเทศไทย 8 พ.ย. 2569 (นางวราภัสร์ ไพพรรณรัตน์ รองประธานคณะกรรมาธิการ คนที่สาม เป็นผู้แทน)",
+    "รับทราบ",
+    "other"
+   ],
+   [
+    "การเตรียมรับมือสถานการณ์ความมั่นคงของโลกที่อาจกระทบประเทศไทย ทั้งด้านไซเบอร์ เทคโนโลยี พลังงาน และอาหาร",
+    "มอบคณะอนุกรรมาธิการด้านไซเบอร์ฯ ศึกษาเบื้องต้น",
+    "other"
    ]
   ],
   "tags": [
+   "อุตสาหกรรมป้องกันประเทศ",
    "กองทัพไทย",
-   "เรื่องร้องเรียน",
-   "วาระการประชุม"
+   "ความมั่นคงไซเบอร์",
+   "เรื่องร้องเรียน"
   ],
-  "places": []
+  "places": [
+   "ลพบุรี",
+   "สระบุรี"
+  ]
  },
  {
   "n": 28,

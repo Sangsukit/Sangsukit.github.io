@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//social-2569//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:social-2569-women-m29@sangsukit.github.io
+DTSTAMP:20261123T055907Z
+DTSTART:20261124T020000Z
+DTEND:20261124T050000Z
+SUMMARY:ประชุมคณะอนุกรรมาธิกา
+ รกิจการสตรี และผู้มีความ
+ หลากหลายทางเพศ (วุฒิสภา) ค
+ รั้งที่ 29/2569
+LOCATION:ห้องประชุม 201 ชั้น 2 อาคา
+ รรัฐสภา (สัปปายะสภาสถาน 1111 
+ ถนนสามเสน เขตดุสิต กรุงเท
+ พมหานคร)
+DESCRIPTION:นัดประชุมตามหนังสือน
+ ัดประชุมที่วุฒิสภาเผยแพร
+ ่ ใส่ปฏิทินเพื่อติดตามเท
+ ่านั้น ไม่ใช่คำเชิญเข้าร
+ ่วม กำหนดการอาจเปลี่ยนแป
+ ลง โปรดตรวจสอบกับเว็บไซต
+ ์วุฒิสภา เวลาสิ้นสุดเป็น
+ เวลาประมาณ (คลังการประชุม 
+ เว็บไซต์ไม่เป็นทางการ)\nรา
+ ยละเอียด: https://parliamentx.com/social/2569/sub-women.
+ html#read-29
+URL:https://parliamentx.com/social/2569/sub-women.html#read-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ประชุมคณะอนุกรรมาธิก
+ ารกิจการสตรี และผู้มีควา
+ มหลากหลายทางเพศ (วุฒิสภา) 
+ ครั้งที่ 29/2569
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
