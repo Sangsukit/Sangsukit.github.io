@@ -130,12 +130,15 @@ EN[26] = dict(
 
 EN[27] = dict(
  headline="Small airlines, and ideas for investing in the Thai Canal new city project",
- summary="Meeting on Wednesday 25 November 2569 at 14.00 in committee meeting room CB 411, 4th floor, Parliament House, according to the meeting notice. The agenda is a study of ways to promote small airlines to link the air transport network, and considering proposed ideas on investment models for the Thai Canal new city project, with representatives of the Senate Committee on Economy, Monetary Affairs and Finance invited. " + NOSUM,
+ summary="Meeting on Wednesday 25 November 2569 at 14.00 in committee meeting room CB 411, 4th floor, Parliament House, according to the meeting notice and the agenda. The agenda is a study of ways to promote small airlines to link the air transport network, hearing the Office of Transport and Traffic Policy and Planning (OTP) and the Civil Aviation Authority of Thailand (CAAT), and considering proposed ideas on investment models for the Thai Canal new city project, with representatives of the Senate Committee on Economy, Monetary Affairs and Finance invited. There is also a progress report on draft acts that the committee's representatives help consider, and complaints, such as a request to keep the Don Mueang–Nan flights. " + NOSUM,
  items=["Ways to promote small airlines to link the air transport network",
-        "Proposed ideas on investment models for the Thai Canal new city project (with the Senate Committee on Economy, Monetary Affairs and Finance)"])
+        "Proposed ideas on investment models for the Thai Canal new city project (with the Senate Committee on Economy, Monetary Affairs and Finance)",
+        "Progress report on draft acts that the committee's representatives help consider, such as the draft Navigation in Thai Waters Act",
+        "Complaints: a U-turn point on Highway 403 in Trang province, and a request to keep the Don Mueang–Nan flights"])
 
 RESULTS = {"พิจารณา": "Considered", "พิจารณาศึกษา": "Under study", "รับทราบ": "Noted", "เห็นชอบ": "Approved",
-           "วาระที่ 3.1": "Agenda item 3.1", "วาระที่ 3.2": "Agenda item 3.2"}
+           "วาระที่ 3.1": "Agenda item 3.1", "วาระที่ 3.2": "Agenda item 3.2",
+           "วาระที่ 3.3": "Agenda item 3.3", "วาระที่ 3.4": "Agenda item 3.4"}
 WORDS = {"National Single Window": "National Single Window", "Seaplane": "seaplanes", "กระจายอำนาจ": "decentralisation",
          "กระทรวงคมนาคม": "Ministry of Transport", "การบิน": "aviation", "การเดินเรือ": "navigation",
          "การเวนคืนที่ดิน": "land expropriation", "ขนส่งทางบก": "land transport", "คณะอนุกรรมาธิการ": "subcommittees",

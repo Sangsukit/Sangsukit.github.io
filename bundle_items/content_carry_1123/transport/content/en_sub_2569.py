@@ -44,6 +44,9 @@ EN_SUB = {
           "Oversight of platforms: vehicles and drivers not yet registered, and platforms based abroad",
           "Insurance and compensation for victims under the Protection for Motor Vehicle Accident Victims Act 2535",
           "Ride-hailing platform operators invited to give information at the meeting on 25 November 2569"]),
+  4: dict(headline="Plans to develop, control and follow ride-hailing services booked through apps",
+   summary="Meeting on Wednesday 25 November 2569 at 10.00 hrs, Committee Meeting Room CA 432, floor 4, Parliament House, in place of the meeting on Wednesday 18 November 2569, which did not take place. The agenda is to consider plans to develop, control and follow public ride-hailing services booked through apps. Executives of the ride-hailing platform operators are invited, as set out in the meeting notice. A summary will be added after the Senate publishes the meeting summary.",
+   items=["Plans to develop, control and follow public ride-hailing services booked through apps"]),
  },
  "andamanport": {
   1: dict(headline="Setting the scope of the study on Andaman deep-sea ports and the Smart Port",
