@@ -15,7 +15,32 @@
     "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qy2l8k1ABtxlH_M8aZ8"
    }
   ],
-  "media": {},
+  "media": {
+   "video": {
+    "src": "media/sub-smegov-v19pre.mp4",
+    "poster": "img/poster-sub-smegov-19pre.jpg",
+    "vtt": "media/sub-smegov-v19pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:01",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "smegov-19p",
+    "size": 4873397
+   },
+   "videos": [
+    {
+     "src": "media/sub-smegov-v19pre.mp4",
+     "poster": "img/poster-sub-smegov-19pre.jpg",
+     "vtt": "media/sub-smegov-v19pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:01",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "smegov-19p",
+     "size": 4873397
+    }
+   ]
+  },
   "chair": "",
   "chair_role": "",
   "headline": "พิจารณาร่างรายงานการศึกษาแนวทางส่งเสริมเขตพัฒนาเศรษฐกิจพิเศษจังหวัดกาญจนบุรี",
