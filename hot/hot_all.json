@@ -1,62 +1,8 @@
 {
- "updated": "2026-11-24T23:57:29Z",
+ "updated": "2026-11-25T08:51:35Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 3,
-   "count": 6,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 40,
-    "date": "2026-11-23",
-    "url": "agriculture/2569/#read-40"
-   },
-   "items": [
-    {
-     "title": "ระดมเจ้าหน้าที่-เรือลุยเก็บกระทงตลอดคืน เร่งคัดแยกวัสดุธรรมชาติส่งแปรรูปเป็นปุ๋ย",
-     "url": "https://www.dailynews.co.th/news/6387546/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-24T17:15:00Z"
-    },
-    {
-     "title": "สุริยะ สั่งด่วนตั้ง ‘มิสเตอร์ลำไย’ รับมือลำไยนอกฤดู 4.8 แสนตัน เร่งส่งออก-ระบายผลผลิต",
-     "url": "https://www.matichon.co.th/economy/news_5988066",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-24T09:31:02Z"
-    },
-    {
-     "title": "“สุริยะ” สั่งรับมือลำไยนอกฤดู 4.8 แสนตัน ตั้งมิสเตอร์ลำไย เร่งส่งออก-ระบายผลผลิต",
-     "url": "https://www.prachachat.net/economic/news-2101518",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-24T08:40:12Z"
-    }
-   ]
-  },
   {
    "id": "cyber",
    "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
@@ -108,25 +54,125 @@
    ]
   },
   {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
+   "id": "labour",
+   "th": "แรงงาน",
+   "en": "Labour",
+   "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
+    "src": "hot/img/labour",
+    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "lic": "CC BY 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
+    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
+    "alt_en": "A car assembly line"
+   },
+   "outlets": 1,
+   "count": 3,
+   "body": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 31,
+    "date": "2026-11-19",
+    "url": "labour/2569/#read-31"
+   },
+   "items": [
+    {
+     "title": "สันติธาร มองเศรษฐกิจไทยโตช้า เหตุแรงงานลดลง ชี้ต้องเล่นให้ถูกเกม",
+     "url": "https://www.prachachat.net/finance/news-2101962",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-25T07:44:41Z"
+    },
+    {
+     "title": "SCB EIC ปรับเพิ่มจีดีพี 69 โต 2.6% ปี’70 เป็น 2.4% ห่วงโตกระจุก แรงงานเปราะบาง ธุรกิจปิดกิจการสูง",
+     "url": "https://www.prachachat.net/finance/news-2101909",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-25T06:39:51Z"
+    },
+    {
+     "title": "สถาบันวิจัยเศรษฐกิจป๋วยฯ ชี้แรงงานนอกระบบ ครองสัดส่วน 2 ใน 3 ยังเผชิญเหลื่อมล้ำ-เสนอปรับระบบคุ้มครอง",
+     "url": "https://www.prachachat.net/finance/news-2101793",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-25T03:19:55Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
    },
    "outlets": 1,
    "count": 2,
    "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 40,
+    "date": "2026-11-23",
+    "url": "agriculture/2569/#read-40"
+   },
+   "items": [
+    {
+     "title": "สุริยะ สั่งด่วนตั้ง ‘มิสเตอร์ลำไย’ รับมือลำไยนอกฤดู 4.8 แสนตัน เร่งส่งออก-ระบายผลผลิต",
+     "url": "https://www.matichon.co.th/economy/news_5988066",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T09:31:02Z"
+    },
+    {
+     "title": "พณ.เร่งระบายลำไย ‘แสนสิริ’ รับซื้อ 1 หมื่นโล แจกลูกบ้าน-ชุมชน ปลื้มอินโดนีเซียเพิ่มออเดอร์",
+     "url": "https://www.matichon.co.th/economy/news_5987814",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T07:24:23Z"
+    }
+   ]
+  },
+  {
+   "id": "armed",
+   "th": "กองทัพและกิจการทหาร",
+   "en": "Armed forces and military affairs",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/armed",
+    "credit": "Mobius1TH",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Thai_Air_Force_S-70i,_Childrens_Day_2025.png",
+    "alt_th": "เฮลิคอปเตอร์ของกองทัพอากาศไทยจอดบนลานบิน",
+    "alt_en": "A Thai air force helicopter on the apron"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านกิจการทหาร",
+    "en": "Subcommittee on Military Affairs",
+    "url": "military/2569/sub-military.html"
    },
    "parent": {
     "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
@@ -134,91 +180,41 @@
     "url": "military/2569/"
    },
    "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
+    "n": 32,
+    "date": "2026-11-18",
+    "url": "military/2569/sub-military.html#read-32"
    },
    "items": [
     {
-     "title": "‘3ชาติ’ ผนึกแก้สารพิษแม่น้ำ จีนหนุนไทย-เมียนมาสู้ ‘ยศชนัน’ ชงปิดเหมือง 6ด. กห.จ่อห้ามส่งออก ‘เคมี’ ผวา 10 สัตว์น้ำปนเปื้อน",
-     "url": "https://www.matichon.co.th/politics/news_5988624",
+     "title": "เมียนมา-ลาว ตอบรับครั้งแรก ร่วมงาน 90 ปีกองทัพอากาศ จีนงดร่วม ย้ำแผนจัดหา UAV อยู่ในงบปี 70",
+     "url": "https://www.matichon.co.th/politics/news_5989549",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-24T23:00:03Z"
-    },
-    {
-     "title": "AIS Sport Academy จับมือ สิงห์ เชียงราย จัด LANNA DREAM ให้เยาวชนชายแดนภาคเหนือ",
-     "url": "https://www.matichon.co.th/sport/footballlocal/news_5988214",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-24T15:05:02Z"
+     "date": "2026-11-25T08:44:39Z"
     }
    ]
   },
   {
-   "id": "civilservice",
-   "th": "ระบบราชการและข้าราชการ",
-   "en": "Government services and civil servants",
-   "icon": "cs-admin",
-   "photo": {
-    "src": "hot/img/civilservice",
-    "credit": "Per Meistrup",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bangkok-highways-and-airport-train_IMG_9206.jpg",
-    "alt_th": "ภาพมุมสูงของกรุงเทพมหานคร",
-    "alt_en": "Aerial view of Bangkok"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการพัฒนาระบบบริหารราชการแผ่นดินและบุคลากรภาครัฐ",
-    "en": "Subcommittee on Public Administration and Civil Service Development",
-    "url": "committee-archive-2569/sub-dev.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
-   },
-   "meeting": {
-    "n": 15,
-    "date": "2026-10-28",
-    "url": "committee-archive-2569/sub-dev.html#read-15"
-   },
-   "items": [
-    {
-     "title": "สุชาติฮึ่ม สั่ง ฉก.ควบคุมมลพิษ ลุยตรวจบ่อขยะศรีราชา ปล่อยน้ำเสียลงคลอง-ไร้ใบอนุญาต",
-     "url": "https://www.matichon.co.th/local/news_5988504",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-24T12:10:51Z"
-    }
-   ]
-  },
-  {
-   "id": "livestock",
-   "th": "ปศุสัตว์และประมง",
-   "en": "Livestock and fisheries",
+   "id": "drought",
+   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
+   "en": "Drought and water for farms",
    "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/livestock",
-    "credit": "Love Krittaya",
+    "src": "hot/img/drought",
+    "credit": "NASA image created by Jesse Allen",
     "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
-    "alt_th": "วัวกินหญ้าในทุ่งนา",
-    "alt_en": "A cow grazing in a rice field"
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
+    "alt_en": "Satellite image of drought in Southeast Asia"
    },
    "outlets": 1,
    "count": 1,
    "body": {
-    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
-    "en": "Subcommittee on Livestock and Fisheries Standards",
-    "url": "agriculture/2569/sub-livestock.html"
+    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
+    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
+    "url": "agriculture/2569/sub-water.html"
    },
    "parent": {
     "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
@@ -226,18 +222,18 @@
     "url": "agriculture/2569/"
    },
    "meeting": {
-    "n": 7,
-    "date": "2026-07-15",
-    "url": "agriculture/2569/sub-livestock.html#read-7"
+    "n": 19,
+    "date": "2026-11-11",
+    "url": "agriculture/2569/sub-water.html#read-19"
    },
    "items": [
     {
-     "title": "บอร์ดโคนมเคาะนำเข้านมปี’70 กว่า 1.26 แสนตัน เร่งแก้วิกฤตน้ำนมดิบล้นตลาด",
-     "url": "https://www.prachachat.net/economic/news-2101530",
+     "title": "‘พัฒนา’ ลุยเชียงรายเปิดศูนย์ปฏิบัติการส่วนหน้าป้องสุขภาพปชช.จากสารปนเปื้อนในแหล่งน้ำ",
+     "url": "https://www.matichon.co.th/local/quality-life/news_5989341",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-24T08:42:14Z"
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-25T07:17:45Z"
     }
    ]
   },
