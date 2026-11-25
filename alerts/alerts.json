@@ -25,6 +25,30 @@
    "published": "2026-11-23T12:21:24Z"
   },
   {
+   "id": "s426-smegov-2569-19-pre",
+   "topic": "s426-smegov",
+   "kind": "pre",
+   "n": 19,
+   "year": 2569,
+   "date_th": "อังคารที่ 1 ธันวาคม 2569 เวลา 10.00 น.",
+   "title": "พิจารณาร่างรายงานการศึกษาแนวทางส่งเสริมเขตพัฒนาเศรษฐกิจพิเศษจังหวัดกาญจนบุรี",
+   "page": "https://parliamentx.com/commerce/2569/s/smegov-19.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cPasrTVjqj0QJuNoxbGtec6ae9KaL8yAKR04ZQgNTQ8cA87PMz-CEY52QTkdZQ1SPBnN6WDop6EiySvleh22C4L0BqwGF6EvN34qDzRyuXqRqlBbInkTUF26AP8vzgTH1e-XGZUdjejYliV0IMDIAQRD68QRE517NOz6Ig==&ref=11254314",
+   "published": "2026-11-25T06:11:23Z"
+  },
+  {
+   "id": "s424-2569-33-pre",
+   "topic": "s424",
+   "kind": "pre",
+   "n": 33,
+   "year": 2569,
+   "date_th": "อังคารที่ 1 ธันวาคม 2569 เวลา 08.00 น.",
+   "title": "การดำเนินงานของกองทุนสนับสนุนการสร้างเสริมสุขภาพ (สสส.)",
+   "page": "https://parliamentx.com/health/2569/s/33.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TSV6270LyeZaj4Jc8VxAbUnkvcbL8MLlEen7fIFfoo0FEJme4AyDxnZ7SlUYo8lPYOoUpkAjHdzmutCC6xYoB7KZmnwbmuZkPYeXX5C7DGgCbOMvz5O2lo6X5Z90FmqIqQ4JbAovQtOJfwgnfGPowrEI3lgizGz3YXn79Q==&ref=11254123",
+   "published": "2026-11-25T06:11:23Z"
+  },
+  {
    "id": "s427-2569-37-video_pre",
    "topic": "s427",
    "kind": "video_pre",
@@ -559,9 +583,9 @@
    "n": 32,
    "year": 2569,
    "date_th": "อังคารที่ 24 พฤศจิกายน 2569 เวลา 08.00 น.",
-   "title": "พิจารณาการตั้งคณะอนุกรรมาธิการ",
+   "title": "เห็นชอบในหลักการตั้งคณะอนุกรรมาธิการด้านสุขภาพผู้สูงอายุและสวัสดิภาพสังคม",
    "page": "https://parliamentx.com/health/2569/s/v-32-pre.html",
-   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nNJ1STgqervv6inBqWl5BiEFp0WfLXRo6XYIC3dasBznPqMOqiztQEXWAB3CKi4PlncqfXuoOzzrI-fRNtWOwo6WAzvzmr1wnsQLb5UkgF3bXaicS2dyfu9p4H6FiBSkHMUCbD26HNpW3KHlyT_G01JNbge6uKXxzO6wIg==&ref=11165792",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2blgY_zP6y_EBm50qdIPjEhalBs3P18VcZmwbF-vGeSp_fC0YJjV2wXdg79KrjELuw6L0ECmNLsJ0_x6PYsUrF9htuivgeje9G26Zo3Dj82uNJPOxiFqaAWxKZDxtMIfe27mOD7d0z8hAOOUtq9DTTvN3QgKqsq-_7RrPA==&ref=11165792",
    "published": "2026-11-13T15:59:54Z"
   },
   {
@@ -571,10 +595,22 @@
    "n": 32,
    "year": 2569,
    "date_th": "อังคารที่ 24 พฤศจิกายน 2569 เวลา 08.00 น.",
-   "title": "พิจารณาการตั้งคณะอนุกรรมาธิการ",
+   "title": "เห็นชอบในหลักการตั้งคณะอนุกรรมาธิการด้านสุขภาพผู้สูงอายุและสวัสดิภาพสังคม",
    "page": "https://parliamentx.com/health/2569/s/32.html",
-   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nNJ1STgqervv6inBqWl5BiEFp0WfLXRo6XYIC3dasBznPqMOqiztQEXWAB3CKi4PlncqfXuoOzzrI-fRNtWOwo6WAzvzmr1wnsQLb5UkgF3bXaicS2dyfu9p4H6FiBSkHMUCbD26HNpW3KHlyT_G01JNbge6uKXxzO6wIg==&ref=11165792",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2blgY_zP6y_EBm50qdIPjEhalBs3P18VcZmwbF-vGeSp_fC0YJjV2wXdg79KrjELuw6L0ECmNLsJ0_x6PYsUrF9htuivgeje9G26Zo3Dj82uNJPOxiFqaAWxKZDxtMIfe27mOD7d0z8hAOOUtq9DTTvN3QgKqsq-_7RrPA==&ref=11165792",
    "published": "2026-11-13T15:59:54Z"
+  },
+  {
+   "id": "s424-2569-32-post",
+   "topic": "s424",
+   "kind": "post",
+   "n": 32,
+   "year": 2569,
+   "date_th": "อังคารที่ 24 พฤศจิกายน 2569 เวลา 08.00 น.",
+   "title": "เห็นชอบในหลักการตั้งคณะอนุกรรมาธิการด้านสุขภาพผู้สูงอายุและสวัสดิภาพสังคม",
+   "page": "https://parliamentx.com/health/2569/s/32.html",
+   "official": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nxhrmutsTFn7LISjWHPC5jDJpLO5Ak28Qa2Y-VoaMCGjLFM2bqlqrwwgZbMoXv_B884VLO7GT37lS4AzbEflrqKQlBMJEAfquDochq-3eGgts9DTuiL0hry0iKhNzC3GGl_jYm6fgAd-sEkoSGdveJfBViH23K9gvZ3b6A==&ref=11253863",
+   "published": "2026-11-25T06:11:23Z"
   },
   {
    "id": "s420-2569-52-video_pre",
