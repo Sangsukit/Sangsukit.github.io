@@ -1,0 +1,7 @@
+# Bundle item 218: Commerce smegov 19 PRE video (meeting Tue 1 Dec 2569, 10.00, CB 311)
+# Source: notice ที่ สว (กมธ ๑) ๐๐๐๙/ว๑๐๕๘ ลว. 24 พ.ย. 2569 (ref 11254314, Rpublic=1)
+#         + published summary ฉบับที่ 23/2569 for background. Legal check: STOP 0, WARN 0.
+# Copy: sub-smegov-v19pre.mp4 + sub-smegov-v19pre.th.vtt -> committees/commerce/media/
+#       poster-sub-smegov-19pre.jpg -> committees/commerce/img/
+# Add to committee.py SUB_VIDEOS["smegov"]:
+    19: dict(src="media/sub-smegov-v19pre.mp4", poster="img/poster-sub-smegov-19pre.jpg", vtt="media/sub-smegov-v19pre.th.vtt", kind="pre", label="วิดีโอก่อนการประชุม", dur="2:01", cc=_CC),  # 1 ธ.ค. 2569 (หนังสือนัด ว๑๐๕๘ ลว. 24 พ.ย. 2569, 11254314)
