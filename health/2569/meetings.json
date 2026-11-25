@@ -1,5 +1,45 @@
 [
  {
+  "n": 33,
+  "date": "2026-12-01",
+  "time": "08.00",
+  "room": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=TSV6270LyeZaj4Jc8VxAbUnkvcbL8MLlEen7fIFfoo0FEJme4AyDxnZ7SlUYo8lPYOoUpkAjHdzmutCC6xYoB7KZmnwbmuZkPYeXX5C7DGgCbOMvz5O2lo6X5Z90FmqIqQ4JbAovQtOJfwgnfGPowrEI3lgizGz3YXn79Q==&ref=11254123"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=o1qJ6HHWN1w1LkSRMAw"
+   }
+  ],
+  "media": {},
+  "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
+  "chair_role": "ประธานคณะกรรมาธิการ",
+  "upcoming": true,
+  "headline": "การดำเนินงานของกองทุนสนับสนุนการสร้างเสริมสุขภาพ (สสส.)",
+  "summary": "การประชุมวันอังคารที่ 1 ธันวาคม 2569 เวลา 08.00 น. ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาศึกษาการดำเนินงานของกองทุนสนับสนุนการสร้างเสริมสุขภาพ (สสส.) ตามพระราชบัญญัติกองทุนสนับสนุนการสร้างเสริมสุขภาพ พ.ศ. 2544 เช่น เจตนารมณ์และบทบาทภารกิจของกองทุน ผลการดำเนินงานของโครงการ การบริหารรายได้และงบประมาณ การจัดสรรเงินสนับสนุนแก่หน่วยงานภายนอก การบริหารเงินสะสมและทรัพย์สิน กลไกกำกับดูแลและประเมินผล และแนวทางปรับปรุงกฎหมายหรือการบริหารกองทุน โดยเชิญผู้จัดการกองทุนสนับสนุนการสร้างเสริมสุขภาพเข้าร่วมประชุม สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "การดำเนินงานของกองทุนสนับสนุนการสร้างเสริมสุขภาพ (สสส.) ตามพระราชบัญญัติกองทุนสนับสนุนการสร้างเสริมสุขภาพ พ.ศ. 2544",
+    "วาระที่ 3",
+    "other"
+   ]
+  ],
+  "tags": [
+   "สสส.",
+   "สร้างเสริมสุขภาพ"
+  ],
+  "places": [],
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 32,
   "date": "2026-11-24",
   "time": "08.00",
@@ -7,17 +47,21 @@
   "docs": [
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nNJ1STgqervv6inBqWl5BiEFp0WfLXRo6XYIC3dasBznPqMOqiztQEXWAB3CKi4PlncqfXuoOzzrI-fRNtWOwo6WAzvzmr1wnsQLb5UkgF3bXaicS2dyfu9p4H6FiBSkHMUCbD26HNpW3KHlyT_G01JNbge6uKXxzO6wIg==&ref=11165792",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=2blgY_zP6y_EBm50qdIPjEhalBs3P18VcZmwbF-vGeSp_fC0YJjV2wXdg79KrjELuw6L0ECmNLsJ0_x6PYsUrF9htuivgeje9G26Zo3Dj82uNJPOxiFqaAWxKZDxtMIfe27mOD7d0z8hAOOUtq9DTTvN3QgKqsq-_7RrPA==&ref=11165792",
     "size": 135726
    },
    {
     "k": "notice",
-    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=_y_b7tvz0h19JyXh7nSu1jP6qB0n6lFSe7Grzo2ggW4JetPcpOYfPnYp2Z4W3LQYwZbVLxATNyU3g3B7ES6nRPulMnzavd-WbVUzbpc1duoxOf8xeZEHyCRGmK1t7brXvrtN_3LUgyY-RjDqDB2RFkxvj19pKg8FPBSvxQ==&ref=11194806",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=OqIiR-asLHoGXweEsY46RG9mrWPuazcc65Y2Nn9UAXiDpiIYhPR3A1OaVTX0LNdIE9y9jyNtNoVQaGy2bWFcJTcgAMFGiBXZM440OZS98AbXu6oq3R0KCNJo77Xr26KrcF9qGimEZTivDCgDkiColgnMLzhP2W6X7IDtkQ==&ref=11194806",
     "size": 135726
    },
    {
+    "k": "summary",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=nxhrmutsTFn7LISjWHPC5jDJpLO5Ak28Qa2Y-VoaMCGjLFM2bqlqrwwgZbMoXv_B884VLO7GT37lS4AzbEflrqKQlBMJEAfquDochq-3eGgts9DTuiL0hry0iKhNzC3GGl_jYm6fgAd-sEkoSGdveJfBViH23K9gvZ3b6A==&ref=11253863"
+   },
+   {
     "k": "agenda",
-    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=Mxu23_Ueqx3vNeEkhA0"
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=8s-20DfRf3tPEa1NcaE"
    }
   ],
   "media": {
@@ -48,21 +92,32 @@
   },
   "chair": "นายประพนธ์ ตั้งศรีเกียรติกุล",
   "chair_role": "ประธานคณะกรรมาธิการ",
-  "upcoming": true,
-  "headline": "พิจารณาการตั้งคณะอนุกรรมาธิการ",
-  "summary": "การประชุมวันอังคารที่ 24 พฤศจิกายน 2569 เวลา 08.00 น. ห้องประชุมกรรมาธิการ CA 429 ชั้น 4 อาคารรัฐสภา (งดประชุมวันที่ 17 พ.ย. 2569) ตามหนังสือแจ้งเปลี่ยนแปลงระเบียบวาระการประชุม ลงวันที่ 17 พฤศจิกายน 2569 วาระคือการพิจารณาการตั้งคณะอนุกรรมาธิการ ในคณะกรรมาธิการการสาธารณสุข วุฒิสภา (แทนวาระเดิมเรื่องการดำเนินงานของ สสส. ตามหนังสือนัดประชุมฉบับก่อน) สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "headline": "เห็นชอบในหลักการตั้งคณะอนุกรรมาธิการด้านสุขภาพผู้สูงอายุและสวัสดิภาพสังคม",
+  "summary": "ที่ประชุมพิจารณาการตั้งคณะอนุกรรมาธิการ เนื่องจากคณะอนุกรรมาธิการติดตามความคืบหน้าการดำเนินงานด้านระบบสุขภาพปฐมภูมิทำภารกิจเสร็จสิ้นและเสนอรายงานต่อวุฒิสภาแล้ว รองประธานคณะกรรมาธิการเสนอให้ตั้งคณะอนุกรรมาธิการศึกษาภาพรวมเรื่องผู้สูงอายุและผู้มีภาวะพึ่งพิงในทุกมิติ ต่อเนื่องจากการประชุมครั้งก่อนเรื่องการดูแลผู้สูงอายุและความปลอดภัยของผู้รับบริการ ที่ปรึกษาประจำคณะกรรมาธิการนำเสนอกรอบการศึกษา เช่น เชื่อมระบบสุขภาพ การดูแลระยะยาว และการคุ้มครองทางสังคมเข้าด้วยกันโดยให้ผู้สูงอายุและครอบครัวเป็นศูนย์กลาง เชื่อมฐานข้อมูลระหว่างหน่วยงานอย่างปลอดภัยตามกฎหมายคุ้มครองข้อมูลส่วนบุคคล ทบทวนการจัดสรรงบการดูแลระยะยาวของ สปสช. และศึกษาต้นแบบในพื้นที่ เช่น จังหวัดเชียงใหม่ ภูเก็ต และสงขลา โดยใช้เวลาศึกษาประมาณ 3 เดือน (มีนาคม–พฤษภาคม 2570) คณะกรรมาธิการมีข้อสังเกต เช่น ควรเสริมความเข้มแข็งของสถาบันครอบครัว ส่งเสริมความรอบรู้ทางการเงินของผู้สูงอายุ และเตรียมความพร้อมตั้งแต่วัยทำงาน ที่ประชุมเห็นชอบในหลักการตั้งคณะอนุกรรมาธิการด้านการพัฒนาระบบสาธารณสุข สุขภาพของผู้สูงอายุ และสวัสดิภาพทางสังคม และเห็นชอบให้จัดเสวนา “เรื่องจริง ร่าง พ.ร.บ. บัตรทอง | กมธ. ว่าไง?” ตอนที่ 5 ในวันพุธที่ 9 ธันวาคม 2569",
   "items": [
    [
-    "การตั้งคณะอนุกรรมาธิการ ในคณะกรรมาธิการการสาธารณสุข วุฒิสภา",
-    "วาระที่ 3",
-    "other"
+    "การตั้งคณะอนุกรรมาธิการด้านการพัฒนาระบบสาธารณสุข สุขภาพของผู้สูงอายุ และสวัสดิภาพทางสังคม (เห็นชอบในหลักการ)",
+    "เห็นชอบ",
+    "appoint"
+   ],
+   [
+    "การจัดเสวนา “เรื่องจริง ร่าง พ.ร.บ. บัตรทอง | กมธ. ว่าไง?” ตอนที่ 5 (วันพุธที่ 9 ธันวาคม 2569)",
+    "เห็นชอบ",
+    "seminar"
    ]
   ],
   "tags": [
-   "คณะอนุกรรมาธิการ",
-   "วาระการประชุม"
+   "ผู้สูงอายุ",
+   "ผู้มีภาวะพึ่งพิง",
+   "สวัสดิภาพสังคม",
+   "บัตรทอง",
+   "เสวนา"
   ],
-  "places": []
+  "places": [
+   "เชียงใหม่",
+   "ภูเก็ต",
+   "สงขลา"
+  ]
  },
  {
   "n": 31,

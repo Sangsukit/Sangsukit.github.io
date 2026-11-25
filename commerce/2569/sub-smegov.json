@@ -1,5 +1,75 @@
 [
  {
+  "n": 19,
+  "date": "2026-12-01",
+  "time": "10.00",
+  "room": "ห้องประชุมกรรมาธิการ CB 311 (สว.) ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=cPasrTVjqj0QJuNoxbGtec6ae9KaL8yAKR04ZQgNTQ8cA87PMz-CEY52QTkdZQ1SPBnN6WDop6EiySvleh22C4L0BqwGF6EvN34qDzRyuXqRqlBbInkTUF26AP8vzgTH1e-XGZUdjejYliV0IMDIAQRD68QRE517NOz6Ig==&ref=11254314",
+    "size": 118168
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=qy2l8k1ABtxlH_M8aZ8"
+   }
+  ],
+  "media": {
+   "video": {
+    "src": "/video-2/commerce/2569/media/sub-smegov-v19pre.mp4",
+    "poster": "img/poster-sub-smegov-19pre.jpg",
+    "vtt": "media/sub-smegov-v19pre.th.vtt",
+    "kind": "pre",
+    "label": "วิดีโอก่อนการประชุม",
+    "dur": "2:01",
+    "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+    "ck": "smegov-19p",
+    "size": 4873397
+   },
+   "videos": [
+    {
+     "src": "/video-2/commerce/2569/media/sub-smegov-v19pre.mp4",
+     "poster": "img/poster-sub-smegov-19pre.jpg",
+     "vtt": "media/sub-smegov-v19pre.th.vtt",
+     "kind": "pre",
+     "label": "วิดีโอก่อนการประชุม",
+     "dur": "2:01",
+     "cc": "เสียงบรรยายภาษาไทย มีคำบรรยายภาษาอังกฤษในวิดีโอ",
+     "ck": "smegov-19p",
+     "size": 4873397
+    }
+   ]
+  },
+  "chair": "",
+  "chair_role": "",
+  "headline": "พิจารณาร่างรายงานการศึกษาแนวทางส่งเสริมเขตพัฒนาเศรษฐกิจพิเศษจังหวัดกาญจนบุรี",
+  "summary": "การประชุมวันอังคารที่ 1 ธันวาคม 2569 เวลา 10.00 น. ห้องประชุมกรรมาธิการ CB 311 (สว.) ชั้น 3 อาคารรัฐสภา ตามหนังสือนัดประชุม วาระคือการพิจารณาร่างรายงานการพิจารณาศึกษา เรื่อง แนวทางการส่งเสริมเขตพัฒนาเศรษฐกิจพิเศษจังหวัดกาญจนบุรี สู่ผลสัมฤทธิ์เชิงรูปธรรม : จากปัญหาอุปสรรค การเติบโตอย่างครอบคลุม สู่ข้อเสนอแนะเชิงนโยบาย สรุปผลจะเพิ่มหลังวุฒิสภาเผยแพร่",
+  "items": [
+   [
+    "พิจารณาร่างรายงานการพิจารณาศึกษา เรื่อง แนวทางการส่งเสริมเขตพัฒนาเศรษฐกิจพิเศษจังหวัดกาญจนบุรี สู่ผลสัมฤทธิ์เชิงรูปธรรม : จากปัญหาอุปสรรค การเติบโตอย่างครอบคลุม สู่ข้อเสนอแนะเชิงนโยบาย",
+    "วาระที่ 3",
+    "other"
+   ]
+  ],
+  "tags": [
+   "เขตเศรษฐกิจพิเศษ",
+   "รายงานการศึกษา",
+   "วาระการประชุม"
+  ],
+  "places": [
+   "กาญจนบุรี"
+  ],
+  "pending": false,
+  "upcoming": true,
+  "map": {
+   "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
+   "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
+   "q": "รัฐสภา สัปปายะสภาสถาน ถนนสามเสน กรุงเทพมหานคร",
+   "t": "ห้องประชุมกรรมาธิการ CB 311 (สว.) ชั้น 3 อาคารรัฐสภา"
+  }
+ },
+ {
   "n": 18,
   "date": "2026-11-24",
   "time": "10.00",
@@ -9,6 +79,10 @@
     "k": "notice",
     "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=yvagzhqfUGxlh1MfP3t9Nvj7p4tPRNkhFI41EPBWSOvpQhialEnRVdNYjfq29sM8InjKoP3jPu-HnXI9K68-7Kbl8toPu7mMEHjMTzFoK-IOzFzcPbKKEluyIS1MUDwlql97pfxk4EGQJzff306RQmxn9jIbvgC6vgvj3Q==&ref=11225978",
     "size": 141779
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=pdRZMtk5e0FBgFOG5TvoRaZgd1u8gUUWMZOutAWETi3FbfCz3ZeOtWPGexKndoPT1Yx98lGjN9NqrFX5NVF1yRZc3zD24e6hl3UIY621kyyZaXO7u6D1X9JHTT7DVknd-rK2X1Xku4z3T2p5awcdc6VCsBMPsDX9Z4YuwQ==&ref=11253871"
    },
    {
     "k": "agenda",
@@ -59,7 +133,7 @@
   ],
   "places": [],
   "pending": false,
-  "upcoming": true,
+  "upcoming": false,
   "map": {
    "n": "อาคารรัฐสภา (สัปปายะสภาสถาน)",
    "a": "สัปปายะสภาสถาน 1111 ถนนสามเสน เขตดุสิต กรุงเทพมหานคร",
