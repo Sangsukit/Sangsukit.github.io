@@ -1,5 +1,39 @@
 [
  {
+  "n": 6,
+  "date": "2026-11-25",
+  "time": "09.30",
+  "room": "ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=FJGQsXD999lmXRvKrUYlzF4ssSga7DwUTX_JeFp7ohR4DrTshoBoVie_zEYLMVzScx0qHmzoS86Ajt3G1hJknMlhuPaM1Du9mHF4bjghal_nrckjU3k-6xkNcJWAjW-YTwTKiIpZ0dOOy-hDdAa_5V0T6hzC--sNYLSqpw==&ref=11244932"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=DV8emDehs1Ql4hWzpZc"
+   }
+  ],
+  "chair": "",
+  "chair_role": "",
+  "agenda_only": true,
+  "pending": true,
+  "headline": "กรอบการดำเนินงานของคณะอนุกรรมาธิการ",
+  "summary": "ประชุมวันพุธที่ 25 พฤศจิกายน 2569 เวลา 09.30 น. ห้องประชุมกรรมาธิการ CA 330 ชั้น 3 อาคารรัฐสภา วาระตามหนังสือนัดประชุมคือการพิจารณากรอบการดำเนินงานของคณะอนุกรรมาธิการ บทสรุปจะเพิ่มหลังวุฒิสภาเผยแพร่สรุปผลการประชุม",
+  "items": [
+   [
+    "กรอบการดำเนินงานของคณะอนุกรรมาธิการ",
+    "พิจารณาตามระเบียบวาระ",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "วาระการประชุม"
+  ],
+  "places": [],
+  "upcoming": false
+ },
+ {
   "n": 5,
   "date": "2026-11-11",
   "time": "09.30",
