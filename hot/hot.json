@@ -1,112 +1,8 @@
 {
- "updated": "2026-11-25T19:26:31Z",
+ "updated": "2026-11-26T03:39:59Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 2,
-   "count": 7,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 40,
-    "date": "2026-11-23",
-    "url": "agriculture/2569/#read-40"
-   },
-   "items": [
-    {
-     "title": "5 กูรู แนะทางรอดเกษตรกรไทย รับมือเอลนีโญ-ฝุ่น PM2.5",
-     "url": "https://www.prachachat.net/economic/local-economy/news-2102206",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-25T13:51:42Z"
-    },
-    {
-     "title": "‘GULF-วัดจากแดง’ จัดกิจกรรม(ตาม)รอย-กระทง เก็บแยกขยะ 1.4 ตัน ส่งทำปุ๋ย-แปรรูปของใช้",
-     "url": "https://www.matichon.co.th/bullet-news-today/news_5989725",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-25T13:00:10Z"
-    },
-    {
-     "title": "GULF ผนึก วัดจากแดง เก็บแยกขยะกระทง 1.4 ตัน ส่งทำปุ๋ย-แปรรูปของใช้ สร้างรายได้ให้ชุมชน",
-     "url": "https://www.prachachat.net/sd/news-2102067",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-25T12:00:00Z"
-    }
-   ]
-  },
-  {
-   "id": "jobs",
-   "th": "การหางานและแรงงานต่างชาติ",
-   "en": "Jobs and migrant workers",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/jobs",
-    "credit": "Bigcitydata",
-    "lic": "CC BY 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
-    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
-    "alt_en": "Office towers in Silom, Bangkok"
-   },
-   "outlets": 2,
-   "count": 2,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
-    "en": "Subcommittee on Employment and Skills",
-    "url": "labour/2569/sub-employment.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 24,
-    "date": "2026-11-18",
-    "url": "labour/2569/sub-employment.html#read-24"
-   },
-   "items": [
-    {
-     "title": "สหรัฐเผยตัวเลขผู้ขอสวัสดิการว่างงานต่ำกว่าคาด",
-     "url": "https://www.infoquest.co.th/2026/685549",
-     "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-25T16:55:31Z"
-    },
-    {
-     "title": "ภาวะดิสเล็กเซียคืออะไร ? และทำไมบางคนเลือกไม่บอกนายจ้างว่าตนเองมีภาวะนี้",
-     "url": "https://www.bbc.com/thai/articles/c6vg2qle0p3no?at_medium=RSS&at_campaign=rss",
-     "lang": "th",
-     "outlet_th": "บีบีซีไทย",
-     "outlet_en": "BBC News Thai",
-     "date": "2026-11-24T06:53:12Z"
-    }
-   ]
-  },
   {
    "id": "border",
    "th": "ชายแดนและความมั่นคง",
@@ -140,112 +36,204 @@
    },
    "items": [
     {
+     "title": "Thailand, Myanmar agree to monitor border rivers amid pollution fears",
+     "url": "https://www.channelnewsasia.com/asia/thailand-myanmar-monitor-border-rivers-pollution-6581461",
+     "lang": "en",
+     "outlet_th": "ซีเอ็นเอ",
+     "outlet_en": "CNA",
+     "date": "2026-11-26T01:57:54Z"
+    },
+    {
      "title": "Thailand and Myanmar agree to monitor border rivers",
      "url": "https://www.bangkokpost.com/thailand/general/3361136/thailand-and-myanmar-agree-to-monitor-border-rivers",
      "lang": "en",
      "outlet_th": "บางกอกโพสต์",
      "outlet_en": "Bangkok Post",
      "date": "2026-11-25T14:49:00Z"
-    },
-    {
-     "title": "ไทย–เมียนมา เริ่มประชุมคณะทำงานร่วมครั้งแรก เดินหน้าตรวจคุณภาพน้ำชายแดน วางแผนเฝ้าระวังมลพิษ-สุขภาพปชช.",
-     "url": "https://www.prachachat.net/economic/news-2102120",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-25T10:18:46Z"
     }
    ]
   },
   {
-   "id": "cyber",
-   "th": "ไซเบอร์และอุตสาหกรรมป้องกันประเทศ",
-   "en": "Cyber and defence industry",
-   "icon": "cs-security",
+   "id": "labour",
+   "th": "แรงงาน",
+   "en": "Labour",
+   "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/cyber",
-    "credit": "Christopher Bowns",
-    "lic": "CC BY-SA 2.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg",
-    "alt_th": "ทางเดินระหว่างตู้เซิร์ฟเวอร์ในศูนย์ข้อมูล",
-    "alt_en": "An aisle between server racks in a data centre"
+    "src": "hot/img/labour",
+    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "lic": "CC BY 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
+    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
+    "alt_en": "A car assembly line"
    },
-   "outlets": 2,
-   "count": 2,
+   "outlets": 1,
+   "count": 3,
    "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทางทหารด้านไซเบอร์ เทคโนโลยี อาวุธยุทโธปกรณ์ และอุตสาหกรรมป้องกันประเทศ",
-    "en": "Subcommittee on Cyber, Technology, Arms and Defence Industry",
-    "url": "military/2569/sub-cyber.html"
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
    },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
+   "parent": null,
    "meeting": {
-    "n": 26,
-    "date": "2026-11-18",
-    "url": "military/2569/sub-cyber.html#read-26"
+    "n": 31,
+    "date": "2026-11-19",
+    "url": "labour/2569/#read-31"
    },
    "items": [
     {
-     "title": "AI cyber-attacks raise security concerns",
-     "url": "https://www.bangkokpost.com/business/general/3360654/ai-cyberattacks-raise-security-concerns",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-24T22:53:00Z"
+     "title": "สหรัฐเปิดร่างภาษี 301 ไทยไม่เกิน 18% ไม่เก็บซ้ำแรงงานบังคับ เวียดนามเจอ 35%",
+     "url": "https://www.prachachat.net/economic/news-2102380",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-26T02:41:09Z"
     },
     {
-     "title": "ภัยไซเบอร์",
-     "url": "https://www.matichon.co.th/bullet-news-today/news_5986618",
+     "title": "โจทย์เศรษฐกิจกับความเปราะบางแรงงาน",
+     "url": "https://www.prachachat.net/columns/news-2101671",
      "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-24T05:03:11Z"
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-26T02:22:37Z"
+    },
+    {
+     "title": "สศช.จี้แก้ปัญหา ‘แรงงานไทย’ เสี่ยงเครียด-ซึมเศร้า-หมดไฟ",
+     "url": "https://www.prachachat.net/finance/news-2101389",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-26T02:19:03Z"
     }
    ]
   },
   {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
     "lic": "CC BY-SA 3.0",
     "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 1,
+   "count": 2,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 40,
+    "date": "2026-11-23",
+    "url": "agriculture/2569/#read-40"
+   },
+   "items": [
+    {
+     "title": "สุริยะ สั่งด่วนตั้ง ‘มิสเตอร์ลำไย’ รับมือลำไยนอกฤดู 4.8 แสนตัน เร่งส่งออก-ระบายผลผลิต",
+     "url": "https://www.matichon.co.th/economy/news_5988066",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T09:31:02Z"
+    },
+    {
+     "title": "พณ.เร่งระบายลำไย ‘แสนสิริ’ รับซื้อ 1 หมื่นโล แจกลูกบ้าน-ชุมชน ปลื้มอินโดนีเซียเพิ่มออเดอร์",
+     "url": "https://www.matichon.co.th/economy/news_5987814",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-24T07:24:23Z"
+    }
+   ]
+  },
+  {
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
    },
    "outlets": 1,
    "count": 1,
    "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
    },
    "meeting": {
-    "n": 11,
-    "date": "2026-11-12",
-    "url": "committee-archive-2569/sub-disaster.html#read-11"
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "labour/2569/sub-socialsec.html#read-20"
    },
    "items": [
     {
-     "title": "เจเศรษฐ์ เปิด 4 ยุทธศาสตร์จัดการภัยพิบัติไทย บนเวทีรัฐมนตรีอาเซียนฯ",
-     "url": "https://www.matichon.co.th/politics/news_5989870",
+     "title": "ษัษฐรัมย์ ยื่นคำขาด 1 ธ.ค. ต้องตั้งบอร์ดประกันสังคม 13 คนก่อน เล็งยกระดับเคลื่อนไหวหากยื้อซ้ำ",
+     "url": "https://www.matichon.co.th/local/quality-life/news_5990428",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-25T10:45:06Z"
+     "date": "2026-11-26T03:29:27Z"
+    }
+   ]
+  },
+  {
+   "id": "livestock",
+   "th": "ปศุสัตว์และประมง",
+   "en": "Livestock and fisheries",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/livestock",
+    "credit": "Love Krittaya",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
+    "alt_th": "วัวกินหญ้าในทุ่งนา",
+    "alt_en": "A cow grazing in a rice field"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
+    "en": "Subcommittee on Livestock and Fisheries Standards",
+    "url": "agriculture/2569/sub-livestock.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "meeting": {
+    "n": 7,
+    "date": "2026-07-15",
+    "url": "agriculture/2569/sub-livestock.html#read-7"
+   },
+   "items": [
+    {
+     "title": "ภาษีทรัมป์ 18% ไทยยังไม่เสียเปรียบอาเซียน หอการค้าเร่งดันข้าว-กุ้ง-ทูน่ายกเว้นภาษี",
+     "url": "https://www.prachachat.net/economic/news-2102387",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-26T02:44:39Z"
     }
    ]
   }
