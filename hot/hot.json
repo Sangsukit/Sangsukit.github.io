@@ -1,8 +1,120 @@
 {
- "updated": "2026-11-26T03:39:59Z",
+ "updated": "2026-11-26T17:05:57Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
+  {
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
+   },
+   "outlets": 3,
+   "count": 7,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "labour/2569/sub-socialsec.html#read-20"
+   },
+   "items": [
+    {
+     "title": "‘จุลพันธ์’มอบกกต.สปส.ส่งข้อมูลถึงมือ’ธนพงษ์’พรุ่งนี้",
+     "url": "https://www.dailynews.co.th/news/6394032/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-26T14:57:13Z"
+    },
+    {
+     "title": "‘จุลพันธ์’ สั่ง กกต.ประกันสังคม ส่งคำพิพากษา-คำวินิจฉัยให้ ‘ธนพงษ์’ คาดรับเอกสารได้พรุ่งนี้",
+     "url": "https://www.matichon.co.th/politics/news_5991863",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-26T14:43:27Z"
+    },
+    {
+     "title": "เปิดเหตุผล กกต.ประกันสังคม ตัดสิทธิ์ “ธนพงศ์”",
+     "url": "https://www.prachachat.net/politics/news-2102898",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-26T12:02:25Z"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
+   "photo": {
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 2,
+   "count": 3,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 40,
+    "date": "2026-11-23",
+    "url": "agriculture/2569/#read-40"
+   },
+   "items": [
+    {
+     "title": "บอร์ด กยท.อนุมัติงบฯหนุนงานวิจัยยางพาราต่อเนื่องปี 70 ดัน 15 โครงการ",
+     "url": "https://www.matichon.co.th/economy/news_5991671",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-26T11:51:59Z"
+    },
+    {
+     "title": "พาณิชย์ผนึก 4 ปั๊มน้ำมัน แจกฟรีลำไย 3 แสนถุง เร่งระบายผลผลิต 4 หมื่นตัน",
+     "url": "https://www.prachachat.net/economic/news-2102828",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-26T10:03:23Z"
+    },
+    {
+     "title": "พาณิชย์ ผนึก 4 ปั๊มน้ำมันยักษ์ใหญ่ แจกลำไยอบแห้งกว่า 3 แสนถุงกระตุ้นเติมน้ำมันE20-B20",
+     "url": "https://www.matichon.co.th/economy/news_5991466",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-26T10:58:51Z"
+    }
+   ]
+  },
   {
    "id": "border",
    "th": "ชายแดนและความมั่นคง",
@@ -36,20 +148,20 @@
    },
    "items": [
     {
+     "title": "ไทย–เมียนมา จัดทำแผนปฏิบัติการร่วม 3 ปี เดินหน้าตรวจคุณภาพน้ำแม่น้ำกก–แม่น้ำสาย",
+     "url": "https://www.matichon.co.th/local/news_5991880",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-26T14:56:53Z"
+    },
+    {
      "title": "Thailand, Myanmar agree to monitor border rivers amid pollution fears",
      "url": "https://www.channelnewsasia.com/asia/thailand-myanmar-monitor-border-rivers-pollution-6581461",
      "lang": "en",
      "outlet_th": "ซีเอ็นเอ",
      "outlet_en": "CNA",
      "date": "2026-11-26T01:57:54Z"
-    },
-    {
-     "title": "Thailand and Myanmar agree to monitor border rivers",
-     "url": "https://www.bangkokpost.com/thailand/general/3361136/thailand-and-myanmar-agree-to-monitor-border-rivers",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-25T14:49:00Z"
     }
    ]
   },
@@ -67,8 +179,8 @@
     "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
     "alt_en": "A car assembly line"
    },
-   "outlets": 1,
-   "count": 3,
+   "outlets": 2,
+   "count": 2,
    "body": {
     "th": "คณะกรรมาธิการการแรงงาน",
     "en": "Committee on Labour",
@@ -82,158 +194,78 @@
    },
    "items": [
     {
-     "title": "สหรัฐเปิดร่างภาษี 301 ไทยไม่เกิน 18% ไม่เก็บซ้ำแรงงานบังคับ เวียดนามเจอ 35%",
-     "url": "https://www.prachachat.net/economic/news-2102380",
+     "title": "3 กูรูส่งสัญญาณเตือนเศรษฐกิจไทยโตต่ำศักยภาพ หนี้ครัวเรือนฉุด-แรงงานหด-เหลื่อมล้ำสูง",
+     "url": "https://www.infoquest.co.th/2026/686135",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-26T02:41:09Z"
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-26T11:23:51Z"
     },
     {
-     "title": "โจทย์เศรษฐกิจกับความเปราะบางแรงงาน",
-     "url": "https://www.prachachat.net/columns/news-2101671",
+     "title": "สหภาพแรงงาน ทอท. ร่อนแถลง ยื่นหนังสือบอร์ด ขอจ่ายโบนัสไม่ต่ำกว่า 5 เดือน",
+     "url": "https://www.matichon.co.th/economy/news_5990599",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-26T02:22:37Z"
-    },
-    {
-     "title": "สศช.จี้แก้ปัญหา ‘แรงงานไทย’ เสี่ยงเครียด-ซึมเศร้า-หมดไฟ",
-     "url": "https://www.prachachat.net/finance/news-2101389",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-26T02:19:03Z"
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-26T05:13:28Z"
     }
    ]
   },
   {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
    "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
     "lic": "CC BY-SA 3.0",
     "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
    },
    "outlets": 1,
-   "count": 2,
+   "count": 4,
    "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
    },
-   "parent": null,
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
    "meeting": {
-    "n": 40,
-    "date": "2026-11-23",
-    "url": "agriculture/2569/#read-40"
+    "n": 11,
+    "date": "2026-11-12",
+    "url": "committee-archive-2569/sub-disaster.html#read-11"
    },
    "items": [
     {
-     "title": "สุริยะ สั่งด่วนตั้ง ‘มิสเตอร์ลำไย’ รับมือลำไยนอกฤดู 4.8 แสนตัน เร่งส่งออก-ระบายผลผลิต",
-     "url": "https://www.matichon.co.th/economy/news_5988066",
+     "title": "‘ทรงศักดิ์’ สั่ง สทนช. รับมือฝนหนักใต้ 29 พ.ย.-1 ธ.ค. เฝ้าระวังท่วมฉับพลัน-น้ำป่าหลาก 14 จว.",
+     "url": "https://www.matichon.co.th/economy/news_5991815",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-24T09:31:02Z"
+     "date": "2026-11-26T14:00:08Z"
     },
     {
-     "title": "พณ.เร่งระบายลำไย ‘แสนสิริ’ รับซื้อ 1 หมื่นโล แจกลูกบ้าน-ชุมชน ปลื้มอินโดนีเซียเพิ่มออเดอร์",
-     "url": "https://www.matichon.co.th/economy/news_5987814",
+     "title": "‘โตโต้’ จี้ เปิดเผยสาเหตุโรงกลั่นบางจากไฟไหม้ แนะ ตรวจสอบระบบเตือนภัยประชาชน",
+     "url": "https://www.matichon.co.th/politics/news_5991750",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-24T07:24:23Z"
-    }
-   ]
-  },
-  {
-   "id": "socialsec",
-   "th": "ประกันสังคม",
-   "en": "Social security",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/socialsec",
-    "credit": "SquidHomme",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
-    "alt_th": "ป้ายกระทรวงแรงงาน",
-    "alt_en": "The Ministry of Labour sign"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
-    "en": "Subcommittee on Social Security",
-    "url": "labour/2569/sub-socialsec.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "labour/2569/sub-socialsec.html#read-20"
-   },
-   "items": [
+     "date": "2026-11-26T12:42:24Z"
+    },
     {
-     "title": "ษัษฐรัมย์ ยื่นคำขาด 1 ธ.ค. ต้องตั้งบอร์ดประกันสังคม 13 คนก่อน เล็งยกระดับเคลื่อนไหวหากยื้อซ้ำ",
-     "url": "https://www.matichon.co.th/local/quality-life/news_5990428",
+     "title": "กรมอุตุ ประกาศฉบับที่ 6 ภาคใต้ฝนตกหนักถึงหนักมาก ระวังท่วมฉับพลัน น้ำป่าไหลหลาก คลื่นสูง 3 เมตร",
+     "url": "https://www.matichon.co.th/local/news_5991600",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-26T03:29:27Z"
-    }
-   ]
-  },
-  {
-   "id": "livestock",
-   "th": "ปศุสัตว์และประมง",
-   "en": "Livestock and fisheries",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/livestock",
-    "credit": "Love Krittaya",
-    "lic": "Public domain",
-    "lic_url": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oxen_in_rice_farm_Thailand.jpg",
-    "alt_th": "วัวกินหญ้าในทุ่งนา",
-    "alt_en": "A cow grazing in a rice field"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะอนุกรรมาธิการพัฒนาคุณภาพและมาตรฐานด้านปศุสัตว์ และการประมง",
-    "en": "Subcommittee on Livestock and Fisheries Standards",
-    "url": "agriculture/2569/sub-livestock.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "meeting": {
-    "n": 7,
-    "date": "2026-07-15",
-    "url": "agriculture/2569/sub-livestock.html#read-7"
-   },
-   "items": [
-    {
-     "title": "ภาษีทรัมป์ 18% ไทยยังไม่เสียเปรียบอาเซียน หอการค้าเร่งดันข้าว-กุ้ง-ทูน่ายกเว้นภาษี",
-     "url": "https://www.prachachat.net/economic/news-2102387",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-26T02:44:39Z"
+     "date": "2026-11-26T11:36:29Z"
     }
    ]
   }
