@@ -1,62 +1,8 @@
 {
- "updated": "2026-11-27T12:46:26Z",
+ "updated": "2026-11-27T23:34:02Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
-   },
-   "outlets": 3,
-   "count": 5,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 40,
-    "date": "2026-11-23",
-    "url": "agriculture/2569/#read-40"
-   },
-   "items": [
-    {
-     "title": "คลัง เผยเศรษฐกิจภูมิภาค ต.ค.รับอานิสงส์สินค้าคงทน-รายได้เกษตรกร ท่องเที่ยวหนุนในอีสาน-ตะวันออก-กลาง แต่ความเชื่อมั่นยังแผ่ว",
-     "url": "https://www.infoquest.co.th/2026/686690",
-     "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-27T11:01:37Z"
-    },
-    {
-     "title": "พณ.คงมาตรการนำเข้าข้าวโพดสัตว์ ปี70 ซื้อในประเทศ 3 ส่วน นำเข้า 1 ยืนโควต้าไม่เกินล้านตัน",
-     "url": "https://www.matichon.co.th/economy/news_5993050",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-27T10:10:25Z"
-    },
-    {
-     "title": "ยกระดับทุนมนุษย์ SME และเกษตรกรไทย สู่ขีดความสามารถใหม่ของประเทศ From Human Capital to National Competitiveness",
-     "url": "https://www.prachachat.net/sd/news-2103602",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-27T09:48:19Z"
-    }
-   ]
-  },
   {
    "id": "socialsec",
    "th": "ประกันสังคม",
@@ -71,7 +17,7 @@
     "alt_th": "ป้ายกระทรวงแรงงาน",
     "alt_en": "The Ministry of Labour sign"
    },
-   "outlets": 2,
+   "outlets": 3,
    "count": 3,
    "body": {
     "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
@@ -90,6 +36,14 @@
    },
    "items": [
     {
+     "title": "เปิดข้อกฎหมาย ผู้ทรงคุณวุฒิในบอร์ดประกันสังคม ใครแต่งตั้ง มีอำนาจมากน้อยแค่ไหน",
+     "url": "https://www.bbc.com/thai/articles/cmgj3yz23qqgo?at_medium=RSS&at_campaign=rss",
+     "lang": "th",
+     "outlet_th": "บีบีซีไทย",
+     "outlet_en": "BBC News Thai",
+     "date": "2026-11-27T13:16:45Z"
+    },
+    {
      "title": "คลาดกัน 10 นาที! ‘ธนพงษ์’ อดรับเอกสารวินิจฉัยพ้นบอร์ดสปส. หลังรอนาน 7 ชม. กองกม.โทรตาม นัดอีกที 30 พ.ย.",
      "url": "https://www.matichon.co.th/local/quality-life/news_5993317",
      "lang": "th",
@@ -104,60 +58,110 @@
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
      "date": "2026-11-27T10:00:00Z"
-    },
-    {
-     "title": "เพื่อไทย รุมโต้ เหตุตัดสิทธิ ธนพงษ์ นั่งบอร์ดประกันสังคม ย้ำ ที่ปรึกษาไม่มีสิทธิโหวต",
-     "url": "https://www.matichon.co.th/politics/news_5993075",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-27T10:27:38Z"
     }
    ]
   },
   {
-   "id": "labour",
-   "th": "แรงงาน",
-   "en": "Labour",
-   "icon": "cs-labour",
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/labour",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
-    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
-    "alt_en": "A car assembly line"
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
+   },
+   "outlets": 2,
+   "count": 4,
+   "body": {
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
+   },
+   "parent": null,
+   "meeting": {
+    "n": 40,
+    "date": "2026-11-23",
+    "url": "agriculture/2569/#read-40"
+   },
+   "items": [
+    {
+     "title": "พณ.คงมาตรการนำเข้าข้าวโพดสัตว์ ปี70 ซื้อในประเทศ 3 ส่วน นำเข้า 1 ยืนโควต้าไม่เกินล้านตัน",
+     "url": "https://www.matichon.co.th/economy/news_5993050",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-27T10:10:25Z"
+    },
+    {
+     "title": "ยกระดับทุนมนุษย์ SME และเกษตรกรไทย สู่ขีดความสามารถใหม่ของประเทศ From Human Capital to National Competitiveness",
+     "url": "https://www.prachachat.net/sd/news-2103602",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-27T09:48:19Z"
+    },
+    {
+     "title": "บอร์ด กยท.อนุมัติงบฯหนุนงานวิจัยยางพาราต่อเนื่องปี 70 ดัน 15 โครงการ",
+     "url": "https://www.matichon.co.th/economy/news_5991671",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-26T11:51:59Z"
+    }
+   ]
+  },
+  {
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
+   "photo": {
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
    },
    "outlets": 2,
    "count": 2,
    "body": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
    },
-   "parent": null,
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
    "meeting": {
-    "n": 31,
-    "date": "2026-11-19",
-    "url": "labour/2569/#read-31"
+    "n": 11,
+    "date": "2026-11-12",
+    "url": "committee-archive-2569/sub-disaster.html#read-11"
    },
    "items": [
     {
-     "title": "พิพัฒน์ชัย ยันไม่กลัว ไอโอรุมถล่มก.แรงงาน ด่ามาด่ากลับ ไม่ใช่พระอรหันต์ แจงวุ่นไม่ตัดสิทธิตั้งแต่ก่อนสมัคร",
-     "url": "https://www.matichon.co.th/politics/news_5993135",
+     "title": "อุตุฯ เตือน 29-30 พ.ย.นี้ ภาคใต้ฝนหนักมาก ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
+     "url": "https://www.dailynews.co.th/news/6396932/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-27T23:00:00Z"
+    },
+    {
+     "title": "‘ทรงศักดิ์’ สั่ง สทนช. รับมือฝนหนักใต้ 29 พ.ย.-1 ธ.ค. เฝ้าระวังท่วมฉับพลัน-น้ำป่าหลาก 14 จว.",
+     "url": "https://www.matichon.co.th/economy/news_5991815",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-27T11:04:22Z"
-    },
-    {
-     "title": "ภาวะตลาดอนุพันธ์: ปรับขึ้นขานรับส่งออกไทยดีกว่าคาด-บาทแข็ง จับตาตัวเลขแรงงาน-ภาคการผลิตสหรัฐฯ",
-     "url": "https://www.infoquest.co.th/2026/686723",
-     "lang": "th",
-     "outlet_th": "อินโฟเควสท์",
-     "outlet_en": "InfoQuest",
-     "date": "2026-11-27T10:57:07Z"
+     "date": "2026-11-26T14:00:08Z"
     }
    ]
   },
@@ -212,86 +216,90 @@
    ]
   },
   {
-   "id": "jobs",
-   "th": "การหางานและแรงงานต่างชาติ",
-   "en": "Jobs and migrant workers",
+   "id": "labour",
+   "th": "แรงงาน",
+   "en": "Labour",
    "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/jobs",
-    "credit": "Bigcitydata",
-    "lic": "CC BY 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
-    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
-    "alt_en": "Office towers in Silom, Bangkok"
+    "src": "hot/img/labour",
+    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "lic": "CC BY 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
+    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
+    "alt_en": "A car assembly line"
    },
    "outlets": 1,
-   "count": 1,
+   "count": 2,
    "body": {
-    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
-    "en": "Subcommittee on Employment and Skills",
-    "url": "labour/2569/sub-employment.html"
-   },
-   "parent": {
     "th": "คณะกรรมาธิการการแรงงาน",
     "en": "Committee on Labour",
     "url": "labour/2569/"
    },
+   "parent": null,
    "meeting": {
-    "n": 24,
-    "date": "2026-11-18",
-    "url": "labour/2569/sub-employment.html#read-24"
+    "n": 31,
+    "date": "2026-11-19",
+    "url": "labour/2569/#read-31"
    },
    "items": [
     {
-     "title": "กกจ.สุ่มตรวจศูนย์ CI ไม่พบถูกเรียกเก็บ 1.2 พันบาทจากแรงงานเมียนมา",
-     "url": "https://www.dailynews.co.th/news/6396575/",
+     "title": "แรงงานบุกตรวจศูนย์ CI สมุทรสาคร-สมุทรปราการ ปมร้องซื้อสลิป-เก็บเงินเพิ่ม 1,200 บาท",
+     "url": "https://www.matichon.co.th/local/quality-life/news_5993458",
      "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-27T12:13:08Z"
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-27T14:23:55Z"
+    },
+    {
+     "title": "พิพัฒน์ชัย ยันไม่กลัว ไอโอรุมถล่มก.แรงงาน ด่ามาด่ากลับ ไม่ใช่พระอรหันต์ แจงวุ่นไม่ตัดสิทธิตั้งแต่ก่อนสมัคร",
+     "url": "https://www.matichon.co.th/politics/news_5993135",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-27T11:04:22Z"
     }
    ]
   },
   {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
+   "id": "drought",
+   "th": "ภัยแล้งและน้ำเพื่อการเกษตร",
+   "en": "Drought and water for farms",
+   "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
+    "src": "hot/img/drought",
+    "credit": "NASA image created by Jesse Allen",
+    "lic": "Public domain",
+    "lic_url": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drought_in_Southeast_Asia_(14733).jpg",
+    "alt_th": "ภาพดาวเทียมแสดงพื้นที่แห้งแล้งในเอเชียตะวันออกเฉียงใต้",
+    "alt_en": "Satellite image of drought in Southeast Asia"
    },
    "outlets": 1,
    "count": 1,
    "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
+    "th": "คณะอนุกรรมาธิการการบริหารจัดการน้ำในพื้นที่เกษตรนอกเขตชลประทาน",
+    "en": "Subcommittee on Water for Farms outside Irrigation Zones",
+    "url": "agriculture/2569/sub-water.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
    },
    "meeting": {
-    "n": 11,
-    "date": "2026-11-12",
-    "url": "committee-archive-2569/sub-disaster.html#read-11"
+    "n": 19,
+    "date": "2026-11-11",
+    "url": "agriculture/2569/sub-water.html#read-19"
    },
    "items": [
     {
-     "title": "‘ทรงศักดิ์’ สั่ง สทนช. รับมือฝนหนักใต้ 29 พ.ย.-1 ธ.ค. เฝ้าระวังท่วมฉับพลัน-น้ำป่าหลาก 14 จว.",
-     "url": "https://www.matichon.co.th/economy/news_5991815",
+     "title": "ถอดรหัส2โมเดล ‘ห้วยคล้าย-ห้วยโพง’ ปิดทองหลังพระหวังพลิกฟื้นแหล่งน้ำชุมชน รับมือเอลนีโญ",
+     "url": "https://www.matichon.co.th/region/news_5993435",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-26T14:00:08Z"
+     "date": "2026-11-27T14:32:03Z"
     }
    ]
   }
