@@ -1,63 +1,59 @@
 {
- "updated": "2026-11-27T01:49:00Z",
+ "updated": "2026-11-27T12:46:26Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
   {
-   "id": "border",
-   "th": "ชายแดนและความมั่นคง",
-   "en": "Borders and security",
-   "icon": "cs-security",
+   "id": "crops",
+   "th": "ราคาพืชผลและเกษตรกร",
+   "en": "Crop prices and farmers",
+   "icon": "cs-agri",
    "photo": {
-    "src": "hot/img/border",
-    "credit": "Slleong",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
-    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
-    "alt_en": "A border checkpoint building"
+    "src": "hot/img/crops",
+    "credit": "松岡明芳",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
+    "alt_th": "สวนยางพาราเรียงเป็นแถว",
+    "alt_en": "Rows of rubber trees in a plantation"
    },
    "outlets": 3,
-   "count": 3,
+   "count": 5,
    "body": {
-    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
-    "en": "Subcommittee on Holistic Security",
-    "url": "military/2569/sub-holistic.html"
+    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
+    "en": "Committee on Agriculture and Cooperatives",
+    "url": "agriculture/2569/"
    },
-   "parent": {
-    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
-    "en": "Committee on Military Affairs and State Security",
-    "url": "military/2569/"
-   },
+   "parent": null,
    "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "military/2569/sub-holistic.html#read-20"
+    "n": 40,
+    "date": "2026-11-23",
+    "url": "agriculture/2569/#read-40"
    },
    "items": [
     {
-     "title": "Myanmar backs checks",
-     "url": "https://www.bangkokpost.com/thailand/general/3361774/myanmar-backs-checks",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-26T21:57:00Z"
+     "title": "คลัง เผยเศรษฐกิจภูมิภาค ต.ค.รับอานิสงส์สินค้าคงทน-รายได้เกษตรกร ท่องเที่ยวหนุนในอีสาน-ตะวันออก-กลาง แต่ความเชื่อมั่นยังแผ่ว",
+     "url": "https://www.infoquest.co.th/2026/686690",
+     "lang": "th",
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-27T11:01:37Z"
     },
     {
-     "title": "ไทย–เมียนมา จัดทำแผนปฏิบัติการร่วม 3 ปี เดินหน้าตรวจคุณภาพน้ำแม่น้ำกก–แม่น้ำสาย",
-     "url": "https://www.matichon.co.th/local/news_5991880",
+     "title": "พณ.คงมาตรการนำเข้าข้าวโพดสัตว์ ปี70 ซื้อในประเทศ 3 ส่วน นำเข้า 1 ยืนโควต้าไม่เกินล้านตัน",
+     "url": "https://www.matichon.co.th/economy/news_5993050",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-26T14:56:53Z"
+     "date": "2026-11-27T10:10:25Z"
     },
     {
-     "title": "Thailand, Myanmar agree to monitor border rivers amid pollution fears",
-     "url": "https://www.channelnewsasia.com/asia/thailand-myanmar-monitor-border-rivers-pollution-6581461",
-     "lang": "en",
-     "outlet_th": "ซีเอ็นเอ",
-     "outlet_en": "CNA",
-     "date": "2026-11-26T01:57:54Z"
+     "title": "ยกระดับทุนมนุษย์ SME และเกษตรกรไทย สู่ขีดความสามารถใหม่ของประเทศ From Human Capital to National Competitiveness",
+     "url": "https://www.prachachat.net/sd/news-2103602",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-27T09:48:19Z"
     }
    ]
   },
@@ -76,7 +72,7 @@
     "alt_en": "The Ministry of Labour sign"
    },
    "outlets": 2,
-   "count": 5,
+   "count": 3,
    "body": {
     "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
     "en": "Subcommittee on Social Security",
@@ -94,82 +90,166 @@
    },
    "items": [
     {
-     "title": "‘จุลพันธ์’ สั่ง กกต.ประกันสังคม ส่งคำพิพากษา-คำวินิจฉัยให้ ‘ธนพงษ์’ คาดรับเอกสารได้พรุ่งนี้",
-     "url": "https://www.matichon.co.th/politics/news_5991863",
+     "title": "คลาดกัน 10 นาที! ‘ธนพงษ์’ อดรับเอกสารวินิจฉัยพ้นบอร์ดสปส. หลังรอนาน 7 ชม. กองกม.โทรตาม นัดอีกที 30 พ.ย.",
+     "url": "https://www.matichon.co.th/local/quality-life/news_5993317",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-26T14:43:27Z"
+     "date": "2026-11-27T12:03:18Z"
     },
     {
-     "title": "เปิดเหตุผล กกต.ประกันสังคม ตัดสิทธิ์ “ธนพงศ์”",
-     "url": "https://www.prachachat.net/politics/news-2102898",
+     "title": "ธนาคารกรุงเทพ เพิ่มช่องทางชำระเงินสมทบประกันสังคมมาตรา 40 ผ่านโมบายแบงกิ้งธนาคาร",
+     "url": "https://www.prachachat.net/finance/news-2103634",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-26T12:02:25Z"
+     "date": "2026-11-27T10:00:00Z"
     },
     {
-     "title": "สหัสวัต ยื่น 4 ข้อ จี้ จุลพันธ์ ตั้งบอร์ดประกันสังคม 13 คน-เปิดคำวินิจฉัยปม ‘ธนพงษ์’",
-     "url": "https://www.matichon.co.th/politics/news_5991692",
+     "title": "เพื่อไทย รุมโต้ เหตุตัดสิทธิ ธนพงษ์ นั่งบอร์ดประกันสังคม ย้ำ ที่ปรึกษาไม่มีสิทธิโหวต",
+     "url": "https://www.matichon.co.th/politics/news_5993075",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-26T12:17:00Z"
+     "date": "2026-11-27T10:27:38Z"
     }
    ]
   },
   {
-   "id": "crops",
-   "th": "ราคาพืชผลและเกษตรกร",
-   "en": "Crop prices and farmers",
-   "icon": "cs-agri",
+   "id": "labour",
+   "th": "แรงงาน",
+   "en": "Labour",
+   "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/crops",
-    "credit": "松岡明芳",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Rubber_tree_plantation_Thailand_%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B4%E3%83%A0%E5%9C%92_DSC05246.jpg",
-    "alt_th": "สวนยางพาราเรียงเป็นแถว",
-    "alt_en": "Rows of rubber trees in a plantation"
+    "src": "hot/img/labour",
+    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "lic": "CC BY 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
+    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
+    "alt_en": "A car assembly line"
    },
    "outlets": 2,
-   "count": 3,
+   "count": 2,
    "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
    },
    "parent": null,
    "meeting": {
-    "n": 40,
-    "date": "2026-11-23",
-    "url": "agriculture/2569/#read-40"
+    "n": 31,
+    "date": "2026-11-19",
+    "url": "labour/2569/#read-31"
    },
    "items": [
     {
-     "title": "บอร์ด กยท.อนุมัติงบฯหนุนงานวิจัยยางพาราต่อเนื่องปี 70 ดัน 15 โครงการ",
-     "url": "https://www.matichon.co.th/economy/news_5991671",
+     "title": "พิพัฒน์ชัย ยันไม่กลัว ไอโอรุมถล่มก.แรงงาน ด่ามาด่ากลับ ไม่ใช่พระอรหันต์ แจงวุ่นไม่ตัดสิทธิตั้งแต่ก่อนสมัคร",
+     "url": "https://www.matichon.co.th/politics/news_5993135",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-26T11:51:59Z"
+     "date": "2026-11-27T11:04:22Z"
     },
     {
-     "title": "พาณิชย์ผนึก 4 ปั๊มน้ำมัน แจกฟรีลำไย 3 แสนถุง เร่งระบายผลผลิต 4 หมื่นตัน",
-     "url": "https://www.prachachat.net/economic/news-2102828",
+     "title": "ภาวะตลาดอนุพันธ์: ปรับขึ้นขานรับส่งออกไทยดีกว่าคาด-บาทแข็ง จับตาตัวเลขแรงงาน-ภาคการผลิตสหรัฐฯ",
+     "url": "https://www.infoquest.co.th/2026/686723",
      "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-26T10:03:23Z"
-    },
+     "outlet_th": "อินโฟเควสท์",
+     "outlet_en": "InfoQuest",
+     "date": "2026-11-27T10:57:07Z"
+    }
+   ]
+  },
+  {
+   "id": "border",
+   "th": "ชายแดนและความมั่นคง",
+   "en": "Borders and security",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/border",
+    "credit": "Slleong",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Betong_checkpoint_1.jpg",
+    "alt_th": "อาคารด่านตรวจคนเข้าเมืองบริเวณชายแดน",
+    "alt_en": "A border checkpoint building"
+   },
+   "outlets": 2,
+   "count": 2,
+   "body": {
+    "th": "คณะอนุกรรมาธิการกิจการทหารด้านความมั่นคงแบบองค์รวม",
+    "en": "Subcommittee on Holistic Security",
+    "url": "military/2569/sub-holistic.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "military/2569/sub-holistic.html#read-20"
+   },
+   "items": [
     {
-     "title": "พาณิชย์ ผนึก 4 ปั๊มน้ำมันยักษ์ใหญ่ แจกลำไยอบแห้งกว่า 3 แสนถุงกระตุ้นเติมน้ำมันE20-B20",
-     "url": "https://www.matichon.co.th/economy/news_5991466",
+     "title": "ค้าชายแดน-ผ่านแดน ต.ค. บวกแรง 61% สะสม 10 เดือน ทะลุ 2 ล้านล้าน พณ.ชี้เกินเป้าปี70 แล้ว",
+     "url": "https://www.matichon.co.th/economy/news_5993004",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-26T10:58:51Z"
+     "date": "2026-11-27T09:43:13Z"
+    },
+    {
+     "title": "Conciliators to visit Thai-Cambodian disputed sea border for first time",
+     "url": "https://www.bangkokpost.com/thailand/general/3362186/conciliators-to-visit-thaicambodian-disputed-sea-border-for-first-time",
+     "lang": "en",
+     "outlet_th": "บางกอกโพสต์",
+     "outlet_en": "Bangkok Post",
+     "date": "2026-11-27T05:08:00Z"
+    }
+   ]
+  },
+  {
+   "id": "jobs",
+   "th": "การหางานและแรงงานต่างชาติ",
+   "en": "Jobs and migrant workers",
+   "icon": "cs-labour",
+   "photo": {
+    "src": "hot/img/jobs",
+    "credit": "Bigcitydata",
+    "lic": "CC BY 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Park_Silom_-_Bangkok.jpg",
+    "alt_th": "อาคารสำนักงานย่านสีลม กรุงเทพฯ",
+    "alt_en": "Office towers in Silom, Bangkok"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านการจัดหางานและพัฒนาฝีมือแรงงาน",
+    "en": "Subcommittee on Employment and Skills",
+    "url": "labour/2569/sub-employment.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
+   },
+   "meeting": {
+    "n": 24,
+    "date": "2026-11-18",
+    "url": "labour/2569/sub-employment.html#read-24"
+   },
+   "items": [
+    {
+     "title": "กกจ.สุ่มตรวจศูนย์ CI ไม่พบถูกเรียกเก็บ 1.2 พันบาทจากแรงงานเมียนมา",
+     "url": "https://www.dailynews.co.th/news/6396575/",
+     "lang": "th",
+     "outlet_th": "เดลินิวส์",
+     "outlet_en": "Daily News",
+     "date": "2026-11-27T12:13:08Z"
     }
    ]
   },
@@ -188,7 +268,7 @@
     "alt_en": "A flooded street and houses"
    },
    "outlets": 1,
-   "count": 2,
+   "count": 1,
    "body": {
     "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
     "en": "Subcommittee on National Disaster Management",
@@ -212,90 +292,6 @@
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-26T14:00:08Z"
-    },
-    {
-     "title": "‘โตโต้’ จี้ เปิดเผยสาเหตุโรงกลั่นบางจากไฟไหม้ แนะ ตรวจสอบระบบเตือนภัยประชาชน",
-     "url": "https://www.matichon.co.th/politics/news_5991750",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-26T12:42:24Z"
-    }
-   ]
-  },
-  {
-   "id": "rice",
-   "th": "ข้าวและชาวนา",
-   "en": "Rice and rice farmers",
-   "icon": "cs-agri",
-   "photo": {
-    "src": "hot/img/rice",
-    "credit": "Eerin25",
-    "lic": "CC0",
-    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Rice_paddy_in_Thailand_(Boon_Kho_Ku_Sui_Bridge).jpg",
-    "alt_th": "ทุ่งนาข้าวสีเขียวและสะพานไม้ไผ่",
-    "alt_en": "Green rice paddies with a bamboo walkway"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะกรรมาธิการการเกษตรและสหกรณ์",
-    "en": "Committee on Agriculture and Cooperatives",
-    "url": "agriculture/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 36,
-    "date": "2026-10-26",
-    "url": "agriculture/2569/#read-36"
-   },
-   "items": [
-    {
-     "title": "กรมชลฯ เร่งระบายน้ำคืนพื้นที่เกษตร ขีดเส้น 15 ม.ค. 70 เริ่มทำนาปรัง เฝ้าระวังสารพิษแม่น้ำกก-สาย",
-     "url": "https://www.prachachat.net/economic/news-2102837",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-26T10:07:28Z"
-    }
-   ]
-  },
-  {
-   "id": "labour",
-   "th": "แรงงาน",
-   "en": "Labour",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/labour",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
-    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
-    "alt_en": "A car assembly line"
-   },
-   "outlets": 1,
-   "count": 1,
-   "body": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "parent": null,
-   "meeting": {
-    "n": 31,
-    "date": "2026-11-19",
-    "url": "labour/2569/#read-31"
-   },
-   "items": [
-    {
-     "title": "สหภาพแรงงาน ทอท. ร่อนแถลง ยื่นหนังสือบอร์ด ขอจ่ายโบนัสไม่ต่ำกว่า 5 เดือน",
-     "url": "https://www.matichon.co.th/economy/news_5990599",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-26T05:13:28Z"
     }
    ]
   }
