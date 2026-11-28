@@ -1,66 +1,8 @@
 {
- "updated": "2026-11-27T23:34:02Z",
+ "updated": "2026-11-28T08:04:50Z",
  "feeds_ok": 12,
  "window_h": 72,
  "topics": [
-  {
-   "id": "socialsec",
-   "th": "ประกันสังคม",
-   "en": "Social security",
-   "icon": "cs-labour",
-   "photo": {
-    "src": "hot/img/socialsec",
-    "credit": "SquidHomme",
-    "lic": "CC BY-SA 4.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
-    "alt_th": "ป้ายกระทรวงแรงงาน",
-    "alt_en": "The Ministry of Labour sign"
-   },
-   "outlets": 3,
-   "count": 3,
-   "body": {
-    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
-    "en": "Subcommittee on Social Security",
-    "url": "labour/2569/sub-socialsec.html"
-   },
-   "parent": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
-   },
-   "meeting": {
-    "n": 20,
-    "date": "2026-11-11",
-    "url": "labour/2569/sub-socialsec.html#read-20"
-   },
-   "items": [
-    {
-     "title": "เปิดข้อกฎหมาย ผู้ทรงคุณวุฒิในบอร์ดประกันสังคม ใครแต่งตั้ง มีอำนาจมากน้อยแค่ไหน",
-     "url": "https://www.bbc.com/thai/articles/cmgj3yz23qqgo?at_medium=RSS&at_campaign=rss",
-     "lang": "th",
-     "outlet_th": "บีบีซีไทย",
-     "outlet_en": "BBC News Thai",
-     "date": "2026-11-27T13:16:45Z"
-    },
-    {
-     "title": "คลาดกัน 10 นาที! ‘ธนพงษ์’ อดรับเอกสารวินิจฉัยพ้นบอร์ดสปส. หลังรอนาน 7 ชม. กองกม.โทรตาม นัดอีกที 30 พ.ย.",
-     "url": "https://www.matichon.co.th/local/quality-life/news_5993317",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-27T12:03:18Z"
-    },
-    {
-     "title": "ธนาคารกรุงเทพ เพิ่มช่องทางชำระเงินสมทบประกันสังคมมาตรา 40 ผ่านโมบายแบงกิ้งธนาคาร",
-     "url": "https://www.prachachat.net/finance/news-2103634",
-     "lang": "th",
-     "outlet_th": "ประชาชาติธุรกิจ",
-     "outlet_en": "Prachachat",
-     "date": "2026-11-27T10:00:00Z"
-    }
-   ]
-  },
   {
    "id": "crops",
    "th": "ราคาพืชผลและเกษตรกร",
@@ -90,6 +32,14 @@
    },
    "items": [
     {
+     "title": "บอร์ดมาตรฐานสินค้าเกษตรเคาะ 5 มาตรฐานใหม่ ดันอินทผลัม-พริกไทย-ไม้ล้อมรุกส่งออก",
+     "url": "https://www.prachachat.net/economic/news-2103863",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-28T03:09:36Z"
+    },
+    {
      "title": "พณ.คงมาตรการนำเข้าข้าวโพดสัตว์ ปี70 ซื้อในประเทศ 3 ส่วน นำเข้า 1 ยืนโควต้าไม่เกินล้านตัน",
      "url": "https://www.matichon.co.th/economy/news_5993050",
      "lang": "th",
@@ -98,70 +48,62 @@
      "date": "2026-11-27T10:10:25Z"
     },
     {
-     "title": "ยกระดับทุนมนุษย์ SME และเกษตรกรไทย สู่ขีดความสามารถใหม่ของประเทศ From Human Capital to National Competitiveness",
-     "url": "https://www.prachachat.net/sd/news-2103602",
+     "title": "เปิดแผน SANDBOX มันสำปะหลัง 3 จังหวัด เร่งกระจายพันธุ์ต้านทาน “อิทธิ 1-2-3”",
+     "url": "https://www.prachachat.net/economic/news-2103851",
      "lang": "th",
      "outlet_th": "ประชาชาติธุรกิจ",
      "outlet_en": "Prachachat",
-     "date": "2026-11-27T09:48:19Z"
-    },
-    {
-     "title": "บอร์ด กยท.อนุมัติงบฯหนุนงานวิจัยยางพาราต่อเนื่องปี 70 ดัน 15 โครงการ",
-     "url": "https://www.matichon.co.th/economy/news_5991671",
-     "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-26T11:51:59Z"
+     "date": "2026-11-28T02:58:36Z"
     }
    ]
   },
   {
-   "id": "disaster",
-   "th": "น้ำท่วมและภัยพิบัติ",
-   "en": "Floods and disasters",
-   "icon": "cs-admin",
+   "id": "socialsec",
+   "th": "ประกันสังคม",
+   "en": "Social security",
+   "icon": "cs-labour",
    "photo": {
-    "src": "hot/img/disaster",
-    "credit": "ลิดกับเป้",
-    "lic": "CC BY-SA 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
-    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
-    "alt_en": "A flooded street and houses"
+    "src": "hot/img/socialsec",
+    "credit": "SquidHomme",
+    "lic": "CC BY-SA 4.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ministry_of_Labour_headquarter_sign,_Bangkok.jpg",
+    "alt_th": "ป้ายกระทรวงแรงงาน",
+    "alt_en": "The Ministry of Labour sign"
    },
    "outlets": 2,
    "count": 2,
    "body": {
-    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
-    "en": "Subcommittee on National Disaster Management",
-    "url": "committee-archive-2569/sub-disaster.html"
+    "th": "คณะอนุกรรมาธิการด้านการประกันสังคม",
+    "en": "Subcommittee on Social Security",
+    "url": "labour/2569/sub-socialsec.html"
    },
    "parent": {
-    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
-    "en": "Committee on Public Administration",
-    "url": "committee-archive-2569/"
+    "th": "คณะกรรมาธิการการแรงงาน",
+    "en": "Committee on Labour",
+    "url": "labour/2569/"
    },
    "meeting": {
-    "n": 11,
-    "date": "2026-11-12",
-    "url": "committee-archive-2569/sub-disaster.html#read-11"
+    "n": 20,
+    "date": "2026-11-11",
+    "url": "labour/2569/sub-socialsec.html#read-20"
    },
    "items": [
     {
-     "title": "อุตุฯ เตือน 29-30 พ.ย.นี้ ภาคใต้ฝนหนักมาก ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
-     "url": "https://www.dailynews.co.th/news/6396932/",
-     "lang": "th",
-     "outlet_th": "เดลินิวส์",
-     "outlet_en": "Daily News",
-     "date": "2026-11-27T23:00:00Z"
-    },
-    {
-     "title": "‘ทรงศักดิ์’ สั่ง สทนช. รับมือฝนหนักใต้ 29 พ.ย.-1 ธ.ค. เฝ้าระวังท่วมฉับพลัน-น้ำป่าหลาก 14 จว.",
-     "url": "https://www.matichon.co.th/economy/news_5991815",
+     "title": "ศึกษิษฏ์ แนะ ‘ธนพงษ์’ เปิดเอกสารประกันสังคมแจง ย้ำคุยบนข้อเท็จจริงไม่ใช่ความรู้สึก",
+     "url": "https://www.matichon.co.th/politics/news_5993823",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-26T14:00:08Z"
+     "date": "2026-11-28T05:45:57Z"
+    },
+    {
+     "title": "เปิดข้อกฎหมาย ผู้ทรงคุณวุฒิในบอร์ดประกันสังคม ใครแต่งตั้ง มีอำนาจมากน้อยแค่ไหน",
+     "url": "https://www.bbc.com/thai/articles/cmgj3yz23qqgo?at_medium=RSS&at_campaign=rss",
+     "lang": "th",
+     "outlet_th": "บีบีซีไทย",
+     "outlet_en": "BBC News Thai",
+     "date": "2026-11-27T13:16:45Z"
     }
    ]
   },
@@ -198,66 +140,112 @@
    },
    "items": [
     {
+     "title": "ไทย-เมียนมาเปิดแผน 3 ปี สกัดมลพิษข้ามแดน ลุยตรวจแม่น้ำกก-สาย คุมแร่เสี่ยงปนเปื้อน",
+     "url": "https://www.prachachat.net/economic/news-2103876",
+     "lang": "th",
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-28T03:25:53Z"
+    },
+    {
      "title": "ค้าชายแดน-ผ่านแดน ต.ค. บวกแรง 61% สะสม 10 เดือน ทะลุ 2 ล้านล้าน พณ.ชี้เกินเป้าปี70 แล้ว",
      "url": "https://www.matichon.co.th/economy/news_5993004",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
      "date": "2026-11-27T09:43:13Z"
-    },
-    {
-     "title": "Conciliators to visit Thai-Cambodian disputed sea border for first time",
-     "url": "https://www.bangkokpost.com/thailand/general/3362186/conciliators-to-visit-thaicambodian-disputed-sea-border-for-first-time",
-     "lang": "en",
-     "outlet_th": "บางกอกโพสต์",
-     "outlet_en": "Bangkok Post",
-     "date": "2026-11-27T05:08:00Z"
     }
    ]
   },
   {
-   "id": "labour",
-   "th": "แรงงาน",
-   "en": "Labour",
-   "icon": "cs-labour",
+   "id": "disaster",
+   "th": "น้ำท่วมและภัยพิบัติ",
+   "en": "Floods and disasters",
+   "icon": "cs-admin",
    "photo": {
-    "src": "hot/img/labour",
-    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
-    "lic": "CC BY 3.0",
-    "lic_url": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg",
-    "alt_th": "สายการประกอบรถยนต์ในโรงงาน",
-    "alt_en": "A car assembly line"
+    "src": "hot/img/disaster",
+    "credit": "ลิดกับเป้",
+    "lic": "CC BY-SA 3.0",
+    "lic_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Thailand,_flood_nontaburi_02.jpg",
+    "alt_th": "ถนนและบ้านเรือนที่มีน้ำท่วมขัง",
+    "alt_en": "A flooded street and houses"
    },
-   "outlets": 1,
+   "outlets": 2,
    "count": 2,
    "body": {
-    "th": "คณะกรรมาธิการการแรงงาน",
-    "en": "Committee on Labour",
-    "url": "labour/2569/"
+    "th": "คณะอนุกรรมาธิการการจัดการภัยพิบัติระดับชาติ",
+    "en": "Subcommittee on National Disaster Management",
+    "url": "committee-archive-2569/sub-disaster.html"
    },
-   "parent": null,
+   "parent": {
+    "th": "คณะกรรมาธิการการบริหารราชการแผ่นดิน",
+    "en": "Committee on Public Administration",
+    "url": "committee-archive-2569/"
+   },
    "meeting": {
-    "n": 31,
-    "date": "2026-11-19",
-    "url": "labour/2569/#read-31"
+    "n": 11,
+    "date": "2026-11-12",
+    "url": "committee-archive-2569/sub-disaster.html#read-11"
    },
    "items": [
     {
-     "title": "แรงงานบุกตรวจศูนย์ CI สมุทรสาคร-สมุทรปราการ ปมร้องซื้อสลิป-เก็บเงินเพิ่ม 1,200 บาท",
-     "url": "https://www.matichon.co.th/local/quality-life/news_5993458",
+     "title": "รับมือพายุลงทุน 2027 เศรษฐกิจโลกเปลี่ยนทิศ จัดพอร์ตอย่างไรให้เติบโตระยะยาว",
+     "url": "https://www.prachachat.net/finance/news-2102821",
      "lang": "th",
-     "outlet_th": "มติชน",
-     "outlet_en": "Matichon",
-     "date": "2026-11-27T14:23:55Z"
+     "outlet_th": "ประชาชาติธุรกิจ",
+     "outlet_en": "Prachachat",
+     "date": "2026-11-28T02:05:00Z"
     },
     {
-     "title": "พิพัฒน์ชัย ยันไม่กลัว ไอโอรุมถล่มก.แรงงาน ด่ามาด่ากลับ ไม่ใช่พระอรหันต์ แจงวุ่นไม่ตัดสิทธิตั้งแต่ก่อนสมัคร",
-     "url": "https://www.matichon.co.th/politics/news_5993135",
+     "title": "‘ทรงศักดิ์’ สั่ง สทนช. รับมือฝนหนักใต้ 29 พ.ย.-1 ธ.ค. เฝ้าระวังท่วมฉับพลัน-น้ำป่าหลาก 14 จว.",
+     "url": "https://www.matichon.co.th/economy/news_5991815",
      "lang": "th",
      "outlet_th": "มติชน",
      "outlet_en": "Matichon",
-     "date": "2026-11-27T11:04:22Z"
+     "date": "2026-11-26T14:00:08Z"
+    }
+   ]
+  },
+  {
+   "id": "armed",
+   "th": "กองทัพและกิจการทหาร",
+   "en": "Armed forces and military affairs",
+   "icon": "cs-security",
+   "photo": {
+    "src": "hot/img/armed",
+    "credit": "Mobius1TH",
+    "lic": "CC0",
+    "lic_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Thai_Air_Force_S-70i,_Childrens_Day_2025.png",
+    "alt_th": "เฮลิคอปเตอร์ของกองทัพอากาศไทยจอดบนลานบิน",
+    "alt_en": "A Thai air force helicopter on the apron"
+   },
+   "outlets": 1,
+   "count": 1,
+   "body": {
+    "th": "คณะอนุกรรมาธิการด้านกิจการทหาร",
+    "en": "Subcommittee on Military Affairs",
+    "url": "military/2569/sub-military.html"
+   },
+   "parent": {
+    "th": "คณะกรรมาธิการการทหารและความมั่นคงของรัฐ",
+    "en": "Committee on Military Affairs and State Security",
+    "url": "military/2569/"
+   },
+   "meeting": {
+    "n": 32,
+    "date": "2026-11-18",
+    "url": "military/2569/sub-military.html#read-32"
+   },
+   "items": [
+    {
+     "title": "อินไซด์เหล่าทัพ : ทอ.โชว์ของ-สภากลาโหมกระทุ้งสารพิษ",
+     "url": "https://www.matichon.co.th/politics/news_5992796",
+     "lang": "th",
+     "outlet_th": "มติชน",
+     "outlet_en": "Matichon",
+     "date": "2026-11-28T05:00:45Z"
     }
    ]
   }
